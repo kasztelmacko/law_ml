@@ -1,0 +1,356 @@
+SERVICES TERMS AND CONDITIONS
+Current version published on 23 August 2023. The current version takes effect on 23 August 2023.
+1. DEFINITIONS
+In these terms and conditions, the following terms and expressions shall have the following meanings:
+Account(s) means the account belonging to You which will have an associated
+international bank account number, sort code or account number or
+other bank identifier number which will be opened by the ASP as part
+of Your onboarding with Us. The Account will be used to fund the
+Payment Account used for the execution of payment transactions ;
+Agreement means these Terms and Conditions;
+“Anti-Money
+Laundering” or “AML”
+Checks
+means all the relevant legal and regulatory requirements resulting from
+national, European or international rules, relating to the prevention of
+money laundering and terrorist financing, as may vary from time to
+time, and applicable to the ASP in relation to the Account and the
+Payment Account, the Issuer in relation to the Card and the services
+inherent therein;
+“Associated service
+provider” or “ASP”
+For customers which are issued Cledara Accounts:
+● With IBANs containing the letters “PAYR” or with a Sort Code
+beginning with “04-03” means Embedded Finance Limited
+which is Registered in the UK (14698459) that may execute
+Payment Orders or other instructions on Our behalf;
+● For all other customers located in the UK or EEA, means
+Modulr Finance Limited which is Registered in the UK
+(09897957) that may execute Payment Orders or other
+instructions on Our behalf.
+Authorised Company
+Representative
+means an authorised person of Your company with sufficient powers to
+subscribe this Agreement and any delegates (as set forth in Clause 3.2);
+Available Balance means the value of unspent funds paid into the Account and available to
+use for transactions, fees and charges payable under this Agreement;
+Beneficiary Account means a bank account belonging to You ;
+Card(s) means the payment instrument, issued to the Users within Our
+framework and pursuant to the Card Terms and Conditions;
+Card Fees means all the fees payable to the Issuer in respect of the Cards, which
+are deducted from the Account and which are related to Transactions
+and use of the Card, as such fees are set out and charged by the Issuer in
+accordance with the Card Terms and Conditions;
+Card Scheme means Mastercard®, Visa and/or any other similar card scheme, as may
+be indicated on the Platform;
+Card Terms and
+Conditions
+means the terms and conditions (as may vary from time to time and as
+published on the Platform or as otherwise communicate to the Users)
+between You and the Users on the one hand and the Issuer on the other
+hand relating to use and operation of the Cards, including any specific
+terms and conditions relating to an individual Card;
+Charges means sums payable by You to Us in respect of the Services and the use
+of the Cards, including the Fees;
+Credentials means the identification techniques which must be used by any User in
+order to identify themselves with Us for any instruction or request
+entered into the Platform in relation to a Payment Order, the issuance,
+operation and management of their Card(s); such techniques may
+include an address, (mobile) phone number, password, or any other
+security features which we think are appropriate to implement with a
+view to safeguarding Your privacy, rights and interests; the type of
+credentials required by Us may vary from time to time and will be
+indicated on the Platform;
+Fees means the fees payable to Us for the Services, as they may vary from
+time to time in accordance with the Service Terms and Conditions; Fees
+may be linked to certain Services plan, and are disclosed on the
+Platform; they are deemed accepted by any User upon his/her
+registration on the Platform;
+Issuer means the institution licenced to issue, and which issues, the Cards, and
+whose identity is set out in the Card Terms and Conditions or otherwise
+indicated on the Platform
+Issuer Contractual
+Documents
+means the Cards Terms and Conditions, and any other contractual
+documents to be entered into between You and the Issuer, in respect of
+the Cards, as they are posted on the Platform, from time to time or
+otherwise communicated to the Authorised Company Representative
+acting on Your behalf
+Payment means Us debiting your account and sending the funds to a Beneficiary
+Account, the details of which you set out in the Payment Order
+Payment Account as described in the Card Terms and Conditions
+Payment Account Issuer If your ASP is Embedded Finance Limited, your Payment Account
+Issuer is PayrNet Ltd, the Authorised Electronic Money Institution
+which is Registered in the UK (09883437) and authorised by the UK
+Financial Conduct Authority (900594) to issue electronic money
+(e-money), provide the Account and provide payment services
+If your ASP is Modulr Finance Limited, your Payment Account Issuer
+is based on where your company is registered. For companies located in
+the United Kingdom, your Payment Account Issuer is Modulr FS
+Limited, a company registered in England and Wales with company
+number 09897919, which is authorised and regulated by the Financial
+Conduct Authority as an Electronic Money Institution (Firm Reference
+Number: 900573) for the issuance of electronic money and payment
+services. Your account and related payment services are provided by
+Modulr FS Limited.
+If your ASP is Modulr Finance Limited and your company is registered
+in the EEA, your Payment Account Issuer is Modulr Finance B.V., a
+company registered in the Netherlands with company number
+81852401, which is authorised and regulated by the Dutch Central Bank
+(DNB) as an Electronic Money Institution (Firm Reference Number:
+R182870) for the issuance of electronic money and payment services.
+Your account and related payment services are provided by Modulr
+Finance B.V
+Payment Order means a request from You to Us to execute the payment
+5.1. Card funds.
+The funds available in the Account are accessible with a Card upon Your or the User’s request of such
+Card through the Platform and in accordance with the instructions set out at the appropriate section of
+the Platform.
+5.2. Funding.
+The funds available on any Card may not exceed the available balance of the Account. The
+Authorised Company Representative may transfer additional funds to the Account to guarantee
+sufficient balance to cover for all the card transactions.
+5.3. Funding Permissions.
+Setting a limit on the funds available with a Card must be done through the relevant section of the
+Platform. Depending on the roles and permissions set by the Authorised Company Representative,
+Users may access information about Account Balances, Charges, Card Balances, Card transactions
+and Card fees via the Platform.
+5.4 Issuance of Payment Account.
+The funds held in Your Account are held in an Account provided to you by your Payment Account
+Issuer and are governed by the Terms and Conditions listed on www.cledara.com/terms. Such Terms
+and Conditions form a Contractual relationship directly between you and your Payment Account
+Issuer. Cledara shall not be liable to you for any actions taken by your Payment Account Issuer, nor
+shall it be liable for funds held by you in an Account held by your Payment Account Issuer under any
+circumstances.
+6. PAYMENT OF CHARGES
+6.1. Fees & Invoices.
+You must pay to Us the Fees disclosed on the Platform in relation to the Services for which Users
+have registered, depending on the Services subscribed to by the Users and the applicable Services
+plan. Our invoices for the Fees shall be available on the Platform. We reserve the right to deduct any
+unpaid Fees from your account commencing 30 days after the invoice was due.
+6.2. Allocation to Accounts.
+All Charges shall, when payable, be charged directly to the relevant card and will be automatically
+deducted from that card.
+6.3. Insufficient Balance.
+In the event where the Account Balance is not sufficient to cover and pay Charges, You will no longer
+be able to issue new Cards or to use already issued Cards. We may also take repayment from any
+funds held with Cledara.
+6.4. Disputed Charges.
+If You dispute any Charges, You must let Us know within thirty (30) days after the date that We
+invoice You. You will lose the right to claim if You fail to do so.
+7. TERMINATION
+7.1. Termination.
+The Agreement is made for an indefinite period. Either party may terminate the Agreement at any
+time upon 15 days written notice to the other party. We may terminate Our agreement with You at any
+time and without notice if You, the Authorised Company Representative or any User fail to comply
+with these Services Terms and Conditions or with the Terms and Conditions of the Card, or if the
+Issuer, ASP or Payment Account Issuer ceases to issue Cards for any reason. Any termination of the
+Agreement, howsoever caused, shall be without prejudice to any obligations or rights of either of the
+parties which may have accrued prior to termination or expiry and shall not affect any provision of the
+Agreement which is expressly or by implication intended to come into effect on, or to continue in
+effect after, such termination or expiry.
+7.2. Termination upon Redemption.
+Subject to the payment of any appropriate Charges, the Authorised Company Representative may
+make a Payment out for any unspent funds available on the Account at any time through the Platform.
+Such funds will be debited from the Account and transferred to the Beneficiary Account. Following
+30 days from the redemption of all funds, we will automatically close the Account and the Cards and
+stop access to the Services to You and the Users if You have not done it before the expiration of the 30
+days. If you have not made a Payment out for any unspent funds available on the Account, 181 days
+after Termination, such funds will be forfeited and become Our property.
+7.3. Consequences of Termination.
+On termination of the Agreement, the Account and Services will be cancelled and suspended in their
+entirety. You shall cease to use the Services in any manner and We shall not have any obligation to act
+upon any of Your requests. Your Account and the Cards will be closed and available funds on the
+Account will be transferred to the Beneficiary Account, if we have the relevant bank account details..
+Failure to provide an account within a period of 30 days from termination of the Agreement, in case
+we lack the details of a Beneficiary Account will result in any funds available in the Account
+becoming Our property.
+8. LIABILITY
+8.1. Exclusion of Liability.
+We shall not be liable to You (i) for loss of business, loss of profits, loss of data, loss of reputation or
+goodwill, regulatory fines or sanctions incurred by You, or for any form of indirect loss, whether
+arising from negligence, breach of contract, tort, breach of regulatory or statutory duty or otherwise
+even if We had been advised of the possibility of such losses, (ii) in respect of any failure by or
+insolvency of the Issuer, ASP or Payment Account Issuer, and (iii) in any way for any interest or
+claims of any third parties in respect of the Account and/or the Cards, except as required by law or
+regulation.
+8.2. Limitation of Liability.
+When We are liable, Our total liability to You under the Agreement will be limited in aggregate to the
+Charges paid to Us by You during the calendar year immediately preceding the calendar year in the
+course of which the event triggering Our liability has occurred.
+9. MISCELLANEOUS
+9.1. Data Protection.
+9.1.1. Definitions.
+Controller means You.
+Data Breach means a breach of security leading to the accidental or unlawful
+destruction, loss, alteration, unauthorised disclosure of, or access to,
+Personal Data transmitted, stored or otherwise processed by the
+Processor or a subcontractor.
+Data Protection Law means the (a) the Regulation and (b) National Data Protection Law, to
+the extent applicable at the relevant time.
+Data Subject, Processor,
+processing
+have the meaning given to the terms in the Data Protection Law and
+“process”, “processes” and “processed” are to be interpreted
+accordingly.
+EEA means the European Economic Area.
+National Data Protection
+Law
+means applicable national laws relating to Personal Data protection any
+delegated or implementing laws adopted in the relevant country
+pursuant to the Regulation.
+Personal Data has the meaning given to it in Data Protection Law.
+Processor means Us.
+Regulation means Regulation (EU) 2016/679 of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with
+regard to the processing of Personal Data and on the free movement of
+such data, and repealing Directive 95/46/EC (the “General Data
+Protection Regulation”), and any replacement directive or regulation
+imposing equivalent obligations.
+9.1.2. Scope.
+This clause applies when We process Users’ Personal Data on Your behalf. In addition, in accordance
+with applicable Data Protection Law, You acknowledge that We may collect, store and process data
+that Users provide in order to access or use the Services and data related to Users’ preferences and
+traffic. The types of data we may collect for the above purposes are indicated in the Privacy Policy
+(available on the Platform). Users are informed of the Privacy Policy when they first register on the
+Platform.
+9.1.3. Purpose and Instructions.
+We will only process Personal Data on Your behalf consistently with these Terms and Your other
+written instructions.
+9.1.4. Processor Personnel.
+We will restrict access to Personal Data to Our personnel who need to access the Personal Data to
+provide the Services to You. We will ensure that any of Our personnel who process Personal Data : (i)
+are bound by appropriate confidentiality, data protection, and/or data security obligations, which are at
+least as restrictive as this clause; and (ii) will only process Personal Data in compliance with these
+Terms, unless required to do so by law.
+9.1.5. Security.
+Taking into account the state of the art, the costs of implementation and the nature, scope, context and
+purpose of the processing of Personal Data in the context of this Agreement, as well as the likelihood
+and severity of the risk for the rights and freedoms of the individuals concerned, We will implement
+and maintain appropriate technical and organisational measures to ensure a level of security
+appropriate to that risk, including, as appropriate, the measures referred to in Article 32(1) of the
+Regulation.
+9.1.6. Disclosure.
+We will not disclose Personal Data to any government, authority or other third party other than as
+authorised in the Terms without Your prior written consent unless applicable law requires us to do so.
+To the extent permissible by law, We will immediately notify You if We receive a request to disclose
+Personal Data.
+9.1.7. Transfers of Personal Data.
+Your Personal Data may be processed outside your country or jurisdiction, including in places that are
+not subject to an adequacy decision by the European Commission or your local legislature or
+regulator, and that may not provide for the same level of data protection. We ensure that the recipient
+of your Personal Data offers an adequate level of protection and security, for instance by entering into
+the appropriate back-to-back agreements and, if required, standard contractual clauses or an
+alternative mechanism for the transfer of data as approved by the European Commission (Art. 46
+GDPR) or other applicable regulators or legislators. Where required by applicable law, we will only
+share, transfer or store your Personal Data outside of your jurisdiction with your prior consent.
+9.1.8. Assistance.
+We will take appropriate technical and organisational measures and provide cooperation or assistance
+in connection with steps that You take to comply with EU Data Protection Law insofar as possible and
+insofar as they relate to the Services. This includes assisting you in complying with Your obligations
+to: (i) respond to requests from individuals or authorities, (ii) notify data breaches to affected
+individuals and/or authorities; (iii) carry out data protection impact assessments and/or (iv) carry out
+prior consultations with the supervisory authority.
+9.1.9. Information and Audit.
+We will allow for and contribute to audits conducted by You or an auditor of Your choice solely for
+the purpose of assessing Our compliance with the obligations set out in these Terms, provided We are
+given at least fourteen working days’ prior written notice. Any audit shall be conducted during normal
+business hours. You may request an audit once in any twelve month period during the term of the
+Agreement. You or Your auditors shall not be entitled to audit: (i) data or information of Cledara’s
+other clients or prospective clients, (ii) any internal data belonging to Us and unrelated to the Services
+(including information on Our costs structure), or (iii) any other information that is not directly and
+strictly relevant for the authorised purposes of the audit. You shall bear the entirety of the costs in
+relation to any such audit, and We will be entitled to charge You any reasonable additional costs and
+expenses incurred in connection with the audit.
+9.1.10. Deletion and Return.
+Except if provided otherwise by law or regulation, upon termination of these Terms and Conditions or
+otherwise upon Your written instructions, We will, at Your option, delete or return all Personal Data
+processed on Your behalf in connection with the Services. We may keep a copy of the Personal Data if
+required to comply with Our own legal or regulatory obligations. If you fail to provide instructions
+regarding their deletion or return, we may keep a copy of the Personal Data processed on your behalf
+for a maximum of one (1) year from termination of the Terms.
+9.1.11. Data Breaches.
+We will notify You of any Data Breach promptly, and in no event more than three (3) business days
+after becoming aware of it. We will include in the notice a point of contact whom You can contact
+about the Data Breach. Where available, we will also include enough information in the notice to
+allow You to understand the impact of the Data Breach. If not available at the time of notice, We will
+provide such information as soon as possible thereafter. We will promptly comply with any
+instructions provided by, and cooperate with, You in relation to the Data Breach.
+9.1.12. Records.
+We maintain a written log of the processing of Personal Data we perform on Your behalf. Our log
+includes the following information: (i) the categories of recipients to whom the Personal Data have
+been or will be disclosed; (ii) to the extent that Personal Data is transferred to a third party outside the
+EEA, a list of such transfers (including the name of the relevant non-EEA country and organisation),
+and documentation of the suitable safeguards in place for such transfers; and (iii) where possible, a
+general description of the technical and organisational security measures implemented by any
+subcontractor . We will provide the supervisory authority with a copy of such log upon request.
+9.1.13. Subcontractors.
+You understand that we rely on a number of business partners and suppliers to provide the Services
+and agree to Us engaging a subcontractor to process Personal Data on Your behalf, to the extent
+necessary to provide the Services. We may continue to use those subcontractors already engaged at
+the date of this Agreement. We will ensure that any such subcontractor is bound by data protection
+obligations equivalent to those set out herein. A list of our subcontractors at the date of contracting is
+available on our Platform. We will notify You of any significant changes to our subcontracting policy
+such as the addition or replacement of a subcontractor by updating the list of subcontractors available
+on our Platform. Absent any written objection on your part within fifteen days of the notification of a
+change, you will be considered to have consented to such a change.
+9.1.14. Sharing Personal Data with the Issuer, ASP or Payment Account Issuer.
+You understand that the Issuer, ASP or Payment Account Issuer will act as data Controller over any
+Personal Data shared with the Issuer, ASP or Payment Account Issuer on Your behalf in accordance
+with section 2.6 above.
+9.1.15. Warranty.
+You warrant that You comply with all applicable Data Protection Laws regarding the Personal Data
+processed by Us on Your behalf, and in particular that the processing of Personal Data has a valid
+legal basis, that any Personal Data provided by You have been lawfully collected, that Users have
+been informed of the nature and purpose of, and where relevant, have consented to, the processing of
+Personal Data performed by Us on Your behalf.
+9.2. Amendment of these Services Terms and Conditions.
+We reserve the right to change these Services Terms and Conditions and the Fees at any time, but if
+We do, We will bring such change to Your attention by placing a notice on the Platform and/or by
+sending You an email. The revised Services Terms and Conditions and Fees will be effective one
+month after the notification of the new Services Terms and Conditions and/or Fees. If You do not
+agree with such revised Agreement, You must terminate the Agreement and close Your Account prior
+to the entry into force of such new Service Terms and Conditions and/or Fees. The continued Use of
+the Services and the Cards by the Authorised Company Representative and the Users after the entry
+into force of such changes shall be construed as Your and the Users’ acceptance of such changes.
+9.3. No Partnership or Agency.
+Nothing in this Agreement is intended to, or shall operate to, create a partnership between the parties,
+or to authorise either party to act as agent for the other, and neither party shall have authority to act in
+the name or on behalf of or otherwise to bind the other in any way (including the making of any
+representation or warranty, the assumption of any obligation or liability and the exercise of any right
+or power).
+9.4. Notices.
+All notices sent to You pursuant to these Services Terms and Conditions shall be deemed to have been
+validly sent to You if they are sent by email to the email address of the Authorised Company
+Representative, as recorded on the Platform, or to any User, at the email address of such User, as
+recorded on the Platform. All notices pursuant to the Services Terms and Conditions are validly sent
+to Us if they are sent by email to support@cledara.com.
+9.5. Waivers.
+Failure to exercise, or any delay in exercising, any right or remedy provided under this Agreement or
+by law shall not constitute a waiver of that (or any other) right or remedy, nor shall it preclude or
+restrict any further exercise of that (or any other) right or remedy. No single or partial exercise of any
+right or remedy provided under this Agreement or by law shall preclude or restrict the further exercise
+of that right or remedy. A waiver (which may be given subject to conditions) of any right or remedy
+provided under this Agreement or by law shall only be effective if it is in writing. It shall apply only
+to the party to whom it is addressed and for the specific circumstances for which it is given. It shall
+not prevent the party who has given the waiver from subsequently relying on the right or remedy in
+other circumstances. Unless specifically provided otherwise, rights arising under this Agreement are
+cumulative and do not exclude rights provided by law.
+9.6. Severance.
+If (part of) a provision of these Services Terms and Conditions is found illegal, invalid or
+unenforceable, the parties shall negotiate in good faith to amend such provision such that, as amended,
+it is legal, valid and enforceable, and, to the greatest extent possible, achieves the parties' original
+commercial intention.
+9.7. Governing Law.
+This Agreement and any dispute or non-contractual obligation arising out of or in connection with it
+shall be governed by, and construed in accordance with laws of the United Kingdom.
+9.8. Dispute Resolution.
+In case of dispute between You and Us in relation to the Services, the Courts of England and Wales
+shall have exclusive jurisdiction. This is without limitation of the right of either Party to seek the
+mediation of competent mediation services with a view to settling the dispute amicably.
+Fees Schedule
+Fees and charges Amount
+Dispute resolution/ Chargeback fee £30 where the chargeback is declined by
+the Scheme
+Card Foreign Currency Fee 0-1.5% of the amount of any card payment
+made in a foreign currency

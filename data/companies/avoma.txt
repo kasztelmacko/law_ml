@@ -1,0 +1,152 @@
+General Information
+
+This web site is owned and operated by Avoma, Inc. Avoma makes this Site and the information and services available on this Site and through Avoma Assistant (our intelligent assistant) (collectively the “Services”) subject to acceptance of and compliance with the terms and conditions set forth in these terms of use and elsewhere on this Site (collectively, the “Terms of Use” (TOU)). The terms “you,” “your” “yours” and “yourself” refer to all visitors to this Site and anyone accessing and using the Services.
+
+PLEASE READ CAREFULLY THE TERMS AND CONDITIONS IN THESE TOU BEFORE USING THIS SITE OR ACCESSING THE SERVICES. THIS IS A LEGAL AGREEMENT BETWEEN AVOMA, INC. AND YOU. THESE TOU AND THE AVOMA PRIVACY POLICY (“Privacy Policy”) GOVERN YOUR ACCESS TO AND USE OF OUR SITE, Avoma AND THE SERVICES. IF YOU DO NOT AGREE TO BE BOUND BY THESE TOU AND PRIVACY POLICY (collectively, the “Terms”), YOU MAY NOT ACCESS AND USE THE SITE, AVOMA OR THE SERVICES.
+Our Services
+
+Subject to the restrictions on use set forth in the Terms, you may use Avoma and the Services to:
+
+    Avoma enables you to record the conversation that takes place in a web conferencing meeting (“Meeting”) or a call using a phone or dialer service (“Call”), which is retained in an audio and or video file (“Recording”), convert it into text form (“Transcript”), extract discussion points (“Notes”), identify different trends (“Insights”) - together with all other information data that you make accessible to Us is “Content”.
+    We provide you a right and permission to use the Service subject to a valid subscription, pursuant to the terms of the agreement, or subject to free evaluation terms, as further detailed below.
+    Upon your subscription to the Service, We will grant you access to the Service or certain parts of it, which will allow you to add end-user accounts (“Users”) and to control or manage certain features of the Service. Your Users’ access to the Service is limited and personal.
+    We use commercially reasonable efforts to maintain the highest Service availability. However, We cannot guarantee that the Service will operate in an uninterrupted or error-free manner. We perform Service maintenance and use commercially reasonable effort to schedule Our system downtime to off-peak hours and to avoid service interruptions and delays.
+    We may make the Service or any part of it available to you on an evaluation basis until the earlier of (i) the end of the applicable evaluation period pursuant to the Sales agreement, (ii) your purchase of a Service subscription, or (iii) any termination of the evaluation by Us for any reason, or for no reason at all, by sending you a termination notice with immediate effect.
+
+Eligibility
+
+By accessing the Services, you represent and warrant that:
+
+    You are not under eighteen (18) years of age.
+    You have the right, authority, and capacity to enter into the Terms and to abide by all of the terms and conditions set forth in the Terms.
+    If you elect to use Services in connection with your employment or your work for a third party, you also represent and warrant that you have all rights, authority, permission, and third party approvals necessary to provide us with all of the Content.
+
+Registration
+
+In order to access and use the Services:
+
+    You will be required to register on a registration form which will require you to provide personally identifiable information such as your e-mail address (your “User ID”).
+    We reserve the right to refuse registration of, or to cancel, a User ID at our discretion.
+    Our use of any personally identifiable information you provide to us as part of the registration process (and otherwise) is governed by the terms of our Privacy Policy.
+    You agree to notify Avoma immediately of any unauthorized use of your account or any other breach of security by emailing to: help@avoma.com
+
+Recording Consent
+
+You agree to comply, and you will require your Meeting participants or Call receivers to comply, with all applicable laws regarding the privacy of communications occurring during your Meetings or Calls including informing the Meeting participants or Call receivers that it is being recorded.
+Equipment; Related Charges
+
+    You are solely responsible and liable for any bandwidth issues or hardware incompatibility that result from your access and use of the Services via your computer or mobile device.
+    You acknowledge that third party terms and fees may apply to the use and operation of your mobile devices in connection with your access and use of the Services, such as your carrier’s terms of service, and fees for phone service, data access, or messaging capabilities, and that you are solely responsible for payment of any and all such fees.
+
+Participant Conduct
+
+    You assume full responsibility for your and your Users’ use of the Service in accordance with this Agreement and with applicable local, state, federal, national, and international laws, regulations, and treaties, and warrant that you have obtained all rights to provide us with all of the Content.
+    You will not, and ensure that your Users will not, use the Services or Content for any use or purpose that: (i) is obscene, libelous, blasphemous, defamatory, inciting hatred, terrorism, or any similar offense; (ii) infringes or misappropriates the intellectual property rights or violates the privacy rights of any third party (including without limitation, copyright, trademark, patent, trade secret, or another intellectual property right, moral right, or right of publicity); (iii) is in violation or may encourage any manner of acting that would violate any applicable local, state, national and foreign laws, treatises and regulations; or (iv) may drive or encourage any third party to do any of the above.
+    You will not, and will ensure that your Users will not: (i) use the Service for non-business calls or abuse the Service; (ii) resell, transfer, grant others permission to use the Service, pledge, lease, rent, or share your rights under this Agreement (including without limitation to any of your affiliates); (iii) modify, remove or amend Our name or logo, update, reproduce, duplicate, copy all or any part of the Service; (iv) make any of the Service available to anyone other than your employees and consultants for use for your benefit as intended pursuant to this Agreement, or use any Service for the benefit of anyone other than you; (v) use the Service in any way that restricts or inhibits the use of the Service; (vi) access or attempt to access any of our systems, programs or data that are not made available for public use, or attempt to bypass any registration processes on the Service or any of the Service’s security and traffic management devices; or (vii) attempt to decompile, disassemble, re-engineer or reverse engineer the Service or otherwise create or attempt to create or permit, allow, or assist others to extract source code of the Service, its structural framework or allow or facilitate a third party, to violate or infringe any rights of Ours or others or Our policies or the operational or security mechanisms of the Service.
+    When using the Service in conjunction with other third-party services, you will comply with the terms of service of such third-party services. We shall not be liable for any termination, breach of terms, or suspension of service resulting from your use of the Services.
+    You may not access or use the Service if you are a direct competitor of Ours. or for monitoring the Service’s availability, performance, or functionality, or for any other benchmarking or competitive purposes.
+    Avoma reserves the right to investigate and take appropriate legal action in its sole discretion against anyone who violates these rules, including without limitation, deleting the offending Content and suspending the Avoma accounts of violators, or blocking one’s access and use of the Services until the violation has been cured.
+    Avoma does not control the content of the Recording and does not guarantee the accuracy, integrity, or quality of the Transcript. Under no circumstances will Avoma be liable in any way whatsoever for the Recording. If there should arise a dispute between you and any other user of the Services, Avoma is under no obligation to become involved but reserves the right to monitor any such disputes at its sole discretion.
+
+Commercial Use
+
+    Unless otherwise expressly authorized by Avoma, you agree not to display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit, transfer or transmit for any commercial purposes, any portion of the Services, use of the Services or access to the Services.
+
+Fees; Cancellation
+
+    Upon completion of any applicable free trial period for the Services, you will be required to select a payment plan. Depending on your chosen payment method, you will either need to provide your credit card details along with associated personal information, arrange payment via ACH bank transfer, or request invoicing. You agree to ensure that all billing and contact information provided to Avoma is accurate and kept up-to-date in your Avoma services account.
+    If you choose to pay via credit card, you hereby authorize Avoma to bill your credit card periodically in advance according to your selected payment plan, including any applicable credit card processing charges. If you select ACH transfer or invoicing, you agree to remit payments according to the payment schedule and terms outlined in your payment plan or invoice.
+    For credit card payments, if you dispute any charges, you must notify Avoma within sixty (60) days of the billing date. For payments made via invoice or ACH transfer, disputes regarding any charges must also be communicated to Avoma within sixty (60) days of receipt of the relevant invoice or payment confirmation.
+    We reserve the right to change Avoma  payment plans and fees and in such event will notify you of such plan and/or fee change on the Site and in an email sent to you (at the last email address we have for you in Avoma’ records) at least 30 days before the change is to take effect. Your continued use of the Services after the fee change becomes effective constitutes your agreement to pay the changed fee. Pricing changes would take effect at the end of the subscription period and upon renewal. 
+    You will be responsible for all taxes associated with your subscription of the Services other than U.S. taxes based on Avoma’s income.
+    If you terminate your account in accordance with these TOU before Avoma processes your payment for a given payment cycle, then you will not be charged for the next payment.
+    Avoma does not offer refunds or credits for partial periods of service or unused periods unless this TOU and/or the applicable Order Form is terminated by you for cause or by Avoma for convenience, in which case Avoma will promptly refund any prepaid fees pro-rated for the remainder of the term following the effective date of termination.
+
+Avoma Intellectual Property
+
+    The software, content, visual interfaces, interactive features, information, graphics, design, compilation, computer code, names, logos and all other elements of Avoma and the Services (collectively, the “Avoma Materials”) are protected by copyright, trade dress, patent, trade secret and trademark laws of the United States and other jurisdictions, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws.
+    All Avoma Materials, including intellectual property rights therein, are the property of Avoma and/or third-party licensors. Avoma reserves to itself all rights not expressly granted in these TOU. You shall not acquire any right, title or interest to the Avoma Materials, whether by implication, estoppel, or otherwise, except for the limited rights set forth in these TOU.
+    Accordingly, you agree not to copy, modify, create a derivative work of, disassemble, decompile or otherwise reverse engineer any components of Avoma or the Services or any other Avoma products or services, in whole or in part, or permit or authorize a third party to do so, except to the extent such activities are expressly permitted by law notwithstanding this prohibition.
+    All goodwill generated from the use of Avoma Materials will insure to Avoma’s exclusive benefit. Avoma reserves to itself all rights in Avoma and the Services not expressly granted to you in these TOU.
+
+Your Data Ownership and License to Avoma
+
+    You own all rights, title, and interest in and to your Content that you or your users provide directly to the Service, including all derivative works of your Content. (“YOUR DATA”).
+    To process your Content, our Service uses proprietary software and algorithms. Accordingly, solely in order for us to provide the Service during the Subscription term, you grant Avoma a non-exclusive, worldwide, limited term, royalty-free right to:
+        host, use, copy, transmit and display Your Data as appropriate for Avoma to provide and ensure proper operation of the Services in accordance with this Agreement, including to provide insights, recommendations and analysis to optimize Customer’s use of the Services.
+        sublicense these rights to third parties with which Avoma has contractual service provider relationships for the purpose of providing the Service.
+    Subject to the limited licenses granted herein, Avoma acquires no right, title or interest from Customer or its licensors under this Agreement in or to any Your Data.
+    Conditioned upon your compliance with the terms and conditions of these TOU, Avoma hereby grants to you a limited, revocable, non-exclusive, personal, non-sublicensable, non-transferable license to access and use the Services for your business use on the device(s) owned or controlled by you.
+    Upon termination of your Avoma service account, all license and other rights granted to Avoma in these TOU will immediately cease.
+    Avoma will return Customer Personal Data to Customer or delete such data within thirty (30) days after termination of the Services or sooner upon Customer’s request. At Customer’s request, Avoma, Inc. will state in writing that it has completed the deletion of the Customer Personal data from its systems.
+
+Notice of Copyright Infringement
+
+    If you are a copyright owner who believes your copyrighted material has been reproduced, posted or distributed via the Services in a manner that constitutes copyright infringement, please inform our designated copyright agent by sending written notice by emailing to: help@avoma.com.
+    Please include the following information in your written notice:
+        a detailed description of the copyrighted work that is allegedly infringed upon;
+        a description of the location of the allegedly infringing material in the Services, with enough detail to enable us to find it in the Services;
+        your contact information, including your name, address, telephone number, and, if available, e-mail address;
+        a statement by you indicating that you have a good-faith belief that the allegedly infringing use is not authorized by the copyright owner, its agent or the law;
+        a statement by you, made under penalty of perjury, affirming that the information in your notice is accurate and that you are authorized to act on the copyright owner’s behalf; and
+        an electronic or physical signature of the copyright owner or someone authorized on the owner’s behalf to assert infringement of copyright and to submit the statement.
+    Any notice to Avoma claiming copyright infringement that does not comply with the requirements of this provision will not receive a response.
+
+Modification of the Terms
+
+    Except as otherwise provided herein, modification, amendment, or waiver of any provision of the TOU will be delivered in writing to the party or parties against whom the modification, amendment, or waiver is to be asserted. Avoma will use the email address ( your “User ID”) on file to deliver such changes. 
+    These TOU will also govern any upgrades and/or updates provided by Avoma that upgrade and/or supplement Avoma and the Services unless the parties mutually agree to separate terms for such upgrades and/or updates.
+
+Term and Termination
+
+    This TOU will remain in effect until the earlier of (a) termination by either party in accordance with this Section, or (b) after termination or expiration of all subscriptions. The term of the applicable subscription shall be as specified in the relevant order form.
+    Termination for Cause. Either party may terminate the TOU, individual order forms, or individual subscriptions immediately upon written notice to the other party if: (a) the other party commits any material breach of the TOU and fails to cure such breach within thirty (30) days after written notice thereof from the non-breaching party; or (b) if the other party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation, or assignment for the benefit of creditors, or otherwise becomes generally unable to pay its debts. If the TOU, individual order forms, or individual subscriptions are terminated by the Customer for cause under this subsection, Avoma agrees to refund the Customer’s prepaid Fees covering whole months of the applicable subscription period remaining after the effective date of termination. If the TOU, individual order forms, or individual subscriptions are terminated by Avoma for cause, the Customer agrees to pay any unpaid fees for the subscription period for the terminated Services.
+    Termination for Convenience.  Upon thirty (30) days prior written notice, Customer may terminate the Terms, individual order forms, or individual subscriptions at its convenience. The termination would take effect at the end of the current subscription term and is not eligible for refund. 
+    Either party may terminate the TOU if there are no active subscriptions upon thirty (30) days prior written notice. In no event will termination of the TOU under this Section relieve the Customer of its obligation to pay any fees for Services it procured prior to such termination.
+    If the TOU is terminated for any reason: (a) all order forms and subscriptions will terminate; (b) all rights, licenses, consents, and authorizations granted by either party to the other will immediately cease; (c) Avoma will disable Customer’s Account and its Users’ access to all Services; (d) Customer shall pay for all subscriptions up to the effective date of termination; (e) Customer and its Users will immediately cease all use of the Services; (f) Customer may, during the thirty (30) day period following the date of termination, export Your Data and Avoma will delete Your Data after Customer’s export is complete.
+
+Warranty and Data Security
+
+Avoma represents and warrants to Customer that: (a) the Services will function in all material respects in conformity with the applicable documentation and specifications; and (b) the Services will not knowingly contain any Harmful Content, defined as code, files, scripts, or programs, including viruses, worms, and Trojans, intended to deceive, disrupt, destroy, distort, disable, or otherwise do harm. The warranties set forth herein shall not apply to any error, interruption, other non-conformity, or Harmful Content caused by: (i) Customer’s use of the Service not in conformity with the applicable documentation or specifications; (ii) Customer’s or any third party’s network, equipment, hardware, or software; (iii) Your Data; or (iv) Customer’s breach of the Terms.
+
+The terms of the Avoma Data Processing Addendum (“DPA”) are hereby incorporated by reference and apply to the processing on Avoma information systems of personal information which is part of Your Data. Third party users of the Services may view the terms of Avoma Privacy Policy.
+
+Avoma will utilize appropriate technical, physical, and organizational security measures and safeguards in connection with the storage, transmission, handling, and processing of Your Data via the Services, in order to protect Your Data from unauthorized use, access, and disclosure. Avoma will utilize: (a) adequate physical security of all premises in which Your Data will be processed and/or stored by Avoma; (b) reasonable precautions with respect to the employment of, and access given to, Avoma personnel and third-party contractors engaged by Avoma in connection with providing the Services, including assigning appropriate access privileges to individuals; (c) an appropriate network security program; (d) appropriate access controls and data integrity controls; (e) testing and auditing of all controls; and (f) appropriate corrective action and incident response plans.
+Warranty Disclaimer and Limitation of Liability
+
+EXCEPT AS EXPLICITLY STATED HEREIN, THE SERVICES ARE PROVIDED ON AN “AS IS” BASIS “WITH ALL FAULTS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AVOMA DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, TITLE, QUALITY, AND NON-INFRINGEMENT.
+Liability Waiver
+
+UNDER NO CIRCUMSTANCES WILL EITHER PARTY, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE TO THE OTHER PARTY OR ANYONE ELSE FOR ANY LOSS OR INJURY OR ANY DIRECT, INDIRECT, SPECIAL OR OTHER CONSEQUENTIAL DAMAGES (EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY) WHETHER BASED IN CONTRACT, TORT, NEGLIGENCE, PRODUCT LIABILITY, BREACH OF WARRANTY, MISREPRESENTATION OR OTHERWISE. IN NO EVENT WILL EITHER PARTY’S TOTAL CUMULATIVE LIABILITY ARISING FROM OR RELATED TO THIS TOU OR YOUR USE OF THE SERVICES, WHETHER IN CONTRACT OR TORT, EXCEED THE FEES YOU HAVE PAID TO AVOMA IN THE LAST TWELVE (12) MONTHS. Some states do not allow the exclusion or limitation of incidental or consequential damages, so some of the above limitations or exclusions may not apply to you.
+
+The exclusions and limitations set forth above shall not apply to claims or allegations arising from (a) a party’s gross negligence or willful misconduct; (b) Avoma’s breach of its security or confidentiality obligations herein; (c) a party’s indemnification obligations herein; or (d) a party’s breach of the other party’s intellectual property rights.
+Indemnification and Release
+
+To the maximum extent permitted by law, you agree to release, defend, indemnify and hold Avoma and its affiliates, officers, directors, employees, agents, and licensors harmless from any and all claims, suits, losses, liability, costs, or expenses (including, but not limited to reasonable attorney’s fees) arising from or incurred as a result of your meeting content, any breach by you of these TOU, or your violation of any rights of another.
+
+To the maximum extent permitted by law, Avoma agrees to release, defend, indemnify and hold Customer and its affiliates, officers, directors, employees, agents, and licensors harmless from any and all claims, suits, losses, liability, costs, or expenses (including, but not limited to reasonable attorney’s fees) arising from or incurred as a result of a claim that your access to and use of the Services infringes on a third party’s intellectual property rights or any breach by Avoma of these TOU.
+Privacy
+
+We respect your privacy. Please see our Privacy Policy. By visiting this Site and accessing and using the Services, you consent to our collection and use of your personal information as set forth in the Privacy Policy. We may update our Privacy Policy from time to time and will post such updates on our website at least thirty (30) days before the update takes effect. In no event shall the Privacy Policy be changed to permit Avoma to sell, rent or lease your personally identifiable information.
+Your Suggestions and Ideas
+
+    Avoma and its employees are in constant development of new services, technologies, service enhancements, processes, materials, and marketing and promotional plans.
+    We welcome you to submit your ideas for us to review. However, if and when you submit any ideas or suggestions:
+        all information you submit will be treated as non-confidential and non-proprietary;
+        all information you submit will become the property of Avoma, except for any personally identifiable information you submit or we collect from you in accordance with our Privacy Policy;
+        you will be solely responsible for any submission, including the legality, reliability, appropriateness, originality and copyright of such submission;
+        you warrant that (i) either you own the information submitted or have the right to submit such information and (ii) the use of such information by Avoma or a third party will not violate any third party’s rights;
+    Avoma reserves the right, in its sole discretion, to reproduce, disclose or otherwise use, any such information for its own benefit or the benefit of others; and
+    Avoma will not pay you or others for any such information, use, reproduction or disclosure.
+
+Links to Third Party Websites
+
+    Throughout the Site, we sometimes provide links to websites maintained by third parties. Our linking to such third-party websites does not imply an endorsement, guarantee, approval, or sponsorship of such websites or the information, products, or services offered on or through such websites. Nor do we warrant that these websites will not contain viruses or otherwise impact your computer or mobile device.
+    In addition, we do not operate or control in any respect any information, products or services that third parties may provide on or through the web sites linked to by us on the Site. You should direct any concerns regarding any externally linked web site to its site administrator or webmaster.
+
+Contacting Us
+
+Please contact us by emailing to help@avoma.com with any questions regarding these TOU or the Services or to report any violations of these TOU.
+Miscellaneous
+
+This Agreement may not be assigned without the prior written consent of the other party. This Agreement shall be binding upon the parties and their respective successors and assigns. Failure or delay by either party to enforce any term herein shall not be deemed a waiver of future enforcement of that or any other term. In the event any one or more of the provisions contained herein shall for any reason be held to be unenforceable in any respect under applicable law, the remaining provisions of this Agreement shall survive and remain in full force and effect. This Agreement may only be modified by a written document signed by both parties. This Agreement may be executed in counterparts, and signatures may be made and exchanged by electronic means. Each party represents and warrants that the person signing below on its behalf has the necessary authority to bind such a party. This Agreement shall be governed by and construed in accordance with the laws of the State of California.

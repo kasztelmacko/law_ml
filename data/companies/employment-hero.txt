@@ -1,0 +1,463 @@
+Welcome to Employment Hero, nice to meet you! We’re excited for you to start your work easy journey.
+
+By using the EH Platform, including the EH Websites, our EH Work app, and EH Jobs app, you agree to these terms and conditions (the General Terms), any policies they link to and any specific terms and conditions that apply to additional products or services you use.
+
+These General Terms are important. Please read them carefully and let us know if you have any questions. We’ve done our best to explain it all without using too much jargon, so it’s clear what we expect from you and what you can expect from us.
+
+This version of the General Terms take effect as of 24 March 2025. You can see our previous terms & conditions here. If you are a Global Teams customer, a copy of the Terms for Employment Hero Global Teams is available here.
+
+To find out more about the latest update to our General Terms, click here.
+1. Who ‘we’ are
+
+1. When we say ‘Employment Hero’, ‘us’, ‘our’, or ‘we’ in these General Terms, we’re referring to Employment Hero Pty Ltd and its affiliates.
+
+2. If your Customer Agreement or your invoices specify an affiliate of Employment Hero Pty Ltd (for example, if you are located outside of Australia), then these General Terms will apply between you and that affiliate.
+2. Who ‘you’ are
+
+1. When we say ‘you’ or ‘your’ in these General Terms, we’re referring to any of the following types of users and customers.
+
+2. If we need to refer to a specific type of user or customer and not the other types, we use one of the terms below instead of ‘you’:
+
+2.1 User: any person that uses or accesses the EH Platform.
+
+2.2 Organisation User: a User that is linked to an Organisation’s account, including as an employee or account administrator. We may refer to Organisation Users as just ‘Users’ in the Customer Agreement or our pricing page.
+
+2.2.1 In the context of defining Users for billing purposes:
+
+2.2.1.1 a billable User under any Employment OS subscription is any active or pending employee, contractor or admin in the platform at the end of the calendar month.
+
+2.2.1.2 a billable HR User under a classic subscription is any active or pending employee, contractor and admin in the platform at the end of the calendar month.
+
+2.2.1.3 a billable Payroll User under a classic subscription is an employee that has had one of the following actions during the calendar month: included in a finalised pay run (even if that pay run is subsequently unlocked); has had an approved leave request; has had an approved expense request; has had a published roster shift; or has had an approved timesheet.
+
+2.3 Organisation: a business that uses or accesses the EH Platform.
+
+2.4 Paid Organisation: an Organisation that activates paid features of the EH Platform or that we provide other paid products or services to.
+
+2.5 Free Organisation: an Organisation that uses no charge features of the EH Platform only.
+
+2.6 Trial Organisation: an Organisation that is given temporary or trial access to paid features of the EH Platform.
+
+2.7 Reseller Organisation: an Organisation that has purchased access to the EH Platform through a reseller.
+3. Other defined words and rules for interpreting these General Terms
+
+1. When capitalised in these General Terms, words defined in bold or listed below have a specific meaning:
+
+1.1 Customer Agreement means, in respect of a Paid Organisation, the written agreement between us and the Paid Organisation relating to it and its Users’ use of the EH Platform.
+
+1.2 EH Platform means the EH Websites, mobile applications like the Employment Hero Work app (EH Work app) and the Employment Hero Jobs app (EH Jobs app), services, content, Subscriptions, accounts, benefits and offers as available through or as described on the EH Websites, mobile applications, platform or agreed between you and us from time to time.
+
+1.3 EH Platform Terms means these General Terms, any Feature Specific Terms, the terms of your Customer Agreement and any other terms and conditions or policies that apply to your use of the EH Platform and any other products and services provided by us.
+
+1.4 EH Websites means the websites that we operate or provide any features of the EH Platform through, including the Employment Hero website available at employmenthero.com, and Employment Hero Jobs available at jobs.employmenthero.com.
+
+1.5 Intellectual Property Rights means all and any patents, trade marks, service marks, trade names, domain names, registered designs, unregistered design rights, copyright, know how, trade secrets and rights in confidential information, URLs and all and any other intellectual property rights, whether registered or unregistered, and including all applications and rights to apply for any of the same.
+
+1.6 Subscriptions means offering access to the EH Platform or certain features of it on a recurring paid subscription basis.
+
+1.7 Your Data means the data, information (including personal information or data) or content entered into or uploaded to the EH Platform by you or that you otherwise provide to us and, if you are an Organisation, any such data, information or content provided by you or by your Organisation Users.
+
+2. When capitalised in these General Terms, words defined in bold or listed below have a specific meaning:
+
+2.1 headings in bold are for convenience only and do not affect the interpretation of these General Terms;
+
+2.2 references to a person includes any company, partnership, joint venture, association, corporation or other body corporate and any governmental agency as well as an individual;
+
+2.3 a reference to any legislation, regulations, binding directions issued by government agencies, mandatory codes of conduct, or similar, includes all delegated instruments made under them and any amendments, consolidations, replacements or re-enactments of any of them; and
+
+2.4 specifying anything in these General Terms after the words “like”, “include”, “for example” or similar expressions does not limit what else is included.
+4. Other terms and conditions that apply to the EH Platform
+
+1. Depending on the type of account you have, and the features of the EH Platform you use, other terms and conditions may apply to you (collectively called Feature Specific Terms) including:
+
+1.1 if you use our Hero Point features, the terms for Employment Hero Recognition and Hero Points (Appendix A to these General Terms);
+
+1.2 if you use our Benefits features in the EH Platform, the Benefits terms; and
+
+1.3 any additional terms that apply to features or products offered by us that you use, as notified to you and agreed by you before you access those features or products.
+5. How our different terms apply (priority of terms)
+
+1. If there is any inconsistency between your Customer Agreement, these General Terms and any Feature Specific Terms, then (to the extent of the inconsistency):
+
+1.1 the terms of your Customer Agreement will take priority over these General Terms and any Feature Specific Terms that apply; and
+
+1.2 in relation to the specific product or service that they govern only, the relevant Feature Specific Terms will take priority over these General Terms.
+6. Changes to the EH Platform and EH Platform Terms
+
+1. From time to time, we may decide to make changes to the features or functionality of the EH Platform or change or replace any part of the EH Platform Terms by posting updated or amended terms to the EH Websites or otherwise notifying you of the changes in your account. Please check the EH Websites for changes.
+
+2. Previous versions of our terms and conditions are available in our archive here: https://employmenthero.com/legals/archived/.
+
+3. Generally, we will give you reasonable notice of material changes to the EH Platform Terms that we determine may adversely affect your rights or your use of the EH Platform before they become effective, unless we need to make changes immediately for reasons we can’t reasonably control (like a legal requirement).
+
+4. If the change to the EH Platform or the EH Platform Terms is unacceptable to you, you may stop using the EH Platform, cancel your Subscription or terminate your account in accordance with the EH Platform Terms. If you continue to use the EH Platform after any amended terms become effective, you agree to be bound by the amended terms.
+
+5. If we decide to stop offering some features in the EH Platform or other services, we may terminate your access to such features or services by providing written notice to you. If you are not in breach of the EH Platform Terms, we will refund any prepaid fees that relate to the terminated features or services on a pro-rata basis.
+7. Your licence to use the EH Platform
+
+1. By accepting the EH Platform Terms, you are granted a limited, non-exclusive and revocable licence to access and use the EH Platform until your account is terminated. If you are an Organisation User, access to some features may be based on the Subscriptions and features that have been agreed with you or your Organisation.
+8. User Accounts
+
+1. Users may create an account to access User features of the EH Platform (a User Account).
+
+2. Users may be able to purchase goods and services through the EH Platform, including through the ‘Benefits’ features. Prices for such goods and services will be displayed at the point of purchase and Users will be responsible for any agreed purchases.
+
+3. When a User Account is connected to an Organisation’s account, the User also becomes an Organisation User. When a User is also an Organisation User, there can be changes to how some of the EH Platform Terms apply or what features are available to the User.
+
+4. When an Organisation User stops being connected to an Organisation’s account, the User will continue to have a User Account.
+9. Free Accounts for Organisations
+
+1. We may offer some features of the EH Platform to Organisations for no charge (a Free Organisation Account).
+
+2. We may vary which EH Platform features are available to Free Organisation Accounts and terminate any inactive Free Organisation Accounts at any time at our discretion, without liability to you.
+10. Trial Accounts for Organisations
+
+1. We may offer trial access to the EH Platform to Organisations (a Trial Organisation Account).
+
+2. We may provide access to and terminate Trial Organisation Accounts at any time at our discretion, without liability to you.
+
+3. If an Organisation agrees that its Trial Organisation Account will automatically convert to a Paid Organisation Account at the end of an agreed trial period, then the Organisation’s initial payment will be processed at the end of that trial period unless the Trial Organisation Account is cancelled before the end of the trial period.
+11. Paid Organisation Accounts
+
+1. Pricing for paid Subscription access to the EH Platform by an Organisation (a Paid Organisation Account) is as set out on the EH Websites or in the Organisation’s Customer Agreement (if applicable) (Subscription Fees).
+
+2. By activating a Paid Organisation Account or engaging us to provide you with any other paid products or services, you are agreeing to pay the Subscription Fees and any other applicable fees.
+12. Rules for using the EH Platform
+
+1. When we refer to the EH Platform Rules in these General Terms, we’re referring to this clause.
+
+2. When using the EH Platform, you:
+
+must:
+
+    be 15 years old or over, and if any applicable law requires that you must be older for us to provide the EH Platform to you without parental consent (including processing Your Data), then you must be of the legally required age;
+    make sure that any information you provide to us is complete, accurate and not misleading;
+    only use, copy or distribute any information obtained through the EH Platform for your internal business purposes and not for the benefit of someone else, unless you obtain our prior written consent to do so;
+    keep your usernames, passwords, and any other account login information secure. You will be responsible for the use of your login details;
+    maintain adequate credential management practices like using strong and unique passwords; and
+    own or have permission to provide Your Data (including any personal information contained in Your Data) to us or otherwise enter it into the EH Platform; and
+
+must not:
+
+    undermine the security or integrity of our computing systems or networks;
+    use our services in any way that might impair functionality or interfere with other people’s use;
+    access any service or feature without permission; 
+    misuse the EH Platform in a way that may harm any other person, including using our services for spam, fraud, or misleading activity;
+    decompile, reverse engineer, disassemble, rent or sublicense anything on the EH Platform;
+    develop, support or use software, scripts, robots or any other means or processes to scrape or otherwise copy information from the EH Platform in a way that breaches another EH Platform Rule or our EH Platform Terms;
+    copy, distribute, modify or make derivative works of any of our content, content of another EH customer, or use any of our Intellectual Property Rights in a way not expressly permitted by us in writing;
+    upload, transmit, distribute, or advertise any content that infringes the Intellectual Property Rights or privacy of any other person, or is false, misleading, defamatory, abusive, harmful, obscene, sexually explicit, or illegal;
+    access any system without permission; or
+    introduce or upload anything to our services that includes viruses or other malicious code.
+
+3. As an Organisation, in addition to the above:
+
+    you must only use, copy, distribute or modify any template or standard form documents made available through the EH Platform (including employment agreements, workplace policies, performance and coaching reviews and surveys) for your internal business purposes, and obtain your own professional advice before using them;
+    you are responsible for controlling which Users can access your account and each User’s level of access. We do not accept responsibility or liability for access to or use of Your Data by any of your Organisation Users, or use of your Organisation Users’ login details; and
+    for so long as a User is connected to your account so that they become your Organisation User, you are jointly responsible and liable for that User’s compliance with this clause.
+
+13. Invoicing and payment of Subscription Fees and other fees
+
+1. A valid payment method and accurate billing information is required to process your Subscription Fee payment. By submitting such payment information, you authorise us to charge all fees incurred through your account to any such payment method. If you miss a payment, we may suspend your access to the EH Platform until payment is made.
+
+2. If you have signed a Customer Agreement, we will invoice you monthly on the last day of each month beginning on the first full month after you sign. You must pay this invoice within 14 days from the date of the invoice we issue to you.
+
+3. If you signed up through the EH Platform, we will invoice you monthly on the last day of each month beginning on the first full month after you sign up. We will debit your payment details on the day we issue your invoice.
+
+4. For any upgrade or downgrade in your plan or Subscription level, you will be invoiced for the new rate on your next billing cycle. For the avoidance of doubt, you cannot downgrade your plan during your agreed Subscription Term.
+
+5. Unless otherwise stated, all fees are exclusive of sales taxes (like GST and VAT) and any other applicable taxes and duties. You are responsible for paying us the amount of any such taxes or duties that apply.
+
+6. From time to time, we may change the fees that apply to your use of the EH Platform or any other products or services we provide to you. We will follow the process in the ‘Changes to the EH Platform and EH Platform Terms’ clause for any such changes.
+14. Subscription Term and automatic renewal
+
+1. Paid Organisations agree to pay the applicable Subscription Fees for the Subscription period that you agree with us (Subscription Term). You may agree to a minimum term with us. If you do, then you cannot cancel your Subscription before the end of that minimum term.
+
+2. At the end of your Subscription Term, your Subscription will automatically renew for successive 1 month Subscription Term periods unless you cancel your Subscription at least 30 days before your next renewal date. As an example, if you were beyond any minimum Subscription Term agreed with us, this means that if you cancel your Subscription part of the way through one month, your Subscription Fee will be payable for the month in which you cancel and the following month. Your access to your Paid Organisation account and features will remain until the end of the following month.
+
+3. If you are a Paid Organisation, you may cancel your Subscription by contacting us, in which case:
+
+3.1 you will not be entitled to any credits or refunds in respect of any Subscription Fees you have already paid; and
+
+3.2 you will continue to have access to the EH Platform as a Free Organisation Account after the end of your Subscription Term unless it is terminated by you or us with notice.
+15. Termination by you
+
+1. You can stop using the EH Platform at any time. You can terminate your account and Subscription by contacting us if all of your outstanding payment or other obligations under the EH Platform Terms have been satisfied.
+
+2. If you are an Organisation and you terminate your account, each of your Organisation Users will continue to have a User Account.
+
+3. You may terminate your Subscription and this agreement at any time by written notice if:
+
+3.1 we commit a material breach of any of the EH Platform Terms and do not remedy the breach within 14 days of receiving notice of the breach;
+
+3.2 we commit a material breach of any of the EH Platform Terms and the breach cannot be remedied; or
+
+3.3 our business becomes insolvent, goes into liquidation or has a receiver manager appointed over any of its assets, we become insolvent or make any arrangement with your creditors, or become subject to any similar insolvency event in any jurisdiction.
+16. Termination or suspension by us
+
+1. We may terminate or suspend your access to the EH Platform, this agreement and your Customer Agreement (either in whole or in part) immediately by notice to you if you (and if you are an Organisation, any of your Organisation Users):
+
+1.1 commit a material breach of any of the EH Platform Terms and do not remedy the breach within 14 days of receiving notice of the breach;
+
+1.2 commit a material breach of any of the EH Platform Terms and the breach cannot be remedied;
+
+1.3 fail to pay any fees to be paid under the EH Platform Terms;
+
+1.4 infringe our Intellectual Property Rights; or
+
+1.5 you or your business becomes insolvent, goes into liquidation or has a receiver manager appointed over any of its assets, you become insolvent or make any arrangement with your creditors, or become subject to any similar insolvency event in any jurisdiction.
+17. Effect of suspension by us
+
+1. If we suspend your use of the EH Platform for your breach in accordance with clause 16 of these General Terms:
+
+1.1 we will continue to charge you for any fees (including Subscription Fees) during the suspension period and you must pay any outstanding fees before we resume providing access to the EH Platform; and
+
+1.2 we will only resume your access to the EH Platform after you have cured the matter that caused the suspension to our reasonable satisfaction.
+18. Your Data on termination
+
+1. You may access and download Your Data while you have an account with us. After your account has been terminated, we will have no obligation to store or provide access to Your Data or any parts of the EH Platform.
+
+2. We may delete or remove any of Your Data stored on the EH Platform from the date of termination to the extent such deletion is permitted by law. We will not be liable for any losses incurred directly or indirectly from the loss of Your Data after termination.
+19. Who owns Your Data
+
+1. We do not own Your Data. You grant us a licence to use, copy, store, transmit, analyse, and back up Your Data, for the purpose of providing the EH Platform, related services and improvements to you, to carry out data analytics using de-identified aggregated data, to communicate with you about the EH Platform and our services and to send information that we think may be of interest to you.
+
+2. If you are a User, then you will retain ownership of your personal information or data contained in Your Data, together with information relating to services provided directly between you and us that do not relate to any Organisation your account is connected with.
+
+3. If you are an Organisation, then you will own Your Data including any personal information in Your Data relating to you and your current or former Organisation Users.
+20. Data use and privacy
+
+1. We take your privacy and data protection seriously. We will comply with all applicable data protection and privacy laws that apply to Your Data. In addition to these General Terms, our applicable Privacy Policy sets out in detail how we may collect, use and process personal information contained in Your Data.
+
+2. By using the EH Platform you consent to our use of Your Data as described in our applicable Privacy Policy.
+
+3. Our Data Processing Addendum (DPA) sets out your responsibilities (and ours) for processing of personal information contained in Your Data and you agree that where the DPA applies to you, you have read, understood and agreed to it.
+
+4. You agree to comply with any reasonable data privacy and security policies and standards that apply to your use of the EH Platform that may be communicated to you from time to time.
+
+5. You must have the right to upload or otherwise provide Your Data to us. If you enter or upload another person’s personal information, confidential information or intellectual property to the EH Platform, you are responsible for obtaining all consents or otherwise complying with any laws relating to the collection and use of the information in Your Data required to allow us to store and use Your Data to provide the EH Platform services and as permitted by the EH Platform Terms. If you are an Organisation, you are responsible for your Organisation Users complying with this clause.
+
+6. We have no obligation to monitor Your Data. However, we may remove Your Data or suspend or terminate your access to the EH Platform if we consider in good faith that Your Data breaches the EH Platform Terms or any law or in response to a take-down request or allegation that Your Data breaches any other person’s rights. We are not liable for any losses you may incur if we take any actions permitted by this clause.
+21. Data breach notifications
+
+1. In these General Terms, Data Breach means any actual or suspected misuse of or damage to, accidental or unauthorised access to, disclosure, processing or destruction of any personal information contained in Your Data.
+
+2. If there is a Data Breach affecting Your Data, we will comply with our legal obligations to notify and assist you and to remediate the Data Breach under any data protection laws.
+
+3. If you believe that there may have been a Data Breach impacting the EH Platform, you must notify us as soon as possible and in any event within 24 hours of you becoming aware of the Data Breach.
+
+4. If a Data Breach happens, you:
+
+4.1 must fully cooperate with us in investigating and remediating the Data Breach to prevent serious harm being caused to individuals using the EH Platform;
+
+4.2 must not notify any regulator, individual outside of your organisation or other third party without our prior written consent unless such notification is required by law; and
+
+4.3 agree that we have absolute discretion and are responsible for:
+
+4.3.1 assessing the level of harm potentially caused by the Data Breach, and assessing the likelihood of the risk of harm to affected individuals using the EH Platform;
+
+4.3.2 determining if notification is required under law to affected individuals outside of your organisation and any regulators;
+
+4.3.3 all correspondence and dealings with regulators and affected individuals outside of your organisation, including the form, content and timing of any notices;
+
+4.3.4 determining the remediation strategy; and
+
+4.3.5 the costs of any of the above activities.
+22. Intellectual Property Rights
+
+1. We are the sole owner of the EH Platform, other than any open source software components in the EH Platform which are subject to their relevant open source licences and do not form part of the licence given to you by these General Terms.
+
+2. All Intellectual Property Rights in the EH Platform, including copies, modifications, updates or new releases, vest with us or our licensors.
+
+3. You assign to us any Intellectual Property Rights in suggestions, ideas, enhancement requests, or other feedback you provide to us relating to the EH Platform or any other services we provide.
+
+4. Nothing in the EH Platform Terms creates an assignment or transfer of any kind of any of our Intellectual Property Rights to you.
+23. Confidentiality
+
+1. In these General Terms, Confidential Information of a party means information of a confidential nature including information about its business, operations, strategy, administration, technology, affairs, clients, customers, employees, contractors or suppliers, but does not include any information that is in the public domain other than through a breach of confidence.
+
+2. While using the EH Platform you may share Confidential Information with us, and you may become aware of Confidential Information about us. We refer to the party (you or us) that is receiving Confidential Information as the Recipient in this clause.
+
+3. You and we acknowledge that a breach of this clause may cause irreparable harm for which damages may not be an adequate remedy. The party whose Confidential Information may be disclosed as part of any breach of this clause may seek injunctive relief against the other party or to compel specific performance in addition to any other remedies available at law.
+
+4. The Recipient agrees that it must keep confidential and not disclose to any third party Confidential Information of the other party and to take reasonable steps to protect the other party’s Confidential Information from being accessed by unauthorised third parties, with the exception that a Recipient may disclose such Confidential Information to:
+
+4.1 a third party with the prior written consent of the party that owns the Confidential Information (where the consent given may be conditional);
+
+4.2 the Recipient or its affiliates’ officers, agents, professional advisors, employees, contractors, subcontractors auditors and insurers, provided that these recipients are subject to confidentiality obligations at least as stringent as this clause; or
+
+4.3 a governmental, administrative, regulatory, fiscal or judicial body, department, commission, authority, tribunal or agency where the Recipient is required to do so, provided that it uses commercially reasonable efforts to give the other party written notice before the disclosure (if notifying the other party is permitted by law).
+24. Disclaimer of warranties
+
+1. Except as required under applicable law, the EH Platform, any Third Party Services contained in it and any other services we provide to you are provided on an ‘as is’ and ‘as available’ basis.
+
+2. To the maximum extent permitted by law, we exclude all express or implied warranties, guarantees and representations including any implied warranties of non-infringement, merchantability and fitness for a particular purpose.
+
+3. Where there are any non-excludable warranties, guarantees or other rights provided by law (including under the Australian Consumer Law), these still apply. The EH Platform Terms do not exclude, restrict or modify them. Our liability for breach of any such non-excludable warranty, guarantee or other right is limited to (at our option) either replacing or paying the cost of replacing the relevant service (unless the law requires otherwise).
+25. Your indemnity to us
+
+1. You indemnify us, each of our directors, officers, employees, agents and licensors against all losses, costs (including legal costs), expenses, demands or liability that we incur arising out of, or in connection with:
+
+1.1 your breach of clause 20.5; or
+
+1.2 any third-party claims against us relating to your (and if you are an Organisation, your Organisation Users’) use of the EH Platform or any Third-Party Services, or Your Data (except where we breach the EH Platform Terms or where we are negligent).
+26. Our indemnity to you
+
+1. Subject to the remainder of this clause, we will defend you against any claims made by a third party that the EH Platform and any content or services provided through the EH Platform that you use under the EH Platform Terms infringes that third party’s Intellectual Property Rights (Infringement Claim). This indemnity will only apply where you notify us promptly of any such Infringement Claims, give us sole control over the defence and settlement of the Infringement Claims, and provide reasonable assistance to us in defending the Infringement Claim. This indemnity is limited to:
+
+1.1 the amount paid by you to the third party based on a settlement (agreed by us) or final court judgement; and
+
+1.2 reasonable legal and other out-of-pocket expenses that you incur in providing the assistance referred to above.
+
+2. If we reasonably believe that an Infringement Claim under this clause may bar your use of the EH Platform, we will either obtain the right to keep using the EH Platform, or modify or replace the EH Platform or any particular feature with a functional equivalent. If either of these options would cause unreasonable costs to us, we may terminate your right to use the infringing EH Platform content or service and we will reimburse the corresponding proportion of prepaid subscription fees for the terminated EH Platform content or service on a pro-rata basis.
+
+3. We are not liable to you under this clause if the Infringement Claim results from:
+
+3.1 use of the EH Platform in violation of the EH Platform Terms or against our written instructions;
+
+3.2 alteration of the EH Platform service or content by you (or if you are an Organisation, your Organisation Users) where this is not authorised by us in writing;
+
+3.3 our compliance with your (or if you are an Organisation, your Organisation User’s) express written instructions; or
+
+3.4 use of the EH Platform in combination with any product or service that is not provided by us or is not a Third Party Service, if the EH Platform would not cause the infringement without such combination.
+27. Excluded liability
+
+1. Subject to clause 29 and to the maximum extent permitted by law, in no event will any party be liable to the other party for any:
+
+1.1 loss of revenue or profit, loss of goodwill, loss of customers, loss of capital, loss of anticipated savings, legal, tax or accounting compliance issues, damage to reputation, loss in connection with any other contract, or indirect, consequential, incidental, punitive, exemplary or special loss, damage or expense;
+
+1.2 delay or failure to perform its obligations under the EH Platform Terms (except for an obligation to pay fees) due to events that are beyond its reasonable control, including failure of power, telecommunications or data networks, natural disasters, government orders, strikes, wars, epidemics or pandemics; or
+
+1.3 loss, damage or cost incurred by the other party in connection with a breach by the other party of the EH Platform Terms, or any other applicable terms and conditions.
+
+2. loss, damage or cost incurred by the other party in connection with a breach by the other party of the EH Platform Terms, or any other applicable terms and conditions.
+
+2.1 loss or corruption of Your Data caused in any way other than by our wilful misconduct or gross negligence, although in these circumstances we will take reasonable steps to attempt to recover Your Data from our available backups; or
+
+2.2 for any acts or omissions of a third party provider or their Third Party Services, including those providing implementation services.
+28. Limitation on liability that is not excluded
+
+1. Subject to clause 29 and to the maximum extent permitted by law, the total cumulative liability of each party for all loss, damage, cost or expenses (including legal costs) suffered by the other party for all claims of any kind in connection with these General Terms, that is not otherwise excluded under clause 27, is limited, in aggregate total, to:
+
+1.1 if you are a Paid Organisation, the Subscription Fees paid or payable by you to us in the 12 months immediately before the date the claim arose; or
+
+1.2 if you are not a Paid Organisation, A$100.
+29. When the exclusions and limitations on liability won’t apply
+
+The exclusion of liability under clauses 27 and 28 do not apply to liabilities arising out of your indemnification obligations under these General Terms or your breach of the EH Platform Rules.
+30. Limitations on liability apply to our affiliates
+
+You acknowledge that the limitations and exclusions of liability contained in the EH Platform Terms apply equally and cumulatively to us and our affiliates, including but not limited to parent, subsidiary and related entities and their officers, directors, employees and agents. Any references to our limitation of liability under clause 27 and 28 are deemed to include our affiliates to the fullest extent permitted by law.
+31. Disclaimer about content on the EH Platform and professional advice
+
+1. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the content contained on the EH Platform for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+2. No part of the EH Platform is intended to provide you with professional advice. We may provide you with information that we think is helpful to you or provide you with tools to assist with compliance, as part of the EH Platform or otherwise, but these should not be seen as a substitute for professional advice, and we will not be liable for your use of the information or tools in that way. You are responsible for complying with the laws and other requirements that apply to your business and you should obtain separate professional advice where required.
+32. Our AI Services
+
+You agree and acknowledge that the EH Platform may include products and services that incorporate artificial intelligence, machine learning and large language models (AI Services) as set out in our AI Services Statement, and that these services are subject to ongoing development and optimisation. 
+33. Additional services, new products and account upgrades
+
+1. We may agree with you to provide additional products or services related to the EH Platform including implementation services, data cleansing services, advisory services, development of template documents or employee services. Such services will be subject to the EH Platform Terms and any additional terms that are notified to you before we provide the services.
+
+2. We’re always looking to expand and improve the EH Platform to provide you with new or updated features. We will notify you of any Feature Specific Terms for these new features before you start using them.
+
+3. Fees payable by you for any such additional products and services we provide will be set out in your Customer Agreement or otherwise in the Feature Specific Terms for that product or service.
+34. Beta, pre-release and trial features
+
+1. We may make trial, pre-release or beta versions of new products or services available to you. Your use of these will be subject to any additional terms that we specify from time to time.
+
+2. You agree that pre-release and beta products or services may be inoperable or incomplete, and may contain errors or bugs, and that you use any pre-release or beta versions of products or services at your own risk.
+
+3. You also agree that we may terminate your access to trial, pre-release or beta features at our discretion without liability to you.
+35. Third party services
+
+1. Some of the products and services available through the EH Platform are provided by third party providers (Third Party Services).
+
+2. Your use of any Third Party Service is at your discretion, and is subject to any additional terms and conditions that apply to that Third Party Service. You are responsible for reviewing and agreeing to such third party terms and conditions including how the Third Party Service may use Your Data. If you do not agree to the terms and conditions that apply to a Third Party Service, then we may suspend or cancel your account or limit the relevant functionality.
+
+3. Unless we otherwise specifically state, we do not endorse or make any warranties or representations about any Third Party Services.
+36. Reseller Organisations
+
+1. If you are a Reseller Organisation, then you must comply with the EH Platform Terms that apply to you as well as any terms in your reseller’s agreement. Resellers are not authorised to make promises or warranties on our behalf, and to the extent permitted by law, we are not bound by any obligations to you other than those specified in the applicable EH Platform Terms.
+
+2. Reseller Organisations are supported and their accounts are managed by their reseller. Resellers can support and assist Reseller Organisations with the EH Platform.
+37. General
+
+1. Publicity rights: We may refer to Organisations as an Employment Hero customer on the EH Websites or in our promotional materials. You may ask that we stop doing this by submitting a support request here. It may take up to 30 days to process your request.
+
+2. Notices: Any notices to us under the EH Platform Terms must be sent via a support request here. We may send legal notices to you by email to the email address you have provided to us or through the notification functionality in the EH Platform.
+
+3. Assignment and transfer: The rights given to you under the EH Platform Terms are personal and must not be assigned or transferred without our prior written consent. In your case, we will not unreasonably refuse our consent if the assignee agrees to be bound by the EH Platform Terms and we do not consider them to be a financial or other risk. You agree that we may assign, novate or otherwise transfer our rights and obligations under the EH Platform Terms (in whole or in part) by notice to you without your further consent.
+
+4. Independent parties: We are independent contractors. Unless the parties explicitly agree in writing otherwise, nothing in the EH Platform Terms are to be interpreted as forming a partnership, joint venture, franchise, agency, fiduciary or employment relationship between us and you, or as forming any other type of legal association that would give you the right, power or authority to bind or create any duty or obligation of ours.
+
+5. Survival of terms: Any terms that by their nature should continue to apply after termination of the EH Platform Terms will continue to apply.
+
+6. Governing law and jurisdiction: The laws that govern these EH Platform Terms, and the courts that will have jurisdiction in regard to any matters or disputes arising from your engagement with us, will depend on the location in which you are based.
+
+6.1 If you are based in Australia, or any region not mentioned below – the EH Platform Terms will be governed by the laws of New South Wales, Australia, and the parties will be subject to the exclusive jurisdiction of the courts of New South Wales, Australia
+
+6.2 If you are based in Canada – the EH Platform Terms will be governed by the laws of the Province of Ontario, and the federal laws of Canada, and the parties will be subject to the non-exclusive jurisdiction of the courts of the Province of Ontario.
+
+6.3 If you are based in the United Kingdom – the EH Platform Terms will be governed by the laws of England and Wales, and the parties will be subject to the non-exclusive jurisdiction of the courts of England and Wales.
+
+6.4 If you are based in New Zealand – the EH Platform Terms will be governed by the laws of New Zealand, and the parties will be subject to the non-exclusive jurisdiction of the courts of New Zealand.
+
+7. Complaints and disputes: If you have any concerns or complaints about us or the EH Platform, please contact us by submitting a support request here. If you and we have a dispute or claim arising out of related to the EH Platform Terms or the EH Platform, the disputing parties must consult and negotiate in good faith to resolve the matter. If they are not able to reach a settlement within 60 days, then either party may commence legal proceedings.
+
+8. Severability: If any part or provision of the EH Platform Terms is invalid, unenforceable or in conflict with the law, that part or provision is replaced with a provision which, as far as possible, accomplishes the original purpose of that part or provision. The remainder of the EH Platform Terms will be binding on the parties.
+
+9. Jurisdiction specific terms: Laws may apply to you (or if you are an Organisation, your Organisation Users) or to us as a result of your specific location. If this is the case, and if those laws are inconsistent with any part of the EH Platform Terms, those laws will prevail to the extent of the inconsistency.
+Appendix A
+Terms for Employment Hero Recognition and Hero Points
+1. How and when these terms apply
+
+1. These terms apply to Organisations and Users in Australia that purchase or have been awarded Hero Points through the EH Platform. Hero Points can be accessed through the EH Platform, including through the Money and Benefits features in a User’s EH Work app. These terms also apply to Users who have been awarded Hero Points either by an Organisation or by us.
+
+2. These terms supplement the General Terms above. The General Terms will apply to these terms except where these terms conflict with the General Terms. Where a term is defined in our General Terms, that term when capitalised, will have the same meaning in these terms.
+2. What are Hero Points?
+
+Hero Points are reward points issued by us or by Organisations to Users for a variety of reasons.
+3. Purchase and award
+
+1. Organisations may purchase Hero Points, which they may award to Users through the EH Platform at their discretion. Organisations may create award categories within the EH Platform to determine the Hero Point value to be awarded to Users.
+
+2. We may issue Hero Points to Organisations or Users at our sole discretion.
+
+3. Once Hero Points have been awarded to a User, the transaction cannot be reversed or cancelled by the Organisation or by us.
+4. Redeeming Hero Points
+
+1. Hero Points may only be redeemed by Users through the EH Platform, including a User’s EH Work app.
+
+2. Transaction fees may apply for some methods of redeeming Hero Points. Any transaction fees that apply will be communicated to Users before selecting a redemption method, and are not refundable after the Hero Points are redeemed.
+
+3. Hero Points are not redeemable for cash and are not refundable once purchased unless required by applicable laws.
+
+4. Where Hero Points are redeemed using a User’s Swag Visa Debit card, the redemption cannot be reversed or cancelled by us.
+
+5. Only Users in Australia and the United Kingdom have the ability to redeem Hero Points through the EH Platform and the EH Work app marketplace and other features. Hero Points that are awarded to Users outside of Australia or the United Kingdom cannot be redeemed.
+
+6. Hero Points that are awarded to users in Australia cannot be redeemed in the United Kingdom, and Hero Points awarded to Users in the United Kingdom cannot be redeemed in Australia.
+
+7. Hero Points cannot be used by an Organisation to pay for EH Platform Subscription Fees or other fees for services we provide.
+5. Maintaining Hero Point balances and when they expire
+
+1. To maintain an Organisation’s Hero Point balance, the Organisation must purchase Hero Points or make an award to a User (Hero Point Activity) at least once in every 24 month period. After 24 months from the date of the last Hero Point Activity we may cancel any Hero Points that remain unused in an Organisation’s account.
+
+2. Once allocated to a User, Hero Points will be valid for 24 months from their date of allocation. If they are not used within that period, we may cancel the relevant Hero Points at our sole discretion.
+
+3. If you terminate your EH Platform account we may cancel any Hero Points that remain unused.
+6. Termination of program
+
+1. We may terminate the Hero Points program by notifying you.
+
+2. If we terminate the program under this clause you will have 90 days from the date of termination to award and redeem any outstanding Hero Points. At the end of the 90 day period, all Hero Point balances will be cancelled and you will no longer be able to award or redeem Hero Points.
+7. Suspension or cancellation
+
+1. We may suspend your EH Platform account and cancel any Hero Points at our sole discretion if you breach these terms or the General Terms or if we reasonably suspect you are operating your EH Platform account fraudulently.
+8. Tax
+
+1. Organisations are responsible and liable for any tax liability, stamp or other duty or other government charge or reporting requirement in connection with or on any benefit derived by the Organisation or its Organisation Users arising from the use of Hero Points, the EH Platform or the Employment Hero Discounts features.
+
+2. We recommend that Organisations seek professional advice in respect of your specific situation, including possible fringe benefit tax or other tax implications. We don’t provide advice, assurances or warranties in respect of any liability arising in respect of the Hero Points program or the issuance of Hero Points.

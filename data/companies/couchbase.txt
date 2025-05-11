@@ -1,0 +1,54 @@
+1. General
+These terms of use (“Terms”) govern your access to and use of all Couchbase-branded websites (collectively, the “Website”), including the website located at https://www.couchbase.com/ and all associated websites linked to https://www.couchbase.com/ by Couchbase, Inc. and its subsidiaries and affiliates (collectively, “Couchbase”), including any website you use to access Couchbase products or services (“Services”). By accessing and using the Website, you agree to these Terms. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE WEBSITE.
+
+Couchbase reserves the right to modify, remove, or add to these Terms at any time at its sole discretion. Couchbase may amend these Terms at any time by posting amended terms on the Website. If you continue to use the Website after Couchbase posts amended terms, you agree such use demonstrates your acceptance of any updated Terms.
+
+2. Privacy Policy
+Please review the Couchbase Privacy Policy (“Privacy Policy“) which also applies to your use of the Website. The Privacy Policy is hereby incorporated into these Terms.
+
+3. Ownership of Website
+The content of this website, including all text, user interfaces, graphics, and features (“Content”) is owned by or licensed to Couchbase and protected by United States and international copyright and various other intellectual property rights and unfair competition laws. Couchbase and its licensors retain all proprietary rights to such Content. You may not copy, reproduce, distribute, translate, transmit, or distribute in any way the Content without the prior written permission of Couchbase.
+
+If you believe that your intellectual property has been copied in a way that could constitute copyright infringement, you (or your agent) may contact Couchbase as described below in “Contact Couchbase.”
+
+4. Trademarks
+The trademarks, logos, and service marks (“Marks”) displayed on the Website, including “Couchbase” and the couch logo, are the property of Couchbase or third parties. You may not use the Marks without prior written consent from Couchbase (or, as applicable, the third party). Please review the Couchbase Trademark Policy for more information about permitted uses.
+
+5. License: Your Use of the Website
+Couchbase grants you a limited, non-transferable, non-exclusive license to access and make personal use of the Website, including the Content, subject to these Terms and the Couchbase Community Guidelines. The Website and any part of it may not be reproduced, copied, framed, or otherwise exploited for any commercial purpose without the express prior written consent of Couchbase. You may use materials on Couchbase Services purposely made available on the Website in connection with your use of the Services (including materials made available via the “Resource Center”) provided that you do not remove any proprietary notice included in such materials, do not make any modifications to such materials, and do not make any additional representations or warranties with respect to these materials. However, you may not use any “scrape” or similar automatic device, tool, methodology, or process to access, copy, monitor, reproduce, or obtain any Content or the Website.
+
+Your access to and use of the Website and any Services are subject to all applicable local, state, national, and international laws and regulations. You agree not to violate such laws and regulations. Additionally, you agree that you will not: scan or test the Website or any network connected to the Website; trace or record, or seek to trace or record, any information on any other visitor to the Website; use any device, software or tool to interfere with the proper working of the Website; or otherwise use the Website or Content for any unlawful purpose, illegal activity, activity which infringes on the rights of Couchbase or any third party, or activity otherwise prohibited by these Terms.
+
+Couchbase may make available features on the Website that allow you to provide feedback, ask questions, or otherwise submit messages, text, content, or similar material (“Submissions”). By providing any Submission, you acknowledge that such Submission is non-confidential and you automatically grant Couchbase a perpetual, irrevocable, worldwide, non-exclusive, and royalty-free right and license to use and exploit the Submission in any fashion, including in connection with providing the Services to third parties. You warrant that you have all the rights necessary to grant this license to Couchbase and that all so-called moral rights in such Submission have been waived. You are solely responsible for any Submissions you provide.
+
+Couchbase reserves the right to modify, suspend, or terminate access to the Website, or any portion or feature of the Website, at any time for any reason. Furthermore, Couchbase reserves the right, but does not have any obligation, to monitor Submissions, Content, and the Website to determine compliance with these Terms. Couchbase the sole right to refuse to post or to remove any material that Couchbase finds to be in violation of these Terms or is otherwise in violation of the Couchbase Community Guidelines.
+
+6. Use of Software
+Additional terms and conditions may apply to your access to Services made available to you via the Website. To the extent that Couchbase provides for the download of Couchbase software and/or open-source software from the Website (“Software”), such Software is protected by the applicable copyright, patent, or other intellectual property rights of either Couchbase or the open-source licensor, respectively. Any use of the Software is subject to the terms of the applicable license agreement made available with the Software. To the extent there is a conflict between these Terms and the terms which apply to the Software, the latter shall control with respect to your use of the Software.
+
+7. Links to Third Party Websites
+The Website may contain links to third party websites (“Third-Party Websites”) for your convenience and information. Couchbase does not control and is not responsible for the content of Third-Party Websites, and any links should not be interpreted to imply endorsement by Couchbase of the Third-Party Websites. The information collected by any Third-Party Websites is not covered by Couchbase’s Privacy Policy.
+
+8. Disclaimer and Limitation of Liability
+THE WEBSITE IS PROVIDED BY COUCHBASE ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU ASSUME ALL RESPONSIBILITY FOR YOUR USE OF THE WEBSITE AND ANY THIRD-PARTY WEBSITES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COUCHBASE MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE WEBSITE OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED ON THE WEBSITE. EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW, IN NO EVENT WILL COUCHBASE BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL LOSSES OR DAMAGES OF WHATSOEVER KIND ARISING OUT OF ACCESS TO OR USE OF THE WEBSITE OR ANY INFORMATION, CONTENT, OR MATERIALS INCLUDED ON OR LINKED FROM THE WEBSITE, EVEN IF COUCHBASE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Notwithstanding the above limitation of liability, if Couchbase is found to be liable to you for any losses or damages which arise from your use of the Website, Couchbase’s liability shall in no event exceed $100 USD, except to the extent prohibited by applicable law.
+
+9. Indemnity
+You agree to indemnify Couchbase, its officers, directors, employees, affiliates, and successors in interest and hold them harmless from any demands, loss, liability, claims, or expenses made against Couchbase by any third party due to your use of the Website.
+
+10. Applicable Law and Jurisdiction
+These Terms shall be governed by the laws of California, USA and you agree to submit to the non-exclusive jurisdiction of the courts of Santa Clara County, California, USA regarding any disputes arising under or in connection with these Terms.
+
+11. Miscellaneous
+Subject to Section 6 above, these Terms constitute the entire agreement regarding your use of the Website. If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision of these Terms will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect. The failure by Couchbase to enforce any provision of these Terms will not constitute a waiver of future enforcement of that or any other provision. These Terms shall not be interpreted to confer any rights or remedies on any third party.
+
+12. Contact Couchbase
+If you believe in good faith that your intellectual property has been infringed by the Website (including any Content), please provide the following information to the Couchbase Headquarters location listed at https://www.couchbase.com/contact/, care of the Couchbase Legal Department:
+A. A description of your copyrighted work or other intellectual property that you believe has been infringed.
+B. A description of the material that you believe infringes such copyrighted work or other intellectual property.
+C. The physical mailing address, telephone number, and email address where the alleged infringing party can contact you.
+D. The following statement: “I have a good faith belief that use of the copyrighted materials described above as allegedly infringing is not authorized by the copyright owner, its agent, or the law. I swear, under penalty of perjury, that the information in the notification is accurate and that I am the copyright owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.”
+E. Your electronic or physical signature.
+
+To contact Couchbase for any other reason, please visit the Contact Us page.

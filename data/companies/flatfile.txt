@@ -1,0 +1,90 @@
+If you signed a separate Order Form to access the Product with the same account, and that agreement has not ended, the terms below do not apply to you. Instead, your separate Order Form applies to your use of the Product.
+
+This Agreement is between Flatfile, Inc. and the company or person accessing or using the Product. This Agreement consists of: (1) the Order Form and (2) the Key Terms, both of which are on the Cover Page below, and (3) the Common Paper Cloud Service Agreement Standard Terms Version 1.0 (“Standard Terms”). Any modifications to the Standard Terms made in the Cover Page will control over conflicts with the Standard Terms. Capitalized words have the meanings or descriptions given in the Cover Page or the Standard Terms.
+
+If you are accessing or using the Product on behalf of your company, you represent that you are authorized to accept this Agreement on behalf of your company. By signing up, accessing, or using the Product, Customer indicates its acceptance of this Agreement and agrees to be bound by the terms and conditions of this Agreement.
+Cover Page
+
+Order Form
+
+Cloud Service: The Flatfile Data Exchange Platform ("Platform") is a cloud-based solution that provides companies and their software development teams with the easiest, fastest, and safest way to build the ideal data file import experience for their users. This agreement covers use of the Flatfile API, developer toolkits ("SDK"), and dashboard ("App").
+
+Subscription Start Date: The Effective Date
+
+Subscription Period: 1 month(s)
+
+Non-Renewal Notice Period: At least 30 days before the end of the current Subscription Period.
+
+SLA: The Services shall be available 99.8%, measured monthly. If Customer requests maintenance, any uptime or downtime calculation will exclude periods affected by such maintenance. Further, any downtime resulting from outages of third party connections or utilities, or Customer's custom configuration of the Services, or other reasons beyond Company's control will also be excluded from any such calculation. Downtime shall begin to accrue as soon as Customer (with notice to Company) recognizes that downtime is taking place, and continues until the availability of the Services is restored. In order to receive downtime credit, Customer must notify the Company in writing within 5 business days from the time of downtime, and failure to provide such notice will forfeit the right to receive downtime credit. Customer's sole and exclusive remedy, and Company's entire liability, in connection with Service availability shall be that for each period of downtime lasting longer than one hour, Company will credit Customer 10% of Service fees for each period of 30 or more consecutive minutes of downtime. Such credits may not be redeemed for cash and shall not be cumulative beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any event. Company will only apply a credit to the month in which the incident occurred. Company's blocking of data communications or other Service in accordance with its policies shall not be deemed to be a failure of Company to provide adequate service levels under these Terms.
+
+Technical Support: Company will provide Standard Technical Support to Customers on weekdays during the hours of 8:00 am through 8:00 pm Eastern Time, with the exclusion of United States Federal Holidays (“Support Hours”). All issues are to be resolved, using commercially reasonable efforts, with an immediate response and resolution aligned to the business expectations of the customer. Customer may initiate a request ticket at any time using support@flatfile.com or a chat form hosted on flatfile.com/docs and within the App. 
+
+Cloud Service Fees: 
+
+Section 5.2 of the Standard Terms is replaced with: Certain parts of the Product have different pricing plans, which are available at Provider’s pricing page (https://flatfile.com/pricing/). Within the Payment Period, Customer will pay Provider fees based on the Product tier selected at the time of account creation and Customer’s usage per Subscription Period. Provider may update Product pricing by giving at least 30 days notice to Customer (including by email or notification within the Product), and the change will apply in the next Subscription Period.  
+
+Payment Period: 5 day(s) from the last day of the Subscription Period
+
+Invoice Period:  Monthly 
+
+Key Terms
+
+Customer: The company or person who accesses or uses the Product. If the person accepting this Agreement is doing so on behalf of a company, all use of the word "Customer" in the Agreement will mean that company.
+
+Provider: Flatfile, Inc.
+
+Effective Date: The date Customer first accepts this Agreement.
+
+Covered Claims:
+
+Provider Covered Claims: Any action, proceeding, or claim that the Cloud Service, when used by Customer according to the terms of the Agreement, violates, misappropriates, or otherwise infringes upon anyone else’s intellectual property or other proprietary rights.
+
+Customer Covered Claims: Any action, proceeding, or claim that (1) the Customer Content, when used according to the terms of the Agreement, violates, misappropriates, or otherwise infringes upon anyone else’s intellectual property or other proprietary rights; or (2) results from Customer’s breach or alleged breach of Section 2.1 (Restrictions on Customer).
+
+General Cap Amount:
+
+The greater of $1,000.00 or 1 times the fees paid or payable by Customer to provider in the 12 month period immediately before the claim
+
+Governing Law:  The laws of the State of Delaware 
+
+Chosen Courts: The state or federal courts located in Delaware 
+
+Notice Address:
+
+For Provider: support@flatfile.com
+
+For Customer: The main email address on Customer's account 
+
+Insurance Minimums:
+
+    Commercial general liability with a minimum limit for each occurrence of at least $1,000,000.00 and at least $5,000,000.00 in the aggregate
+
+    Worker's compensation insurance as required by Applicable Law.
+
+    Errors and omissions or professional liability with a minimum limit for each occurrence of at least $1,000,000.00 and at least $5,000,000.00 in the aggregate
+
+    Cyber liability with a minimum limit for each occurrence of at least $1,000,000.00 and at least $5,000,000.00 in the aggregate
+
+Changes to the Standard Terms
+
+Publicity Rights: Modifying Section 14.7 of the Standard Terms, Provider may identify Customer and use Customer’s logo and trademarks on Provider’s website and in marketing materials to identify Customer as a user of the Product. Customer hereby grants Provider a non-exclusive, royalty-free license to do so in connection with any marketing, promotion, or advertising of Provider or the Product during the length of the Agreement.
+
+PROTECTED DATA; METADATA; DATA USE.
+
+Define Terms.
+
+“Protected Data” means information, data and other content, in any form or medium, that is collected, downloaded or otherwise received, directly or indirectly from a User by or through the Services. Notwithstanding anything contained in these Terms, any information that identifies or can be reasonably used to identify an individual person or Customer shall be considered Protected Data.
+
+“Metadata” means information regarding data schemas, validation, labeling, mapping, patterns, formats, file name, file size, file types, encoding, data types, correlations, timing, and file structure. Notwithstanding anything contained in these Terms, Metadata shall not contain (i) any Protected Data, (ii) any Confidential Information of Customer, (iii) any information that identifies or can be reasonably used to identify an individual person, or (iii) any information that identifies or can be reasonably used to identify Customer or its affiliates and their suppliers.
+
+Section 15.21 of the Standard Terms (definition of “Prohibited Data”) is hereby replaced with the following:
+
+“Sensitive Data” means personal information revealing (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws, including any security or access code, password, or credentials allowing access to an account; an individual’s precise geolocation; an individual’s racial or ethnic origin, religious or philosophical beliefs, or union membership; the contents of an individual’s mail, email, and/or text messages unless the business is the intended recipient of the communication; any information triggering or requiring notice to individuals if subject to a compromise of confidentiality, integrity, or availability; or an individual’s biometric or genetic data.
+
+Limited License to Protected Data. Customer hereby grants to Flatfile a non-exclusive, limited license to process, store, and display Protected Data solely to the extent reasonably required for the performance of Flatfile’s obligations and for no other purpose.
+
+Section 4.2 of the Standard Terms, including the numbering and subsection name, is hereby replaced with the following:
+
+4.2 Sensitive Data. Customer is solely responsible to limit its provision of Sensitive Data to the Services in compliance with law, and based on Customer’s review of all the terms and conditions made available by Flatfile. Notwithstanding any other term of this agreement, Customer acknowledges that Flatfile shall have no obligations to Customer under this or any other agreement with Customer with respect to the protection or processing of Sensitive Data except as expressly set forth in (a) section 4 of the Standard Terms, (b) the Flatfile Data Processing Agreement, if entered into and agreed by the parties, and/or (c) as set forth in terms expressly referring to “Sensitive Data.”
+
+Metadata. Customer acknowledges and agrees that all Metadata shall be owned by Flatfile and may be used by Flatfile for any lawful purpose, including, for example, for the purposes of statistical analysis, trend analysis, creation of data models, product innovation and enhancements to current products, and creation of statistical rules.

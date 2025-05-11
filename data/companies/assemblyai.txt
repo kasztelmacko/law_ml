@@ -1,0 +1,475 @@
+Welcome to AssemblyAI. Before accessing or using our Services, please read and agree to the following Terms of Service.
+
+‍
+
+This Terms of Service (or Master Services Agreement), together with any referenced exhibits, addenda, amendments, and Order Forms (“TOS”) forms an agreement between AssemblyAI, Inc. (“AssemblyAI”, “us”, “we”, "our”) and you as an individual, or the organization, company, or other entity that you represent (“Customer”, “you", “your”, “yours”). Each party to this TOS may be individually referred to as a “Party” and collectively as the “Parties”.
+
+‍
+
+This TOS applies to any Services made available to Customer through any means by AssemblyAI. You may not enter into this TOS on behalf of an organization, company, or entity unless you have the legal authority to bind that entity.
+
+‍
+
+Customer agrees to this TOS effective on the earliest date that it a) consents to a version of this TOS, including by clicking the terms of service checkbox or other mechanism provided within the online registration processor; or b) accesses or uses the Services (“Effective Date”).
+
+‍
+
+AssemblyAI may revise or remove any part of this TOS in its sole discretion at any time without prior notice to Customer, except where legally prohibited or otherwise agreed in writing by the Parties. Customer’s continued use after a modification has been posted constitutes Customer’s acceptance of the change.
+1. DEFINITIONS
+
+1.1Acceptable Use Policy. “Acceptable Use Policy” or “AUP” means the policy covering permitted and prohibited uses of the Platform, herein incorporated in its entirety, provided by AssemblyAI and available at https://www.assemblyai.com/legal/acceptable-use-policy.
+
+‍
+
+1.2Account Portal. "Account Portal" means the Customer's account home site, dashboard, billing portal, and related access point for Customer AssemblyAI Services account information (available at http://assemblyai.com/dashboard/account/billing).
+
+‍
+
+‍1.3Applicable Law. “Applicable Law” means all laws and regulations applicable to a Party’s use of the Services.
+
+‍‍
+
+1.4AssemblyAI. “AssemblyAI” is AssemblyAI, Inc., located, as of the Effective Date, at 2261 Market Street #4577, San Francisco, California 94114; and email for notices legal@assemblyai.com.
+
+‍
+
+1.5BAA. “BAA” is a Business Associate Agreement, as defined under HIPAA. A template example of AssemblyAI’s BAA is available at https://www.assemblyai.com/legal/business-associate-agreement.
+
+‍
+
+1.6Business Hours. “Business Hours” are as stated within the Support Home Site (available at (available at http://support.assemblyai.com), unless otherwise specified herein or in an applicable Order Form.
+
+‍
+
+1.7Claim. A “Claim” is a claim, demand, suit, or proceeding made or brought against a Party by a third party, not including Excluded Claims.
+
+‍
+
+1.8Confidential Information. “Confidential Information” is any information disclosed by a Discloser to a Recipient that is identified as confidential at the time of disclosure or that a reasonable person would consider, from the nature of the information and the circumstances of the disclosure, to be confidential. Confidential Information does not include Feedback, or information that (i) at the time of disclosure or thereafter becomes generally known to the public through no fault of the Recipient; (ii) was already known by the Recipient prior to disclosure by the Discloser, as shown by the Recipient’s business records; (iii) is at any time independently developed by the Recipient, as shown by the Recipient’s business records; or (iv) is disclosed to the Recipient by a third party which did not directly or indirectly obtain such data or information from the Discloser subject to any confidentiality obligation.
+
+‍
+
+1.9Content. “Content” includes Documentation, the information publicly available at AssemblyAI’s website, marketing collateral, and other information released by AssemblyAI concerning the Services or any aspect or component thereof.
+
+‍
+
+1.10Customer. The “Customer” is the individual or entity executing an Order Form which is subject to this TOS.
+
+‍
+
+1.11Customer Data. “Customer Data” is any electronic information provided to AssemblyAI by Customer in connection with Customer’s use of the Platform.
+
+‍
+
+1.12Customer Materials. “Customer Materials” includes Customer Data, documents, Inputs, Outputs, software, and other information or materials provided to AssemblyAI by Customer in connection with Customer’s use of the Platform.
+
+‍
+
+1.13Discloser. A “Discloser” is a Party which discloses Confidential Information to a Recipient.
+
+‍
+
+1.14Documentation. The “Documentation” is the collection of digital instructions, online help files, and user manuals made available to Customer by AssemblyAI concerning the use of the Platform on https://www.assemblyai.com/docs.
+
+‍
+
+1.15Downtime. “Downtime” is an interval during which the relevant Services are inoperable or unavailable to Customer due to a failure in those Systems that are within the control of AssemblyAI. Downtime does not include periods when such Services are unavailable or operating slowly due to Regularly-Scheduled Maintenance, Scheduled Maintenance, or a Force Majeure Event.
+
+‍
+
+1.16DPA. The “DPA” is the Data Protection Agreement, herein incorporated in its entirety, provided by AssemblyAI and available at https://www.assemblyai.com/legal/data-processing-addendum.
+
+‍
+
+1.17Excluded Claim. An “Excluded Claim” is a claim against AssemblyAI which is based in whole or significant part on (i) compliance with designs, guidelines, plans, or specifications provided by Customer; (ii) use of the Platform by Customer in a manner that does not comply with this TOS; (iii) modification of the Platform by or on behalf of Customer; (iv) Customer Data, including Customer’s Confidential Information; or (v) the combination, operation, or use of the Platform with other products or services.
+
+‍
+
+1.18EU AI Act. “EU AI Act” means the EU AI Act (EU) 2024/1689 together with any national implementing laws in any member state of the European Economic Area.
+
+‍
+
+1.19Feedback. “Feedback” is a suggestion or comment concerning possible enhancements or improvements, new features or functionality, or other modifications to the Platform, which may be voluntarily and gratuitously provided to AssemblyAI by Customer from time to time during the term of this TOS. For avoidance of doubt, Feedback does not include Customer Materials
+
+‍
+
+1.20Force Majeure Event. A “Force Majeure Event” is a circumstance or situation caused by forces beyond a Party’s reasonable control, including but not limited to earthquakes, floods, or other natural disasters, labor controversies, civil disturbances, terrorism, wars (whether or not officially declared), cyber or denial-of-service attacks, embargoes, changes in or adoption of laws, regulations, or decrees, or other governmental action.
+
+‍
+
+1.21HIPAA. “HIPAA” means the Health Insurance Portability and Accountability Act of 1996 (as amended, the “HIPAA Act”), and the Privacy Standards and Security Standards and other rules and regulations promulgated thereunder, the Health Information Technology for Economic and Clinical Health Act (“HITECH Act”), and the rules and regulations promulgated thereunder (HIPAA Act, HITECH Act, the Privacy Standards, the Security Standards and such other rules and regulations, collectively, “HIPAA”).
+
+‍
+
+1.22Indemnified Party. An “Indemnified Party” is the Party, including its subsidiaries, affiliates, officers, agents, and employee, which is indemnified by the Indemnifying Party.
+
+‍
+
+1.23Indemnifying Party. An “Indemnifying Party” is the Party which indemnifies the Indemnified Party.
+
+‍
+
+1.24Input. An “Input” is a Customer-provided prompt, script, query, or other input to the Platform which generates an Output.
+
+‍
+
+1.25Internal Use. “Internal Use” is the use of Use Data by AssemblyAI for its internal business purposes.
+
+‍
+
+1.26Non-Platform. “Non-Platform” is any third-party, Customer-developed, or Customer-provided software application or service which integrates with the Platform but is separable from the Platform.
+
+‍
+
+1.27Order Form. An “Order Form” is an order form, quote, or other similar ordering document that identifies key information including the Products which AssemblyAI will provide to Customer, the pricing for such features or functionality, the product and payment conditions, and the term. An Order Form must reference this TOS and be signed or otherwise duly executed by both Parties. The Exhibit A Order Form is incorporated into and applies to this TOS exclusively limited only for default Customer accounts created on the AssemblyAI website. Any other Order Form separately agreed to, or otherwise executed, between the Parties nullifies and supersedes Exhibit A, unless the Parties agree otherwise.
+
+‍
+
+1.28Output. An “Output” is information generated by the Platform in response to an Input. The specific information which constitutes an Output may vary by Product, as defined by a) through c) below. Information generated by the Platform which is not Output as per items a) through c) below is deemed to be System Data:
+
+‍‍
+
+a.Asynchronous Core Transcription. Output is a transcript file produced by the Platform.
+
+‍
+
+b.Real-Time Core Transcription. Output is the transcription streamed with low latency in response to spoken Input.
+
+‍
+
+c.Audio Intelligence. Output is generated data made directly available to Customer and specific to a given Audio Intelligence feature.
+
+‍
+
+‍1.29Overdue Amount. The “Overdue Amount” is the sum of fees owed by Customer to AssemblyAI five (5) or more days after the applicable due date(s) for such fees.
+
+‍
+
+1.30Platform. The “Platform” is a cloud-based transcription, real-time streaming, and audio intelligence platform comprised of several Products, developed by AssemblyAI, and provided to Customer pursuant to this TOS. Third-party hosting services used by AssemblyAI and software tools and code libraries incorporated into the Platform, and not separable from it by Customer, are deemed to be part of the Platform. Other products, services, software tools, or code libraries, are not part of the Platform.
+
+‍
+
+1.31Pre-GA Product. A “Pre-GA Product” is a product, feature, service, or other content that AssemblyAI makes available to Customer, but which is identified as an “Alpha” or “Beta” version, “Pre-GA” or “Pre-Release”, or another identifier that indicates that the item is not yet generally-available.
+
+‍
+
+1.32Product. A “Product” is one of several applications comprising and supported by the Platform, and inter-relating with other Products. Products currently available, as of the Effective Date, on the Platform are Core Transcription (including asynchronic, and real-time streaming), Audio Intelligence, and LeMUR, although (except as may be otherwise provided in this TOS) AssemblyAI reserves its right to (in its sole discretion) add, remove, or modify Products at any time.
+
+‍
+
+1.33Protected Health Information. “Protected Health Information” means as defined in 45 CFR § 160.103.
+
+‍
+
+1.34Recipient. A “Recipient” is a Party which receives Confidential Information from a Discloser.
+
+‍
+
+1.35Regularly-Scheduled Maintenance. “Regularly-Scheduled Maintenance” is maintenance which AssemblyAI performs from time to time during pre-defined maintenance windows, outside Business Hours, in order to maintain the performance and stability of the Platform.
+
+‍
+
+1.36Scheduled Maintenance. “Scheduled Maintenance” is maintenance which AssemblyAI will perform from time to time after providing Customer with at least twenty-four (24) hours notice beforehand. Where reasonable and appropriate, AssemblyAI shall make good faith efforts to perform Scheduled Maintenance outside of Business Hours.
+
+‍
+
+1.37Services. “Services” refers to the services to be provided by AssemblyAI to Customer pursuant to this TOS, and may include the Platform, one or more Products, related Support Services, and other services as described in applicable Order Forms.
+
+‍
+
+1.38Service Credit. A “Service Credit” is a credit of one percent (1%) of Customer’s monthly invoice, provided for each non-prorated hour of Downtime in excess of the Service Level Guarantee.
+
+‍
+
+1.39Service Level Guarantee. The “Service Level Guarantee” is that the Platform will not have Downtime in a given calendar month exceeding one-tenth of one percent (0.1%), calculated as (Downtime/[total time in given calendar month])*100.
+
+‍
+
+1.40Support Services. “Support Services” are the technical support services AssemblyAI makes available to Customer.
+
+‍
+
+1.41System. “System” means any system, network, platform, database, computer, facility, application, software, hardware, interface, development or performance testing tool, telecommunications equipment, cabling, storage device, or other technology used in connection with the Services.
+
+‍
+
+1.42System Data. “System Data” is data collected by AssemblyAI that may be used to generate logs, statistics, or reports concerning the performance, availability, usage, integrity, or security of the Platform. System Data does not include Customer Materials.
+
+‍
+
+1.43Use Data. “Use Data” is System Data, Customer Data, and other related information pertaining to the provision, use, and performance of the Platform.
+2. PROVISION AND USE OF THE PLATFORM
+
+2.1Provision by AssemblyAI.
+
+‍‍
+
+a.License. AssemblyAI shall make the Platform available to Customer, subject to this TOS, including all attachments and exhibits herein incorporated, and grants Customer a revocable, non-exclusive right to access and use the Platform as provided in this TOS.‍
+
+‍
+
+b.Data Privacy and Security.
+
+‍
+
+i)AssemblyAI shall maintain a network and physical infrastructure security program for its Systems in material accordance with relevant industry standards, designed to ensure the security and integrity of Customer Materials.
+
+‍
+
+ii)To the extent that, on Customer’s behalf, AssemblyAI processes any personal data contained in Customer Materials subject to any data protection legislation, the DPA will apply.
+
+‍
+
+iii)Customer is prohibited from processing, on its own or by AssemblyAI on its behalf, PHI within the Platform, unless such processing is covered by a BAA separately executed between the Parties. Should the Parties execute such a BAA, the BAA will have priority (in case of conflict) over both this TOS and the DPA.
+
+‍
+
+c.Post-Term Data Deletion. Upon Customer’s written request made on or after expiration or termination of this TOS, AssemblyAI shall give Customer limited access to the Platform for a period of up to ninety (90) days after such expiration or termination, at no additional cost, solely for purposes of retrieving Customer’s Data. After such retrieval period, subject to AssemblyAI’s legal obligations, AssemblyAI will have no obligation to maintain or provide any of Customer’s Data and, unless legally prohibited, may delete said Customer Data after such expiration or termination at a time or times of AssemblyAI’s choosing. For so long as AssemblyAI retains Customer’s Data in its systems, AssemblyAI shall continue to protect such Customer Data in accordance with this TOS.
+
+‍
+
+2.2Platform Support.
+
+‍
+
+a.Service Level Objective. AssemblyAI shall use commercially reasonable efforts to ensure that the Platform achieves the Service Level Guarantee. In the event that the Platform does not achieve the Service Level Guarantee in a given calendar month, Customer may be eligible for Service Credits, up to a maximum of ten (10) credits in a calendar month (ten percent (10%) of Customer’s monthly invoice). Customer must expressly request Service Credits to receive them. If granted, Service Credits may be applied against outstanding amounts owed to AssemblyAI by Customer, but such Service Credits are not refundable to Customer.
+
+‍
+
+b.Support Services. Live Support Services will be available to Customer during Business Hours. Both during and outside of Business Hours, Customer may initiate a technical support ticket by contacting support as described on the support page (available at https://www.assemblyai.com/contact/support).
+
+‍
+
+c.Severity Levels. During Business Hours, and in its sole discretion, AssemblyAI shall determine the applicable severity level for each technical support ticket and use commercially reasonable efforts to resolve each such as described on the support response page (available at http://support.assemblyai.com).
+
+‍
+
+2.3Access and Use by Customer.
+
+‍
+
+a.Access to and Use of the Platform. Customer shall (i) be responsible for all use of the Platform under its account, subject to this TOS; (ii) use commercially reasonable efforts to prevent unauthorized access to or use of the Platform, and shall notify AssemblyAI promptly of any such unauthorized access or use; (iii) be responsible for obtaining and maintaining any equipment, software, and ancillary services needed to connect to, access, or otherwise use the Platform, including as may be described in the Documentation; (iv) ensure its use and access of the Platform, and any associated Inputs and Outputs, complies with the AUP; and (v) be responsible for all Inputs and Outputs, including the responsibility to ensure that these do not violate any Applicable Laws or this TOS. Customer further agrees to not use the Platform or Services otherwise, including processing of Inputs or use of the Outputs in any way that is prohibited under Applicable Law, or that could cause the Platform or any system with which the Platform is integrated, connected, or communicates, to be classified as a “high risk” artificial intelligence system under Applicable Law, including for the purposes of Article 6(1) or Annex III (as amended or supplemented from time to time) of the EU AI Act.
+
+‍
+
+b.Customer Cooperation. Customer acknowledges that AssemblyAI’s provision of the Services is dependent on Customer providing timely cooperation (including providing access to Customer’s Systems, personnel, cooperation, and materials, if reasonably required) and performing any activities as may be specified in an applicable Order Form.
+
+‍
+
+c.Technology Restrictions. Customer may not directly or indirectly (i) reverse-engineer, decompile, disassemble, modify or create derivative works of the Platform (excepting permitted integrations of the Platform with Customer’s products or services, as may be described in Documentation and/or Order Forms), or otherwise create, attempt to create or derive, or permit or assist any third party to create or derive, the source code underlying the Platform; (ii) attempt to probe, scan, or test the vulnerability of the Platform, breach the security or authentication measures of the Platform without proper authorization, or willfully render any part of the Platform unusable; (iii) use or access the Platform to develop a product or service that is competitive with the Platform, or engage in competitive analysis or benchmarking; (iv) transfer, distribute, resell, lease, license, or assign the Platform or otherwise offer the Platform on a standalone basis; or (v) otherwise use the Platform in violation of Applicable Laws or outside the scope expressly permitted by AssemblyAI.
+3. FEES
+
+3.1Fees. Customer shall pay AssemblyAI the fees in each Order Form on or before the due dates indicated in the associated invoices. Fees are quoted in and payable in United States dollars (unless otherwise specified), exclusive of applicable taxes. Unless otherwise provided herein or in an applicable Order Form, paid fees are not refundable, and Customer’s payment obligations are neither cancelable nor subject to proration for partial months of service.
+
+‍
+
+3.2Overdue Amount. If Customer’s account shows an Overdue Amount, AssemblyAI may suspend Customer’s access to the Platform until Customer’s account is brought current, including the payment of any accrued interest charges. Interest will accrue at the rate of one percent (1%) per month, or the highest interest rate permitted by Applicable Laws, on any Overdue Amount from the date the amount became due until the date that payment is received by AssemblyAI. Notwithstanding the foregoing, AssemblyAI shall forbear from exercising its suspension right if the entire Overdue Amount owed by Customer is disputed in good faith by Customer, for so long as is needed for AssemblyAI to determine the validity of the Overdue Amount and to communicate that determination to Customer. Any such forbearance will not constitute any waiver on the part of AssemblyAI.
+
+‍
+
+3.3Taxes. Customer shall be solely responsible for payment of all taxes, except for those taxes based on the income of AssemblyAI. Customer shall not withhold any taxes from any amounts due to AssemblyAI.
+4. INTELLECTUAL PROPERTY
+
+4.1AssemblyAI’s Property. AssemblyAI exclusively owns all right, title, and interest in and to the Platform, System Data, Feedback, and AssemblyAI’s Confidential Information.
+
+‍
+
+4.2Customer’s Property. Customer exclusively owns all right, title and interest in and to the Customer Materials, Outputs, Inputs, and Customer’s Confidential Information, unless otherwise herein provided.
+
+‍
+
+4.3Reservation of Rights. No implied rights are granted under this TOS. Except as expressly granted herein, the Parties reserve and retain their respective intellectual property rights and there are no other intellectual property licenses or rights, expressed, implied, or by way of estoppel, under any trademark, copyright, patent, or otherwise, granted by either Party to the other.
+
+‍
+
+4.4Data Use. Notwithstanding anything herein to the contrary, AssemblyAI will have the right to collect, aggregate, and analyze Use Data, and will be free during and after the term of any Order Forms associated with this TOS to (i) use such Use Data for its Internal Use, including the further development of the Platform or other AssemblyAI products and services, benchmarking, or training of AssemblyAI’s models; and (ii) disclose such Use Data or insights thereof in an aggregated and anonymized format. Customer may opt-out from AssemblyAI’s Internal Use of Customer Data at https://support.assemblyai.com/opt-out.
+5. WARRANTIES, DISCLAIMERS, AND LIABILITY LIMITS
+
+5.1Both Parties. Each Party represents and warrants that i) it has the full right, power, and authority to enter into this TOS, to grant the rights and licenses granted hereunder, and to perform its obligations hereunder; and ii) when executed, this TOS will constitute the legal, valid, and binding obligations of both Parties, enforceable against both Parties in accordance with its terms.
+
+‍
+
+5.2AssemblyAI’s Warranty. AssemblyAI warrants that it will provide the Platform and Products in material compliance with the Documentation. For a material breach of the foregoing express warranty, Customer’s exclusive remedy will be the timely re-provisioning of the Platform or Products in a manner consistent with the warranty. If AssemblyAI cannot so re-provision the Platform or Products, Customer may terminate the applicable Order Form(s) and recover a pro-rata portion of any prepaid fees corresponding to the terminated portion(s) of the applicable Order Form(s) term(s).
+
+‍
+
+5.3Customer’s Warranty. Customer warrants that i) if it is an organization, company, or entity, it is duly organized, validly existing, and in good standing as a corporation or other entity as represented herein under the laws and regulations of its jurisdiction of incorporation, organization, or chartering; ii) if it is an organization, company, or entity, the signatory of any Order Form or other document executed on Customer’s behalf will be duly authorized by any necessary corporate action to act for Customer in such capacity; and iii) it has all the necessary rights and consents to provide to AssemblyAI, process within the Platform, and permit AssemblyAI to use (as provided in this TOS) any information, Customer Data (including personal data), and other Customer Materials which it provides hereunder.
+
+‍
+
+5.4Disclaimers. EXCEPT AS EXPRESSLY SET FORTH HEREIN, EACH PARTY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE. UNLESS OTHERWISE HEREIN PROVIDED, YOUR USE OF THE SERVICES IS AT YOUR OWN RISK, WITH THE SERVICES AND OUTPUTS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS AND, AS PERMISSIBLE UNDER APPLICABLE LAW, ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. ASSEMBLYAI DOES NOT REPRESENT OR WARRANT THAT THE SERVICES WILL BE ERROR-FREE AND CUSTOMER ACKNOWLEDGES THAT THE INSIGHTS PROVIDED BY THE PLATFORM DO NOT CONSTITUTE PROFESSIONAL ADVICE OR COUNSEL. ASSEMBLYAI IS NOT RESPONSIBLE OR LIABLE FOR ANY NON-ASSEMBLYAI PRODUCTS, DOES NOT GUARANTEE THE CONTINUED AVAILABILITY THEREOF OR ANY INTEGRATION THEREWITH, AND MAY CEASE MAKING ANY SUCH INTEGRATION AVAILABLE IN ITS SOLE DISCRETION.
+
+‍
+
+5.5PRE-GA PRODUCT RELEASES. ASSEMBLYAI MAY OFFER PRE-GA PRODUCTS TO CUSTOMERS ON A VOLUNTARY USE BASIS; SUCH PRODUCTS ARE NOT SUITABLE FOR PRODUCTION USE AND ARE PROVIDED “AS-IS” ON A TEMPORARY BASIS. FOR PRE-GA PRODUCTS, ASSEMBLYAI PROVIDES NO INDEMNITIES; SERVICE-LEVEL COMMITMENTS; REPRESENTATIONS OR WARRANTIES (EXPRESS OR IMPLIED), INCLUDING WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, OR FITNESS FOR ANY PARTICULAR PURPOSE. ACCORDINGLY, CUSTOMER’S ACCESS TO AND USE OF A PRE-GA PRODUCT IS ENTIRELY AT CUSTOMER’S OWN RISK. CUSTOMER ASSUMES ALL RISK AND RESPONSIBILITY WITH RESPECT THERETO. IN NO EVENT WILL ASSEMBLYAI BE LIABLE FOR ANY SUCH USE OR DAMAGES WHATSOEVER ARISING OUT OF OR RELATED TO THE USE OF OR ACCESS TO PRE-GA PRODUCTS. CUSTOMER IS HEREBY ADVISED TO SAFEGUARD IMPORTANT DATA, USE CAUTION WHEN ACCESSING OR USING PRE-GA PRODUCTS, AND NOT TO RELY ON IN ANY WAY THE CORRECT FUNCTIONING OR PERFORMANCE OF ANY PRE-GA PRODUCT.
+
+‍
+
+‍5.6Limitations of Liability. EXCEPT FOR A PARTY’S INDEMNIFICATION OBLIGATIONS, A BREACH OF CONFIDENTIALITY, A BREACH OF THE RESTRICTIONS IN SECTION 2.3, OR A PARTY’S INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WILL EITHER PARTY BE LIABLE TO THE OTHER UNDER THIS AGREEMENT FOR (A) ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES OF ANY CHARACTER, INCLUDING DAMAGES FOR LOSS OF GOODWILL, LOST PROFITS, LOST SALES OR BUSINESS, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR LOST CONTENT OR DATA, EVEN IF A REPRESENTATIVE OF SUCH PARTY HAS BEEN ADVISED, KNEW, OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES, OR (B) EXCLUDING CUSTOMER’S PAYMENT OBLIGATIONS, ANY AGGREGATE DAMAGES, COSTS, OR LIABILITIES IN EXCESS OF THE AMOUNTS PAID BY CUSTOMER UNDER THE APPLICABLE ORDER FORM(S) DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+6. INDEMNIFICATIONS
+
+‍6.1AssemblyAI’s Indemnification. AssemblyAI shall defend, hold harmless and indemnify Customer against any Claim alleging that the use of the Platform as permitted hereunder infringes or misappropriates a United States patent, copyright, or trade secret, and shall indemnify Customer for any damages finally awarded against Customer (or for any settlement approved by AssemblyAI) in connection with any such Claim. To avail itself of this indemnity, (a) Customer must promptly notify AssemblyAI of such Claim; (b) AssemblyAI must be allowed the sole and exclusive authority to defend and/or settle such Claim (provided that AssemblyAI may not settle any Claim without Customer’s prior written consent, which will not be unreasonably withheld, unless it unconditionally releases Customer of all related liability); and (c) Customer must reasonably cooperate with AssemblyAI in connection with the defense and/or settlement of such Claim. If the use of the Platform by Customer has become, or in AssemblyAI’s sole opinion is likely to become, the subject of any claim of infringement, AssemblyAI may at its option and expense (i) procure for Customer the right to continue using the Platform as set forth hereunder; (ii) replace or modify the Platform to make it non-infringing (with comparable functionality); or (iii) if the options in clauses (i) or (ii) are not commercially practicable, terminate the applicable Order Form(s) and provide a pro-rata portion of any prepaid fees corresponding to the terminated portion(s) of the applicable Order Form(s) term(s). AssemblyAI will have no liability or obligation with respect to any Excluded Claim. This Section states AssemblyAI’s sole and exclusive liability and obligation, and Customer’s exclusive remedy, for any claim of any nature related to infringement or misappropriation of intellectual property.
+
+‍
+
+6.2Customer’s Indemnification. Customer shall defend, hold harmless and indemnify AssemblyAI against any Claim that is an Excluded Claim based on the acts or omissions of Customer’s end-users and Affiliates, and shall indemnify AssemblyAI for any damages finally awarded against AssemblyAI (or for any settlement approved by Customer) in connection with any such Claim. To avail itself of this indemnity, (a) AssemblyAI must promptly notify Customer of such Claim; (b) Customer must be allowed the sole and exclusive authority to defend and/or settle such Claim (provided that Customer may not settle any Claim without AssemblyAI’s prior written consent, which will not be unreasonably withheld, unless it unconditionally releases AssemblyAI of all related liability); and (c) AssemblyAI must reasonably cooperate with Customer in connection with the defense and/or settlement of such Claim.
+7. CONFIDENTIALITY
+
+7.1Recipient agrees to strictly maintain the confidentiality of Discloser’s Confidential Information, and employ an appropriate degree of care (but no less than reasonable care under the circumstances) to prevent the unauthorized disclosure or acquisition of such Confidential Information. Either Party may be the Discloser or Recipient as circumstances determine. Recipient may not (i) use Discloser’s Confidential Information, except to perform Recipient’s activities under this TOS, or as otherwise expressly agreed to in writing by Discloser; (ii) reverse-engineer, decompile any software, or disassemble any tangible objects embodying any of Discloser’s Confidential Information; (iii) disclose or otherwise make available any of Discloser’s Confidential Information to anyone except those of its employees, officers, affiliates, and advisors who have a need to know such Confidential Information in order to perform Recipient’s activities under this TOS; or (iv) disclose Discloser’s Confidential Information to a third party without the prior written consent of Discloser, which consent may be withheld for any reason or conditioned upon the execution of a confidentiality agreement containing terms no less restrictive than the terms set forth herein. Neither Party will disclose any information to the other Party in violation of any confidentiality obligations to, or proprietary rights of, any third party. If Recipient is compelled by law, whether under an order of a court or government tribunal, or other legal process, to disclose Discloser’s Confidential Information, Recipient shall provide Discloser with prior notice of such compelled disclosure (if legally permissible) and reasonable assistance, at Discloser’s cost, if Discloser wishes to contest the disclosure. Upon expiration or termination of this TOS, Recipient shall securely destroy or return (upon Discloser’s request and at Discloser’s cost) Discloser’s Confidential Information, and Recipient shall, if requested by Discloser, certify in writing that such Confidential Information has been so returned or securely destroyed. Unless otherwise provided for under this agreement, Recipient’s obligations with respect to any Confidential Information shall remain in effect (i) in the case of Confidential Information which constitutes a trade secret within the meaning of Applicable Law, for as long as such Confidential remains a trade secret, or (ii) for six (6) years after termination of this Agreement.
+8. TERM
+
+8.1Term. This TOS will commence as of the Effective Date and will continue thereafter until the completion of the Services under all applicable Order Forms, unless terminated earlier. Each Order Form will immediately terminate upon the termination of this TOS.
+
+‍
+
+8.2Termination for Material Breach. Either Party may terminate this TOS or an Order Form, effective upon written notice to the other Party at its mailing address indicated in the most recent Order Form (for Customer) or above (for AssemblyAI) if said other Party (i) materially breaches this TOS or the Order Form (other than a breach due to a Force Majeure Event) and such breach is incapable of cure or; (ii) materially breaches this TOS or the Order Form (other than a breach due to a Force Majeure Event) and, although said breach is capable of cure, fails to cure the breach within thirty (30) days after receipt of written notice from the non-breaching Party; (iii) becomes insolvent; (iv) files, or has filed against it, a petition for voluntary or involuntary bankruptcy or otherwise becomes subject, voluntarily or involuntarily, to any proceeding under any domestic or foreign bankruptcy or insolvency law; (v) makes or seeks to make a general assignment for the benefit of its creditors; or (vi) applies for or has appointed a receiver, trustee, custodian, or similar agent appointed by order of any court of competent jurisdiction to take charge of or sell any material portion of its property or business.
+
+‍
+
+8.3Termination for Convenience. Unless otherwise provided in an applicable Order Form, either Party may terminate an Order Form, or this TOS, for its convenience, if any of the below scenarios apply, and by providing written notice to the other Party. Such termination for convenience will be effective (i) thirty (30) days after receipt of Customer’s notice by AssemblyAI; or (ii) ninety (90) days after receipt of AssemblyAI’s notice by Customer. Upon termination or expiration of either the Order Form or this TOS pursuant to this Section, any unpaid remainder of the Spend Commitment, or other unpaid amounts owed for Services, will then become due in full and AssemblyAI shall invoice such remainder amount to Customer. Covered scenarios:
+
+    Service Term for an Order Form, subject to this TOS, is designated “Unfixed”;
+    There is no end date set for an active term for Services, subject to this TOS; or
+    There is no active term for Services pursuant to an Order Form, subject to this TOS
+
+‍
+
+‍8.4Survival. Upon expiration or termination of this TOS all rights and obligations will immediately terminate except that any terms or conditions that by their nature should survive such expiration or termination will survive, including the terms of this Section 8 will survive the termination or expiration of any Order Form with respect to any amounts owed but unpaid by Customer at the time of such termination or expiration; the rights and obligations set forth around IP and license restrictions; proprietary rights and confidentiality; technology restrictions; disclaimers; indemnification; limitations of liability; termination; and the general provisions.
+9. GENERAL PROVISIONS
+
+9.1Entire Agreement. This TOS comprises the entire agreement between the Parties with respect to its subject matter and supersedes all prior and contemporaneous proposals, statements, sales materials or presentations, and agreements, both oral and written. No oral or written information or advice given by AssemblyAI or its agents or employees create any warranty or in any way increase the scope of the warranties in this TOS.
+
+‍
+
+9.2Insurance. During the term of this TOS, AssemblyAI will maintain, at its own cost, appropriate insurance coverages in amounts that are commercially reasonable to secure its obligations to Customer under this TOS.
+
+‍
+
+9.3Publicity. Customer agrees that during the term of this TOS, and consistently with any established branding conventions, AssemblyAI may reference Customer’s name, trademarks, and use of the AssemblyAI Platform, including in AssemblyAI’s marketing materials, sales and other business presentations; for AssemblyAI internal business purposes; and on AssemblyAI’s website, unless Customer expressly and in writing prohibits such references.
+
+‍
+
+9.4Relationship of the Parties. Nothing in this TOS constitutes or evidences any partnership, joint venture, employment, or agency relationship between the Parties.
+
+‍
+
+9.5No Third-Party Beneficiaries. This TOS is solely between the Parties and does not confer any rights or remedies to any person or entity except as may be expressly provided herein.
+
+‍
+
+9.6Assignment. Neither Party will have the right or ability to assign or transfer any rights or obligations under this TOS without the written consent of the other Party. Notwithstanding the foregoing, either Party may assign or transfer this TOS, and any Order Forms executed pursuant to its terms without the other Party’s written consent in connection with a restructuring, merger, or consolidation, or sale of all or substantially all of such Party’s assets. This Agreement will be binding on the Parties and their respective successors and assigns.
+
+‍
+
+9.7Amendment and Waiver. Except as otherwise expressly provided herein, any amendment of, waiver of rights under, or modification of this TOS must be in writing and signed by both Parties. Such amendment, alteration, or change will in no way affect the other terms and conditions of the TOS, which in all other respects will remain unmodified and in full force and effect. Failure or delay by either party to enforce any provision of this TOS will not be deemed a waiver of future enforcement of that or any other provision.
+
+‍
+
+9.8Equitable Relief. The Parties acknowledge that a breach of any of the provisions of Sections 4 or 7, or Section 2.3 may result in irreparable and continuing harm for which no adequate remedy at law exists, and that the non-breaching Party will be entitled to seek injunctive relief, a decree for specific performance, and/or such other equitable relief as may be appropriate (including monetary damages).
+
+‍
+
+9.9Governing Law. This TOS is governed by the laws of the State of California, exclusive of its rules governing choice of law and conflict of laws. This TOS will not be governed by the United Nations Convention on Contracts for the International Sale of Goods.
+
+‍
+
+9.10Notices. Except as otherwise set forth herein, all notices, demands, waivers, or other communications required or permitted under this TOS (collectively, “Notices”) must be in writing. Notices are effective only a) upon receipt by the receiving Party (including personal delivery, by courier, or mailed) and b) if the Party giving Notice has complied with this Section 9.10. Except for Notices pertaining to demands, waivers, or where equitable relief is sought, Notices (e.g., Termination, Fees) under this TOS or any given Order Form may also be electronically delivered to Customer using the address provided to AssemblyAI on the most recent Order Form, and if to AssemblyAI using legal@assemblyai.com. Authorized addresses for Notice include those listed herein, in the most recent Order Form, or to such other address that each Party may assign, in accordance with this Section 9.10.
+
+‍
+
+9.11Export Controls. Each Party will comply with the export laws and regulations of the United States, European Union and other applicable jurisdictions in providing and using the Platform.
+
+‍
+
+‍9.12Interpretation and Severability. The Section or other provision titles in this TOS are for convenience of reference only and do not in any manner affect the construction or meaning of anything herein contained or govern the rights or liabilities of the Parties hereto. The words “include,” “includes,” and “including” shall be deemed to be followed by the words “without limitation”. The word “or” is not exclusive. The words “herein,” “hereof,” “hereto,” and “hereunder” refer to this TOS as a whole. In the event that any provision of this TOS is determined to be illegal or unenforceable, that provision will be limited or eliminated such that this TOS will otherwise remain in full force and effect and enforceable.
+EXHIBIT A: ORDER FORM
+1.ORDER
+
+1.1Order Summary.
+
+‍
+ORDER DETAILS 	ENTRIES
+"AssemblyAI" 	
+
+Mailing: 2261 Market Street #4577, San Francisco, California 94114
+
+Email: legal@assemblyai.com
+"Customer" 	
+
+Customer Name: As registered in Customer's Account Portal
+
+Customer Address: As registered in Customer's Account Portal
+
+Contact Name: As registered in Customer's Account Portal
+
+Contact Email: As registered in Customer's Account Portal
+Service Details 	
+
+“Order Start Date”: TOS Effective Date (when account created)
+
+“Service Term”: Unfixed
+
+“Renewal”: Automatic
+Invoicing Details 	
+
+“Invoice Schedule”: As registered in Customer's Account Portal
+
+“Commit Schedule”: As registered in Customer's Account Portal
+
+“Payment Term”: As registered in Customer's Account Portal
+
+‍
+
+1.2Order Terms. This Order Form (“Order Form”) between Customer and AssemblyAI is hereby attached to and made part of the above TOS entered into between AssemblyAI and Customer. Capitalized terms not defined in this Order Form will have the meanings defined in the TOS. Unless otherwise stated in the TOS, in the event of a conflict between the terms of the TOS and those in this Order Form, the terms in this Order Form will control.
+
+‍
+
+1.3Services and Fees. AssemblyAI shall make the Platform and Support Services available to Customer throughout the Term (as defined in Section 2). In exchange, as of the Order Start Date, Customer agrees to pay AssemblyAI fees (“Fees”) based on Customer’s actual utilization of Services (“PAYG Basis”) calculated at the rates detailed in the Appendix A Fee Schedule (“Fee Schedule”). AssemblyAI shall invoice Customer for such Fees as per the Invoice Schedule and Customer shall pay said invoices within the Payment Term. The Fee Schedule may be modified during the Service Term by mutual written agreement of the Parties (email will suffice).
+
+‍
+
+1.4Spend Commitment. If Customer has agreed to a non-zero Spend Commitment, any use by Customer of the Services will first be counted against the Spend Commitment balance, until such time as such Spend Commitment is satisfied. Customer will be invoiced per the Commit Schedule for the Spend Commitment over a one (1) year period, with each such invoice due within the Payment Term. If Customer depletes its Spend Commitment balance before the Spend Commitment amount is fully invoiced by AssemblyAI, the remaining amount will be accelerated and will be invoiced to Customer, with such invoice due within the Payment Term. At the end of the Service Term, any unused Spend Commitment will expire and will not roll over into a new Service Term.
+
+‍
+2.TERM
+
+2.1Term. This Order Form term (“Term”) commences on the Order Start Date, and continues for the duration of the Service Term (“Initial Term”), unless terminated earlier. Treatment of renewal terms under this Order Form is subject to the TOS, unless otherwise herein provided. Upon termination or expiration of this Order Form, any unpaid remainder of the Spend Commitment, or other unpaid amounts owed for Services, will then become due in full and AssemblyAI shall invoice such remainder amount to Customer. Notwithstanding the foregoing, where the Service Term is designated “Unfixed”, and there is a non-zero Spend Commitment, the term ends when AssemblyAI has provided Platform Services to Customer in a quantity equivalent to the Spend Commitment (“Commit Period”).
+
+‍
+
+2.2Term Renewals. If Renewal is designated “Not Automatic”, the term does not renew upon expiration or termination. If Renewal is designated “Automatic”:
+
+‍
+
+a. Where the Service Term is not “Unfixed”, at the expiration of the Initial term (“Initial Term”), the Order Form will automatically renew for subsequent terms matching the initial Term (each a “Renewal Term”). Either Party may opt out of automatic renewal by providing written notice to the other Party thirty (30) days prior to the end of the then-current term. Following receipt of a valid opt-out notification, the Order Form will end at the end of the term. Where there is a non-zero Spend Commitment, subject to this Section, upon Customer’s satisfying the Spend Commitment before the end of the term, Customer’s further use of Services for the duration of the remaining term will be invoiced on a PAYG Basis charged based on the Fee Schedule.
+
+‍
+
+b. Where the Service Term is designated "Unfixed", and a non-zero Spend Commitment, upon completion of the Initial Term Commit Period, the Order Form will automatically renew for subsequent terms matching the conditions of the Initial Term, including refreshing the Spend Commitment (each a “Renewal Term”). Each Party may provide written notice of non-renewal prior to the completion of a Commit Period. Following receipt of a valid opt-out notification, the Order Form will end at the end of the term.
+
+‍
+
+2.3Termination by Convenience. Either Party may terminate this Order Form for its convenience by providing written notice (email shall suffice). Such termination for convenience will be effective (i) thirty (30) days after receipt of Customer’s notice by AssemblyAI; or (ii) ninety (90) days after receipt of AssemblyAI’s notice by Customer.
+
+‍
+3.ORDER-SPECIFIC TERMS
+
+Not applicable
+
+‍
+4.GENERAL
+
+4.1Notices. Unless otherwise provided in the TOS or this Order Form, Notices will be made pursuant to the TOS notice provision.
+
+‍
+
+4.2Survival. Upon termination or expiration of this Order Form, all rights and obligations will immediately terminate except that any terms or conditions that by their nature should survive such termination or expiration will survive, including as provided for in the TOS, and, with respect to any amounts owed but unpaid by Customer at the time of such termination or expiration.
+
+‍
+
+4.3Entire Agreement. The OrderForm, along with the TOS, constitute the final and complete statement of the Parties’ agreement with respect to the subject matter addressed herein, and supersede any prior or contemporaneous oral or written agreements, negotiations, or discussions.
+
+‍
+APPENDIX A: FEE SCHEDULE
+
+The covered services and fees for this Order Form will be in accordance with what's listed in the Customer's Account Portal. Unless otherwise stated in the Customer's Account Portal, there is a $0 Spend Commitment for this Order Form. 

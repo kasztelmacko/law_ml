@@ -1,0 +1,91 @@
+These Terms of Use apply to and govern your use of the Deepgram Inc. (“Company”) website at www.deepgram.com (the “Site”), Materials (defined below) on the Site, and your participation in any events or programs offered through the Site (“Offerings”).
+
+BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE AND THE DEEPGRAM PRIVACY POLICY (available here: https://deepgram.com/privacy) (THE “PRIVACY POLICY”). IF YOU DO NOT ACCEPT THESE TERMS OF USE, YOU MAY NOT ACCESS OR USE THE SITE. MATERIALS, SERVICES AND INFORMATION INTENDED FOR USERS OF THE SITE ARE NOT FOR USE BY CHILDREN UNDER 13 YEARS OF AGE.
+
+1. Copyright
+
+The content of the Site, including all text, images, software, audio and video, links, as well as any such combination and/or compilation of the same (collectively referred to herein as “Materials”), is the property of Company and is protected by U.S. and international copyright laws. Neither the Site nor the Materials may be modified, reproduced, distributed, transmitted, publicly displayed, performed, or otherwise used, in whole or in part, without the prior written consent of Company. No use of Materials on the Site is allowed except as expressly stated herein. Some Materials may be copyrighted by Company’s suppliers, licensees and affiliates. Copyright law also applies to other companies’ advertisements or information presented on the Site.
+
+2. Trademarks
+
+Deepgram, Deepgram Inc., and deepgram.com (including the Company’s name and logos and the Site name) are the trademarks of Company (collectively, the “Trademarks”), within the United States as well as in other countries. You may not display, make reference to or use the Trademarks, in any manner without prior written permission by Company. All other trademarks, service marks, product and service names and company names or logos that appear on the Site are the property of their respective owners. The use of Company Trademarks on any other website is not allowed. Company prohibits the use of Company Trademarks as a "hot" link on or to any other website unless establishment of such a link is approved in advance by Company. 
+
+3. Age of Users
+
+The Site is not intended for use by children under 13 years of age. Parents and legal guardians may not agree to these Terms of Use on their children’s behalf. If Company becomes aware that a child under 13 has provided or attempted to provide Company with personal information, Company will use best efforts to remove the information permanently from our files. If you are between the age of 13 and 18 years old, you may use the Site but only under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Use. If you are a parent or legal guardian agreeing to these Terms of Use for the benefit of a child between 13 and 18 years old, be advised that you are fully responsible for their use of the Site and any and all legal liability that they may incur.
+
+4. Privacy
+
+By using the Site, you signify your ongoing and continuing consent to the Privacy Policy. The Privacy Policy is incorporated into these Terms of Use (together, the “Agreement”). In the event of any inconsistency between the Terms of Use and the Privacy Policy, the Terms of Use shall prevail. Personal information that you supply to Company, and any information about your use of the Site that the Company obtains from you will be subject to the Privacy Policy. In addition, Company email addresses are provided solely for user queries relating to the Site. The capture of Company emails for use with unsolicited email is not permitted. 
+
+5. Illegal & Unpermitted Activities
+
+The Site and its contents are solely for your own personal non-commercial use. You may not:
+
+    Copy, transmit, publish, distribute, display or in any other way exploit the Site, Trademarks, and/or Materials at any time in any manner;
+
+    Use the Site for any illegal, unauthorized or improper purpose;
+
+    Use the Site in a way that violates any applicable law or these Terms of Use; 
+
+    Use the Site to modify or create derivative works of the Trademarks, Materials or Offerings, or any of each of their respective components;
+
+    Aggregate or collect any Materials to construct any kind of database;
+
+    Use any robot, spider, scraper or other automated means to access the Site for any purpose without our express written permission;
+
+    Take any action that imposes, or may impose in Company’s sole discretion, an unreasonable or disproportionately large load on our infrastructure;
+
+    Use any device, software or routine to interfere or attempt to interfere with the proper working of the Site or with any other person’s use of the Site; or
+
+    Bypass any measures Company may use to prevent or restrict access to the Site, or otherwise attempt to gain unauthorized access to any portion or feature of the Site, by hacking, password “mining” or any other illegitimate means.
+
+6. Links; Offerings
+
+For your convenience only, Company may provide links within the Site to other websites operated by third parties. Company exhibits no control over such third-party websites and Company is not responsible for their content or the privacy practices thereof. Company makes no representations or warranties and accept no responsibility for the quality, content, nature or reliability of any third-party web site or service accessible by hyperlink from the Site. Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Site, are solely between you and such advertiser. This includes payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings. You agree that Company will not be responsible or liable for any loss or damage incurred as the result of any such dealings.
+
+If you elect to participate in or access any Offerings, you may be required to accept other terms with third parties related to those Offerings. Third party Offerings may be governed by separate rules that may contain certain eligibility requirements, such as restrictions to age and geographic location. You are solely responsible for understanding and complying with all rules associated with third party Offerings. Company exhibits no control over third-party Offerings and Company is not responsible for their practices. Company makes no representations or warranties and accepts no responsibility for the Offerings operated by third parties, and your participation in such Offerings is between you and such third party. This includes payment and delivery, returns, and refunds, of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings.  If such Offerings are provided by Company, then your participation is governed by these Terms of Use. 
+
+7. Indemnification
+
+You agree to defend, indemnify, and hold harmless Company from all liabilities, claims, and expenses, including attorney’s fees, that arise from any claim or demand, made by any third party due to or arising out of your use of the Site and for any violation of these Terms of Use. Company reserves the right, at Company’s expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with Company in asserting any available defenses.
+
+8. Disclaimer of Warranties
+
+THE SITE, MATERIALS AND OFFERINGS (TOGETHER, THE “COMPANY ASSETS”) ARE PROVIDED BY COMPANY ON AN “AS IS” AND “AS AVAILABLE” BASIS. COMPANY MAKES NO WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, AS TO THE COMPANY ASSETS OR THE OPERATION OF THE SITE. YOU EXPRESSLY AGREE THAT YOUR USE OF THE COMPANY ASSETS AND THE SITE ARE AT YOUR SOLE RISK AND RESPONSIBILITY. TO THE MAXIMUM EXTENT PERMITTED BY LAW, COMPANY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. COMPANY DOES NOT REPRESENT OR WARRANT THAT THE COMPANY ASSETS ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, SUBJECT TO CORRECTION, OR ERROR-FREE OR THAT THE COMPANY ASSETS, INCLUDING ITS SERVERS, ARE FREE OF ANY HARMFUL COMPONENTS. BECAUSE SOME JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+
+9. Limitation of Liability
+
+IN NO EVENT WILL COMPANY BE LIABLE TO YOU, OR TO ANY PARTY CLAIMING THROUGH YOU, FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND IN CONNECTION WITH OR ARISING OUT OF THE FURNISHING, PERFORMANCE, OR USE OF THE COMPANY ASSETS OR ANY BREACH BY THE COMPANY OF THE AGREEMENT. COMPANY’S MAXIMUM AGGREGATE LIABILITY FOR DAMAGES OR LOSS, HOWSOEVER ARISING OR CAUSED, SHALL IN NO EVENT BE GREATER THAN TWENTY-FIVE UNITED STATES DOLLARS ($25.00). BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. 
+
+10. Changes to Site
+
+Company reserves the right, in its sole discretion, of which Company may choose to do at any time and from time to time, to modify or discontinue, whether temporarily or permanently, the Site, or the content thereof, with or without notice. Company reserves the right to interrupt the operation of the Site, or any portion of the Site, as necessary to perform routine or non-routine maintenance, error correction, or other changes. You agree that Company will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Site. 
+
+11. Changes to Terms of Use
+
+Company reserves the right, in its sole discretion, to change or modify the Terms of Use, whether in whole or in part, without notice. If Company changes the Terms of Use, Company will post such new terms on the Site and any such changes or modifications will become effective upon posting. Your access to and use of the Site, following the posting of any such changes or modifications, will constitute your acceptance of the Terms of Use as revised.  
+
+12. Applicable Law, Jurisdiction and Claims
+
+THIS TERMS OF USE IS MADE UNDER, AND WILL BE CONSTRUED ACCORDING TO, THE LAWS OF THE STATE OF CALIFORNIA, U.S.A. The parties agree that the Uniform Computer Information Transaction Act (or any statutory implementation of it) and the United Nations Convention on the International Sale of Goods will not apply with respect to this Agreement or the parties’ relationship. Subject to the last sentence of this section, any claim, dispute or controversy arising out of or relating to this Agreement shall be resolved by arbitration in accordance with the provisions of the commercial or business rules of the American Arbitration Association. The arbitration shall be held in San Francisco, CA. Notwithstanding the foregoing, a party may seek preliminary judicial relief (such as a preliminary injunction) from the state and federal courts located in San Francisco, CA, if in its judgment, such action is necessary to avoid irreparable damage, and such courts shall have exclusive jurisdiction and venue over all matters relating to such preliminary relief. 
+
+13. Termination
+
+Company reserves the right to terminate your use of the Site, including the right to remove any information provided to Company by you or posted to the Site, in the event that you violate the Terms of Use, any rules or guidelines posted on the Site, any applicable federal, state or local laws, or for any other reason that Company shall determine in its sole discretion. You understand that any termination of your account, by you or Company, may involve the permanent deletion of your data and/or information.
+
+14. Force Majeure
+
+Company is not responsible for damages, delays, or failures in performance resulting from acts or occurrences beyond its reasonable control, including, without limitation: fire, lightning, explosion, power surge or failure, water, acts of God, war, revolution, civil commotion or acts of civil or military authorities or public enemies; any law, order, regulation, ordinance, or requirement of any government or legal body or any representative of any such government or legal body; any labor unrest, including without limitation, strikes, slowdowns, picketing, or boycotts; or inability to secure raw materials, transportation facilities, fuel or energy shortages, or acts or omissions of other common carriers. 
+
+15. Copyright Complaints
+
+Company respects your intellectual property rights as well as the rights of other third parties. If you believe that your work has been copied in a way on the Site that constitutes copyright infringement, please e-mail legalnotices@deepgram.com.
+
+16. Notice
+
+You agree that Company may provide notice to you and other information concerning the Site electronically, including any notice to any email address supplied by you.
+
+17. General Provisions
+
+You agree to comply with all applicable laws and regulations. The terms and conditions set forth herein constitute the entire agreement between you and Company with respect to the use of the Site. The waiver by one party of any default of the other party shall not waive subsequent defaults of the same or different kind. If for any reason a court of competent jurisdiction finds any provision of this Terms of Use, or portion thereof, to be unenforceable, that provision of the agreement will be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Terms of Use will continue in full force and effect.

@@ -1,0 +1,1531 @@
+
+
+Elementor is a free software released under the GPLv3 license. When using the Elementor and Elementor Pro software, you receive all rights granted under the GPL. These Terms of Service do not govern your use of the Elementor and Elementor Pro software, but your services received from Elementor Ltd. 
+
+These terms govern your use of our online store, our forums, our support and update Services, our template library, and other services that we may provide via the Elementor.com website.
+
+Please read the full terms, as they are the legally binding agreement. 
+
+For your convenience, we are providing you with a summary of the terms with the most important sections.
+
+When using the Elementor shop to buy Services, you will receive an activation code. This activation code or other user credentials is meant to let us know that your website is entitled to support. Don’t share it or use it on more websites than you paid for; otherwise, it will be blocked.
+
+We offer a 30-day “no questions asked” money-back guarantee for our Pro and Hosting Subscriptions, excluding Free Trial usage of any kind, as stated in our Refund Policy. If you are unsatisfied with those Services, you may request your money back within that time period and cease using our Services. Software you received under the GPLv3 shall remain with you under that license.
+
+If you opt for our affiliate program, we have specific conditions on how to use our marks; please respect them.
+
+If you contribute to our Support, forums, blogs, or other pages, we may use your contributions and may allow others to use them as well.
+
+In any case, we offer no liability, both for our Software and Services, and the use of our website and Software is under your own risk. 
+
+Lastly, when you use our websites and Services, we may collect some information. This is defined in our Privacy Policy.
+
+Please note that neither this preamble nor the “In plain English” part of the Terms of Service may be used to interpret the meaning of this legal document.
+
+And now for the legal part.
+Terms of Service
+Last Updated: January 2024
+Accepting These Terms
+
+IN PLAIN ENGLISH
+We need you to agree to our terms to provide you with Services. We offer this service to almost anyone, but keep your passwords safe, and don’t let others use your credentials.
+
+These Terms of Service governing your access to and use of our website and software, including any content, features, manuals, articles, designs, layout, templates, and services that reside in them. This Agreement alongside the specific policies for different products and services we offer, is a part of the legal framework that governs the use of the Elementor software and website.
+
+“Elementor” means Elementor Ltd., including our subsidiaries and affiliates worldwide (“Elementor”, “we”, “our” or “us”),”
+
+“Services” means: (i) our website, including the online shop and marketplace; (ii) our forums; (iii) our support services; (iv) our update services; (v) our affiliation service; (vi) our Template Library; and (vii) any other service we add to our offering. The policy agreements that apply to you are only the ones applicable to your use; meaning that if you act as an affiliate, then the Affiliation Agreement shall apply to you; if you’re not an affiliate, the affiliation annex does not apply to you.
+
+“Software” means Elementor Core and Elementor Pro.
+If you do not understand and/or agree to these Terms, you should immediately exit the Services and cease making any use of the Services.
+Accounts and Eligibility Terms
+
+IN PLAIN ENGLISH
+Your Account Is Your Responsibility
+You are responsible for what you, and others, do with your account.
+
+You are solely responsible for all actions performed in the Services with your credentials, including your username and password. Keeping your password safe is your sole responsibility. If you have any reason to suspect that your account was compromised or that there was unauthorised access to your account, you must immediately notify us, and we may work together to fix the issue.
+
+    It is our policy to have one account for the number of members according to the terms of the specific Subscription Plan you have purchased.
+    It is our policy to have one account for one person, and one person for one account.
+    You cannot hold more than one account, and you cannot allow others to access your account.
+    If you are a corporation (or using the account on behalf of a corporation), then you can allow access to your corporate account for one authorized employee on your behalf.
+    You hereby represent and acknowledge that, unless you have otherwise explicitly notified us, anyone accessing your corporate account is acting on your behalf having all required authorisations and consents, and that you remain responsible and liable for any act or omission in connection with such use as if they were yours, including any loss or damage which such use, act or omission may cause.
+
+Account Ownership
+
+IN PLAIN ENGLISH
+The account owner will be the one who has access to the e-mail address of the account created
+
+We will consider the owner of the account as the person or entity who has access to the e-mail address of the account created that we have in our records and not the person or entity who paid for the account. In case it is a corporate entity, then the corporate entity specified in the registration page.
+
+Having said that, we shall have the right to determine who is the owner of the account at our sole discretion in situations where we believe there is a special justification for such a determination.
+Eligibility and Identification
+
+IN PLAIN ENGLISH
+Adults use our service. Don’t use our service if you are restricted from entering into any legal agreement.
+
+When registering for the Services, we may authenticate your identity through different third-party services and may require additional identification.
+
+The Services are intended for use by users of at least eighteen (18) years old. If you register for our services, you hereby declare that you are eighteen (18) years old or older and undertake to monitor your account to ensure that no minor under that age has access to the Services.
+Billing Information
+
+To subscribe and make payments, you must provide accurate, complete, and up-to-date billing information. This may include details such as name, billing address, and payment methods. You are responsible for ensuring the confidentiality of your billing information and must promptly update any changes to avoid disruptions to the subscription service. Inaccurate or outdated billing information may result in payment issues and potential suspension of access to the Services.
+Your Warranties
+
+IN PLAIN ENGLISH
+You’re not a terrorist, and you’re not reopening an account that we closed.
+
+You represent and warrant to us that:
+
+    You have, and will have at all times, all rights, licenses, and consents required for your use of the Services.
+    You will comply with all applicable laws, rules, and regulations.
+    You are not located in, or a national or resident of any of the countries or entities referred to in any country or entity that is subject to a U.S. Government embargo. Nor are you in a country that has been designated by the U.S. Government as a “terrorist supporting” country and are not listed on any U.S. Government list of prohibited or restricted parties.
+    You were not previously prohibited by us from entering into an agreement with us nor was your account and/or use of the Services previously blocked, suspended or terminated by us for any reason.
+
+We Own the Elementor Website and Services
+
+IN PLAIN ENGLISH
+We own the Elementor Website and Services. The Elementor and Elementor Pro software are licensed under GPLv3. Our online store, forums, templates, and other content we provide you outside the scope of the software are ours.
+
+While our Software is licensed under GPLv3, we own all Intellectual Property Rights relating to the Services. This applies, without limitation, to any underlying data, platforms, algorithms, technology, design, UI, any information, services, texts, files, charts, graphs, photos, sounds, videos, fonts, graphics, organization, structure, section assembly and arrangement thereof (including without limitation “look and feel”), features, and any modifications, enhancements and derivatives thereof and all other Intellectual Property Rights related thereto.
+
+We also retain the ownership and full Intellectual Property Rights to the source code of the Elementor.com website, apart from where we specifically use third-party software.
+
+Please be advised that apart from where we specifically granted you a right to do so, all Intellectual Property Rights relating to the Services reside with us.
+
+For the purpose of these Terms, “Intellectual Property Rights” means worldwide, whether registered or not (a) rights associated with works of authorship, designs, mask works and photography including copyrights; (b) trademarks, service marks, domain names, logos, trade names, trade dress, the right to publicity and goodwill rights; (c) patents, patent applications and industrial designs; (d) trade secrets; (e) rights analogous to those set forth herein and any other proprietary rights relating to intangible property; (f) divisions, continuations, renewals, reissues and extensions of the foregoing (as applicable) now existing or hereafter filed, issued, or acquired.
+Feedback and Contributions
+
+IN PLAIN ENGLISH
+All contributions to Elementor and Elementor Pro are under the GPLv3 License. If you offer us any feedback, we may use it, but you waive any intellectual property rights relating to it.
+
+All contributions to our Software shall be made under the GPLv3 License and subject to our Contribution License Agreement. If you provide us with other feedback, relating to the Services or our website, such as usability issues, design suggestions, or any other suggestion relating to the Services, you acknowledge that (i) you own all right, title and interest in and to the feedback without any restriction; (ii) the feedback is not subject to any obligation of confidentiality; and (iii) we may be entitled to unrestricted use of the feedback for any purpose whatsoever, without compensation or credit to you or any other person.
+Acceptable Use Policy
+
+IN PLAIN ENGLISH
+Be fair and reasonable. Use our website and Services for your own use, and don’t abuse the Services.
+
+This is a list of “don’ts” it is not exhaustive, and we may also find that other non-bona-fide activities constitute as non-acceptable use.
+
+    Don’t allow others to use your account or license, by means of sale, license, lease assign, transfer, pledge, or any other activity that may be considered as sharing or conveying ownership in your account.
+    Don’t copy or scrape our website, and don’t replicate its functionality. Meaning, don’t imitate our API calls to servers, don’t use an Iframe to reproduce our Services, don’t use a subdomain to redirect to our website.
+    Don’t use our website or Services where it is prohibited by law; meaning, don’t use our Services in any state that is sanctioned by the US Export office or under Israeli law.
+    Don’t use our website or Services to conduct any illegal activity, or transmit any transmit or upload any viruses, spyware or other harmful, infringing, illegal, disruptive or destructive content or files.
+    Don’t scrape our website without our permission, don’t use automated tools to submit queries or posts, and don’t mine personal information from our website.
+    Don’t make extensive API or web calls in a manner that interrupts our hosting company or web-server.
+    Don’t reverse engineer or decompile our website, or perform any activity that might reveal sensitive information.
+    Don’t try to guess usernames or passwords, or otherwise circumvent or attempt to penetrate or circumvent any technical restrictions or limitations in the Services or website.
+    Don’t resell our Services; meaning don’t offer others access to your product keys, or any other enabling methods, such as account credentials or activation codes.   Don’t directly call files from our servers in your themes or products.
+    Don’t remove our legal notices or names from the Services.
+
+HIPAA Regulation: It is strictly forbbiden to upload, or allow anyone else to upload, any patient, medical, or other protected sensitive health information regulated by the Health Insurance Portability and Accountability Act (HIPAA) to our Services. Additionally, please do not use our Services to process this type of information.
+Abusive Customers
+
+IN PLAIN ENGLISH
+Behave respectively to our staff.
+
+We believe that our customers have every right to be heard, understood and respected. Having said that, we also believe that our staff have every right to work in a safe environment, free from any abuse or harm caused by others. Therefore, we will not accept any abusive or aggressive behaviour towards our staff. Abusive or aggressive behaviour includes language (whether verbal or written) that may cause our staff to feel threatened or abused and may include threats, personal verbal abuse, derogatory remarks and rudeness. Unacceptable behaviour as described above may cause us to decide to, by our sole discretion:
+
+    Terminate all direct contact with such customers.
+    Take any other action that we consider appropriate to the circumstances, including (but not limited to) termination of your subscription, banning you from our services, and any other action we deem necessary.
+
+Disclaimer
+
+IN PLAIN ENGLISH
+We are not responsible for your use of our website and Services, and it is made at your own risk.
+
+YOU AGREE THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR OWN RISK.
+
+THE SERVICES ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED.
+
+TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THESE SERVICES OR THE SERVER(S) THAT MAKES THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN IMPLIED WARRANTIES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+Limitation of Liability
+
+IN PLAIN ENGLISH
+The maximum damages you may receive from damages we caused is limited. Don’t sue us.
+
+OUR LIABILITY TO YOU, AND TO THIRD PARTIES, UNDER THIS AGREEMENT AND FOR ANY CLAIM BASED ON ANY LEGAL THEORY, TORT, CONTRACT, OR OTHER THEORY OF LIABILITY, IS LIMITED TO THE AMOUNT YOU ACTUALLY PAID US IN THE THIRTY DAYS PRIOR TO ANY DAMAGE OCCURRING.
+
+UNDER NO CIRCUMSTANCES WHATSOEVER WILL WE OR OUR AFFILIATES, PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS, SUBCONTRACTS AND SUPPLIERS, BE RESPONSIBLE OR LIABLE TO YOU OR TO ANY OTHER ENTITY EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES UNDER ANY LEGAL THEORY, WHETHER CONTRACT, TORT OR OTHERWISE FOR ANY DIRECT, COMPENSATORY, INDIRECT, INCIDENTAL, CONSEQUENTIAL INCLUDING WITHOUT LIMITATION ANY LOST INCOME, DATA OR OTHER TANGIBLE OR INTANGIBLE LOSSES, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES THAT RESULT FROM OR RELATE IN ANY MANNER WHATSOEVER TO YOUR USE OF THE SERVICES, OR TO ANY ERRORS, INACCURACIES, OMISSIONS, DEFECTS, SECURITY BREACHES, OR ANY OTHER FAILURE TO PERFORM MADE BY US.
+
+YOU OWN ALL CONTENT YOU GENERATE THROUGH OUR SOFTWARE AND SERVICES, AND IT IS AT YOUR SOLE RESPONSIBILITY. YOU SHALL ENSURE TO DISCLAIM ANY LIABILITY IN CONNECTION THEREWITH FROM US, INCLUDING WITHOUT LIMITATION, LIABILITY FOR ITS NON-ADHERENCE TO ANY SYSTEM, LACK OF UPDATES, OR ANY OTHER CLAIM RELATING TO DAMAGES.
+
+SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+Indemnification
+
+IN PLAIN ENGLISH
+If we get sued for something you did, it will be your responsibility to pay for it.
+
+You agree to defend, indemnify and hold us and anyone on our behalf, including but not limited to, all of our owners, managers, officers, affiliates, employees, licensors and suppliers harmless against any losses, expenses, costs, claims, damages (including attorneys’ fees, expert fees’, and other costs of litigation) arising from, incurred as a result of, or in any manner related to: (i) any content you submit according to our Submission Policy; and/or (ii) any breach of these terms made by you.
+Amending These Terms
+
+IN PLAIN ENGLISH
+We may update these terms from time to time, but we will let you know.
+
+We may update this document from time to time. No update shall have a retroactive effect.
+
+When we update significant terms, we shall notify you via email.
+
+If you continue to use our website and Services following such update, you agree to be bound by the new terms.
+
+If you believe that any amendment to the terms of service impairs your right to use purchased products or services in a manner that affects your business or rights materially, do let us know and we will either issue you a partial refund for the time period which you will not be able to utilize the service or we will discuss a specific term to be applied to you.
+Third-Party Components
+
+IN PLAIN ENGLISH
+We may use third-party libraries in our website or Services, we’re not responsible for them.
+
+The Services may contain parts provided by third parties and links to outside services and resources.
+
+We do not screen, monitor, or control such content and services.
+Any concerns regarding any such linked service or resource should be directed to such particular service or resource provider.
+
+If we provide outside links, then such links are provided only as an informational resource, simply as a service and only for your convenience. We are not responsible or liable for such links or content.
+
+All third-party components in the Software are subject to third-party license terms available at https://elementor.com/licenses (“Third-Party Components”).
+
+Your right to use such Third-Party Components as part of, or in connection with the Software is subject to any applicable acknowledgments and license terms accompanying such Third-Party Components contained therein or related to that, as set forth herein.
+
+If there is a conflict between the licensing terms of such Third-Party Components and these Terms, the licensing terms of the Third-Party Components shall prevail in connection with the related Third-Party Components.
+
+You hereby agree to such terms associated with the Third-Party Components.
+
+The Software is provided to you without any support for Third-Party Components, which are used with or in connection to the Software, whether installed on your server or otherwise, whether or not in source code.
+Advertising
+
+IN PLAIN ENGLISH
+We may display ads, we’re not responsible for them.
+
+The Services may display ads. Nonetheless, We do not endorse or monitor any of these ads or their content, nor are we responsible for the foregoing, even if it seems affiliated with us.
+Termination
+
+IN PLAIN ENGLISH
+We may close your account, or terminate the Services. You must stop using the Services at termination.
+
+We may terminate these Terms and/or suspend your right to access or use any portion or all of the Services immediately (including without limitation the right to receive support and update services), at our sole discretion without notice.
+
+Upon termination, you shall immediately cease using the Services.
+
+Any section which includes a representation or warranty shall continue to apply, including any covenant or obligation on your behalf to pay Fees.
+
+We shall not be liable for any damage caused to you or any third-party as a result of terminating these Terms or by suspending or otherwise limiting your use of the Services.
+General
+
+IN PLAIN ENGLISH
+All lawsuits are under Israeli law and in Israel if any part of these terms is unenforceable, it does not affect other parts, we may transfer our rights and obligations under these terms, and you can’t file a class-action lawsuit against us.
+Governing Law, Jurisdiction.
+
+These Terms shall be governed by and construed in accordance with the laws of the State of Israel, without regard to the principles of conflict of law therein. The parties consent to the exclusive jurisdiction of the courts of Tel Aviv, Israel. The application of the United Nations Convention of Contracts for the International Sale of Goods or other international laws is expressly excluded.
+
+Notwithstanding the foregoing, in the event of a breach or threatened breach of any provision of these Terms by you, we could suffer significant and irreparable harm that could not be satisfactorily compensated in monetary terms and that the remedies at law available to us may otherwise be inadequate and we  shall be entitled, in addition to any other remedies to which it may be entitled to under law or in equity, to the immediate ex parte issuance, without bond, of an equitable relief, including without limitation, an injunctive relief, in any jurisdiction worldwide.
+
+You hereby acknowledge and agree that We shall not be required to post a bond as a condition to obtaining or exercising any such remedies, and you hereby waive any such requirement or condition.
+Enforceability
+
+If any provision of these Terms is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable and if such provision is determined to be invalid or unenforceable nonetheless, the provision shall be deemed to be severable from the remainder of these Terms and shall not cause the invalidity or unenforceability of the remainder of these Terms.
+Assignment
+
+We may assign these Terms, in whole or in part, in its sole discretion. You are not entitled to assign or otherwise transfer the Terms, or any of your rights or obligations hereunder, to any third-party without our prior written consent. Any unauthorized assignment will be void and of no force or effect;
+Entirety
+
+These Terms are the entire agreement between you and us regarding the subject matter herein.
+
+Our failure to enforce any rights granted hereunder or to take action against you in the event of any breach hereunder shall not be deemed a waiver as to subsequent enforcement of rights or subsequent actions in the event of future breaches.
+
+All waivers must be in writing. Any waiver or failure to enforce any provision of these Terms on one occasion will not be deemed a waiver of any other provision or such provision on any other occasion;
+
+Your failure to take any action against us over a term of one (1) year from any breach of these Terms shall be automatically deemed as a waiver.
+No Class-Action
+
+YOU UNDERTAKE NOT TO ENGAGE IN ANY CLASS-ACTION AGAINST THE COMPANY AND SOLELY TO CLAIM YOUR LOSSES PERSONALLY.
+
+If you have any further questions or require further clarification, please contact us at elementor.com/contact/
+Who Are We?
+
+Elementor Ltd. is an Israeli corporation.
+Store Policies
+Last Updated: April 3, 2025
+
+IN PLAIN ENGLISH
+We offer you the option to buy subscription services for updates and support to our Software. We offer a 30-day no questions asked refund on Pro and Hosting subscriptions excluding Free Trial usage of any kind. We also may offer you documentation.
+
+We may allow you to purchase subscriptions to our Services, which include support Services and update Services through our online store.
+
+All Software licensed through the store shall be licensed under GPLv3 unless explicitly stated otherwise either in the download page or by the attached License.txt file.
+
+While we provide a description for all Software and Services, it is your responsibility to make sure that these fit your needs and that you know how to use them.
+
+We may also provide you with access to certain manuals relating to the use of the Services or the Software; any event shall be provided on an “as-is” basis without warranty.
+Product Sold In Our Online Store Are According to Their Specifications
+
+IN PLAIN ENGLISH
+Each package that we sell may be different, please check the product page.
+
+Our Services are offered under specific terms as specified in the product page. They may be limited by website calls, number of websites, or dates. We may offer discounts, rebates, or other promotions. Please check the product page before buying.
+Fees
+
+IN PLAIN ENGLISH
+We need to get paid to sell you our support and update Services.
+
+We offer our Services in the online store according to our current price list (“Fees”).
+
+Payments shall be made by credit card via our third payment service providers and subject to their respective terms of service and privacy policies.
+
+We may update our Fees from time to time or change the payment method.
+
+You will be charged the Fees that arise from such changes only after notice is provided, either by email or a prominent notice on the Services.
+
+By continuing to use the Services following such notice, you agree to be bound by such modifications.
+Subscriptions Renew Automatically
+
+IN PLAIN ENGLISH
+Set a reminder for the expiration period if you plan to use our Services only once
+
+In any case where you purchase a subscription, your subscription will automatically be renewed upon the end of the applicable subscription period, and you will be charged in advance at the beginning of each billing period.
+
+You grant us the authority to collect fees using any payment method we have on file for you. We reserve the right to increase the prices or add new fees after providing you an advance notice and you will have the option to accept or cancel your subscription.
+
+In the event of a failed payment, we may attempt to retry the charge on your credit card multiple times within a reasonable period. If all retry attempts fail, your subscription may be suspended or canceled, and you will be notified accordingly.
+Taxes
+
+IN PLAIN ENGLISH
+You bear all taxes that relate to our purchases.
+
+Fees may differ between different jurisdictions based on taxes that we need to add; therefore, during checkout taxes will be added if applicable. Apart from that, the Fees are exclusive of taxes, if there are any, you will bear the taxes.
+
+You are responsible for reporting and paying taxes in connection with the Services, along with any related penalties or interest, as applicable to your purchase or country of purchase.
+
+In the event that you are required by law to deduct and/or withhold any amount from any payments made to us, then the Fees shall be deemed as grossed-up and increased such that the actual net amount to be paid to us shall be equal to the Fees that would have been due to Company without such deduction or withholding.
+Refunds
+
+We provide a 30-day “no questions asked” refund for new Pro and Hosting subscriptions, excluding Free Trial usage of any kind. Note that for monthly subscriptions, each month is considered a renewal, and as such, refunds are not applicable for upgrades, renewals, or other subscription changes.
+
+Such refund shall be available for a period of thirty (30) days from the end of the business day the purchase was made (and if such day is not a business day, then the following business day).
+
+We may refuse to refund people who acted in bad faith or misused the Services, or otherwise violated any of the policies stated in the Terms of Service.
+
+Complementary Services and Refund Policy
+If you receive any complementary or promotional services from us at no additional charge (for example, services that are typically paid but provided to you for free as part of your purchase), and you subsequently request a refund for the associated paid services, the standard cost of the complementary service(s) will be deducted from your refund amount. This ensures fair value adjustments for services rendered at no charge prior to the refund request.
+Support and Updates
+Last Updated: March 2022
+
+IN PLAIN ENGLISH
+We provide updates and support to paying customers. Don’t abuse our key and don’t pass it around.
+Account Credentials
+
+IN PLAIN ENGLISH
+These are meant to ensure you receive your Subscription Plan.
+
+When you register and create an Elementor account, you will receive credentials.
+
+The Account Credentials allow us to authenticate, classify and ensure that your Subscription Plan so that you can receive timely support Services, software updates, and copies of our template library.
+
+We also use this key in accordance with our Privacy Policy to monitor that no abuse is made.
+Updates
+
+IN PLAIN ENGLISH
+When you purchase a subscription, we will send you updates for the subscription period. Don’t forget to install them.
+
+We may update or upgrade certain components included in the Software at our discretion.
+
+If you purchase and fully pay for a Subscription Plan, you will receive all updates made generally available during the subscription period.
+
+These updates will be available to the websites which you bought the Subscription Plan for.
+
+All Software updates are also licensed under the GPLv3 license unless specified otherwise.
+Support
+
+IN PLAIN ENGLISH
+Pay for support, get support.
+
+When you purchase a Subscription Plan that includes certain support Services for the Software only, we will provide you (the Subscription owner and not the actual payer or the professionals working on your site) with support according to that specific plan.
+
+Support is provided for Software only under the specific Subscription Plan you purchase through our channels and on a reasonable commercial effort basis.
+
+We will use reasonable efforts to respond to any support ticket in a timely manner in accordance with the terms of the specific Subscription Plan you have purchased.
+
+The Support Services shall not include: (i) altered or damaged Software or any portion thereof; (ii) problems caused by your negligence, abuse or misuse of the Software; and/or (iii) downtime due to: (a) our maintenance time; (b) your own Internet service provider; (c) a force majeure event; (d) any systemic Internet failures; (e) your acts or omissions; (f) third party software; and/or (g) anything outside of our direct control.
+Template Library
+Last Updated: January 2021
+
+IN PLAIN ENGLISH:
+We allow you to use the Template Library. In Elementor Pro you shall receive full access and in Elementor Core you shall receive limited access.
+
+If you have a valid subscription to the Elementor Pro service, we grant you a personal, non-exclusive, non-transferable, non-sublicensable, revocable, limited to access and use our proprietary library of templates known as “Elementor Library” which includes a library of web page templates accessible through Elementor Pro (the “Template Library”).
+
+The use of the Template Library shall be using your Elementor account and without an Elementor account you may not be able to use theTemplate Library.
+
+You may use these templates in your own website, as well as in websites you build for others. Our interpretation of “non-exclusive, non-transferable, non-sublicensable” is that you may use the Template Library to provide your customers with services, but may not resell them as a separate product. If you provide your customers with a copy of the templates, then they receive the same license you were granted.
+
+Moreover, you may not charge any money from others to use your license granted here.
+
+Please be advised that some of the templates contain third-party images, videos, media, files, audio and other visual components. While we have the right to use them in our Template Library, we cannot warrant that we can reciprocate these rights. This is your sole obligation to review the components included and ensure that you are legally permitted to do so.
+Submission Policy
+Last Updated: January 2021
+
+IN PLAIN ENGLISH
+If you post blog posts, forum posts, comments, or other material on our website, we may use that content when showing these posts or comments to others. Don’t post offensive material or copyright-infringing material.
+
+You retain all Intellectual Property Rights in your content; however, to use this content, you need to grant us the permissions stated in this section.
+License
+
+You hereby grant us an irrevocable, permanent, unlimited, worldwide, royalty-free, sublicensable, non-exclusive license to use your content and to allow users to view and share your content according to the functionality of our Services and through other third-party services, including the creation of derivative works and the creation of three dimensional works.
+Warranties
+
+You hereby warrant that you are either the sole proprietor or a designated licensee of your content and that no other party’s rights or laws are infringed or violated by your use of the content and our Services. You also warrant that no legal claim, dispute or lawsuit was filed against you or threatened against you for publishing content through our Services.
+Removal
+
+We may remove content that breaches our terms. We may suspend or stop providing our Services to you if you breach our terms, or if we are investigating suspected misconduct. If we receive a complaint from a third-party stating that your content infringes on any of its legal rights, or is otherwise illegal, we will inspect the complaint and forward you a copy. Once we do that, we may disclose your identity to the person who filed your complaint and remove content if we believe that it is not compliant with these terms. This policy is both for DMCA (Digital Millennium Copyright Act) notices and for other notices.
+Trademark Guidelines
+Last Updated: January 2021
+
+These Elementor Trademarks Usage Guidelines (these “Guidelines”) outline how we permit the use of Elementor’s trademarks, brandnames, tradenames, service marks, service names, domain names and logos (collectively, “Elementor Trademarks”).
+We have developed these Guidelines with the following goals in mind: We wish to make it easy for anyone to use the Elementor Trademarks for Community-Oriented Efforts in a manner that helps to spread and improve Elementor.
+
+For the sake of these guidelines, “Community-Oriented Effort”means a non-profit project or meetup, which is made to encourage the use of the Elementor or Software.
+
+If you wish to use the Elementor name in a for-profit project, please contact us as specified below.
+
+We wish to make it clear how Community Oriented Efforts can, or cannot, use the Elementor Trademarks.
+We wish to prevent anyone from using the Elementor Trademarks in an unfair profit form and to trick or confuse people who are looking for resources officially released by Elementor.
+
+You acknowledge and agree that we are the sole and exclusive owners of the Elementor Trademarks, and that we retain all intellectual property rights in and to the Elementor Trademarks and goodwill associated with Elementor Trademarks and any goodwill generated by your use of any Elementor Trademarks will inure to our exclusive benefit.
+
+You shall at no time contest, challenge, encourage or aid third-parties in contesting the validity or ownership of any Elementor Trademarks or take any action in derogation of our rights therein, including, without limitation, applying to register any trademark, tradename or other designation that is confusingly similar in any way to the Elementor Trademarks.
+Our License
+
+IN PLAIN ENGLISH
+If you have a community project, then it’s ok to use Elementor’s name as long as there is no suggestion that the project is affiliated with Elementor.
+
+Subject to the terms and conditions hereunder, we grant to you a limited, non-exclusive, non-sublicensable, non-transferable, revocable license to use and display Elementor Trademarks, solely in accordance with these Guidelines and other written instructions provided by us from time to time, and solely as a part of a Community Oriented Effort.
+
+The Elementor Trademarks shall not be displayed in a manner that implies that the project is affiliated with Elementor. This doesn’t just mean that to comply with these Guidelines; you can write, “we are not affiliated with Elementor” in your footer. Instead, you must refrain altogether from using misleading business practices such as using a domain name comprising solely of the word “Elementor” or just using our logo as your website’s logo.
+Restrictions
+
+IN PLAIN ENGLISH
+Don’t make people think you’re affiliated with Elementor.
+
+Your project must have discernible differences from Elementor’s Software. Meaning, it is not a redistribution of the Software.
+Your use of the Elementor Trademarks is not displayed in a manner that implies that your project, products and/or services are endorsed or sponsored by Elementor.
+
+For example, organizing an “Elementor Support Forum” might be confusing, and therefore we request that you state that your website is a “Support Forum For Elementor.”
+
+Using the Elementor Trademarks’ colors as a part of your website’s branding is ok, but you shall not do so if this misleads people to think that the website is a formal Elementor site.
+Any deceptive practices, such as using domain names that are meant to mislead people to think that they are using an official Elementor website, are prohibited.
+Design
+
+IN PLAIN ENGLISH
+We have invested in branding. Don’t change it.
+All use of Elementor Trademarks (including any goodwill arising therefrom) shall solely benefit Elementor. Any display of the Elementor Trademarks shall be only in the exact format in which we provide it. No alternate stylization or representation is permitted. Specifically, you may not change the color proportion, or font of any of Elementor Trademarks, or make any additions to or remove any elements from Elementor Trademarks.
+
+Elementor Trademarks shall not be placed on any background that interferes with the readability or display of that Elementor Trademarks.
+Elementor Trademarks may not be displayed or used in any manner together with or in the context of any content which is unlawful, defamatory, libelous, harassing, offensive, indecent, pornographic, abusive, discriminatory, fraudulent, threatening or vulgar; or which harms or may harm the goodwill of Elementor (in Elementor’s reasonable discretion).
+
+The above examples of unlawful and prohibited use do not constitute an exhaustive list
+Unless you received our explicit consent, under no circumstances is it permitted to use Elementor Trademarks as part of a domain name or top-level domain name. We reserve the right to withdraw any abovementioned consent at any time.
+Don’t Advertise
+
+IN PLAIN ENGLISH
+Don’t use Elementor trademarks in keyword ads.
+We do not allow the use of the Elementor Trademarks in advertising, including Google Ads and other search engines.
+Your Own Risk
+
+IN PLAIN ENGLISH
+The usage is at your own risk.
+
+Use of any Elementor Trademarks is at your own risk. The uses permitted hereunder are provided by Elementor Trademarks “AS-IS,” without any warranties whatsoever, including (without limitation) any warranty of title and non-infringement. You hereby agree to defend, indemnify and hold harmless Elementor and Elementor affiliates and their respective officers, directors, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs and expenses (including but not limited to attorney’s fees) arising from your use of the Elementor Trademarks. Without derogating from or excusing your obligations under this section, Elementor reserves the right (at your own expense), but are not under any obligation, to assume the exclusive defense and control of any matter which is subject to indemnification by you if you choose not to defend or settle it. You agree not to settle any matter subject to indemnification by you without first obtaining our express approval.
+Amendments
+
+IN PLAIN ENGLISH
+We may change this.
+
+We reserve the right to change these Guidelines at any time, at our sole discretion, with immediate effect.
+Penalties
+
+IN PLAIN ENGLISH
+We can penalize people who abuse these guidelines.
+Where we find that you are failing to comply with this policy, we may promptly extract you from our affiliates program and use any and all legal means in its power to stop your activity, including suspension, termination or deactivation of your account.
+We reserve the right, exercisable at our sole discretion, to take appropriate action against any use without permission or any use that does not conform to these Guidelines.
+Examples
+
+A few examples to help you understand how to apply these Guidelines:
+
+Good:
+
+    You want to open a Meetup group for Elementor users in your area, and you call it “Elementor Developers Meetup Group – Los Altos.”
+    You can set up a free, unpaid, plugin named “Better Photos For Elementor” (but not a premium plugin).
+
+Bad:
+
+    You organize a meetup and call it “Elementor 2019 Meetup.”
+    You set up a website called “Elementor-Templates.com.”
+    You set up a website called “Elementor-Jobs.io.”
+
+ 
+Ask Us:
+
+If you’re using the Elementor brand, trademark or logo for any commercial endeavor, please ask our permission first.
+When in doubt about your use of the Elementor name or logo, please contact legal@elementor.com for clarification.
+This may be relevant if you want to use Elementor Trademarks as a part of your conference, website, group or other logo or if you’re planning on selling any physical product, T-shirts, cups, sweaters or just print stickers.
+Marketplace
+Last Updated: October, 2023
+
+The Elementor Marketplace is a Service we offer that allows Elementor related businesses to advertise themselves and their portfolio, and to receive messages from potential clients.
+Marketplace Registration and Information
+
+IN PLAIN ENGLISH
+Please give us accurate information. Let your clients know about your business.
+Participation in the Marketplace is for specific and selected users. If you are allowed to register, you will need to provide us with information about yourself and your business, according to our Submission Policy and the licenses stated there.
+Please don’t publish inaccurate information, or take credit for other people’s work. Respect your clients and don’t post their material without their permission.
+We Are Not A Party
+
+IN PLAIN ENGLISH
+We don’t take responsibility for professionals, hire them at your own risk.
+We cannot assume liability over any person’s work. If you encounter any problem with such professional, please notify us; however, we cannot assume liability over their work and cannot be held responsible in any case.
+Privacy Policy
+Last updated: January 2024
+
+Elementor Ltd., including our subsidiaries and affiliates worldwide (“Elementor”, “we”, “our” or “us”), puts great efforts in making sure that the personal data we process is safe and used properly, and that our data practices are accurately communicated to our prospects and users (“you”).
+
+This Privacy Policy describes how we collect, store, use and disclose the following types of personal data:
+
+Prospect data concerning our visitors, prospective affiliates and customers, who visit or engage with our websites (such as https://elementor.com/ and its subdomains), blogs, community, marketplace or other similar forums, online ads and content, emails or other communications under our control (collectively, the “Sites”), or participate in events or webinars that we organize or take part in (collectively, “Prospects”).
+
+User data concerning individuals (“Users”) who use Elementor’s WordPress web development platform, features and tools, and/or hosting solution (together with the Sites – the “Services”).
+
+Specifically, this Privacy Policy describes our practices regarding:
+
+    Data Collection
+    Data Uses
+    Data Location
+    Data Retention
+    Data Security
+    Data Sharing
+    Cookies and Tracking Technologies
+    Communications
+    Data Subject Rights
+    Elementor Hosting
+    Roles and Responsibilities
+    Additional Information and Contact
+
+Please read this Privacy Policy carefully and make sure that you fully understand and agree to it.
+
+You are not legally required to provide us with any personal data, and may do so (or avoid doing so) at your own free will. If you do not wish to provide us with your personal data, or to have it processed by us or any of our Service Providers (per Section 6 below), please avoid any interaction with us or any use of our Services.
+1. Data Collection
+
+IN PLAIN ENGLISH
+we collect your data when you use our Services or contact us, directly ourselves or via third-party services.
+
+Such data may include:The data we process regarding our Prospects and Users is typically collected and generated through automatic means, directly from you, through your interaction with us or with our Services; or through third-party services, social media, analytics tools, events we organize or take part in, and other business initiatives.
+
+    Contact information: contact details and interests, as well as any needs, preferences, attributes and insights relevant to our potential engagement;
+    Direct interactions and communications with us: correspondence with us (e.g., for user experience, support and training purposes), as well as chats, surveys, feedbacks, calls and video recordings, transcriptions, and analyses thereof;
+    Site usage information: connectivity, technical and aggregated usage data, user agent, IP addresses, device data (such as type, OS, device ID, browser version, locale and language settings used), approximate geolocation, activity, communication and performance logs, session recordings, issues and bugs, and the cookies and pixels installed or utilized on your device.
+
+We collect additional data from our Users, such as:
+
+    Account information: e-mail address, name and, when applicable, hashed password, phone number or other information used for authentication, access control and providing support;
+    Payment information: mailing address, tax ID number, company name (if applicable), 4 last digits of the credit card number, expiration date, credit card type, or account details at payment processing services such as PayPal (if applicable), and payment preferences. To the extent that any of the foregoing solely relates to a non-human entity, we will not regard it as personal data, and this Privacy Policy will not apply to it.
+    Service usage information: license key, server’s software, version and IP address, MySQL version, PHP settings & version, WordPress version, WordPress debug mode, WordPress memory limit, WordPress max upload size, WordPress settings (permalink structure, multisite, language, theme, plugins), site URL, number of custom templates saved to library, number of posts using Elementor, and number of widgets used. Please note, if you enabled the Services’ usage information collection option, you can always disable it by unchecking the ‘Usage Data Tracking’ option in the dashboard’s settings.
+
+2. Data Uses
+
+IN PLAIN ENGLISH
+We use your data to provide you with our Services, to continually improve them, and to communicate with you.
+
+Elementor processes the personal data described in Section 1 for the purposes listed below, as necessary for the performance of our Services (“Performance of Contract”); to comply with our legal and contractual obligations (“Legal Obligations”); and to support our legitimate interests in maintaining, improving and advertising our Services. These include understanding how our Services are used, and how our Services, campaigns and other activities are performing; gaining insights which help us dedicate our resources and efforts more efficiently; marketing, advertising and selling our Services; providing customer service and technical support; and protecting and securing our Services, ourselves and the organizations and individuals we engage with (“Legitimate Interests”).
+
+Elementor operates in many countries around the world. If you reside or are using the Services in a territory governed by privacy laws under which “consent” is the only or most appropriate legal basis for processing personal data in the manners described in this Policy (in general, or specifically with respect to the types of personal data you expect or elect to be or have processed by or via the Services), your acceptance of our Terms and Conditions and this Privacy Policy will be deemed as your consent to the processing of your personal data for all purposes detailed herein. If you wish to revoke such consent, please contact us at privacy@elementor.com.
+
+Specifically, we use your data for the following purposes (and in reliance on the legal bases for processing noted next to them, as appropriate):
+
+    To facilitate, operate, enhance and provide our Services. We specifically note that in accessing certain third-party domains, per your instructions, we may conduct such access through your IP address, in order to ensure relevant and efficient access to public data. Please note that this activity may be tracked by Internet Service Providers. We will never use the IP address to access websites which may impact your ability to access the Internet (Performance of Contract; Legitimate Interests);
+    To provide you with assistance and technical support services, to test and monitor the Services, or diagnose or fix technology problems, and to train our staff (Performance of Contract; Legitimate Interests);
+    To personalize our Services, including by recognizing an individual and remembering their information when they return to our Services, and to provide further localization and personalization capabilities (Performance of Contract; Legitimate Interests);
+    To gain a better understanding on how individuals use and interact with our Services, which content and data they have processed through our Services, and how we could improve their and others’ user experience and the value they can generate from using the Services, so we could continue improving our products, offerings and the overall performance of our Services, including through the utilization and optimization of Artificial Intelligence and Machine Learning capabilities (Legitimate Interests);
+    To facilitate and optimize our marketing and advertising campaigns, ad management and sales operations, and to manage and deliver advertisements for our products and Services more effectively (Legitimate Interests; Consent);
+    To contact you with general or personalized service-related messages, or with promotional messages, in accordance with Section 8 below, and to facilitate, sponsor and offer certain events and promotions (Performance of Contract; Legitimate Interests; Consent);
+    To facilitate and optimize our marketing campaigns, ad management and sales operations, and to manage and deliver advertisements for our products and services more effectively, including on other websites and applications. Such activities allow us to highlight the benefits of using our Services, and thereby increase your engagement and overall satisfaction with our Services. This includes contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners (Legitimate Interests; Consent);
+    To support and enhance our data security measures, including for the purposes of preventing and mitigating the risks of fraud, error or any illegal or prohibited activity (Performance of Contract; Legitimate Interests);
+    To create aggregated statistical data, inferred non-personal data, or anonymized or pseudonymized data (rendered non-personal), which we or our business partners may use to provide and improve our respective services, or for any other purpose (Legitimate Interests); and
+     To comply with our legal, regulatory, compliance and contractual obligations (Legal Obligations).
+
+3. Data Location
+
+IN PLAIN ENGLISH
+We and our Service Providers will store your data in different locations worldwide.
+
+We and our authorized Service Providers maintain, store and process personal data in the various locations we operate around the globe, including in Israel, the EU and the US, as reasonably necessary for the proper performance and delivery of our Services, or as may be required by law.
+
+While privacy laws may vary between jurisdictions, Elementor, its affiliates and Service Providers are each committed to protect personal data in accordance with this Privacy Policy, customary industry standards, and such appropriate lawful mechanisms and contractual terms requiring adequate data protection, regardless of any lesser legal requirements that may apply in the jurisdiction to which such data may be transferred.
+
+Elementor Ltd. is headquartered in Israel, a jurisdiction which is recognized by the European Commission and the UK Information Commissioner’s Office (ICO) as offering an adequate level of protection for the personal data of UK and EEA residents. We transfer personal data from the EEA and the UK to Israel on this basis. For data transfers from the EEA or UK to countries which are not considered to be offering an adequate level of data protection, we and the relevant data exporters and importers have entered into Standard Contractual Clauses as approved by the European Commission and UK ICO. You can obtain a copy by contacting us as indicated in Section 12 below.
+4. Data Retention
+
+IN PLAIN ENGLISH
+We retain your personal data for as long as necessary to provide you with our Services; we do not retain your payment information.
+
+We retain your personal data for as long as it is reasonably necessary to provide you with our Services and offerings and to maintain and expand our relationship; to comply with our legal and contractual obligations; or to protect ourselves from any potential disputes (e.g. as required by laws applicable to log-keeping, records and bookkeeping, and in order to have proof and evidence concerning our relationship, should any legal issues arise following your discontinuance of use), all in accordance with applicable laws and regulations.
+
+Please note that except as required by applicable law or our specific agreements with you, we will not be obligated to retain your personal data for any particular period, and we are free to securely delete it or restrict access to it for any reason and at any time, with or without notice to you. If you have any questions about our data retention policy, please contact us by e-mail at privacy@elementor.com.
+
+Please also note that we do not retain your payment information, it is transferred directly to the relevant Service Provider (as per Section 6 below). We only retain a token of such payment information (which cannot be used to reidentify it) and the chosen payment method, as it is required for your continuous payment of our Services subscriptions.
+5. Data Security
+
+IN PLAIN ENGLISH
+We will do our best to make sure your data is secured.
+
+We and our Service Providers implement systems, applications and procedures to secure your personal data, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. These measures provide sound industry-standard security, however, although we make efforts to protect your privacy and data, we cannot and do not guarantee the absolute protection and security of any personal data stored with us or with any third-parties.
+6. Data Sharing
+
+IN PLAIN ENGLISH
+We may share your data for different reasons, mainly in order to provide you with our Services, or if required by law.
+
+Legal Compliance: in exceptional circumstances, we may disclose or allow government and law enforcement officials access to your personal data, in response to a subpoena, search warrant or court order (or similar requirement), or in compliance with applicable laws and regulations, with or without notice to you. Such disclosure or access may occur if we believe in good faith that: (a) we are legally compelled to do so; (b) disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding actual or suspected illegal activity, fraud, or other wrongdoing; or (c) such disclosure is required to protect our legitimate business interests, including the security or integrity of our products and Services.
+
+Service Providers: we engage selected third-party companies and individuals to perform services complementary to our own. Such Service Providers include hosting and server co-location services, communications and content delivery networks (CDNs), internet service providers, operating systems and platform, data analytics services, marketing and advertising services, data and cyber security services, fraud detection and prevention services, billing and payment processing services, web analytics, e-mail and SMS distribution and monitoring services, session or activity recording services, remote access services, performance measurement, data optimization services, social and advertising networks, content providers, support and customer relation management systems; and our business, legal, financial and compliance advisors (collectively, “Service Providers“). These Service Providers may have access to your personal data, depending on each of their specific roles and purposes in facilitating, supporting and enhancing our Services, and may only use it for such purposes.
+
+As part of providing the Services our affiliates, agents, contractors, representatives, trusted business partners, and third-party service providers (including without limitation, the following entities) may have access to your personal data: We use Google Ads, Facebook Ads, Twitter Ads, Microsoft Ads, Reddit, Quora, Pinterest, TikTok and LinkedIn Ads to reach our target audience with relevant ads. We use the data to track sales and other business goals, all the data is being masked, and the company can’t identify any action from a specific customer or user. We use CloudFlare to accelerate our web pages. We use Facebook Messenger and Manychat to communicate with our users; each interaction is logged in Facebook Messenger. We use MailChimp, SendGrid, Jilt, and Kustomer to send promotional and support communications to our users.  We use Google Analytics to analyze marketing goals and to integrate different data sources together. We use PayPal, and Stripe for our payment processing and accounting. We use Hotjar in order to better understand your needs and optimize these services and experience. We require the foregoing parties to process such information in compliance with this Privacy Policy and subject to security and other appropriate confidentiality safeguards.  If you used our services to contact a third-party, such as in our marketplace, then we will provide the information you filled out in the form to said third-party.
+
+Third-Party Websites and Services: our Services may include links to third-party websites, and integrations with third-party services. Such websites and third-party services, and any information you process, submit, transmit or otherwise use with such websites and third-party services, are beyond the scope of Elementor’s Terms and Conditions and Privacy Policy and will therefore be governed by such third-party’s terms and privacy practices and policies, and not by this Privacy Policy. We encourage you to carefully read the terms and privacy policies of such websites and third-party services.
+
+Account Administrators for Multi-Member Plans: User data may be shared with the administrator or other Users of the same account (if applicable). This means that the administrator of the account may have access, and will be able to monitor, process and analyze the personal data contained therein, as well as your use of the Services and communication with us.
+
+Protecting Rights and Safety: we may share personal data with others if we believe in good faith that this will help protect the rights, property or personal safety of Elementor, our Users, our Prospects, or any members of the general public.
+
+Elementor Subsidiaries and Affiliated Companies; Change of Control: we may share personal data internally within our group, for the purposes described in this Privacy Policy. In addition, should Elementor Ltd. or any of its subsidiaries or affiliates undergo any change in control or ownership, including by means of merger, acquisition or purchase of substantially all or part of its assets, or will be considered or found eligible for a governmental grant and/or a potential investment, personal data may be shared with the parties involved in such an event. If we believe that such event might materially affect your personal data then stored with us, we will notify you of this event and the choices you may have via e-mail or prominent notice on our Services.
+
+Additional Sharing: we may share your personal data in additional manners, pursuant to your request or explicit approval, or if we are legally obligated to do so, or if we have successfully rendered such data non-personal, non-identifiable and anonymous. We may transfer, share or otherwise use non-personal and non-identifiable data at our sole discretion and without the need for further approval.
+7. Cookies and Tracking Technologies
+
+IN PLAIN ENGLISH
+We use cookies to provide and improve our Services.
+
+Elementor and our Service Providers use cookies and other technologies for performance, tracking, analytics, personalization purposes and in order to provide you with a better experience. We may share non-identifiable/aggregated extracts of such information with our partners for our legitimate business purposes.
+
+Cookies: cookies are small text files that are stored through the browser on your computer or mobile device (for example, Google Chrome or Safari) when you visit a website. Some cookies are removed when you close your browser session – these are the “session cookies”. Some last for longer periods and are called “persistent cookies”. We use both types of cookies to facilitate the use of the Services’ features and tools. Whilst we do not change our practices in response to a “Do Not Track” signal in the HTTP header from a browser or mobile application, you can manage your cookies preferences, including whether or not to accept them and how to remove them, through your browser settings. Please bear in mind that disabling cookies may complicate or even prevent you from using the Services. For more information regarding cookies, you may find the following websites useful: www.allaboutcookies.org, www.youronlinechoices.co.uk.
+
+Google Analytics: we use Google Analytics to collect information about the use of our Services. Google Analytics collects information such as how often you visit the Services, which pages you visited when doing so, and which other sites they used prior to coming to our Services. We do not merge the information collected through the use of Google Analytics with personally identifiable data. Google’s ability to use and share information collected by Google Analytics about your visits to and use of the Services is restricted by the Google Analytics Terms of Service and the Google Privacy Policy. You can learn more about how Google collects and processes data specifically in connection with Google Analytics here. Further information about your option to opt-out of these analytics services is available here.
+
+To learn more about our cookies practices, please visit our Cookie Policy.
+8. Communications
+
+IN PLAIN ENGLISH
+We may contact you with service and promotional communications.
+
+We engage in service and promotional communications, through social media, e-mail, phone, SMS and notifications.
+
+Service Communications: we may contact you with important information regarding our Services. For example, we may send you notifications (through any of the means available to us) of changes or updates to our Services (such as billing issues, login attempts or password reset instructions, alerts and notifications concerning anomalies detected by our Services, etc.). You can control your communications and notifications in accordance with the instructions included in the communications sent to you. Please note that you will not be able to opt-out of receiving certain service communications which are integral to your use (like password resets or billing notices payment issues, login attempts or password reset instructions, etc.).
+
+Notifications and Promotional Communications: we may also notify you about new features, additional offerings, events, webinars, special opportunities or any other information we think you will find valuable. We may provide such notices through any of the contact means available to us (e.g., SMS, phone, mobile or e-mail), through the Services, or through our marketing campaigns on any other sites or platforms. In order to control your notifications settings please follow the instructions included in the promotional communications sent to you. If you do not wish to receive such communication, you may also notify us by sending an e-mail to: privacy@elementor.com.
+9. Data Subject Rights
+
+IN PLAIN ENGLISH
+You may exercise your rights concerning your personal data, by contacting us or editing your user profile.
+
+Individuals have rights concerning their personal data. If you wish to exercise your privacy rights under any applicable law, including the EU General Data Protection Regulation (GDPR), or the CCPA, such as – to the extent applicable – the right to know/request access (specific pieces of personal data collected; categories of personal data collected; categories of sources from whom the personal data was collected; purpose of collecting personal data; categories of third parties with whom we have shared personal data), rectification or erasure of your personal data held with Elementor, please log in to “My Profile” and edit your user profile. If you wish to exercise your right to restrict or object to such personal data’s processing, to direct us not to sell your personal data to third parties now or in the future, or to port such personal data, or the right to equal services and prices (e.g. freedom from discrimination) (each to the extent available to you under the laws which apply to you) – please contact us by e-mail at: privacy@elementor.com. Please be advised that deleting your personal data stored with Elementor will adversely affect your use of our Services.
+
+Please note that such rights are not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal data that we hold about you. In the event that we cannot accommodate your request, we will inform you of the reasons why, subject to any legal or regulatory restrictions.
+
+Please also note that we may require additional information, including certain personal data, in order to authenticate and process your request. Such additional information may be then retained by us for legal purposes (e.g., as proof of the identity of the person submitting the request), in accordance with Section 4 above. We may redact from the data which we will make available to you, any personal data related to others.
+10. Elementor Hosting
+
+IN PLAIN ENGLISH
+We may process personal data on our Hosting Users’ behalf, if you are their visitor or user, please contact them directly with any requests.
+
+With respect to our hosting offering, we may store personal data of visitors and users of our Users, who are hosting their website on Elementor (“Hosting Users”).
+
+If you are a visitor or user of our Hosting Users’ website, and you would like to make any requests or queries regarding data we process on their behalf, please contact them directly. For example, if you are a visitor or user of our Hosting User and you wish to access, correct, or delete data processed by Elementor on their behalf, please direct your request to the relevant Hosting User (who is the “data controller” of such data – per Section 11 below). Note that if you do contact us, we may share your communications with the relevant Hosting User.
+
+We recommend our Hosting Users to provide their visitors and users with adequate notice (for example via a privacy policy on their website), including sufficient reference to the processing of such data by us, and any other information necessary to comply with applicable laws. If you are a visitor or user of our Hosting Users’ website, we recommend reading such privacy policy carefully and making sure that you fully understand and agree to it. Please note that such Hosting Users’ websites are not governed by this Privacy Policy.
+11. Roles and Responsibilities
+
+IN PLAIN ENGLISH
+We are the controllers of our Prospects and Users data; we are the processors of visitors and users’ data processed on our Hosting Users’ behalf.
+
+Certain data protection laws and regulations, such as the GDPR or the CCPA typically distinguish between two main roles for parties processing personal data: the “data controller” (or under the CCPA, “business”), who determines the purposes and means of processing; and the “data processor” (or under the CCPA, “service provider”), who processes the data on behalf of the data controller. Below we explain how these roles apply to our Services, to the extent that such laws and regulations apply.
+
+Elementor is the “data controller” of its Prospects and Users data. With respect to such data, we assume the responsibilities of data controller (solely to the extent applicable under law), as set forth in this Privacy Policy. In such instances, our Service Providers processing such data will assume the role of “data processor”.
+
+Elementor is the “data processor” of its Hosting Users’ visitors and users’ data, which we process on behalf of our Hosting Users, who are the “data controller” of such data. Such processing will be in accordance with Elementor Hosting Data Processing Agreement (“DPA”). In these instances, our Service Providers processing such data will assume the role of “sub-processors”.
+
+For the avoidance of doubt, each Hosting User is solely responsible for providing adequate notice to their visitors and users whose personal data may be processed – including sufficient reference to the processing of their personal data via the Services, and any other information necessary to comply with all applicable privacy and data protection laws; and to obtain all approvals and consents from such individuals as required under such laws.
+12. Additional Information and Contact Details
+
+External Links: while our Services may contain links to other websites or services, we are not responsible for their privacy practices. We encourage you to pay attention when you leave our Services for the website or application of such third-parties, and to read the privacy policies of each and every website and service you visit. This Privacy Policy applies only to our Services.Updates and Amendments: we may update and amend this Privacy Policy from time to time by posting an amended version on our Services. The amended version will be effective as of the date it is published. We will provide prior notice if we believe any substantial changes are involved via any of the communication means available to us or via Services. After such notice period, all amendments shall be deemed accepted by you.
+
+Our Services are not designed to attract children under the age of 18: we do not knowingly collect personal data from children and do not wish to do so. If we learn that a person under the age of 18 is using the Services, we will attempt to prohibit and block such use and will make our best efforts to promptly delete any personal data stored with us with regard to such child. If you believe that we might have any such data, please contact us by e-mail at privacy@elementor.com.
+
+California Requirements: This Privacy Policy describes the categories of personal information we may collect and the sources of such information (in Section ‎‎1 above), and our retention (Section ‎4) and deletion (Section ‎9) practices. We also included information about how we may process your information (in Sections ‎2 through ‎8), which includes for “business purposes” under the California Consumer Privacy Act (CCPA). We do not sell your personal information for the intents and purposes of CCPA. We may share personal data with third parties or allow them to collect personal data from our Services as described in Section ‎6 above, if those third parties are authorised Service Providers or business partners who have agreed to our contractual limitations as to their retention, use, and disclosure of such personal data, or if you integrate the services of third parties with our Services, or direct us to disclose your personal data to third parties.
+
+If you have any questions or would like to exercise your rights under the CCPA, you can contact privacy@elementor.com. Questions, concerns or complaints: if you have any comments or questions regarding our Privacy Policy, or if you have any concerns regarding your personal data held with us, or if you wish to make a complaint about how your personal data is being processed by Elementor, you can contact us at privacy@elementor.com.
+
+Representative for data subjects in the EU, UK, and Switzerland
+
+We value your privacy and your rights as a data subject and have therefore appointed Prighter Group with its local partners as our privacy representative and your point of contact for the following regions:
+
+    United Kingdom (UK)
+    Switzerland
+    European Union (EU)
+
+Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative, Prighter, or make use of your data subject rights, please visit the following website.
+Hosting
+Last Updated: April 3, 2025
+
+IN PLAIN ENGLISH
+We provide hosted Elementor services for clients who purchase a subscription. If you operate a website using our hosted service, you need to operate it legally, post only appropriate content, and avoid abusing our services.
+Hosting Services
+
+IN PLAIN ENGLISH
+Your hosted service is limited, you can only access the WordPress and Elementor administration panel, and not the servers. We may put a cap on storage and/or bandwidth and/or limited traffic and/or CPU.
+
+We offer hosting services for Elementor based websites, that come pre-installed with WordPress and Elementor. Your hosted service includes your right to use these services, however, you are not a licensee of the software that we provide you access to.
+We do not provide full access to the server, but only a limited web-based access.
+
+The hosted services provide a limited storage cap and/or limited bandwidth and/or limited traffic and/or limited CPU, as provided in our documentation and in accordance with the type of the applicable subscription and are meant for bona-fide use of the website. Exceeding from such limited storage/bandwidth/traffic/CPU may incur additional costs.
+Third-Party Services: Shoptimizer Theme
+
+IN PLAIN ENGLISH
+While the Shoptimizer Theme is provided to you for free, it is governed by Shoptimizer’s terms and conditions and privacy policy, which may be amended from time to time, and Elementor bears no responsibility for it (similar to other Third Party plugins you choose to activate on your site).
+
+1. Provision of Shoptimizer Theme
+
+When you purchase or use the Shoptimizer theme for eCommerce through our platform, you acknowledge and agree that this service is governed by the terms and conditions and the privacy policy of Shoptimizer.
+
+2. Acceptance of Shoptimizer Terms and Conditions
+
+By purchasing or using the Shoptimizer theme, you agree to be bound by Shoptimizer’s terms and conditions and privacy policy, which may be amended from time to time. It is your responsibility to review and understand these terms and conditions prior to engaging with the service.
+
+3. Changes to Shoptimizer Terms
+
+We are not responsible for notifying you of any changes to Shoptimizer’s terms and conditions and privacy policy. Any changes to Shoptimizer’s terms will take effect as specified by Shoptimizer. Your continued use of the Shoptimizer theme constitutes your acceptance of any such changes.
+
+4. No Liability for Shoptimizer Services
+
+We do not assume any liability for the actions, products, or services provided by Shoptimizer. Any disputes or issues arising from your use of the Shoptimizer theme should be resolved directly with Shoptimizer.
+
+5. Disclaimers
+
+We make no representations or warranties regarding the Shoptimizer theme, including but not limited to its quality, availability, or suitability for your needs. Your use of the Shoptimizer theme is at your own risk.
+
+6. No Partnership or Endorsement
+
+We are not in partnership with Shoptimizer and do not endorse or recommend their products or services. The inclusion of the Shoptimizer theme on our platform does not imply any form of partnership, joint venture, or other affiliation with Shoptimizer, nor does it constitute an endorsement of Shoptimizer or its offerings.
+
+7. Contact Information
+
+For issues related to the Shoptimizer theme, please contact Shoptimizer directly. Contact details can be found in Shoptimizer’s terms and conditions or on their official website.
+Static Hosting
+Dynamic Content
+
+When your website is in static mode, dynamic content features, such as user logins, commenting systems, e-commerce functionality, and live data feeds, may not work as expected or may be completely unavailable.
+Database-Dependent Functionality
+
+Many website features rely on databases to store and retrieve information. In static mode, where no database interactions are possible, functionality that depends on database queries may not work. This includes content management systems (CMS), dynamic page generation, search functionality, and data-driven applications.
+Traffic
+
+IN PLAIN ENGLISH
+We may put a cap on traffic, and block certain traffic.
+
+Your subscription offers limited bandwidth and traffic, and is not meant to serve as a content delivery network. We provide limited service, with service caps.
+
+We may suspend any account, subscription or website if it deviates from our service cap, or collect a surcharge according to our then-applicable rates.
+
+We moreover require that files hosted on the website will not be deep-linked, and that you will not use the website as a storage service.
+We do not allow storage of files larger than a certain threshold, and if we believe a file is used as a part of a file sharing scheme, we may disable access to it.
+Our Responsibilities
+
+IN PLAIN ENGLISH
+We provide limited hosted and technical support.
+
+We provide the Hosting Service, including technical support, as described in each Offer Description. We may enhance and refine the Hosting Service provided we do not materially reduce its core functionality. From time to time, we may perform scheduled maintenance to update the servers and software used to provide the Hosting Service. You acknowledge that we may, in certain situations, need to perform emergency maintenance of the Hosting Service without providing advance notice to You, during which time, we may temporarily suspend Your access to and use of the Hosting Service.
+
+We may provide you with support services using our access tokens that you will grant us via tools and software that are integrated in the service.
+Service Level
+
+IN PLAIN ENGLISH
+We warrant that our Services will be operational most of the time.
+
+We will make any effort to ensure that the Hosting Services are performed in a professional manner with industry standards reasonably applicable to such Services.
+
+We strive for the hosting services to be operational at least 99.9% of the time calculated annually, i.e. that downtime percentage will be no more than 0.1%
+Storing Third Party Code
+
+IN PLAIN ENGLISH
+We allow you to run some external plugins, but may refuse any plugin for any purpose.
+
+We allow you to store and run third party code as long as it adheres to our Acceptable Use Policy in our Terms of Service, and as long as it does not create excessive server use and harms our user experience.
+
+We may disable any third party code at any time and without prior notice.
+
+We may also allow you to use some selected third party plugins using your hosted account. These plugins are neither endorsed by us nor affiliated with us, and we assume no responsibility for their functionality.
+
+Our offering includes an installed WordPress website, with the Elementor plugins installed. However, in order to allow functionality, this also includes several first party and third-party code to provide services and collect data; the removal of such pre-installed software is prohibited, even if technically possible.
+Storing Third Party Content
+
+IN PLAIN ENGLISH
+Take responsibility for the content you upload to our services.
+
+If you decide to upload, embed, display or otherwise make available to the public any third party content, you need to ensure that you have the right permission and license to do so and that such content does not harm any third party or is in violation of any law. We cannot inspect, nor do we assume responsibility, for such action.
+
+Please note that any content displayed on your website is your responsibility, and you will be the party facing legal action if it was found in violation of this policy.
+User Generated Content
+
+IN PLAIN ENGLISH
+You are responsible for your user generated content; please set a policy for user generated content.
+
+Your website may contain user generated content; meaning website comments, reviews, posts or forum entries. Please create a policy for your end-users that deals with such content according to the applicable laws, and ensure in such policy that we are exempt from any liability.
+Your Content
+
+IN PLAIN ENGLISH
+Our content policy applies; please read it. Don’t post illegal content, offensive content or other content that is in violation of any person’s rights.
+
+The statements in our Submission Policy applies to all content in your website.
+
+By using our Services you provide us with information, files, and folders that you submit to us (together, “your uploads”). You retain full ownership to your uploads. We do not claim any ownership to any of it. These Terms do not grant us any rights to your uploads or intellectual property except for the limited purpose of operating, promoting and improving our Services and to develop new ones.
+
+We prohibit the use of software or scripts running on our servers that may cause the server to load beyond a reasonable level, as we may determine from time to time.
+
+You also acknowledge and agree that we reserve the right to remove sites, temporarily or permanently, if you are in violation of these Terms or if your site’s content may deem as harassing, abusive, racist, offensive, deceptive, encouraging criminal or harmful conduct, libelous, incendiary, obscene or otherwise violates any third party’s rights.
+Backups
+
+IN PLAIN ENGLISH
+Backups are a part of your plan, but you may not be able to use them. Back the material by yourself.
+
+The amount of data that can be backed up under your subscription is limited to the amount specified in your chosen plan. Attempting to backup additional data beyond this limit may require you to agree to additional charges. We will use reasonable efforts to maintain and backup data, but we cannot guarantee that all data will be free from errors or corruption. We cannot warrant that we will be able to restore your website and content at all times. Therefore, it is your sole responsibility to create your own backups for your website. In addition, we reserve the right to limit or delete backups of your data if it is determined that your usage is consuming an excessive amount of system resources or causing performance issues of other users.
+
+We reserve the right to delete any websites that have been in a staging status for a longer period of time than is mentioned in the plan you have chosen.
+
+This policy is implemented to maintain the performance and security of our servers, and to ensure that inactive websites do not occupy valuable resources. We will not be responsible for any loss of data or content as a result of such deletion.
+SSL Certificates
+
+IN PLAIN ENGLISH
+SSL is not super-secure, and our certificates are temporary.
+
+We may offer SSL certificates for your websites, which are based on third party certificate service. Such certificates do not mean we inspected ownership of your website and domain-name, nor do they mean that we validated such a domain’s adherence with any practices.
+
+Such certificates may be revoked at any time, either by us or by the third party provider, for any reason.
+Domains
+
+IN PLAIN ENGLISH
+Respect others’ rights; only buy domains that you can legally use.
+
+We may offer you to purchase domain names using our service, either by our own services or by a third party service. In such a case, your purchase of domain names will be in accordance with the applicable laws and policies, and shall not infringe on any third party’s rights or applicable state laws. We reserve the right to disconnect any domain from your subscription at any time, without notice, if we determine that the domain is being used in violation of these terms or for any other reason at our sole discretion. The number of domains that can be connected to your subscription is limited to the number specified in your chosen plan. Attempting to connect additional domains beyond this limit may require you to agree to additional charges.
+Privacy
+
+IN PLAIN ENGLISH
+Please add a Privacy Policy to your website; tell your users about our analytics services.
+
+Our use of your data is subject to Data Processing Agreement and we may use third party sub-processors according to our published list, as updated from time to time.
+
+It is your own responsibility to present your users and website visitors with the required information to ensure their data rights, including privacy and cookie notices.
+
+Please add to any statement the fact that you use our services, and that we use both our own and third party analytics services, as detailed in our Privacy Policy. Please ensure that your website visitors acknowledge our use, and that you understand that we may use the visitor data in accordance with our privacy policy. Please ensure your visitors are aware of the location and processing methods and are given a full and complete list of subprocesses.
+“Notes” Feature
+
+IN PLAIN ENGLISH
+Do not insert or upload any personal, confidential or important information into a note, when using the Notes feature. Site Admins have full access to view all notes on the site and their content, and provide access to Notes to any other site user. Therefore, We cannot guarantee privacy on notes’ content.
+
+In order to use Notes, non-admins users must receive an invitation from an admin of your site. As we indulge you to use the Notes for its many advantages, please keep in mind that site admins have a full and exclusive control over notes created by using the Notes feature and therefore every action should be accordingly. We recommend not to insert or upload any kind of personal, confidential or important information into a note, when using the Notes feature. In addition, all notes’ information is stored on your site’s database and together with the admin’s control it gives you all the reasons to keep your personal and important information in more private and secure ways.
+
+Non-admin users, who are granted personal permission by an admin to use the Notes feature, will have viewing access to all notes on the site (placed on posts they are allowed to view) and full control over notes created by them, as well as the ability to view the site’s full users list (as part of the Notes feature’s integral capability to mention other users in a note).
+Termination
+
+IN PLAIN ENGLISH
+We may suspend you for breaking the rules, and we may stop the service at any time.
+
+We may suspend the operation of this service at any time, and with or without prior notice.
+
+We may also suspend or terminate your account if you are in violation of our Terms of Service, including any part thereof. Please note that non-payment may also result in your website suspension, and that in such case, you may lose access to all your content.
+
+We may provide a grace period following a breach of these terms or a non-payment; this period shall be at our sole discretion.
+
+Following termination of the Hosting Services, we may provide you with an option to download some contents and components of your Content, provided that we’re not prohibited under law from doing so. Following that grace period, we may promptly remove all your data. For the avoidance of doubt, we will not transfer your website or server content to another provider.
+Refunds
+
+We provide a 30-day “no questions asked” refund for new Pro and Hosting subscriptions, excluding Free Trial usage of any kind. Note that for monthly subscriptions, each month is considered a renewal, and as such, refunds are not applicable for upgrades, renewals, or other subscription changes.
+
+Such refund shall be available for a period of thirty (30) days from the end of the business day the purchase was made (and if such day is not a business day, then the following business day).
+
+We may refuse to refund people who acted in bad faith or misused the Services, or otherwise violated any of the policies stated in the Terms of Service.
+Evaluation Period
+
+We may offer trial periods that offer limited usage and functionality, for a limited period of time, and for evaluation purposes. In such a case, following the evaluation period, we may terminate, suspend or limit your account.
+Premium Site Services
+Last Updated: May, 2024
+
+By using Elementor Premium Services (the “Premium Services”), you agree to comply with these terms and conditions. If you do not understand and/or agree to these terms, you should immediately cease making any use of the Premium Services.
+Submission of Content
+
+When using the Premium Services, you retain full ownership over your website content but grant us and our service providers and agents the right to process, modify, and store your content as necessary to provide the Premium Services to you.
+Premium Services Usage
+
+You are granted access to the Premium Services according to the specific terms for each Premium Service as defined on “My Elementor” page on our platform and to these Terms and Conditions. Upon payment, access to claim the Premium Services is granted. We reserve the right to change the terms for the Premium Services’ plans at our discretion outlined on “My Elementor” page. The Premium Service is a one-time nonrenewed service. Once the Premium Service has ended, you will need to re-purchase it, to get this Premium Service again.
+Premium Services Requirements
+
+The Premium Services are for Elementor paying customers only and apply only to websites built with Elementor. The use of the Premium Services shall be at your own risk and you are obliged to create a backup file of your website before getting the Premium Services from us. We will not be held liable for any loss or modification of data. Revision rounds and end of Premium Services terms shall be as specified on “My Elementor” page on our platform, for each Premium Service separately.
+Payment and Billing
+
+Payments made are non-refundable, once the Premium Services started.
+
+To subscribe and make payments, you must provide accurate, complete, and up-to-date billing information. This may include details such as name, billing address, and payment methods. You are responsible for ensuring the confidentiality of your billing information and must promptly update any changes to avoid disruptions to the subscription service. Inaccurate or outdated billing information may result in payment issues and potential suspension of access to the Premium Services.
+Termination
+
+Each Premium Service has a different term, timeline, and termination, as specified on “My Elementor” page.
+
+ 
+
+We may terminate your access to the Premium Services at our sole discretion if you violate these terms, with or without notice. Upon termination, you shall immediately cease getting the Premium Services. Any section that includes a representation or warranty shall continue to apply, including any covenant or obligation on your behalf to pay fees.
+
+ 
+
+We shall not be liable for any damage caused to you or any third party as a result of terminating these Terms or by suspending or otherwise limiting your use of the Premium Services.
+Data Integrity
+
+You acknowledge that occasional discrepancies or errors may occur due to technical limitations or unforeseen circumstances. Elementor shall not be liable for any loss, corruption, or unauthorized access to the data, including but not limited to data breaches, software bugs, or technical failures. You are solely responsible for creating a backup file of your website to verify the integrity of your data according to our Submission Policy and implementing appropriate security measures.
+Notification of Violations
+
+If we become aware of any violations of these terms related to your content, we may notify you and request corrective action. Failure to address such violations may result in the termination of your access to the Premium Services or to your Subscription.
+Data Retention and Deletion 
+
+We will NOT retain any backup data or final website files. Upon completion of the Premium Services, we will delete all data from our systems within a reasonable timeframe, subject to any legal or regulatory requirements regarding data retention.
+Limitation of Liability
+
+We commit to ensuring the optimal functioning of the Premium Services through diligent efforts.
+
+We pledge to exercise due care and diligence, adhering to industry practices and the current state of technology, to deliver a high-quality Site Service.
+
+ 
+
+We will NOT be liable for any direct or consequential damages, including financial losses such as loss of profits unless such damages arise solely from our negligence or willful misconduct. Under any circumstances, our liability is capped at the payment of damages, not exceeding the total amount paid by you when placing the order for the Site Service.
+Your Responsibility
+
+You are solely responsible for the backup of your data. By using the Premium Services, you affirm that you have the legal right to use, upload, and backup your content. This includes ensuring that the content does not infringe on any copyrights, or trademarks of any third party, violate any laws or regulations, or contain harmful elements such as viruses, malware, destructive content, etc.
+Contact Information
+
+For any questions or concerns regarding these terms or the Premium Services, you can contact us at elementor.com/contact/.
+Cookie Policy
+Last Updated: February 2022
+Elementor Ltd. (“Elementor”, “we”, “our” or “us”) uses certain monitoring and tracking technologies, such as cookies, beacons, pixels, tags, and scripts (collectively, “Cookies”). These technologies are used in order to provide, maintain, and improve our website (the “Services”), to optimize our offerings and marketing activities, and to provide our visitors and users (“you”, or “your”) with a better experience (for example, in order to track your preferences, to better secure our Services, to identify technical issues, and to monitor and improve the overall performance of our Services). This page contains information on what Cookies are, the Cookies used on our Services, how to reject Cookies, and some useful links for further reading on the subject. If you are unable to find the information you were looking for, or you have any further questions about the use of Cookies on our Services, please email privacy@elementor.com. For more information about our general privacy practices, please visit our Privacy Policy.
+1. What are Cookies?
+Cookies are small text files that are stored through the browser on your computer or mobile device when you visit a website. They allow the site to store information like login information or language preference. You can think of Cookies as providing a so-called memory for the website, so that it can recognize you when you come back and respond appropriately. You are not obligated to accept all Cookies in order to visit our website, however, enabling Cookies may allow for a more personalized browsing experience and is required for most of our Services to work.
+2. How do we use Cookies?
+Elementor uses several different types of Cookies on our website: Essential Cookies: These Cookies are necessary for the Services to function properly and cannot be disabled. They are usually only set in response to actions made by you, enabling functions like navigation, or setting preferences. These Cookies do not store information about you that will be used for other purposes. Preferences & Functional Cookies: These Cookies enable the Services to provide enhanced functionality and personalization. They may be set by us (first-party Cookies) or by third-party providers who work with us (third-party Cookies). Performance & Analytics Cookies: These Cookies are for internal use only. They help us to secure and maintain our Services, and to remember your preferences for tools found on the Services. They are also used for gathering analytics data on how you interact with our Services and the improvement performance of the site accordingly. If you do not allow these Cookies, we will not know when you have visited our site. Targeting & Advertising Cookies: These Cookies make advertisements more relevant to you. Our advertising partners may use it to show you relevant ads on different websites by uniquely identifying your browser and internet device.
+3. How long do Cookies last?
+The length of time a Cookie stays on your device varies according to its purpose. A Cookie that remains on your device after your session is concluded (until it expires or deleted) is called a “Persistent Cookie”. Persistent Cookies are used for different purposes, such as tracking your preferences, login information, your interaction with our Services and the effectiveness of our targeting Cookies. A Cookie that is automatically deleted once your session is concluded is called a “Session Cookie”. Session Cookies are used for the duration of your stay on our site and are automatically deleted when you exit the browser.
+4. Which Cookies do we use?
+Cookie Source 	Purpose 	Description
+Elementor 	Essential 	Elementor
+Stripe 	Essential 	Payment processing
+PayPal 	Essential 	Payment processing
+Google Analytics 	Performance & Analytics 	Insights into our marketing effort
+Google Ads 	Targeting & Advertising 	Insights into our marketing effort
+Hotjar 	Performance & Analytics 	Insights into our marketing effort
+Facebook 	Targeting & Advertising 	Marketing attribution
+LinkedIn 	Targeting & Advertising 	Marketing attribution
+Bing 	Targeting & Advertising 	Marketing attribution
+Capterra 	Performance 	User experience
+Kustomer Chat 	Functional 	Communication
+CellXpert 	Functional 	Marketing attribution
+Braze 	Functional & Marketing 	Managing customer relationships
+Wingify Software Private Limited 	Performance & Analytics 	Insights into our marketing effort
+Mixpanel 	Performance & Analytics 	Insights into our marketing effort
+Forethought 	Functional 	Communication
+Reddit 	Targeting & Advertising 	Marketing attribution
+5. How can you reject or remove Cookies?
+You have a choice regarding the use of Cookies as described in this policy. Please note that rejecting or removing certain Cookies may result in inadequate Services. You can adjust your web browser settings, usually located in the ‘Options’ or ‘Preferences’ menu of your browser. In order to delete stored Cookies or to change these settings, the following links may be helpful:
+
+    Microsoft Edge
+    Google Chrome
+    Mozilla Firefox
+    Safari (Desktop)
+    Safari (Mobile)
+    Opera
+
+If you are primarily concerned about third-party Cookies generated by advertisers, and you live in the US, Canada, Europe or the UK, you can also opt out from the collection of your data by our advertising partners who participate in the Digital Advertising Alliance. Opt-out by visiting:
+
+    US: Your Ad Choices
+    Canada: Your Ad Choices
+    EU: Your Online Choices
+    UK: Your Online Choices
+
+In addition, on your mobile device, you can change your device settings to control whether you see online interest-based ads. Please note that when you get a new computer, install a new browser, erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), you may also clear the opt-out Cookies installed once you opt-out, so an additional opt-out will be necessary to prevent additional tracking. In order to select your own cookie preferences, please click the Cookie Preferences.
+6. Useful links
+For more information regarding Cookies, you may find the following websites useful:
+
+    All About Cookies.org
+    Your Online Choices
+
+7. How we treat Do Not Track (DNT) signals
+Various browsers allow a “do not track” (DNT) setting that relies on a technology known as a DNT header, which sends a signal to websites visited by the individual about the individual’s browser DNT setting. At this time, there is no general agreement on how companies like Elementor should interpret Do Not Track signals. Therefore, Elementor does not currently commit to respond to DNT signals, whether that signal is received on a computer or on a mobile device. Elementor does, however, provide meaningful choices to you about the information that is collected through cookies and web beacons through the various opt-out options set forth above. We will continue to monitor developments around DNT browser technology and the implementation of a standard.
+Taxation
+Last Updated: February 2023
+
+All Fees are exclusive of all taxes, including value-added tax, sales tax, goods and services tax, etc., levies or duties imposed by taxing authorities, as applicable (“Taxes”) which shall be borne solely by you. If we are obligated to collect or pay Taxes for the Fees payable by you, such Taxes may be added to the payment of any outstanding Fees and will be reflected in the invoice for such transaction. We recommend that you verify the existence of any additional fees you may be charged by third parties in connection with the purchase of the Services or in connection with the renewal thereof (such as international transaction fees, currency exchange fees, or fees due to banks or credit card companies). We are not responsible for any such additional fees or costs.
+Open-Source
+Software Components
+
+Elementor’s products listed below makes use of the following open-source software, which copyrights are as detailed in the copyright notices listed below and which are released under the following conditions (licenses):
+
+Product – Elementor Core and Pro
+
+Notices for open-source software licensed under 3 clause BSD license:
+
+jQuery Easing Plugin – v1.3.2
+
+Copyright © 2008 George McGinley Smith
+
+http://gsgd.co.uk/sandbox/jquery/easing/jquery.easing.1.3.js
+
+See the following clickable BSD 3-Clause license for the specific language governing permissions and limitations under the license.
+
+Notices for open-source software licensed under the MIT License:
+
+Animate CSS – Based on v3.5.2
+
+Copyright (c) 2020 Daniel Eden
+
+https://github.com/daneden/animate.css
+
+ 
+
+Backbone.Radio – v1.0.4
+
+Copyright (c) 2010-2022 Jeremy Ashkenas, DocumentCloud
+
+https://github.com/jashkenas/backbone/
+
+ 
+
+color-thief
+
+Copyright (c) 2015 Lokesh Dhakar
+
+https://github.com/lokesh/color-thief/blob/master/LICENSE
+
+ 
+
+Dialog Manager – v4.7.1
+
+Copyright (c) 2016 Kobi Zaltzberg
+
+https://github.com/kobizz/dialogs-manager/blob/master/LICENSE.txt
+
+ 
+
+Flatpickr – v4.1.4
+
+Copyright (c) 2017 Gregory Petrosyan
+
+https://flatpickr.js.org/
+
+ 
+
+imagesLoaded
+
+Copyright (c) 2011-2022 David DeSandro and contributors
+
+https://github.com/desandro/imagesloaded/blob/master/LICENSE.md
+
+ 
+
+heroicons
+Copyright (c) Tailwind Labs, Inc.
+https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+
+ 
+
+instant.page
+
+Copyright (C) 2019-2020 Alexandre Dieulot
+
+https://github.com/instantpage/instant.page/blob/master/LICENSE
+
+ 
+
+jQuery Hoverintent
+
+Copyright (c) Tristen Brown
+
+https://github.com/tristen/hoverintent/blob/gh-pages/LICENCE
+
+ 
+
+jQuery Numerator – v0.2.1
+
+Copyright (c) 2013-2014 Masanori Ohgita (http://ohgita.info/)
+
+http://mugifly.github.io/jquery-simple-datetimepicker/
+
+ 
+
+jQuery simple-datetimepicker
+
+Copyright (c) 2013-2014 Masanori Ohgita (http://ohgita.info/)
+
+http://mugifly.github.io/jquery-simple-datetimepicker/
+
+ 
+
+MarionetteJS – v2.4.5
+
+Copyright (c) marionettejs.com
+
+https://github.com/marionettejs/backbone.marionette/blob/master/license.txt
+
+ 
+
+noUISlider – v13.0.0
+
+Copyright (c) 2019 Léon Gersen
+
+https://github.com/leongersen/noUiSlider/blob/master/LICENSE.md
+
+ 
+
+NProgressJS
+
+Copyright (c) 2013-2014 Rico Sta. Cruz
+
+https://github.com/rstacruz/nprogress/blob/master/License.md
+
+ 
+
+Pen
+
+Copyright (C) 2013 https://github.com/sofish/pen
+
+https://github.com/sofish/pen/blob/master/license.txt
+
+ 
+
+Perfect Scrollbar
+
+Copyright (c) 2016 Hyunje Alex Jun
+
+https://github.com/noraesae/perfect-scrollbar-bower/blob/master/LICENSE
+
+ 
+
+Picker
+
+Copyright (c) 2018 – 2021 Simon Reinisch
+
+https://github.com/Simonwep/pickr/blob/master/LICENSE
+
+ 
+
+Select2
+
+Copyright (c) 2012-2017 Kevin Brown, Igor Vaynberg, and Select2 contributors
+
+https://github.com/select2/select2/blob/develop/LICENSE.md
+
+ 
+
+Swiper
+
+Copyright (c) 2019 Vladimir Kharlampidi
+
+https://github.com/nolimits4web/swiper/blob/master/LICENSE
+
+ 
+
+Tipsy
+
+Copyright (c) 2008 Jason Frame (jason@onehackoranother.com)
+
+https://github.com/jaz303/tipsy/blob/master/LICENSE
+
+ 
+
+Waypoints
+
+ 
+
+Copyright (c) 2011-2012 Caleb Troughton
+
+https://github.com/imakewebthings/waypoints
+
+ 
+
+Dom-To-Image
+
+Copyright 2015 Anatolii Saienko
+
+https://github.com/tsayen
+
+Copyright 2012 Paul Bakaus
+
+http://paulbakaus.com/
+
+https://github.com/tsayen/dom-to-image/blob/master/LICENSE
+
+ 
+
+html2canvas
+
+Copyrights@ Niklas von Hertzen. All Rights Reserved
+
+https://html2canvas.hertzen.com/
+
+ 
+
+lottie-web
+
+Copyright (c) 2015 Bodymovin
+
+https://github.com/airbnb/lottie-web
+
+ 
+
+Font-Awesome
+
+Copyright (c) 2022 Fonticons, Inc.
+
+# Code: MIT License (https://opensource.org/licenses/MIT)
+
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+
+ 
+
+Font-Awesome/LICENSE.txt at 6.x · FortAwesome/Font-Awesome · GitHub
+
+https://fontawesome.com/
+
+ 
+
+SmartMenus – v1.0.1
+
+Copyright (c) Vasil Dinkov, Vadikom Web Ltd.
+
+https://github.com/vadikom/smartmenus
+
+See the following clickable MIT license for the specific language governing permissions and limitations under the license.
+
+Notices for open-source software licensed under CC-BY-4.0:
+
+Font-Awesome
+
+Copyright (c) 2022 Fonticons, Inc.
+
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+
+# Code: MIT License (https://opensource.org/licenses/MIT)
+
+ 
+
+Font-Awesome/LICENSE.txt at 6.x · FortAwesome/Font-Awesome · GitHub
+
+https://fontawesome.com/
+
+See the following clickable CC-BY-4.0 license for the specific language governing permissions and limitations under the license.
+
+ 
+
+Notices for open-source software licensed under SIL OPEN FONT LICENSE (OFL-1.1)
+
+ 
+
+Font-Awesome – v4.7.0
+
+Copyright (c) 2022 Fonticons, Inc.
+
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+
+# Code: MIT License (https://opensource.org/licenses/MIT)
+
+ 
+
+Font-Awesome/LICENSE.txt at 6.x · FortAwesome/Font-Awesome · GitHub
+
+https://fontawesome.com/
+
+ 
+
+See the following clickable SIL OPEN FONT LICENSE (OFL-1.1) license for the specific language governing permissions and limitations under the license.
+
+Notices for open-source software licensed under the GNU General Public License v3.0:
+
+bfi_thumb – v1.3
+
+Copyright (c) 2013 Benjamin F. Intal / Gambit
+
+https://github.com/bfintal/bfi_thumb
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the following clickable GNU General Public License 3.0 for the specific language governing permissions and limitations under the license and for more details.
+
+Notices for open source software licensed under the Hippocratic License Version Number: 2.1.:
+
+Animate CSS – Based on v3.5.2
+
+Copyright (c) 2021 Daniel Eden
+
+https://github.com/daneden/animate.css
+
+The software may have been modified
+
+See the following clickable Hippocratic License Version Number: 2.1 for the specific language governing permissions and limitations under the license.
+
+____________________________________________________________________
+
+Hover CSS – v2.0.2
+
+Copyright 2017 Ian Lunn Design Limited
+
+https://github.com/IanLunn/Hover/blob/master/license.txt
+DSA Regulation Compliance
+Last updated: February 18, 2024
+
+Elementor’s Commitment to a Safer Online Environment in Accordance with the DSA
+
+The EU’s Digital Services Act (DSA) aims to foster a secure digital space where user rights are safeguarded, values that resonate deeply with Elementor. We are steadfast in our dedication to providing a secure and inclusive platform for our users.
+Our Content Guidelines: Ensuring Safety, Equality, and Compliance
+
+Elementor’s content principles are grounded in three key pillars:
+
+    Encouraging Creativity: Elementor empowers individuals to freely express themselves and share varied content online through their websites.
+    Prioritizing Safety: The safety and well-being of our users and their communities are paramount to us.
+    Upholding Equality: We are committed to treating all users fairly and equally under our policies.
+
+Content Moderation Measures
+
+Aligned with the DSA’s Regulatory Framework, Elementor employs proactive measures to identify and address illegal content on our platform. We leverage automated tools and human review to maintain our content standards, including:
+
+    Identifying Illegal Activities: Our systems diligently take action against activities such as Child Sexual Abuse Material (CSAM), phishing, fraud, terrorist financing, and the dissemination of fake news.
+     “Report button”: Users of the platform and other individuals may report their concerns to us. As a company, we take each report seriously and shall address each one individually by conducting a compliance check and decide whether the content is DSA-compliant or not. We reserve the right to remove content which is one of the following but not limited to offensive, provoking or enabling criminal and/or terrorist activity.
+
+Reactive Content Moderation Measures
+
+In addition to proactive measures, Elementor implements reactive steps to address reported violations, such as:
+
+    Accessible Reporting Channels: We provide easily accessible channels for users and law enforcement agencies to report potentially illegal or policy-violating content by contacting us at dsa@elementor.com
+    Ongoing Moderator Training: Our moderators receive continuous training to effectively moderate content in accordance with our policies.
+
+GDPR Compliance
+
+Elementor is fully committed to adhering to the new DSA regulations with our GDPR (General Data Protection Regulation) compliance and prioritizing user privacy and data rights. We will continue to maintain strict data handling practices to ensure the secure and transparent collection, storage, and processing of user data in every DSA complaint we receive.
+Hosting Services
+
+As a company, we offer two types of usage of our platform: hosting services and open-source code. It is important to emphasize that we are not affiliated with or responsible for and have no ability to get to content created and utilized by users of the open-source code. However, if you encounter troubling information created by an open-source code user and report it to us via the report button, we will take the necessary steps to report it to the relevant law enforcement agencies. As to our hosting services, and following a complaint received via our report button, we may decide to remove certain websites or content based on our risk analysis, regulatory requirements like the DSA, and our own discretion. We’ll provide reasons for any removals, limitations, or blocks. .  
+AML within the DSA
+
+Elementor is firmly committed to upholding the highest standards of compliance with Anti-Money Laundering (AML) regulations as part of our DSA Policy. We understand the critical importance of implementing robust AML procedures to prevent our platform from being exploited for illicit financial activities.
+
+As such, we undertake the responsibility to ensure that comprehensive AML proceedings and best practices are firmly in place. Our objective is to conduct customer identification processes with the utmost diligence and precision, adhering strictly to regulatory requirements and industry standards.
+
+Our approach to AML compliance entails the following key principles:
+
+Rigorous Customer Due Diligence (CDD) in case of an activated “report” button:
+We will conduct thorough CDD measures to verify the identities of our customers, ensuring that we have a clear understanding of their backgrounds, activities, and potential risk profiles to the extent we are able to do so as a private company.
+
+Enhanced Monitoring and Reporting:
+We will implement enhanced monitoring systems to detect and flag any transactions or activities that appear suspicious or indicative of money laundering or terrorist financing. Our dedicated compliance team will closely monitor transactional patterns, account behaviors, and other relevant indicators to promptly identify and investigate any potential red flags.
+
+Ongoing Training and Education:
+We are committed to providing comprehensive training and education to our staff members, ensuring that they are equipped with the knowledge and skills necessary to recognize and respond effectively to AML-related risks and obligations. This includes regular training sessions, updates on regulatory developments, and access to resources and guidance materials.
+
+Collaboration with Authorities:
+As required by law, we will maintain open channels of communication and collaboration with relevant authorities, including law enforcement agencies and regulatory bodies, to share information and report suspicious activities, and contribute to broader efforts to combat financial crime. We understand the importance of working together with external stakeholders to uphold the integrity of our platform and the financial system as a whole.
+
+By adhering to these principles and implementing robust AML procedures, we are dedicated to ensuring the integrity and security of our platform, safeguarding against the misuse of our services for illicit financial purposes, and upholding our commitment to regulatory compliance under the DSA.
+Contact Us
+
+If you encounter any content on our platform that you believe violates our policies, laws, DSA or GDPR regulations, please report it promptly.
+
+Individuals and Law Enforcement Agencies:
+Report potential violations through our designated report page here
+Affiliate Program Terms and Conditions
+Last Updated: April 3, 2025
+
+*The English version of this Agreement and all related policies is the official and legally binding version. Translations, if provided, are for convenience only and shall not be considered as official documentation.
+
+Thank you for your interest in Elementor’s Affiliate Program (the “Program”). By participating, you agree to be bound by the terms and conditions outlined in this Agreement, which governs your relationship with Elementor Ltd (“Elementor”).
+
+This Affiliate Program Agreement (also referred to as the “Agreement,” “Affiliate Agreement,” “Terms and Conditions,” or “Affiliate Program Terms and Conditions”) is a legally binding contract between Elementor Ltd and the Partner (also referred to as “You,” “Affiliate Partner,” or “Affiliate”). This Agreement is effective upon your electronic acceptance.
+
+By electronically accepting this Agreement, you confirm that you have read, understood, and agreed to:
+
+    Be bound by the terms outlined herein.
+    Abide by Elementor’s Terms of Service Agreement, which is incorporated by reference into this Agreement.
+
+ 
+
+The terms “we,” “us,” or “our” refer to Elementor. The terms “you,” “your,” “User,” or “Affiliate” refer to the individual or entity accepting this Agreement. No provision in this Agreement confers any third-party rights or benefits.
+
+1. NOTIFICATIONS AND COMMUNICATION
+
+Elementor may occasionally notify you of changes to this Agreement via email. By participating in the Affiliate Program, you agree to receive such communications. If you choose to opt out of email notifications, you acknowledge that you may not receive important updates related to the Program.,  It is your responsibility to keep your account information including your email address, accurate and up-to-date. . Elementor assumes no liability if you fail to receive notifications due to outdated or inaccurate account details.
+
+2. PARTICIPATION IN THE AFFILIATE PROGRAM
+
+To enroll in the Affiliate Program, you must submit your application through the affiliate signup form available on the Elementor website (the “Site”). All applications will be reviewed by Elementor. Upon review, Elementor will determine whether to accept or reject the application at its sole discretion. If your application is deemed unsuitable for the Affiliate Program, it may be rejected for any reason, without the obligation to provide an explanation.
+
+Nature of the Relationship
+
+When joining the program, and upon our approval, you will be appointed as a non-exclusive affiliate, and you shall act to refer new potential customers to purchase our products and services. As our affiliate, you may not present yourself as a part of Elementor, and may not create any obligation on behalf of Elementor. 
+
+Your participation is personal, meaning that you cannot have sub-affiliates or share your affiliate fees with anyone else.
+
+You shall invest reasonable time in promoting our products and services, and do it with good quality; if we find that your promotional material is problematic, offensive, illegal or otherwise objectionable, we may terminate your participation in the program.
+
+You represent and warrant that you are able to participate in the program, that you will only act in a legal, bona fide manner and that you will not infringe on any intellectual property right or act in any deceptive practice when participating in it.
+
+
+
+As an independent contractor, You are responsible for handling your own taxes and securing any necessary insurance. In addition, your earnings will only include the commissions specified in the Affiliate Program, paid according to the designated schedule.You are solely responsible for complying with all applicable tax regulations and obtaining any necessary insurance coverage.
+
+3. YOUR RESPONSIBILITIES
+
+As an Elementor Affiliate, you agree to the following responsibilities:
+
+    Accurate Account Information: You are fully responsible for providing accurate and up-to-date information regarding your account. This includes, but is not limited to, your contact details, payment information, website URL(s) where Elementor is promoted, traffic sources, promotional practices, and any other information we may request. Failure to provide accurate or up-to-date information may result in exclusion from the Affiliate Program, temporary suspension, termination of your account, and forfeiture of any earned commissions.
+    Good Faith Referrals:You are required to act in good faith when referring clients. A client in good standing is defined as a new user who has provided accurate and valid contact information, holds an active account that complies with Elementor’s Terms of Service, and is not flagged for any fraudulent activity. An active account refers to a referred user who has created an account and maintained it for a minimum of 30 days.
+    No Alteration of Promotional Materials: You are not authorized to modify, copy, or alter any banners, icons, graphics, or any other promotional materials provided by Elementor. Any changes to these materials, including removing or altering copyright or trademark notices, require prior written approval from Elementor.
+    Prohibited Marketing Practices: You must not engage in blackhat SEO practices, spam link-building techniques, impersonating Elementor, cookie insertion, pay-per-click (PPC) brand advertising,automatic redirecting or similar deceptive techniques to generate referrals. These practices will lead to termination from the Affiliate Program.
+    No Use of Unauthorized Coupon Codes: You must not use coupon codes that are not authorized by Elementor.
+    Compliance with Laws: You agree to comply with all applicable laws, including advertising regulations. Any violation of legal standards may result in immediate termination from the program.
+    Loyalty and Reputation: You should act loyally towards Elementor, safeguarding its reputation, and refraining from any actions that could damage the brand. You should not advocate, promote, or encourage violence or discrimination against any person, organization, or governmental entity.
+    Adherence to Code of Conduct: You must comply with Elementor’s Third-Party Code of Conduct, which outlines ethical guidelines for your participation in the Affiliate Program.
+    Consequences for Violations: If Elementor detects patterns of violations of this Agreement, we reserve the right to suspend or terminate your affiliate account and cancel any pending commissions.
+    Termination for Misrepresentation: If it becomes apparent that Elementor would not have entered into an Affiliate Agreement with you had certain facts been known at the time of your application, Elementor reserves the right to immediately terminate the partnership and withhold payment for any previous earnings.
+
+By participating in the Elementor Affiliate Program, you agree to comply with these responsibilities and understand that failure to do so may result in penalties, including suspension or termination of your affiliate account.
+
+4. AFFILIATE ADVERTISING
+
+Affiliates are permitted to use only approved promotional materials provided by Elementor to advertise Elementor’s services. These materials, including Elementor’s trademarks, logos, and slogans, are made available to you through your Affiliate Assets. By entering this Agreement, you are granted a non-exclusive, limited, non-transferable license to access, download, and display the approved promotional materials solely for the purpose of promoting Elementor’s websites and services.
+
+In the event that the Affiliate Agreement is terminated for any reason, your right to access, download, and display Elementor’s approved promotional materials will be immediately revoked, without prior notice.
+
+Please review trademark guidelines here
+
+Inappropriate Advertising Practices
+
+The following advertising practices are strictly prohibited:
+
+    Illegal or Spammy Methods: You should not engage in any blackhat SEO/spam link building techniques, impersonating Elementor, cookie insertion, or other similar techniques in order to generate more referrals for Elementor.
+    Pay Per Click (PPC) Campaigns: Bidding on Brand keywords, phrases, or variations of the “Elementor” trademark, or using the Elementor website as a display URL in paid ads, without our prior approval. See our PPC Guidelines
+    Copyright Infringement: Using non-unique, copyright-infringing content to promote Elementor.
+    Impersonation: Pretending to represent Elementor.
+    Traffic Generation Methods: Using pay-to-read, pay-to-click, banner exchanges, click exchanges, Brand PPV advertising or similar methods.
+    Incentives: Offering cashbacks, rewards, or other incentives to generate sales without our prior approval.
+    Coupon/Discount Codes: Offering price reductions, coupons, vouchers, or discount codes that do not appear on our official Site without prior approval.
+    Damaging Elementor’s Image: Using Elementor’s materials or trademark in a manner that may negatively affect our reputation.
+    Affiliate Tracking Misuse: Using iframes or other technologies that place your affiliate tracking cookie outside of an actual click-through.
+    Link Cloaking: Using link cloaking or masking to promote Elementor on unauthorized websites or networks.
+    Inappropriate Content: Your website must not contain lewd, obscene, illegal, or objectionable material, including but not limited to content related to hate, bigotry, pornography, adult themes, or any unlawful content.
+    Misleading Domain Names: Your domain name, company name, logo, trademark, or any associated materials must not include keywords, phrases, or variations confusingly similar to “Elementor” or third-party trademarks without prior approval.
+
+Elementor reserves the right to determine the appropriateness of any promotional method you employ. Inappropriate advertising methods may result in warnings, suspension, or termination of your affiliate account, along with the cancellation of any outstanding commission payments. Additionally, any offensive or aggressive communication with your affiliate manager may result in an immediate and permanent ban from the Affiliate Program, with no exceptions.
+
+5. AFFILIATE TRACKING COOKIES
+
+Elementor tracks affiliate sales automatically using cookies. These cookies are placed in the browser of a user who clicks on your affiliate link to reach our website. Each cookie is stored for up to 45 days. If a user already has a cookie from a previous affiliate, it will be replaced with the new cookie generated by your affiliate link. Elementor is not responsible for any cookies that are intentionally deleted by the user.
+
+6. INVOICING
+
+Elementor will provide you with a commission statement in your Affiliate Area at the beginning of each new month. There is no need to submit a payout request, as long as a valid payment method has been provided and you have reached a minimum of $200 in commissions by the time of payment. In such cases, a payment will be made automatically.
+
+If a payout request is required, it should be submitted via the specified email by the end of the month. For example, a request for commissions earned in October 2023 should be submitted by the end of November 2023. Payouts will be released by the 20th of the following month. Any request submitted after the end of the previous month will be processed in the next payment cycle.
+
+The minimum payout amount for PayPal withdrawals is $200.
+
+7. COMMISSIONS
+
+Qualified Leads
+Commissions will be paid only for a Qualified Lead, which is defined as a new customer who meets the following criteria:
+
+    Click your affiliate link, subscribe to our platform within the specified timeframe, and make a purchase.
+    Is not already known to us through another affiliate or prior independent registration.
+
+The following conditions further define and limit Qualified Leads:
+
+    A lead is not qualified if:
+        They are an existing customer already registered in our system.
+        They are already associated with another affiliate.
+        They were acquired through prohibited activities, such as brand-bidding PPC campaigns.
+        They fail to click the affiliate link or are not properly associated with the affiliate’s tracking ID.
+        Their registration does not occur under the same tracking ID associated with the affiliate.
+
+Commissions will only be granted for new purchases of specific plans listed in our affiliate system unless explicitly agreed otherwise in writing.
+
+Prohibition of Self-Referrals
+Self-referrals are strictly prohibited. You are not allowed to click on your affiliate links or banners and make purchases through them. If your IP address used to log into the Affiliate panel matches the one used for purchases, this will be considered self-referral. Similarly, the use of VPN services to bypass this rule will be considered a violation. Violations of this policy may result in the forfeiture of commissions and removal from the Affiliate Program immediately.
+
+Calculation of Commissions
+Commissions are calculated based on the company’s net revenue from Qualified Leads, excluding taxes, chargebacks, refunds, coupons, cancellations, collection costs, clearing costs, or other deductions.
+
+You agree that our books and records are deemed as accurate and that our tracking is final.
+
+Payment Terms
+
+    You will only earn commissions once your total accrued amount reaches the minimum payout threshold of $200. If your commissions are below this amount, they will not be considered earned, and you will not be eligible for payment. 
+    Payment Schedule:Commissions are paid in cycles and processed by the 20th of each month or sooner, following the completion of the 30-day refund policy period for eligible accounts. For example, commissions generated in October will be paid by the 20th of December.
+    Affiliates are responsible for all applicable taxes and fees related to commission payments.
+    If a customer’s purchase is canceled or refunded within 30 days, the corresponding commission will not be credited.
+    Refunds or chargebacks may result in deductions from future commission payments.
+
+Review and Dispute of Commissions
+
+    We reserve the right to review all transactions to identify potential fraud, whether on the part of the customer or the affiliate. During such a review, payment of commissions may be withheld for up to 180 days while compliance with the terms of this agreement, applicable laws, and regulations is verified.
+    If you believe your commission has been calculated incorrectly or not attributed correctly, you must notify us by emailing affiliates@elementor.com within a reasonable timeframe.
+
+Changes to Commission Structure
+We retain the right to modify the commission structure or calculation method at any time. Alternative commission plans may be discussed with your assigned account manager upon review of the partnership.
+
+Forfeiture of Unclaimed Commissions
+If commissions remain unclaimed for over 12 months, they will be removed from your affiliate account’s balance.
+
+8. TERMINATION AND SUSPENSION
+
+You may cancel and terminate your affiliate account at any time by contacting us through the Affiliate Area. Elementor will send you a confirmation that your account has been terminated as requested.
+
+We reserve the right to terminate your participation in the Program at any time and for any reason, effective immediately upon notification to the email address associated with your account, without providing any explanation. Upon termination, you must cease using all intellectual property associated with our company.
+
+Account Suspension Due to Inactivity:
+If your account shows no commission activity or referral traffic for a continuous period of twelve months, the following measures will be implemented:
+
+    Your account will be suspended, and you will receive an email notification with a 30-day warning before any commission is deducted.
+    Your account balance cannot go below $0. If your balance reaches $0, no further deductions will be made, and your account will be permanently closed.
+    If no commission is generated within the 30-day notice period, your account will be permanently closed, and any pending balance will be forfeited.
+
+After an affiliate account is terminated, any sales associated with the affiliate will no longer be tracked, and you will no longer qualify for future commissions. Additionally, an affiliate will be considered inactive if their account has not had any new conversions in the last twelve months. Inactive accounts will be marked as dormant, but can be reactivated upon contact.
+
+If any commissions are due at the time of termination, they will be forfeited. If your account is terminated due to a violation of these Terms and Conditions, no outstanding commission payments will be made and no warning notice will be sent. 
+
+Upon termination of your affiliate account, you are required to remove any promotional materials, links, logos, trademarks, and slogans associated with Elementor from your website within 3 business days. This provision survives the termination of the Affiliate Agreement. After termination, you will no longer have the right to use Elementor’s trademarks, logos, or slogans, and you must refrain from any actions that could harm the reputation, image, or business relations of Elementor with current or potential clients.
+
+Affiliates must provide accurate and complete information, including their full address. Failure to do so may result in delays or termination of participation in the Program. Elementor reserves the right to deny approval or remove Affiliates from certain countries at its sole discretion, whether due to applicable laws or any other reason at its sole discretion.
+
+Upon termination, this Affiliate Agreement will be automatically terminated.
+
+Reactivation:
+To reactivate a suspended account, you must generate commission activity within 30 days of the suspension notice. If activity resumes within this period, your account will be reactivated. Alternatively, reactivation may occur by contacting our support team at affiliates@elementor.com or by reaching out directly to your assigned affiliate manager. Failure to generate activity or contact us within this period will result in account closure.
+
+9. CONFIDENTIAL INFORMATION
+
+Our relationship is confidential; meaning that your commission is confidential, the fact that we paid you is not. You should add a decent disclosure if required by law that you receive a commission for every click on our banner, but you should not tell others what your specific commission is.
+
+10. GOVERNING LAW
+
+Any controversy, claim, or dispute arising under this Affiliate Agreement will be governed by and resolved in accordance with the laws and jurisdiction where the Elementor entity is located as stated in our terms of service.
+
+11. CHANGES TO THE AFFILIATE PROGRAM TERMS
+Elementor may update or modify this Agreement, including related policies, at any time  at its sole discretion. Any such changes or modifications will take effect immediately upon being posted to the Elementor website (this “Site”).
+
+For significant updates, we will notify you by email or any other method we deem appropriate. By continuing to use the Site or participate in the Affiliate Program after the “Last Revised” date, you confirm your acceptance of the updated terms. If you do not agree to the changes, you must stop participating in the Program.
+
+This Agreement outlines the terms of  your participation in the Affiliate Program and your relationship  with Elementor. By joining, you acknowledge and accept these terms.

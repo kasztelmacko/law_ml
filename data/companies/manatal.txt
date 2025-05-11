@@ -1,0 +1,32 @@
+Definition
+
+“External Service”: Any software used by Manatal in connection with the provision of the Service which is administered by a third-party. External services include, but are not necessarily limited to, the following: DNS servers, hosting providers, email servers, and the like.
+
+“Unavailable”: the Service is unavailable if the Customer is unable to access it.
+
+“Planned Downtime”: Planned Downtime is any instance where Manatal intentionally causes the Service to be Unavailable
+Service Commitments and Credits
+
+Customer may receive some refunds at the Manatal discretion by providing a written request to Manatal no later than 30 days after the last day of the month during which the Unavailability for which such refunds are being applied occurred. If refunds are applied to Customer’s it will never be higher than the respective monthly customer fee.
+Exclusions
+
+Refunds will not be awarded in the event of any of the following:
+
+    Customer's account is not verified. This includes instances where the account has not undergone the verification process or has failed the verification.
+    Unavailability attributable to an External Service.
+    Unavailability attributable to Customer’s equipment, software or network.
+    Planned Downtime, provided, that Manatal shall ensure that there are no more than 4 instances of -Planned Downtime during any thirty day period.
+    Any Unavailability caused by actions of Customer or Customer’s personnel or agents.
+    Unavailability attributable to general Internet services (e.g. DNS, internet backbone, etc.).
+    Unavailability caused by force majeure circumstances (e.g., fires, floods, acts of God, acts of government, civil unrest, Internet service provider failures or delays, denial of service attacks, etc.).
+
+Data Export
+
+Manatal provides to subscribers one free data export a year (in CSV, Excel file).
+
+    To request and receive a data export, the client account should be active and all invoices paid.
+    For non subscribers or data export request different from CSV, Excel file, Manatal will charge the data export depending on the data size and type of data requested.
+
+Login and Access to the Service
+
+If Manatal detects repeated access to the Service under the same login from various locations, devices and IP addresses, Manatal may immediately suspend access to the Service for the relevant Customer and Customers connected with him/her. In order to control compliance with the above-mentioned restrictions, Manatal does not allow technical possibility of simultaneous access to the Service from different devices and IP addresses under the same login.

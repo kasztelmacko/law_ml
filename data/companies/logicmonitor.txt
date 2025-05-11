@@ -1,0 +1,235 @@
+Please read this Terms of Use carefully before accessing or using LogicMonitor, Inc.’s (“LogicMonitor,” “we,” “us” or “our”) Services.  By accessing or using the Services in any manner, including, but not limited to, visiting or browsing our websites, including https://www.logicmonitor.com/ and https://communities.logicmonitor.com (the “Sites”), our mobile applications (“Apps”), and any other websites, pages, features, or content owned and operated by LogicMonitor that directs to this Terms of Use (collectively, including the Sites and Apps, the “Services”) you expressly understand, acknowledge and agree to be bound by this Terms of Use. You are only authorized to use the Services if you agree to abide by all applicable laws and to these Terms of Use.
+
+By using our Services, you understand and agree that collection and use of your personal information will be made in accordance with our Privacy Policy and this Terms of Use.  If you do not feel comfortable with any part of this Terms of Use, please discontinue use of the Services or engaging with LogicMonitor immediately.
+
+ 
+Contents
+
+Acceptance of the Terms of Use
+Changes to the Terms of Use
+LogicMonitor Subscription
+Intellectual Property Rights
+Trademarks
+Compliance with Applicable Laws
+Prohibited Uses
+Conduct in the Community
+User Content
+Changes to the Website
+Information About You and Your Visits to the Website
+Employment Opportunities
+Linking to the Website
+Third-Party Websites
+Mobile Device Features
+Special Terms for Apple iOS Devices
+Geographic Restrictions
+Disclaimer of Warranties
+Limitation on Liability
+Indemnification
+Governing Law and Jurisdiction
+Waiver and Severability
+Entire Agreement
+Copyright Claims
+Minors
+Your Comments and Concerns
+
+ 
+Acceptance of the Terms of Use
+
+Welcome to www.logicmonitor.com (together with any related websites including communities.logicmonitor.com, the “Website”), which is owned and operated by LogicMonitor, Inc., a Delaware corporation (“Company”, “we” or “us”). These terms of use (the “Terms of Use”) govern your access to and use of the Website.
+
+Please read the Terms of Use carefully before you start to use the Website. By checking “I agree to the Terms of Use” checkbox and proceeding to “Create my Account”, you accept and agree to be bound and abide by these Terms of Use and you acknowledge that you have read and understand our Privacy Policy, (“Privacy Policy”). If you do not agree to these Terms of Use, you must not access, use, or signup for an account with the Website.
+
+You represent to the Company that you are lawfully able to enter into contracts. If you are using this Website on behalf of a corporation or other entity, you represent that you have authority to bind such entity and acknowledge and agree that “you” as used herein shall include both you personally and the entity you represent.
+Changes to the Terms of Use
+
+We may revise and update these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them, and apply to all access to and use of the Website thereafter.
+
+Your continued use of the Website following the posting of revised Terms of Use means that you accept and agree to the changes. You are expected to check this page frequently in the event that you continue to access the Website, so you are aware of any changes, as they are binding on you.
+LogicMonitor Subscription
+
+For the avoidance of doubt, these Terms of Use govern your access to and use of the Website, and do not govern the use of the Company-hosted data center monitoring service (the “Service”), which may only be accessed or used on a subscription basis pursuant to the applicable terms of service (which may vary depending on a number of factors, including whether or not the customer is an enterprise customer, operates as a managed service provider, or is purchasing the Service through a reseller) set forth in a written contract between the customer and LogicMonitor.
+Intellectual Property Rights
+
+The Website and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by the Company, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+
+These Terms of Use permit you to use the Website for your personal, non-commercial use and your consideration of Company’s products for use by your company only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on our Website, except as follows:
+
+    Your computer may temporarily store copies of such materials in memory incidental to your accessing and viewing those materials.
+    You may store files that are automatically cached by your web browser for display enhancement purposes.
+    You may print or download one copy of a reasonable number of pages of the Website for your own personal, non-commercial use and your consideration of the Company’s products for use by your company and not for further reproduction, publication, or distribution.
+    If we provide desktop, mobile, or other applications for download, you may download a single copy to your computer or mobile device solely for your own personal, non-commercial use and your consideration of the Company’s products for use by your company, provided you agree to be bound by our end user license agreement for such applications.
+
+You must not:
+
+    Modify copies of any materials from this site.
+    Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.
+    Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.
+
+You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website.
+
+If you print, copy, modify, download, or otherwise use or provide any other person with access to any part of the Website in breach of the Terms of Use, your right to use the Website will stop immediately and you must, at our option, return or destroy any copies of the materials you have printed, copied, modified, downloaded or otherwise used or derivatives thereof. No right, title, or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark, and other laws.
+Trademarks
+
+The trademarks, logos and service marks (“Marks”) displayed on the Website are the property of the Company or its affiliates or licensors. You may not use these Marks without the prior written permission of the Company.
+Compliance with Applicable Laws
+
+You agree that, in accessing the Website under these Terms of Use, you are not violating and will not violate any governmental laws, rules, regulations or orders that are applicable to your use of the Website (“Applicable Laws”). In particular, without limiting the foregoing, you represent that, in connection with your access to and use of the Website under these Terms of Use, you shall: (i) comply with Applicable Laws relating to anti-bribery and anti-corruption, which may include the US Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010; (ii) comply with Applicable Laws administered by the U.S. Commerce Bureau of Industry and Security, U.S. Treasury Office of Foreign Assets Control or other governmental entity imposing export controls and trade sanctions (“Export Laws”), including designating countries, entities and persons (“Sanctions Targets”); and (ii) not directly or indirectly export, re-export or otherwise deliver any Company software, content or services to a Sanctions Target, or broker, finance or otherwise facilitate any transaction in violation of any Export Laws. You further represent that you are not a Sanctions Target or prohibited from receiving Company software, content or services pursuant to these Terms of Use under Applicable Laws.
+Prohibited Uses
+
+You may use the Website only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Website:
+
+    In any way that violates Applicable Laws (including, but limited to, as set forth above).
+    For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information, or otherwise.
+    To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail,” “chain letter,” “spam,” or any other similar solicitation.
+    To impersonate or attempt to impersonate the Company, a Company employee, another user, or any other person or entity (including, without limitation, by using email addresses or screen names associated with any of the foregoing).
+    To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Website, or which, as determined by us, may harm the Company or users of the Website, or expose them to liability.
+
+Additionally, you agree not to:
+
+    Use the Website in any manner that could disable, overburden, damage, or impair the site or interfere with any other party’s use of the Website, including their ability to engage in real time activities through the Website.
+    Use any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on the Website.
+    Use any manual process to monitor or copy any of the material on the Website, or for any other purpose not expressly authorized in these Terms of Use, without our prior written consent.
+    Use any device, software, or routine that interferes with the proper working of the Website.
+    Introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful.
+    Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Website, the server on which the Website is stored, or any server, computer, or database connected to the Website.
+    Attack the Website via a denial-of-service attack or a distributed denial-of-service attack.
+    Otherwise attempt to interfere with the proper working of the Website.
+
+Conduct in the Community
+
+When posting, interacting with, or otherwise engaging in activity on communities.logicmonitor.com (the “Community”), you are responsible and liable for all your activities, including anything you contribute. You also agree to abide by the following rules of conduct:
+
+    Do not engage in any unlawful conduct in the Community. In particular, do not post, publish, or distribute any defamatory, obscene, infringing or other unlawful material or information in the Community.
+    Treat others in the Community as you would expect them to treat you. Do not engage in personal attacks or any type of “flaming” of other users. Do not “troll,” i.e., post topics or opinions that are designed to provoke a negative response from one or more specific users.
+    Do not use offensive language. If you have any doubts about whether a particular statement might be considered offensive by other users, do not post it.
+    Do not engage in disruptive activity in the Community, such as persistent off-topic contributions or comments, or statements that might incite other users to violate these guidelines or participate in illegal activities.
+    Do not violate others’ rights in the Community. Do not contribute content that contains photos, software or other material protected by intellectual property laws, rights of privacy or publicity, or any other applicable law unless you own or have rights to these materials.
+    Do not facilitate hacking or computer misuse. Do not post any instructions, software or other materials that would allow participants or third parties to harm other users’ computers or to inappropriately access software or websites.
+    Do not engage in hacking or computer misuse. Do not post any computer programs that contain destructive features, such as viruses, worms or Trojan horses. Do not employ any type of bots for the use of scrolling, showing multiple screens, or other activities that might disrupt online communication.
+    Do not impersonate any other person in the Community, including LogicMonitor employees or agents.
+    Do not use the Community to spam other users, including sending identical and irrelevant submissions to many different discussion groups, mailing lists or communities.
+    Do not misrepresent the source of anything you contribute.
+    Do not use the Community to promote your business. While you may use the Community to provide supplemental information about your own business that might be of interest to other users (without spamming them), do not rely on the Community as the primary mechanism for operating or promoting your business. Any use of the Community for commercial purposes is solely at your own risk, and LogicMonitor assumes no liability for such use.
+    Do not license your access to the Community. Any space provided to you in the Community is for your own personal use, and may not be sold, licensed, exchanged or bartered for any purpose, including advertisements.
+    Do not rely on the Community for the safe or secure storage of any materials, such as photos, documents and software. The Community is not designed as the primary place to store any of these materials, and LogicMonitor is not responsible for the alteration, deletion or loss of any stored items. Create back-ups for any materials that you contribute to the Community.
+
+LogicMonitor reserves the right to remove at any time, without notice, any contribution that violates these guidelines. LogicMonitor also reserves the right at any time, without notice, to ban a user who has violated these rules of conduct from any sub-community or all Community forums.
+
+You are responsible for any actions you may take based on information or advice you receive while online. Use your own good judgment when evaluating information provided through the Community or any other communication service. The decision to share information or conduct transactions with anyone is your own; therefore, conduct your own research prior to making any decisions.
+User Content
+
+By posting, displaying, publishing or making available for download or use any images, video, sounds, HTML, applications, messages, text, files, profiles, or other content (collectively, “User Content”), other than personal information that is subject to the Privacy Policy, you hereby grant Company a perpetual, worldwide, nonexclusive, irrevocable, royalty-free, sublicensable license to perform, display, reproduce, prepare derivative works from, distribute, sell, sublicense, transfer and otherwise use without restriction all or any part of such User Content. By uploading User Content to the Website, including the Community, you represent and warrant that you either own or have all the necessary intellectual property rights in the User Content uploaded or shared and that your User Content is non-infringing on the patent, copyright or other intellectual property rights of others.
+
+For User Content posted in the Community, you grant other users the right to reproduce any such content under the Creative Commons Attribution-NonCommercial-ShareAlike license, https://creativecommons.org/licenses/by-nc-sa/4.0/. For attribution under this license, it is required and sufficient to provide with the reproduced content a link to or URL of the Community page containing the source of such content. You also grant us and all users of the Community permission to use such content in other areas of the Community or within our products or services. The Community is considered a collective work of User Content in a single publication to which LogicMonitor owns the copyright.
+
+We are not responsible for, and we do not endorse, the User Content posted on or via the Website.
+
+We do not have, and do not undertake, any obligation to prescreen, monitor, edit, or remove any User Content. However, we retain the right (but not the obligation), in our sole discretion and for any reason, to prescreen, monitor, edit, refuse to accept, post, remove, or move any User Content. If your User Content contains offensive, indecent, or otherwise objectionable content, or infringes on the rights of any third parties, you may bear legal responsibility for that User Content. You agree that LogicMonitor has no obligation to monitor or enforce your intellectual property rights to your User Content, but have the right to protect and enforce its and its licensees’ licensed rights to your User Content. Nevertheless, LogicMonitor may freely use, edit, or delete any User Content.
+
+User Content shall not:
+
+    Contain any material that is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable.
+    Promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age.
+    Infringe any patent, trademark, trade secret, copyright, or other intellectual property or other rights of any other person.
+    Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use or our Privacy Policy.
+    Be likely to deceive any person.
+    Promote any illegal activity, or advocate, promote, or assist any unlawful act.
+    Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person.
+    Impersonate any person, or misrepresent your identity or affiliation with any person or organization.
+    Involve commercial activities or sales, such as contests, sweepstakes, and other sales promotions, barter, or advertising.
+    Give the impression that they emanate from or are endorsed by us or any other person or entity, if this is not the case.
+
+Changes to the Website
+
+We may update the content on this Website from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material.
+Information About You and Your Visits to the Website
+
+All information we collect on this Website is subject to the Privacy Policy. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+Employment Opportunities
+
+LogicMonitor may, from time to time, post-employment opportunities on the Website and/or invite users to submit resumes to the Company. If you choose to submit your name, contact information, resume and/or other personal information to LogicMonitor in response to such employment listings, you are authorizing the Company to use this information for all lawful and legitimate hiring, employment and other business purposes, subject to the Company’s recruiting privacy practices notice set forth in our applicant privacy practices for residents of California as well as our international locations (“Recruiting Policy”).
+Linking to the Website
+
+No link shall be made to any page of this Website, except a direct link to the top page www.logicmonitor.com without framing. In addition, any link to this Website must be immediately followed by notice to LogicMonitor via e-mail at info[at]logicmonitor.com. Moreover, in the event that Company deems your linking practices in relation to this Website to be inappropriate, the Company may provide notice to you concerning removal or modification of the inappropriate link, and your compliance with any and all requirements of the Company relating thereto. Upon notification to LogicMonitor of your link to the Website, as provided above, you may link to this Website unless and until LogicMonitor gives notice that you must discontinue linking to this Website.
+Third-Party Websites
+
+If the Website contains links to other sites and resources provided by third parties, these links are provided for your convenience only. This includes: (i) links contained in advertisements, including banner advertisements and sponsored links; and (ii) links posted in the Community by other users. We have no control over the contents of those sites or resources and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third-party websites linked to this Website, you do so entirely at your own risk and subject to the terms and conditions of use for such websites. In addition, in relation to links posted by other users in the Community, LogicMonitor reminds you that some content and links on the internet contain inappropriate material, such as malware or adult content that is not suitable for children or may be offensive to some users.
+Mobile Device Features
+
+The Website may offer features and services that are available to you via your mobile phone or other mobile device. These features and services may include, without limitation, the ability to receive messages from LogicMonitor (including, without limitation, push notifications), download applications to your mobile phone or access LogicMonitor features (collectively, the “Mobile Features”). We may charge for Mobile Features. Also, standard messaging, data and other fees may be charged by your carrier. Fees and charges will appear on your mobile bill or be deducted from your pre-paid balance. Your carrier may prohibit or restrict certain Mobile Features and certain Mobile Features may be incompatible with your carrier or mobile device. Contact your carrier with questions regarding these issues. To opt-out of receiving text messages associated with a Mobile Feature text “STOP” to the applicable shortcode for the Mobile Feature.
+
+If you have registered for Mobile Features that utilize your mobile number, you agree to notify LogicMonitor of any changes to your mobile number and update any relevant user account to reflect this change.
+Special Terms for Apple iOS Devices
+
+Notwithstanding any other provision within these Terms, the following subparagraphs are applicable to those using a LogicMonitor application acquired from the Apple App Store to access the Website on an Apple iOS device (“LogicMonitor iOS App”).
+
+Acknowledgement. You acknowledge that this agreement is concluded between you and us only, and not with Apple. LogicMonitor, not Apple, is solely responsible for the LogicMonitor iOS App and the content thereof. You further acknowledge that LogicMonitor may not be used in any manner inconsistent with the App Store Terms of Service as of the Effective Date.
+
+Scope of License. You are granted a license to use the LogicMonitor iOS App on any iOS device that you own or control and as permitted by the “Usage Rules” set forth in the App Store Terms of Service.
+
+Maintenance and Support. We are solely responsible for providing maintenance and support for the LogicMonitor iOS App, as specified in these Terms or as required under applicable law. You and LogicMonitor acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the LogicMonitor iOS App.
+
+Warranty. We are solely responsible for any warranties, whether express or implied by law, to the extent not effectively disclaimed. In the event of any failure of a LogicMonitor iOS App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for such LogicMonitor iOS App to you; and that, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the LogicMonitor iOS App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of us.
+
+Product Claims. We, not Apple, are responsible for addressing any claims by you or any third-party relating to a LogicMonitor iOS App or your possession and/or use of the LogicMonitor iOS App, including, but not limited to: (i) product-liability claims; (ii) any claim that the LogicMonitor iOS App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation. Our liability is limited so far as permitted by applicable law.
+
+Intellectual Property Rights. In the event of any third-party claim that a LogicMonitor iOS App or your possession and use of such LogicMonitor iOS App infringes that third-party’s intellectual property rights, we, not Apple, are solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+
+Third-Party Beneficiary. You and we acknowledge and agree that Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms against you as a third-party beneficiary thereof.
+Geographic Restrictions
+
+LogicMonitor controls the Website from its offices in Santa Barbara, CA. If you use this website from other locations, you are responsible for compliance with local Applicable Laws. The Company makes no claims that the Website or any of its content is accessible or appropriate outside of the United States.
+Disclaimer of Warranties
+
+You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the Website will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data. TO THE FULLEST EXTENT PROVIDED BY LAW, WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA, OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE LINKED TO IT.
+
+YOUR USE OF THE WEBSITE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE IS AT YOUR OWN RISK. THE WEBSITE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER THE COMPANY NOR ANY PERSON ASSOCIATED WITH THE COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE WEBSITE. WITHOUT LIMITING THE FOREGOING, NEITHER THE COMPANY NOR ANYONE ASSOCIATED WITH THE COMPANY REPRESENTS OR WARRANTS THAT THE WEBSITE, ITS CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+
+TO THE FULLEST EXTENT PROVIDED BY LAW, THE COMPANY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR PARTICULAR PURPOSE.
+
+THE FOREGOING DOES NOT AFFECT ANY WARRANTIES THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+Limitation on Liability
+
+TO THE FULLEST EXTENT PROVIDED BY APPLICABLE LAW, IN NO EVENT WILL THE COMPANY, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE.
+
+THE FOREGOING DOES NOT AFFECT ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+Indemnification
+
+You agree to defend, indemnify, and hold harmless the Company, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms of Use or your use of the Website, including, but not limited to, your User Content, any use of the Website’s content, services, and products other than as expressly authorized in these Terms of Use, or your use of any information obtained from the Website.
+Governing Law and Jurisdiction
+
+All matters relating to the Website and these Terms of Use, and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of California without giving effect to any choice or conflict of law provision or rule (whether of the State of California or any other jurisdiction).
+
+Any legal suit, action, or proceeding arising out of, or related to, these Terms of Use or the Website shall be instituted exclusively in the federal courts of the United States or the courts of the State of California, in each case located in Santa Barbara County. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+Waiver and Severability
+
+No waiver by the Company of any term or condition set out in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
+
+If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect.
+Entire Agreement
+
+These Terms of Use, the Privacy Policy and the Recruiting Policy constitute the sole and entire agreement between you and LogicMonitor regarding the Website and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Website.
+Copyright Claims
+
+We take allegations of copyright infringement seriously. If you believe that any User Content or other content on the Website infringes your copyright or other intellectual property rights, pursuant to Title 17, United States Code 512(c)(2) you may submit a notification in writing to our Designated Copyright Agent as described below. Upon receipt of notices complying with the Digital Millennium Copyright Act (“DMCA“), we will act to remove or disable access to infringing material or material found to be part of infringing activity.
+
+If you believe that your work has been copied in a way that constitutes copyright infringement, you or your agent will need to send a signed, written communication to our Designated Copyright Agent with the information listed below. Please consult with your legal counsel and/or see 17 U.S.C. 512(c)(3) of the Digital Millennium Copyright Act to confirm the following requirements:
+
+    A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on the Website are covered by a single notification, a representative list of such works on the Website.
+    Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material (providing URLs will assist us in locating the content described).
+    Information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
+    A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+    A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+
+Please send the above-described notice of claimed infringement to our Designated Copyright Agent at 820 State Street, 5th Floor, Santa Barbara, CA 93101 (Attention: General Counsel) or by e-mail to legal[at]logicmonitor.com.
+
+Please note that we may, at our discretion, send a copy of such notices to a third-party for publication or to a third-party who posted the allegedly infringing content. As such, your notification may be forwarded for publication or to such third-party.
+Minors
+
+No individual under the age of 16 may provide any personal data or otherwise submit personal data through the Website. By accessing, using and/or submitting information to or through the Website, you represent that you are at least age 16.
+Your Comments and Concerns
+
+All feedback, comments, requests for technical support, and other communications relating to the Website should be directed to info[at]logicmonitor.com.

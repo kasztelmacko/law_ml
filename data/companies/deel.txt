@@ -1,0 +1,558 @@
+Please read these Terms of Service ("Terms") carefully before using the www.deel.com website (the “Platform”) operated by Deel, Inc. ("Deel", "us", "we", or "our"). For purposes of these Terms, “you” and “your” means you as a user of the Platform. We may update these Terms from time to time by posting an updated version here.
+
+Deel enables businesses to seamlessly manage relationships with Contractors (as defined below) or Consultants (as defined below) as well as managing Clients’ direct employees’ payroll and other HR-related services.
+
+These Terms apply to all Users who wish to access the Platform or use the Services. Depending on the designation of your account, different services may be available to you depending on the User (as defined below) type you may have (“Services”). Certain Services may also only be available subject to the payment of such fees detailed on the Platform. Certain Users may also have additional terms and conditions applicable to their use of the Platform as described in these Terms. Deel reserves the right to modify or discontinue providing the Services or any part of them, at any time and without notice, at its sole discretion.
+
+ 
+2. Definitions
+
+Capitalized words in these Terms are defined as follows:
+
+2.1. Account is an account to access and use the Platform in accordance with the applicable terms.
+
+2.2. Administrator refers to Users with authority to, on behalf of a Business, apply for an Account, access the Services, manage an Account, and otherwise act on behalf of the Business.
+
+2.3. Business means any type of legal entity with an Account created on Platform and managed through an Administrator.
+
+2.4. Clients refers to Users who use the Platform to request Services and make payments through the Platform  in connection with their receipt of any Services.
+
+2.5. Content means all content on or made available on the Platform or through the Services, including any documents, images, photos, pictures, videos, data, audio or text, and any modifications or derivatives of the foregoing.
+
+2.6. Contractors refers to Users who offer and perform services to Clients as described in contracts and who receive payments from Clients through the Platform.
+
+2.7. Payment Service Provider(s) are third-party financial service providers with respect to payment of funds by Users hereunder.
+
+2.8. Users refers to any person authorized to access an Account.
+
+2.9. User Content means all Content made available by Users on the Platform or through Services.
+
+ 
+3. Platform Use and Eligibility
+
+3.1. Subject to these Terms and and related documents between you and Deel, Deel grants you a non-exclusive right to access and use the Platform and/or Services solely for your or the Business’ internal business purposes. 
+
+3.2 Use of and access to the Platform and/or Services is void where prohibited by law. By using the Services, you (where relevant on behalf of the applicable Business) represent and warrant that: (a) any and all registration information you submit is truthful and accurate; (b) you will maintain the accuracy of such information; (c) your use of the Services does not violate any applicable law, regulation, or obligation you may have to a third party; (d) you will comply with applicable laws, regulations, guidelines, these Terms throughout your use of the Platform and/or Services, as applicable.
+
+3.3. We make the Platform and the Services available to Users who are 18 years of age or older. If you are aged between 16 and 17, you confirm that you have the permission and consent of a parent or legal guardian before utilizing the Platform and the Services. In cases where you are under 16, or if such usage is prohibited by law, you may not create an Account or use the Services. You must be a human to open an Account. Accounts registered by “bots” or other automated methods are not permitted. You may not maintain more than one Account at a time. By applying for an Account and using the Services, you represent and warrant that you are of legal age to form a binding contract and meet all of the foregoing eligibility requirements. If you do not meet these requirements, you may not access or use the Services or apply for an Account. Deel may refuse to open an Account for any individual or Business at its sole discretion.
+
+3.4. If you are accessing or using the Services on behalf of a Business: (i) you represent that you are authorized to enter into, and bind the Business to these Terms and register for the Services; and (ii) the Business is legally and financially responsible for your access to and use of the Services, as well as for the use of the Services by others affiliated with you, including any employees, agents or contractors.
+
+3.5. If we determine that any Content or the use of the Services violates these Terms, the Prohibited Activity List or any regulation, we may remove the Content or Services from your Account without prior notice to you. We may also suspend or close your Account. To the extent permitted by applicable law, we will provide you with notice of any of the foregoing promptly following taking any such action. Content or Services removed from your Account may not be edited or restored.
+
+ 
+4. Deel Accounts
+
+4.1. Applying for an Account. In order to access and use the Services, you will be required to create an account. To apply for an Account, you must provide your full legal name, a valid email address, your social security number, EIN, TIN, legal address and any other required information to complete the sign-up process, as requested by Deel. If you are applying for an Account on behalf of a Business, you may also be required to provide a business address, business ownership details, the nature of the business and additional business information that we may request. We will use this information to permit Deel and its financial partners to conduct due diligence on you prior to opening an Account, and throughout the course of our business relationship with you. Our use of your information is subject section 16 of these terms, Data Protection. If you are creating an Account on behalf of a Business, you must specify at least one Administrator. You are liable for any actions of your Administrator, and for any other person with access to your credentials or your Account. If you are an Administrator, you represent and warrant that you have the authority to apply for and to manage your Business’ Account.
+
+4.2. Account Security. You are fully and solely responsible and liable for maintaining the privacy and security of your computer system, mobile device and all activity on your Account, even if such activities were not committed by you. You will promptly disable access to the Services if you believe your Account has been compromised or stolen, and you will immediately notify us if you believe your Account credentials have been compromised or stolen, and in the event of any unauthorized access to or use of your Account. Deel will not be liable for any losses or damage arising from unauthorized use of your account or password, and you agree to indemnify and hold Deel harmless for any unauthorized, improper or illegal use of your account and any charges and taxes incurred, unless you have notified us via e-mail at ciso@deel.com that your account has been compromised and have requested that we block access to it, which we will do as soon as reasonably practicable. We will attempt to prevent unauthorized transactions or other activity using your Account, and we will assist you in the event your Account is compromised, but we do not police for and cannot guarantee that we will learn of or prevent, any inappropriate use of the Services and you are solely responsible for any financial or other loss that results from unauthorized access to your Account. We may suspend access to your Account if we suspect your Account has been compromised.
+
+ 
+5. Content
+
+5.1. Deel has no obligation to accept, display, or maintain any User Content. Moreover, Deel reserves the right to remove and permanently delete any User Content uploaded by you, without notice and for any reason. You are and shall remain at all times fully and solely responsible for any User Content that you upload to the Services. You represent and warrant that any User Content that you upload: (i) complies with applicable law; (ii) does not infringe or violate any third-party intellectual property rights, privacy or publicity rights, or moral rights; and (iii) you have all necessary rights and authority to submit such User Content.
+
+5.2. Without limiting the foregoing, you agree that you will not transmit, submit or upload any User Content to the Platform and/or Services or act in any way that: (i) restricts or inhibits use of the Services; (ii) imposes an unreasonably or disproportionately large load on our infrastructure; (iii) violates the legal rights of others, including defaming, slandering, abusing, stalking or threatening Users; (iv) infringes (or results in the infringement of) the intellectual property rights, moral rights, publicity, privacy, or other rights of any third party; (v) is (or you reasonably believe or should reasonably believe to be) stolen, illegal, counterfeit, fraudulent, pirated, violent or unauthorized, or in furtherance of any illegal, counterfeiting, fraudulent, pirating, unauthorized, or violent activity, or that involves (or you reasonably believe or should reasonably believe to involve) any stolen, illegal, counterfeit, fraudulent, pirated, or unauthorized material; (vi) does not comply with all applicable laws, rules and regulations; or (vii) posts, stores, transmits, offers, or solicits anything that contains the following, or that you know contains links to the following or to locations that in turn contain links to the following: (a) material that we determine to be offensive (including material promoting or glorifying hate, violence, bigotry, or any entity (past or present) principally dedicated to such causes or items associated with such an entity); (b) material that is racially or ethnically insensitive, defamatory, harassing or threatening; (c) pornography or obscene material; (d) any virus, worm, trojan horse, or other harmful or disruptive component; or (e) anything that encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law or regulation or is otherwise inappropriate or offensive.
+
+5.3. Use Restrictions. You may not use the Platform and/or Services for any illegal, fraudulent or unauthorized purposes. You may not use the Platform and/or Services to violate intellectual property laws or intellectual property rights of Deel or third parties, or any other any laws in your jurisdiction that are applicable to you. You may not use the Platform and/or Services for personal, household, family, consumer or other non-commercial purposes. You may only use the Platform and/or Services for your bona fide internal business purposes in accordance with the terms hereof. You may not use the Platform and/or Services to solicit or provide services for the benefit of any unaffiliated third parties or any other services not for the benefit of a User. You may not access or authorize anyone to access the Platform and/or Services from any country or region subject to United States embargo (currently, Cuba, Iran, Syria, North Korea, the Crimea, and the self-proclaimed Luhansk People’s Republic, and Donetsk People’s Republic) (collectively, “Prohibited Regions”). You may not use the Platform and/or Services if you are, or to solicit, provide, or receive services or payments to/from or through, or otherwise conduct any transaction involving: (a) any individual or organization that is subject to financial sanctions by the United States including, but not limited to, parties identified on the Specially Designated Nationals List administered by the United States Office of Foreign Asset Control (OFAC) or owned fifty percent or more by one or more such parties; or (b) parties that are located in, organized under the laws of, or that are part of, or owned or controlled by or acting on behalf of, the governments of Prohibited Regions (collectively, “Restricted Parties”).
+
+5.4. Further, you may not: (i) use the Platform and/or Services to solicit or provide services involving or related to any of the Prohibited User Activities set forth in the Prohibited Activity List; or (ii) do or attempt to do any of the Prohibited Uses set forth in the Prohibited Activities List. If we suspect or determine that you are using the Platform and/or Services in any many related to any Prohibited User Activities and/or Prohibited Uses, we reserve the right to disable your Account, freeze any funds in your Account, and report your activity to our financial services providers and other regulatory authorities with jurisdiction over us or you. To the extent permitted by applicable law, we will provide you with notice of any of the foregoing promptly following taking any such action.
+
+ 
+6. Deel Engage
+
+6.1. Subject to these Terms and this Section of the Terms, as part of the Platform, Client may access Deel’s cloud-based solution modules and features for managing career development, performance management, learning management, applicant tracking system, compensation and budgeting management, and job and position planning system via the internet (“Deel Engage Services”).
+
+6.2. The Client wishes to have access to the Deel Engage Services and use its online services solely in its internal business operations.
+
+6.3. Subject to these Terms, Deel has agreed to grant access to the Client with certain features and plug-ins to the Platform which include its online services as further described below and the Client has agreed to take and pay (if applicable) for Deel Engage Services provided that the Client complies with any and all of the requirements set forth in these Terms.
+
+6.4. Deel Engage Definitions:
+
+6.4.1. The following definitions apply solely within this Section 6 and not to sections of the Terms
+
+6.4.2. Subscription Plan: any fees paid or payable by the Client to Deel for the provision of the Deel Engage Services selected by the Client as set out in the Pricing Page.
+
+6.4.3. Effective Date: the date on which access was granted to the Deel Engage Services by Deel to the Client and/or to any of its Authorised Users.
+
+6.5. Deel Engage Services. Subject to the Terms, payment by the Client of the applicable Subscription Plan as further specified in the Pricing Page available to the Client:
+
+6.5.1. Deel hereby grants to the Client a non-exclusive, non-transferable right and license, without the right to grant sublicenses, to permit the Authorised Users to use the Platform during the Subscription Term (as defined below) solely for the Client's internal business operations.
+
+6.5.2. The Deel Engage Services facilitate the onboarding process of its employees and/or independent contractors, create reports about its such Users, allow them to submit documents and access other functionalities as offered within the Platform.
+
+6.5.3. The Authorised User(s) will have access to specific functionalities that can be expanded from time to time relating to modules and features for managing career development, performance management, learning management, applicant tracking system, compensation and budgeting management, and job and position planning.
+
+6.5.4. Deel may, at its sole discretion and at any time, modify or discontinue providing the Deel Engage Services provided through the Platform or any part thereof without notice.
+
+6.5.5. Deel will charge the Client for any Authorised User added to the Platform as expressly specified in the Pricing Page which may be amended from time to time.
+
+It is also agreed that the Client will be charged by Deel for any additional purchase made to be made within the Platform and/or in connection with any additional services.
+
+6.6. Authorised Users
+
+6.6.1. Additional Authorised Users
+
+Subject to the Engage Terms and their restrictions, the Client’s Authorised User may, from time to time during the Subscription Term, grant access to any additional Authorised User to the applicable Deel Engage Services, only by adding Authorised Users to the Platform and paying the applicable Subscription Plan.
+
+It is agreed that the addition of any Authorised User by the Client on the Platform will be considered as an ordering of an additional User Subscription.
+
+6.6.2. Client Authorised Users
+
+In relation to the Authorised Users, the Client ensures that:
+
+    it will be solely responsible for the use, attempted use, and/or misuse by any Users and/or Authorised Users of the Platform and any of its Deel Engage Services.
+    solely Authorised Users will use the Platform.
+    it will not allow or permit any Subscription Plan to be used by more than one individual Authorised User unless it has been reassigned in its entirety to another individual Authorised User, in which case the prior Authorised User shall no longer have any right to access or use the Deel Engage Services; and
+    All  Users and Authorised Users shall keep a secure password for their use of the Deel Engage Services and they shall keep their password confidential.
+
+6.7. Fees and Payment. In order to use the Deel Engage Services, including the Platform described herein, the Client shall pay Deel the applicable Subscription Plan set forth in the Pricing Page. Such fees shall be paid in accordance with the applicable payment terms.
+
+6.8. Obligations of the Client
+
+6.8.1. The Client shall protect the access authorisations as well as identification, and authentication information assigned to him or the Users from access by third parties and shall not disclose them to unauthorised persons.
+
+6.8.2. The Client will indemnify Deel against all claims of third parties due to infringements of rights, which are based on unlawful use of the services by the Client or are made with its approval. If the Client recognizes or should have recognized that such an infringement is imminent, the Client must inform Deel immediately.
+
+6.8.3. The Client shall use the possibilities provided by Deel to additionally secure its data in its original area of responsibility.
+
+6.8.4. The Client shall protect the hardware and software used to access the Deel Engage Services, in particular against unauthorised access by employees or other third parties, viruses, Trojans, and other malware.
+
+6.9. Term and Termination. 
+
+6.9.1. The term of a Subscription Plan shall begin on the effective date and shall continue until terminated by Deel or the Client as provided in these Engage Terms (the “Subscription Term”).
+
+6.9.2. Either party may terminate the Subscription Plan without cause and at any time upon giving 30 days prior written notice to the other party (the “Notice Period”). Such termination shall be effective commencing from the first day of the following calendar month.
+
+6.9.3. The Subscription Plan may be terminated immediately by Deel (without notice) upon: (i) the Client’s non-payment or failure to make payment when due for any reason; or (ii) in the event of suspicious Account activity or Account compromise, fraud, harassment, or threats; unfair, deceptive, or abusive acts or practices; illegal acts, at the direction of a regulatory authority, or for any other violation of these Engage Terms. Deel may also cancel the Subscription Plan if the Client or any of its Authorised Users is no longer a Deel account holder in good standing.
+
+6.9.4. Changes to the Subscription Plan. Deel reserves the right to make changes to these Engage Terms and/or the Subscription Plan, in any manner and at any time as Deel may determine in its sole and absolute discretion. Deel will provide Client written notification of any material changes to the Subscription Plan, at least 10 days in advance of the implementation of such changes. After notice of a material change, Client may terminate its Client’s Subscription Plan by providing written notice to Deel within the 10-day notice period before the effective date of the change. Except as otherwise expressly provided for herein, any price changes or changes to the Client’s Subscription Plan will take effect following such 10-day notice period.
+
+6.10. Indemnity. Client agrees to indemnify Deel and its affiliates, and hold Deel and its affiliates harmless from any damages, losses, and costs related to third-party (including any Authorised Users) claims or proceedings arising out of Client’s use and/or its Authorised Users’ use of the Platform, including, without limitation, infringements of rights, which are based on an unlawful use of the Deel Engage Services by the Client and/or its Authorised Users or are made with the Client and/or its Authorised Users approval. The Client is obligated to notify Deel immediately in cases where infringement is or could be imminent.
+
+6.11. Applicability. It is hereby agreed that in the case of any contradiction and/or lack of clarity and/or ambiguity and/or incompatibility between the provisions of the Terms and these this section 6, the provisions specified in this Section 6 shall prevail in relation to the Deel Engage Services and the Platform.
+
+ 
+7. Payment Methods
+
+7.1. Except for Deel’s role as a limited payment agent for Contractors as set out in the Contractor User Terms of Service (Part II of these Terms), Deel does not and will not provide banking, deposit taking, stored value, escrow, insurance, or any other financial service. To facilitate payments under the Services, Deel partners with different payment service providers, including payment gateways, money transmitters, wallet providers, credit and debit card payment processors, merchant acquirers, and merchant acquiring banks (collectively, “Payment Service Provider”). All payment services, including withdrawal services, will be provided by Deel’s Payment Service Provider. You may access our Payments Page for more information on supported third-party payment methods in your location. Depending on your location, some payment methods may not be available, and we do not guarantee that you will be able to use your preferred payment method even in locations where it is available. Depending on the desired payment method, Users may be required to enter into a separate agreement with the applicable Payment Service Provider (“Payment Service Provider Agreement”). Your use of any payment method is subject to the terms and conditions of the applicable Payment Service Provider and Payment Service Provider Agreement. For example, customers in the United States may receive payment processing services by our partner, subject to their terms found here, as well as their privacy policy found here. We will not be held liable for any losses or damages, direct or indirect, pecuniary or non-pecuniary, resulting from the actions or omissions of any Payment Service Provider, and we expressly disclaim any responsibility in this regard. Any fees for use of a Payment Service Provider to make payments or receive payments will be borne by you. Deel will not be liable for any losses or damages you suffer with your use of any third-party payment services. Deel is not a party to your Payment Service Provider Agreement and will not intervene in any disputes related to payments you make or receive using any third-party payment method. Any fees for the use of a Payment Service Provider to make payments or receive payments will be borne by you and are in addition to any fees payable to Deel.
+
+7.2. Deel supports Client payments via wire transfer and Automated Clearing House (“ACH”) transfer, which will be subject to the National Automated Clearing House Association Operating Rules. Users are solely responsible for payment of insufficient funds fees, overdraft fees, wire transfer fees, or other bank fees that you or Deel incur for ACH payments, Payment Service Provider transaction fees, taxes, and any other third-party payment method fees or charges. Deel does not charge non-Client Users any fees for payments processed through the Platform regardless of payment method. However, Deel is not responsible for any transaction fees, foreign exchange fees, or any other fees imposed separately on a User by a Payment Service Provider or by the User’s own financial institution.
+
+7.3 User Payment Information. Solely to protect against money laundering, terrorist financing, fraud, unauthorized transactions, or as required by applicable laws, Deel and Payment Service Providers will collect, store, and analyze User payment information. For more information on how we use your payment information, you may access our Privacy Policy. Payment Services Providers may also collect payment information necessary for processing User payments. Except for payment amount and payment status details stored in your Account, Deel does not have access to payment information provided to Payment Services Providers, and such information will be subject to the privacy policy of each Payment Service Provider.
+
+7.4 By using any payment method and providing payment information to Deel or to any Payment Service Provider, you represent and warrant that you are the owner or authorized representative of the owner of the bank account or payment method account you use to send or receive payments, and that you are legally authorized to send or receive payments using such accounts.
+
+ 
+8. Payment Plan
+
+8.1. If you are a Client, certain Services are subject to the payment to Deel of the fees outlined on the Platform. You may access and use certain Services by selecting from one of our payment plans (“Payment Plan”) on our Pricing Page. You agree to pay Deel the fees outlined on the Platform in accordance with your applicable Payment Plan. A separate invoice will be generated and uploaded to your Account.
+
+8.2. If you pay for your Payment Plan using a debit method, wire transfer, or credit card (collectively, “Card”), the following terms apply:
+
+    Foreign Transaction Fees. You will pay your Card’s issuing bank for any foreign transaction fees or other charges.
+    Declined Payment. If your payment is declined due to the expiration of the Card, insufficient funds, or for any other reason, you remain responsible for any amounts not remitted to Deel. Deel may, in its sole discretion: (i) continue presenting the Card once it has been updated by Client (if applicable) or (ii) terminate the Services for non-payment.
+    If you have auto payments activated on Deel, we will automatically charge you your Payment Plan in addition to the applicable fees.
+
+8.3. Deel, in its sole discretion, may modify your Payment Plan fees by notifying you at least 30 days before the end date of your next billing cycle. Changes to the Payment Plan will become effective at the end of the next billing cycle following your receipt of the notice of the change. If you do not agree to the changes, you must terminate your Payment Plan at least 5 days before the end of your next billing cycle by sending Deel a notice of termination to support@deel.com. Your continued use of the Services after the Payment Plan change becomes effective constitutes your consent to the new Payment Plan terms.
+
+8.4. Payment Plan fees excludes any sales tax, value-added taxes, use or withholding tax, or other government assessments of any nature (collectively, “Taxes”). You are responsible for paying all Taxes associated with your Payment Plan, except for taxes based on Deel’s net income. Should any payment to Deel for the Services be subject to sales tax, value  added taxes, use or withholding tax or other governmental assessments by any government, you will reimburse Deel for such amounts.
+
+8.5. Deel, in its sole discretion, may offer a free trial of a Payment Plan for a limited period of time ("Free Trial"). To participate in a Free Trial, you must select a Payment Plan and provide a valid payment method, where we will not charge your payment method unless you continue using the Services after the Free Trial ends. If you are on a Free Trial, you may cancel at any time until the last day of your Free Trial by emailing support@deel.com. If you or Deel cancel your Free Trial, you acknowledge and agree that Deel may delete all contracts, forms, content, and all other data associated with your Account during your Free Trial. If you do not cancel your Free Trial once it ends, your Free Trial will automatically be converted to a paid Payment Plan, and you authorize us to charge the payment method you provided in accordance with your Payment Plan. To cancel your Payment Plan after your Free Trial has ended and your Payment Plan has begun, you must terminate your Payment Plan at least 5 days before the end of your next billing cycle by sending Deel a notice of termination to support@deel.com. At any time and without prior notice, Deel may: (a) modify the terms of any Free Trial offer; (b) withdraw any Free Trial offer; or (c) cancel any Free Trial.
+
+8.6. Client payment obligations under your Payment Plan for each billing cycle cannot be canceled after a billing cycle has commenced, and you will not receive a partial refund if you stop using the Services and terminate your Payment Plan before the end of a billing cycle. All fees paid to Deel are non-refundable and there are no credits for partially used Payment Plan periods. We may consider certain refund requests on a case-by-case basis at our sole discretion.
+
+ 
+9. Integrations
+
+9.1. The User acknowledges that the Services may integrate or interoperate with products and services of third parties (“Third-Party Product”), or import or export data and other content to or from Third-Party Products (collectively, “Integrations”).
+
+9.2. Any use of any Third-Party Products is solely at your own decision and risk. Deel is not responsible for any Third-Party Products, any use by you of Third-Party Products, and any data exchange between you and any Third-Party Product is solely between you and the applicable provider.
+
+9.3. Deel makes no representation, warranty, or commitment and shall have no liability or obligation whatsoever in relation to the content or use of, or correspondence with, any such Third-Party Products, or any transactions completed, and any contract entered into by the User, with any provider of such Third-Party Products. Any contract entered into and any transaction completed via any Third-Party Product is between the User and the relevant third party, and not Deel. The use of any Third-Party Products is subject to the applicable third party's terms and conditions. Deel does not endorse or approve any Third-Party Products nor the content of any of the Third-Party Products made available via the Services.
+
+9.4. If you opt to use any Integrations, you agree to: (i) assume sole responsibility for and all risk arising from your use of Integrations and the content, functionality, or availability of any Third-Party Products, including waiving and releasing Deel from any claims directly or indirectly related thereto; and (ii) without limitation, defend, indemnify, and hold harmless Deel from any third party claims directly or indirectly arising from or related to your use of any Integrations.
+
+9.5. DEEL PROVIDES INTEGRATIONS “AS IS'' WITHOUT WARRANTY OF ANY KIND AND ONLY AS A CONVENIENCE.
+
+ 
+10. Communications from Deel
+
+10.1. By creating an Account on our Platform you agree that we may contact you in relation to the Services. By creating an Account you also agree to subscribe to newsletters and/or marketing materials and/or other promotional information we may send to you. However, you may opt-out of receiving any, or all, of these marketing communications from us by following the unsubscribe link or instructions provided in any email we send. Please note that we may still contact you and send you messages related to the Services even after you have opted out of receiving marketing communications.
+
+ 
+11. Electronic Signatures and Legal Notices
+
+11.1. You agree that any signature or other electronic symbol or process attached to any document between you and Deel or you and another User with the intent to sign, authenticate or accept the terms of any Contract, or other document and any contract formation or record-keeping through electronic means on the Services will have the same legal validity and enforceability as a manually executed signature or use of a paper-based recordkeeping system to the fullest extent permitted by applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, or any similar state law based on the Uniform Electronic Transactions Act, and you hereby waive any objection to the contrary.
+
+11.2. You consent to us providing notices to you under these Terms electronically and understand that this consent has the same legal effect as a physical signature.
+
+11.3. We may provide notices regarding activity and alerts electronically through your Account, email, and via text or SMS to the contact information provided to us by you. These notices may include alerts related to the Services, payment and these Terms through your Account or via email and you agree that they will be considered received 24 hours after they are sent. You understand that you may not use the Platform and/or Services unless you consent to receive notices electronically. You may only withdraw consent to receive notices electronically by closing your Account.
+
+11.4. You are responsible for receiving notices. Contact us immediately via email to support@deel.com if you are or believe you are having problems receiving notices.
+
+ 
+12. Interruption of Service
+
+12.1. From time to time, the Platform and/or (parts of the) Services may be unavailable for periods of time for maintenance and / or modifications to the Platform. We will endeavor to make keep maintenance down time as brief as possible. However, we cannot guarantee that the Platform and/or Services will be available to you, and we will not be liable to you for any losses or damages, pecuniary or non-pecuniary, resulting from the interruption of your use of the Platform and/or Services.
+ 
+13. Intellectual Property
+
+13.1. The Platform, Services, any Content thereon (excluding any User Content), and any APIs, interfaces, features and functionalities thereof are and will remain the exclusive property of Deel and its licensors. The Platform and the Services are protected by copyright, trademark, and other laws of both the United States and each jurisdiction in which we make the Services available to Users. You may not use our trademarks, trade dress, service marks, logo or trade name in connection with any product or service without the prior written consent of Deel. You will not remove, alter or conceal any copyright, trademark, service mark or other proprietary rights notices incorporated in the Platform and/or Services, if any. Except as expressly permitted herein, you may not copy, further develop, reproduce, republish, modify, alter download, post, broadcast, transmit or otherwise use the Content of the Platform or Services for any purpose.
+
+13.2. Except as otherwise agreed, by submitting any User Content, you grant Deel and its successors and assignees a worldwide, non-exclusive, royalty-free, perpetual, sub-licensable and transferable license under any of your intellectual property, moral or privacy rights to use, copy, distribute, transmit, modify, prepare derivative works of, publicly display, alter, decompile, publicly perform such User Content on, through or in connection with the Platform and/or Services in any media formats and through any media channels.
+
+ 
+14. Data Protection 
+
+14.1. You acknowledge and agree that Deel may collect and process your personal data in connection with your use of our platform. Deel undertakes to ensure compliance with all applicable data protection laws and regulations, including but not limited to the General Data Protection Regulation, the California Consumer Privacy Act, and any other relevant legislation or regulation governing the processing of personal data. All rights and obligations of Users with respect to the processing of personal data pursuant to this TOS shall be governed by the Data Processing Addendum (“DPA”). The DPA is an integral part of this TOS and can be accessed through the following link: https://www.deel.com/legal/data-processing-addendum/  
+
+14.2. For information about how Deel handles your personal data, see our Privacy Policy.
+
+ 
+15. Links to Other Web Sites or Services
+
+15.1. Our Platform may contain links to third-party websites or services that are not owned or controlled by Deel.
+
+15.2. Deel has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third-party websites or services. We do not warrant or guarantee the offerings of any of these third-party, their services, or their websites.
+
+15.3. You acknowledge and agree that Deel will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
+
+15.4. We strongly advise you to read the terms of service and privacy policies of any third-party web sites or services that you visit or interact with.
+
+ 
+16. Termination; Survival
+
+16.1. We may terminate or suspend your Account and bar access to the Platform and/or Services immediately, without prior notice or liability to you, in our sole discretion, for any reason whatsoever. Grounds for such termination or suspension may include: (i) extended periods of inactivity; (ii) breach of these Terms; (iii) fraudulent, harassing, or abusive behavior; (iv) behavior that is illegal or harmful to other Users, third parties or business interests of Deel; (iv) termination, suspension or expiration of any agreement for any reason, as applicable, or (v) failure to make payment in accordance with the terms hereof or any agreement between the User and us. If your Account is terminated, you may not rejoin the Platform again without our written permission. Upon termination of your Account, you shall not have any further access to any Content that may be available through your Account.
+
+16.2. We reserve the right to investigate suspected violations of these Terms or illegal and inappropriate behavior through the Platform and/or Services. We will fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity, behavior or Content of anyone believed to have violated these Terms or to have engaged in illegal behavior in connection with the Services.
+
+16.3. You or the Business, as applicable, may request the termination of your Account at any time by contacting us via email at team@deel.com. Following such a request, Deel shall close your Account as soon as reasonably practicable.
+
+16.4. Any suspension, cancellation or termination of your account shall not affect your obligations under these Terms or agreements which by their nature are intended to survive such suspension, cancellation or termination, including, without limitation, Section 12 [Intellectual Property], Section 17 [Limitation of Liability]; Section 20 [Arbitration and Class Action Waiver]; and Section 21 [Confidentiality].
+
+ 
+17. Indemnification
+
+17.1. Deel assumes no liability for any acts or omissions of any User.
+
+17.2. You agree to defend, indemnify and hold harmless Deel, its affiliates, and related third parties and each of their respective employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of (a) your use and access of the Platform and/or Services, by you or any person using your account and password; (b) a breach of these Terms; (c) your breach of the terms of any contract, or the terms of any Payment Service Provider agreement; or (d) any contract, form, data and Content posted by you to the Platform.
+
+ 
+18. Force Majeure
+
+18.1. You may not hold us liable for any interruption of the Platform and/or Services due to any act of God; blockage, disturbance or encumbrance of the telecommunications, transport or procurement networks for whatever reason; poor quality or interruptions of electrical current; virus or computer pirate attacks, insurrections or acts of a similar nature; state of war or embargo; total or partial strikes within or outside of the company; lock-out, social conflicts, sabotage or acts of vandalism; foul weather, epidemics, earthquakes, explosion, fires, storms, flooding, other natural disasters; water damage, incapacity to obtain raw materials or supplies; legal or regulatory modifications applicable to supplying the Services, and any other case beyond our voluntary control preventing the normal provision of the Services to you.
+
+ 
+19. Limitation of liability
+
+19.1. We assume no responsibility nor liability for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, any Content or Services. We are not responsible nor liable for any problems or technical malfunction of any telephone network or lines, computer online systems or equipment, servers or providers, software, failure due to technical problems or traffic congestion on the Internet or on the Platform. Under no circumstances shall we be responsible for any loss or damage, including personal injury or death and any injury or damage to any person’s mobile device or computer, resulting from use of the Platform, the Services or from any Content. In addition, we assume no responsibility for any incorrect data, including Personal Data provided by you or on your behalf and you hereby represent and warrant that you are solely responsible for any and all data provided to Deel, including any incorrect data and you shall assume any and all liability for any consequences of provision of such incorrect data to us.
+
+19.2. IN NO EVENT WILL DEEL, NOR ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES, BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (B) ANY CONDUCT OR CONTENT OF ANY USER OF THIRD PARTY ON THE SERVICES; (C) ANY CONTENT OBTAINED FROM THE SERVICE; AND (D) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT WE HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+19.3. OUR MAXIMUM LIABILITY TO YOU UNDER THESE TERMS IS LIMITED TO THE GREATER OF THE TOTAL AMOUNT OF FEES ACTUALLY PAID BY YOU TO US IN THE THREE MONTHS PRECEDING THE EVENT THAT IS THE BASIS OF YOUR CLAIM OR $500.00. THESE LIMITATIONS APPLY REGARDLESS OF THE LEGAL THEORY ON WHICH YOUR CLAIM IS BASED.
+
+ 
+20. Exclusions
+
+20.1 Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages set forth in the “LIMITATION OF LIABILITY” and “DISCLAIMER” sections above, so the limitations above may not apply to you.
+
+ 
+21. Governing Law
+
+21.1 These Terms will be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions or by the JAMS Rules in the case or arbitrations as outlined below.
+
+ 
+22. Limitation of liability
+
+22.1. You agree to first attempt to resolve disputes with us in good faith and in a timely manner. Where no resolution can be found, you agree that any dispute, controversy, or claim (collectively, “Claim”) relating in any way to your use of the Services will be settled by final and binding arbitration in San Francisco, California, using the English language, before a single arbitrator. Claims involving amounts greater than $250,000 will apply the JAMS Comprehensive Arbitration Rules and Procedures; and Claims involving amounts less than or equal to $250,000 will apply the JAMS Streamlined Arbitration Rules then in effect (those rules are deemed to be incorporated by reference into this section, and as of the date of these Terms). Judgment on the arbitration award may be entered in any court that has jurisdiction. Any arbitration under these Terms will take place on an individual basis – class arbitrations and class actions are not permitted. You understand that by agreeing to these Terms, you and Deel are each waiving the right to trial by jury or to participate in a class action or class arbitration. Notwithstanding the foregoing, you and Deel will have the right to bring an action in a court of proper jurisdiction for injunctive or other equitable or conservatory relief, pending a final decision by the arbitrator. Payment for any and all reasonable JAMS filing, administrative and arbitrator fees will be in accordance with the JAMS Rules.
+
+ 
+23. Confidentiality
+
+23.1. “Confidential Information” means any business and technical information disclosed by one party (“Disclosing Party”) to the other party (“Receiving Party”) that is identified as confidential or proprietary, or which should reasonably be understood to be confidential or proprietary. Confidential Information does not include information which Receiving Party can show: (a) is or has become publicly available without its breach of this Agreement; (b) was in its possession prior to disclosure, (c) was provided by a third party having a lawful right to make the disclosure; or (d) is required to be disclosed by law or a court order, provided the Receiving Party provides prompt written notice of the requirement and cooperates with Disclosing Party as reasonably necessary to limit or eliminate such requirement, if and to the extent permitted by such court order. Receiving Party will not use the Confidential Information of the Disclosing Party except for performance of its obligations under this Agreement. The terms and conditions of this section, including without limitation any pricing terms, shall be deemed the Confidential Information of Deel. All User Content added by a User to the Platform shall be deemed Confidential Information of the User, provided however, that Deel may use any data received from the User (including but not limited to User Content) for its own internal purposes, such as, without limitation, the general improvement of its products and services or in order to recommend its services to third parties.
+
+ 
+24. Miscellaneous
+
+24.1. We reserve the right, at our sole discretion, to modify or replace these Terms at any time with notice to you. By continuing to access or use the Services after any revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new Terms, you are no longer authorized to use the Service. 
+
+24.2. In the event that any provision of these Terms is held to be unenforceable, such provision shall be replaced with an enforceable provision which most closely achieves the effect of the original provision, and the remaining provisions of these Terms shall remain in full force and effect. 
+
+24.3. We may assign and/or transfer our rights and obligations hereunder to any third party without prior notice. You shall not assign and/or transfer any of your rights or obligations hereunder, and any assignment in violation of the foregoing shall be void. 
+
+24.4. Either party’s failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. 
+
+ 
+25. Contact Us
+
+25.1. Our Support team is available 24/7 if you have any questions regarding the Services, your Account, or these Terms. You can contact our Support team by submitting a request here. 
+
+ 
+Part II: Independent Contractor User Terms of Service 
+
+    The following provisions apply to the Independent Contractor Services.
+
+This Independent Contractor Terms of Service (“IC TOS”) sets out the terms and conditions under which Deel, Inc. (“Deel”, “we”, or “our”) shall provide certain contractor-related services as described here (collectively, “Contractor Services”). 
+
+PLEASE REVIEW THIS IC TOS CAREFULLY. BY ACCEPTING THIS IC TOS OR USING THE CONTRACTOR SERVICES, YOU AGREE TO BE BOUND BY THE IC TOS.
+1. Contractor Services
+
+1.1. Users of the Platform may register an Accounts a Contractor or Client. Different Contractor Services may be available to you depending on your Account type. Certain Contractor Services may also only be available subject to the payment of the fees outlined on the Platform.
+
+1.2. Clients may use the Platform to seamlessly onboard Contractors to their accounts payable systems, conduct vendor due diligence, guide Contractors on compliance as applicable, execute contractor agreements and statements of work, and simplify the process of paying Contractors.
+
+1.3. Contractors may use the Platform to easily connect with their clients, execute contractor agreements and statements of work, store payment and bank account preferences, and unify payment flows through a single platform.
+
+1.4. The general Contractor Services are as follows:
+
+    Clients and Contractors register an account on the Platform, which is free.
+    The Platform collects compliance information from Contractors on behalf of Clients.
+    Clients and Contractors use the Platform’s contract generation tool to create a contractor agreement and statement of work (collectively, “Contract”) to set the terms of the engagement, work timelines, deliverables, fees, and acceptance criteria.
+    Clients and Contractors agree once the acceptance criteria are met.
+    Clients pay Contractors through the Platform using supported payment methods.
+    Deel pays Contractors through the Platform.
+    Contractors receive fees through the Platform until the Contract is terminated by either Client or Contractor. If the Contract is a milestone contract, the Contract will continue until it is terminated.
+
+ 
+2. Client Payment Plan
+
+2.1. If you are a Client, certain Contractor Services are subject to the payment to Deel of the fees outlined on the Platform. You may access and use certain Contractor Services by selecting from one of our payment plans (“Payment Plan”) on our Pricing Page. You agree to pay Deel the fees outlined on the Platform in accordance with your applicable Payment Plan. You will be charged for your Payment Plan once you issue a payment to the Contractor through the Platform. A separate invoice will be generated and uploaded to your Account.
+
+2.2. If you pay for your Payment Plan using a debit method, wire transfer, or credit card (collectively, “Card”), the following terms apply:
+
+    Foreign Transaction Fees. You will pay your Card’s issuing bank for any foreign transaction fees or other charges.
+    Declined Payment. If your payment is declined due to the expiration of the Card, insufficient funds, or for any other reason, you remain responsible for any amounts not remitted to Deel. Deel may, in its sole discretion: (i) continue presenting the Card once it has been updated by Client (if applicable) or (ii) terminate the Contractor Services for non-payment.
+    If you have auto payments activated on Deel, we will automatically charge you your Payment Plan in addition to the fees paid to Contractor.
+
+2.3. Deel, in its sole discretion, may modify your Payment Plan fees by notifying you at least 30 days before the end date of your next billing cycle. Changes to the Payment Plan will become effective at the end of the next billing cycle following your receipt of the notice of the change. If you do not agree to the changes, you must terminate your Payment Plan at least 5 days before the end of your next billing cycle by sending Deel a notice of termination to support@deel.com. Your continued use of the Contractor Services after the Payment Plan change becomes effective constitutes your consent to the new Payment Plan terms.
+
+2.4. Payment Plan fees excludes any sales tax, value-added taxes, use or withholding tax, or other government assessments of any nature (collectively, “Taxes”). You are responsible for paying all Taxes associated with your Payment Plan, except for taxes based on Deel’s net income. Should any payment to Deel for the Contractor Services be subject to any Taxes, you will reimburse Deel for these Taxes.
+
+2.5. Deel, in its sole discretion, may offer a free trial of a Payment Plan for a limited period of time ("Free Trial"). To participate in a Free Trial, you must select a Payment Plan and provide a valid payment method, where we will not charge your payment method unless you continue using the Contractor Services after the Free Trial ends. If you are on a Free Trial, you may cancel at any time until the last day of your Free Trial by emailing support@deel.com. If you or Deel cancel your Free Trial, you acknowledge and agree that Deel may delete all contracts, forms, content, and all other data associated with your Account during your Free Trial. If you do not cancel your Free Trial once it ends, your Free Trial will automatically be converted to a paid Payment Plan, and you authorize us to charge the payment method you provided in accordance with your Payment Plan. To cancel your Payment Plan after your Free Trial has ended and your Payment Plan has begun, you must terminate your Payment Plan at least 5 days before the end of your next billing cycle by sending Deel a notice of termination to support@deel.com. At any time and without prior notice, Deel may (a) modify the terms of any Free Trial offer, (b) withdraw any Free Trial offer, or (c) cancel any Free Trial.
+
+2.6. Your payment obligations under your Payment Plan for each billing cycle cannot be canceled after a billing cycle has commenced, and you will not receive a partial refund if you stop using the Contractor Services and terminate your Payment Plan before the end of a billing cycle. All fees paid to Deel are non-refundable and there are no credits for partially used Payment Plan periods. We may consider certain refund requests on a case-by-case basis at our sole discretion.
+
+ 
+3. Payment Methods
+
+3.1. Except for Deel’s role as a limited payment agent for Contractors as set out in the Section titled “Appointment of Deel as Payment Agent”, Deel does not and will not provide banking, deposit taking, stored value, escrow, insurance, or any other financial service. To facilitate payments under the Contractor Services, Deel partners with different payment service providers, including payment gateways, money transmitters, wallet providers, credit and debit card payment processors, merchant acquirers, and merchant acquiring banks (collectively, “Payment Service Provider”). All payment services, including withdrawal services, will be provided by Deel’s Payment Service Provider. You may access our Payments Page for more information on supported third-party payment methods in your location. Depending on your location, some payment methods may not be available, and we do not guarantee that you will be able to use your preferred payment method even in locations where it is available. Depending on the desired payment method, Users may be required to enter into a separate agreement with the applicable Payment Service Provider (“Payment Service Provider Agreement”). Your use of any payment method is subject to the terms and conditions of the applicable Payment Service Provider and Payment Service Provider Agreement. Deel will not be liable for any losses or damages you suffer with your use of any third-party payment services. Deel is not a party to your Payment Service Provider Agreement and will not intervene in any disputes related to payments you make or receive using any third-party payment method. Any fees for the use of a Payment Service Provider to make payments or receive payments will be borne by you and are in addition to any fees payable to Deel.
+
+3.2. Deel supports Client payments via wire transfer and Automated Clearing House (“ACH”) transfer, which will be subject to the National Automated Clearing House Association Operating Rules. Users are solely responsible for payment of insufficient funds fees, overdraft fees, wire transfer fees, or other bank fees that you or Deel incur for ACH payments, Payment Service Provider transaction fees, taxes, and any other third-party payment method fees or charges. Deel does not charge Contractors any fees for payments processed through the Platform regardless of payment method. However, Deel is not responsible for any transaction fees, foreign exchange fees, or any other fees imposed separately on a Contractor by a Payment Service Provider or by Contractor’s own financial institution.
+
+3.3. User Payment Information. Solely to protect against money laundering, terrorist financing, fraud, unauthorized transactions, or as required by applicable laws, Deel and Payment Service Providers will collect, store, and analyze User payment information. For more information on how we use your payment information, you may access our Privacy Policy. Payment Services Providers may also collect payment information necessary for processing User payments. Except for payment amount and payment status details stored in your Account, Deel does not have access to payment information provided to Payment Services Providers, and such information will be subject to the privacy policy of each Payment Service Provider.
+
+3.4. By using any payment method and providing payment information to Deel or to any Payment Service Provider, you represent and warrant that you are the owner or authorized representative of the owner of the bank account or payment method account you use to send or receive payments, and that you are legally authorized to send or receive payments using such accounts.
+
+ 
+4. Reversals, Disputes, and Contract Cancellations
+
+4.1. Reversals and Disputes. Clients should not initiate payments to Contractors until Contractors have met the acceptance criteria or other requirements detailed in the applicable Contract. Except to satisfy the compliance obligations in the Section titled “User Payment Information”, Deel cannot reverse payments or withhold funds from Contractors, and cannot cause Payment Service Providers to reverse payments or withhold funds from Contractors once funds have been received by Deel or the relevant Payment Service Provider. If a Client is not satisfied with the service provided by a Contractor or makes a payment in error, Client must initiate a refund, reversal, or other payment dispute process directly with Contractor or with the relevant Payment Service Provider. Deel will not intervene in payment or contract disputes between Users, and Users are solely responsible for settling disputes. Refunds and reversals of payments made through a Payment Service Provider are subject to the terms and conditions of the Payment Service Provider and Payment Service Provider Agreement.
+
+4.2. Contract Cancellation by User. If a Contractor is owed by a Client for outstanding payments after Contractor’s completion of work, or if a Client is dissatisfied with the service provided by a Contractor, Contractor or Client may initiate the cancellation of the Contract through the Platform. Cancellation of a Contract through the Platform has no bearing on the merits of a Contract dispute, the interpretation of the terms of the Contract, or the legality or validity of a Contract. The Platform records the initiator of, and the time and date of the cancellation of the Contract. If you delete a Contract, the deleted Contract and all its contents will immediately become inaccessible to other Users, after which it will be permanently deleted from Deel’s servers. Users may not initiate or request payment for services related to a cancelled Contract, or alter the status of a Contract after it has been canceled.
+
+4.3. Contract Cancellation by Deel. Deel may cancel a Contract in the event of (a) suspicious account activity or account compromise, (b) fraud, harassment, or threats, (c) unfair, deceptive, or abusive acts or practices, (d) illegal acts, (e) at the direction of a regulatory authority, (f) for any other violation of this IC TOS, or (e) if a User is no longer an Account holder in good standing. Please contact support@deel.com if you believe a Contract or a User is in violation of this IC TOS.
+
+ 
+5. Appointment of Deel as Payment Agent
+
+5.1. Contractors (“Payee”) appoint Deel as their limited payment collection agent (“Payment Agent”) solely to facilitate payment receipt from Clients (via its Payment Services Provider, if applicable) for services provided under the Contracts. The Client acknowledges this appointment. 
+
+5.2. Payee agrees that payments received from Clients through Deel are considered as payments made directly to Payee, regardless if Deel remits or fails to remit the payment to Payee. Payee also authorizes Deel as Payment Agent to:
+
+    Hold, disburse, and retain payments on behalf of Payee pursuant to this IC TOS or instruct Deel’s Payment Service Providers to do so;
+    Issue refunds to Clients at the request of Payee; and
+    Manage Client credit and debit card chargebacks on behalf of Payee.
+
+5.3. In accepting the appointment as Payment Agent, Deel assumes no liability for any (a) acts or omissions of Payees related to the Contracts, Forms, or IC TOS, (b) failure by Contractors to provide the services in accordance with the Contracts, or (c) failure by Clients to make payments owed to Contractors. Payee understands that Deel’s obligation to pay Payee is subject to and conditional upon Deel’s actual receipt of payment from Clients. Payees further authorize Deel to delegate its Payment Agent obligations under this IC TOS to certain of its affiliated entities (“Affiliates”) both within and outside the United States, provided that Deel will remain liable to discharge its obligations under this IC TOS. 
+
+5.4. Clients’ payment obligations to Contractors will be satisfied upon receipt of payment by Deel (or its Payment Service Provider, as applicable). Deel (via its Payment Service Provider, as applicable) will be responsible for remitting funds to Contractors in accordance with this IC TOS. If Deel (via its Payment Service Provider) does not remit the proper payment to a Contractor, Contractor will have recourse for non-payment solely against Deel, and not Clients. Payee agrees that Deel may describe or reflect the terms contained here in any terms of service, receipts, disclosures, or notices, including, receipts provided to Clients that Deel may deem necessary or prudent.
+
+5.5. Clients may pay Contractors in any of Deel's supported currencies. Unless Client instructs Deel, Client will be charged in the currency indicated on the applicable Contract. If Client elects to pay in another currency, the exchange rate will be calculated using forward foreign exchange rates available to Deel and the maturity of the forward will be selected based on the payment date of the relevant Contract with such Contractor. In any event, the actual payment amount in the actual payment currency will be clearly disclosed to Client before Client completes the payment. Contractors may elect to be paid in any of Deel's supported currencies. Payment Service Provider retail fees and rates will be charged to Contractor.
+
+ 
+6. Ownership of Deliverables
+
+6.1. Except as set out in any Contract between Client and Contractor, Contractor agrees to grant to Client all copyrights and other intellectual property rights to the work and deliverables under the Contract (“Deliverables”), and Contractor waives all moral rights to the Deliverables. Deliverables will be considered as work-for-hire under the United States Copyright Act. If Deliverables do not meet the requirements of work-for-hire or when the United States Copyright Act does not apply, Contractor expressly agrees to assign to Client the copyright and other intellectual property rights to the Deliverables. All transfer and assignment of intellectual property to Client will be subject to full payment pursuant to the relevant terms of the Contract. Clients may not use the Deliverables if full payment is not made or the Contracts are cancelled for any reason. Notwithstanding the foregoing, for custom Deliverables (such as art work, design work, report generation, etc.), the custom Deliverables will be the exclusive property of Client, and Contractor assigns all rights, titles, and interests in the custom Deliverables to Client. Contractor shall keep confidential any information received from Client that is not in the public domain and will not share or used for any purpose other than for the delivery of the Deliverables or performance of services under the Contract.
+
+ 
+7. Tax Forms and Invoices
+
+7.1. Tax Forms. Deel uses User data to generate the required tax documents for Users. For Clients and Contractors in the United States, we automatically generate forms W9, W-8BEN, and W-8BEN-E (collectively “Forms”) to be dated and signed by Contractors. Deel does not guarantee the accuracy or completeness of the information on any Forms generated on the Platform, or that Users have selected the appropriate Form for the type of tax return they submit. Users should verify the accuracy and completeness of the information on the Forms before submitting them to other Users or to any tax authority. By using the Platform to generate and sign Forms, you represent and warrant that the information you have provided is accurate and complete, and agree to the terms of the Section titled “Electronic Signatures and Notices”.
+
+7.2. Invoice Generation. The Platform generates and submits invoices to Clients, on behalf of Contractors, when payment is due. Contractors may also use the Platform to automatically submit invoices for recurring services or schedule submission of invoices according to project milestones set in the Contracts.
+
+ 
+8. Tax Compliance Services
+
+8.1. Tax Compliance Services for Clients. Clients that use the “Tax Compliance Services” under the Contractor Services, as described on the Tax Compliance Page, agree to the following terms: 
+
+    Deel does not provide tax, legal, or accounting advice to Users. We will do our best to provide the information you need to make your own decisions to comply with the applicable  United States tax laws. If you have any questions on the Forms generated, tax withholding rates, or other tax information provided by Deel or the Internal Revenue Service, you should consult your own tax, legal, or accounting advisors before completing or submitting a Form or paying an invoice.
+    Information on tax withholding rates calculated by Deel and provided through the Tax Compliance Services are dependent on accurate and complete information on Users and their situation or circumstances. Deel will not be liable to you or any third party (including any tax authority) for any losses or penalties, pecuniary or non-pecuniary, arising from a User entering inaccurate or incomplete information, whether purposely or not, or misrepresenting their business type, tax status, or worker status in any manner.
+    Information on tax withholding rates calculated by Deel and provided through the Tax Compliance Services are also dependent on your specific business circumstances, tax form settings provided on the Platform, the income type provided by Clients as payments to Contractors, and any other tax-related information. In addition to the payment amount indicated in an invoice, you may also owe indirect taxes (such as value-added tax or goods and services tax) depending on the applicable tax laws in the jurisdiction where you are domiciled,. You agree that you are solely responsible for any obligation to deduct or withhold taxes and for any other tax requirements applicable to you. You also agree that the amount on any invoice and fees you owe for the Contractor Services are net of direct or indirect taxes, levy, withholding tax, or other deductions, unless specifically identified as tax and separately stated.
+
+8.2. Tax Compliance Services for Contractors. Contractors that use the “Tax Compliance Services” under the Contractor Services, , as described on the Tax Compliance Page, agree to the following terms:
+
+    Deel does not provide tax, legal, or accounting advice to Users. We will do our best to provide the information you need to make your own decisions to comply with the applicable United States tax laws. If you have any questions on the Forms generated, tax withholding rates, or other tax information provided by Deel or the Internal Revenue Service, you should consult your own tax, legal, or accounting advisors before completing or submitting a Form. 
+    You are solely responsible for timely remitting any amounts owed by you to the Internal Revenue Service or other government authority according to the applicable rules and regulations and normal accounting practices.
+    You will update your Account settings to reflect any material changes to your situation or circumstances that may affect your tax withholding rates, within 30 days from becoming aware of such material change.
+    You will inform Deel of any errors or omissions you discover that would affect a tax withholding calculation, within 30 days from becoming aware of such error or omission.
+    Deel will not be liable to you, any tax authority, Client, or any third party for any losses or penalties, pecuniary or non-pecuniary, arising from your failure to adhere to the terms outlined in this Section.
+
+ 
+9. Deel Premium Plan and Service Guarantee
+
+9.1. Subject to the terms and conditions in this Section titled “Deel Premium Plan and Service Guarantee” and provided that Client maintains a fully-paid subscription to a Deel Premium plan (each, a “Deel Premium Plan”), Deel will provide Client with a “Service Guarantee”.
+
+9.2. Under the Service Guarantee, where Deel incorrectly supplies Client with a Contractor which, due to Deel's error, is misclassified as an independent contractor (or its equivalent) under the applicable law (“Misclassification”) and the Client suffers Losses (as defined below) during the term of a relevant Contract as a result of Deel's actions, Deel will compensate Client for the consequences of Deel’s failure to deliver the correct service, subject to the limits set out in this Section titled “Deel Premium Plan and Service Guarantee”. 
+
+9.3. For the purposes of the Service Guarantee, “Losses” means the following:
+
+    Verifiable expenses limited to legal defense costs payable by Client (“Legal Costs”) in connection with the Misclassification of a Contractor contracted using the Contract on the Platform (“Relevant Contract”); 
+    Liabilities, interests, and penalties payable by Client to tax authorities as a result of Client being deemed liable by a government, administrative body, or court of competent jurisdiction in respect of the Misclassification of a Relevant Contract (“Tax Penalties”); and 
+    Other costs incurred by Client as a result of Client being deemed liable by a government, administrative body, or court of competent jurisdiction in respect of the Misclassification of a Relevant Contract (“Other Costs”). 
+
+9.4. Deel will not be required to compensate Client where any Losses are incurred after the termination of a Relevant Contract or cancellation of a Deel Premium Plan, or for failure to pay the fees under the Deel Premium Plan when they become due.
+
+9.5. Exclusions from the Service Guarantee. In any event, Deel shall not be liable for Losses which arise out of or result from:
+
+    Actions taken by Client, its Contractors, or any third party that are outside the scope of the Contractor Services;
+    The use of any Contract other than the latest Contract provided or approved in writing by Deel in respect of Contractor, as may be amended or updated;
+    Client’s obligation to have a permanent establishment in the country where Contractor is a permanent resident or where Contractor is delivering the services;
+    A change in the applicable laws of a jurisdiction if a Client’s Questionnaire (as defined below) for the specific Contractor giving rise to such Losses is not considered “passed” in accordance with the section titled “Client Questionnaire”;
+    Criminal, fraudulent, negligent, or malicious acts of Client, any Contractor, or third party;
+    Violations of laws applicable to Client or other employers that are not related to the Misclassification of Contractor;
+    Prior or pending litigation of Client, or events to which Client had prior notice that such events could result in litigation against Client;
+    Consequential damages, special damages, interruption of business, opportunity costs, loss of use, or loss associated with unauthorized access to data;
+    A change in the applicable laws that occurs after the expiration or termination of the Deel Premium Plan;
+    Any Relevant Contract after the expiration of the Term (as defined below) or for which Client has terminated its Deel Premium Plan;
+    Any Contractor engaged after the expiration of Client’s Deel Premium Plan; or
+    The misrepresentation of any material fact submitted to Deel by Client.
+
+ 
+10. Term and Termination 
+
+10.1. The term of a Deel Premium Plan will begin on the date of purchase of such Deel Premium Plan for a Relevant Contract (“Effective Date”) and end on the earlier of: (i) the duration of the Relevant Contract or (ii) 1 year from the Effective Date (“Initial Term”), unless terminated earlier as provided in this Section.
+
+10.2. After the Initial Term, the Deel Premium Plan will automatically renew in additional 1 year increments (each a “Renewal Term”), unless terminated in writing as provided below. The Initial Term and Renewal Term(s) are collectively referred to as “Term”.
+
+10.3. The Deel Premium Plan will terminate immediately upon the earlier of: 
+
+    The expiration of the Term of the Deel Premium Plan or Relevant Contract;
+    The termination of the Deel Premium Plan; 
+    The Client’s non-payment or failure to pay the Deel Premium Plan when due for any reason; 
+    The date when Client cancels, downgrades, or terminates the Relevant Contract or Deel Premium Plan as provided in this Section; or
+    The Client’s Questionnaire is considered “expired” or “failed” in accordance with the Section titled “Client Questionnaire”.
+
+10.4. A Deel Premium Plan may be terminated by as follows:
+
+    Deel may, at any time and without prior written notice to Client, immediately terminate a Deel Premium Plan in its entirety or its applicability to any specific Relevant Contract for non-payment, fraud, or misrepresentation. Deel may also terminate a Deel Premium Plan for any reason by providing Client with 30 days prior written notice. If Deel terminates your Deel Premium Plan, Deel’s liability will be limited to resolving any pending complaints and issues.
+    Client may terminate a Deel Premium Plan at the end of its Term by providing Deel with written notice at least 30 days before the expiration of the Term through the Platform or by sending an email to premium@deel.com.
+
+10.5. Notice of Loss. Client will give Deel prompt written notice by email at premium@deel.com (“Notice”) within 5 days of the date of discovery of any facts or situation which Client has reasonably determined could give rise to a Loss under this Service Guarantee, including any change in law, complaints, communications, or claims made or threatened by a Contractor or government authorities that could result in legal proceedings related to the Misclassification of a Contractor. Each Notice must contain a description of the issue and the nature and amount of the Losses to the extent that the nature and amount of the Losses are known at the time, failing which a reasonable estimate of the potential amount of the Losses will be provided. Client will promptly furnish to Deel copies of all material documents relating to the Losses. Any liability Deel may have to compensate Client pursuant to this Service Guarantee is conditional upon Client promptly delivering the Notice and related documents under this Section.
+
+10.6. Deel Premium Limitation of Liability.
+
+    Maximum Individual and Aggregate Liability. If Client has subscribed for and maintained in good standing the Deel Premium Plan, Deel agrees to compensate Client under this Service Guarantee to the extent it considers that its failure to provide the requisite service has led Client to suffer Losses, subject to the following limits:
+        The maximum liability for the total Legal Costs and Tax Penalties per Contractor is USD 25,000.00
+        The maximum liability for Other Costs per Contractor is USD 10,000.00.
+    FOR PURPOSES OF THIS SECTION TITLED “DEEL PREMIUM PLAN AND SERVICE GUARANTEE” AND IN ADDITION TO THE LIMITS ABOVE, EXCEPT AS OTHERWISE SPECIFICALLY STATED IN THIS IC TOS, DEEL WILL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, OR ECONOMIC DAMAGES, OR FOR LOSS OR DAMAGES TO ANY PERSON OR PROPERTY RELATING TO OR ARISING FROM THIS IC TOS. IN ADDITION TO THE LIMITS STATED ABOVE, DEEL’S MAXIMUM LIABILITY TO ANY ONE CLIENT, REGARDLESS OF THE NUMBER OF OUTSTANDING RELEVANT CONTRACTS SUCH CLIENT HAS, WILL NOT EXCEED USD 250,000.00.
+
+10.7. Deel Premium Representations and Warranties of Client. Deel will not be liable for any Losses based upon or arising out of any inaccuracy in or breach of any of the representations or warranties of Client contained in the Questionnaire or on the Platform if Client knew or should have known that any such representation or warranty is, was, or might be inaccurate. Client agrees to produce or make available for inspection, at such reasonable times and places designated by Deel or its agent, all evidence of loss, damage, cost, ownership, or other Loss-related information. Notwithstanding the foregoing, Deel will have no liability to Client or any other person because of any inspection or failure to inspect.
+
+10.8. Client Questionnaire. To be eligible for the Service Guarantee, Client’s Account must be compliant with the IC TOS and complete and pass Deel’s due diligence support questionnaire (“Questionnaire”), as follows:
+
+    Client must pass the Questionnaire at the time that Contractor is engaged by Client, unless otherwise approved in writing by Deel.
+    A Questionnaire is considered “expired” or “failed,” and therefore not passed, and must be retaken by Client for each Relevant Contract at the earlier of: 
+        12 months after the Questionnaire is previously taken; 
+        90 days after there is a change in applicable law that is communicated by Deel to Client; 
+        Immediately upon Client’s communication with Deel in accordance with the Section titled “Exclusions from the Service Guarantee”; or
+        Immediately upon a change in the applicable law that would have been communicated by Deel to Client but for the fact that Client’s Deel Premium Plan expired prior to the change in the applicable law.
+    Client must immediately send Deel a written notice by email at premium@deel.com of any change in the contractual relationship with any of Client’s Contractors (e.g., a change in responsibilities, country, etc.), and must retake and pass the Questionnaire.
+
+10.9. Changes to Deel Premium Plan. Deel, at any time and in its sole discretion, may make changes to the Service Guarantee, the terms and conditions of any Deel Premium Plan, or the Deel Premium Plan pricing. Deel will provide you a written notice of any material changes to your Deel Premium Plan  at least 10 days before the implementation of such changes. After notice of a material change, you may terminate your Deel Premium Plan by providing written notice to Deel within 10 days before the effective date of the change. Except as otherwise expressly provided here, any price changes or changes to your Deel Premium Plan will take effect following such 10-day notice period. 
+
+10.10. Deel’s Control of Defense. Deel may, in its reasonable discretion, try to resolve any issues with the government, administrative body, or court directly, if applicable. Deel may assume, at its sole option, control of the defense, appeal, or settlement of any third-party claim that is reasonably likely to give rise to Losses. If Deel elects to assume control of the defense:
+
+    Deel will provide written notice to Client acknowledging responsibility for the defense and undertaking, through a reputable independent legal counsel of its own choosing, the settlement or defense thereof. 
+    Client will reasonably cooperate with Deel in connection with defense or settlement. 
+    Deel may condition the payment of the Losses on the execution of a settlement agreement, including a release of claims against Deel or any other applicable party, and an obligation to keep confidential the reimbursement or settlement amount and circumstances.
+
+10.11. Miscellaneous Provisions for the Service Guarantee.
+
+    Except as prohibited by law, Deel may modify or terminate this Service Guarantee at any time, including to the extent required to comply with applicable law, and such modification or termination will apply to incidents occurring after the effective date of the modification or termination. You acknowledge and agree that all benefits made available to you under this Service Guarantee will immediately terminate in the event you initiate any legal action or claim against Deel, its officers, directors, employees, contractors, agents, or affiliates concerning a compensation payment under this Service Guarantee.
+    Amounts payable under this Service Guarantee are not a replacement for applicable insurance coverage.
+
+10.12. Deel Premium Service. In addition to the Service Guarantee, a Deel Premium Plan includes access to the Deel Premium newsletter as a Premium Service.
+
+ 
+11. Disclaimer
+
+11.1. Deel is not a law firm and is not permitted to engage in the practice of law. Deel’s  personnel do not act as your attorney or provide legal advice to you. The template Contracts, Forms, and other sample documents available to you on the Platform or from Deel are made available for informational purposes only and are not a substitute for the advice of an attorney, and may not be relied upon with regard to the legality or sufficiency of such materials for your situation or needs. At no time shall Deel review your Contracts, Forms, other documents, or information on the Platform for legal purposes.
+
+11.2. Your use of the Contractor Services does not create an attorney-client relationship between you and Deel. You understand and agree that you or your attorneys or advisors represent you in any legal matter you undertake related to any Contract, Form, or document you obtain through the Platform. Deel is prohibited from providing any kind of advice, explanation, opinion, or recommendation to you about possible legal rights, remedies, defenses, options, selection of forms, or strategies.
+
+ 
+12. Limitation of Liability and Indemnification
+
+12.1. Deel is not an intermediary, advisor, agent, or party to any Contract and we take no responsibility for the quality or adequacy of any Deliverables or services performed under any Contract, disputes between Users, and content posted on the Platform by Users.
+
+12.2. Deel shall not be liable for any acts or omissions of Contractor, Contractor's failure to provide the services to Client, and Client's failure to pay amounts owed to a Contractor. 
+
+12.3. You agree to defend, indemnify, and hold harmless Deel, its Affiliates, Payment Service Providers, and each of their respective directors, officers, employees, contractors, and agents from and against all claims, obligations, losses, liabilities, damages, costs or debt, and expenses (including attorney's fees) resulting from or arising out of (a) your use and access of the Contractor Services, by you or any person using your Account and password, (b) a breach of this IC TOS, (c) your breach of the terms of any Contract or Payment Service Provider Agreement, or (d) any Contract, Form, data, and content posted by you on the Platform.
+
+ 
+13. Force Majeure 
+
+13.1. You shall not hold Deel liable for any interruption of the Contractor Services due to any act of God; blockage, disturbance or encumbrance of the telecommunications, transport, or procurement networks for whatever reason; poor quality or interruptions of electrical current; virus or computer pirate attacks, insurrections, or acts of a similar nature; state of war or embargo; total or partial strikes within or outside of the company; lock-out, social conflicts, sabotage, or acts of vandalism; foul weather, epidemics, earthquakes, explosion, fires, storms, flooding, or other natural disasters; water damage, incapacity to obtain raw materials or supplies; legal or regulatory modifications applicable to supplying the Contractor Services, and any other case beyond our voluntary control preventing the normal provision of the Contractor Services to you.
+
+ 
+14. Governing Law
+
+14.1. This IC TOS shall be governed by the laws of the State of Florida, United States. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this IC TOS.
+
+ 
+15. Dispute Resolution
+
+15.1. You agree to first attempt to resolve with us in good faith and in a timely manner any dispute, controversy, or claim relating to the IC TOS (collectively, “Claim”). If the Claim cannot be resolved amicably, the Claim shall be finally resolved by arbitration under the rules of the American Arbitration Association (“AAA”). The seat of arbitration shall be Miami, Florida. The applicable AAA rules for expedited procedure shall apply unless the amount in dispute exceeds USD 1,000,000.00. Each party shall bear its own costs. The parties, their representatives, the arbitral institution, other participants and/or arbitrator(s) shall hold the existence, content, and result of the arbitration in confidence.   
+
+15.2. Notwithstanding the foregoing, Deel reserves the right to submit any disputes related to non-payment of any fees, invoices, or other payments owed by a Client under this IC TOS before the courts of the United States, the courts of the country or jurisdiction in which Client has a commercial or registered address, or in any jurisdiction in which Client operates. In the event that Deel prevails in whole or part, Client agrees to pay Deel’s reasonable attorney fees and costs incurred. 
+
+ 
+16. Data Protection
+
+You acknowledge and agree that Deel may collect and process your personal data in connection with your receipt of the Contractor Services. Deel undertakes to ensure compliance with all applicable data protection laws and regulations, including but not limited to the General Data Protection Regulation, the California Consumer Privacy Act, and any other relevant legislation or regulation governing the processing of personal data. All rights and obligations of Users with respect to the processing of personal data pursuant to this IC TOS shall be governed by the Data Processing Addendum (“DPA”). The DPA is an integral part of this IC TOS and can be accessed through the following link: https://www.deel.com/legal/data-processing-addendum/. 
+
+ 
+17. Electronic Signatures and Notices
+
+17.1. You agree that any signature or electronic symbol or process attached to, or associated with a Contract, Form, certificate, or other document between you and Deel or you and another User with the intent to sign, authenticate, or accept the terms of any such Contract, Form, certificate, or other document and any contract formation or record-keeping through electronic means through the Contractor Services will have the same legal validity and enforceability as a manually executed signature or use of a paper-based recordkeeping system to the fullest extent permitted by applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, or any similar state law based on the Uniform Electronic Transactions Act, and you waive any objection to the contrary.
+
+17.2. You consent to Deel providing notices to you under this IC TOS electronically and understand that this consent has the same legal effect as a physical signature.
+
+17.3. Deel may provide notices regarding activity and alerts electronically through your account, email, or via text or SMS to the contact information you provided on the Platform. We will send notices in relation to the Contractor Services and this IC TOS through your account or via email and you agree that they will be considered received 24 hours after they are sent. You understand that you may not use the Contractor Services unless you consent to receive notices electronically. You may only withdraw consent to receive notices electronically by closing your Account. The use of certain Contractor Services will be limited if Users elect to not receive certain notices via text or SMS.
+
+17.4. You must maintain an updated web browser, and computer and mobile device operating systems to receive notices properly. You are responsible for all costs imposed by Internet or mobile service providers for sending or receiving notices electronically.
+
+17.5. You may email us at support@deel.com if you are or believe you are having problems receiving our notices.
+
+ 
+18. Miscellaneous
+
+18.1. Except as expressly stated in this IC TOS, this IC TOS constitutes the entire agreement between Deel and you with respect to the subject matter here, and supersedes all prior agreements and understanding, oral or written, with respect to such matter. 
+
+18.2. We reserve the right, in our sole discretion, to modify or replace this IC TOS at any time with notice to you. By continuing to access or use the Contractor Services after any revisions to this IC TOS become effective, you agree to be bound to the revised IC TOS. If you do not agree to the revised IC TOS, you are no longer authorized to use the Contractor Services. 
+
+18.3. If any provision of this IC TOS is held to be unenforceable, such provision shall be replaced with an enforceable provision which most closely achieves the effect of the original provision, and the remaining terms of this IC TOS shall remain in full force and effect. 
+
+18.4. We may assign or transfer our rights and obligations under this IC TOS to any third party without prior notice. If we are required to provide notice under this Section, we may provide such notice to the contact details you provided in your Account. You shall not assign or transfer any of your rights or obligations under this IC TOS, and any assignment shall be void. Deel’s or your failure to enforce any right or provision of this IC TOS will not be considered a waiver of those rights. 
+
+ 
+19. Feedback
+
+19.1. We welcome feedback, comments, and suggestions for improvements to the Contractor Services (“Feedback”). You acknowledge and expressly agree that your Feedback will not give or grant you any right, title, or interest in the Contractor Services or in any such Feedback. All Feedback will become the sole and exclusive property of Deel, and Deel may use and disclose all Feedback in any manner and for any purpose without further notice or compensation to you and without retention by you of any proprietary rights or other right or claim. You assign to Deel all rights, titles, and interests to any patent, copyright, trade secret, trademark, show-how, know-how, moral rights, and other intellectual property rights that you may have in the Feedback.
+
+ 
+20. Contact Us
+
+20.1. Our Customer Support Team is available 24/7 if you have any questions regarding the Contractor Services, your Account, or this IC TOS. You can contact our Customer Support Team by submitting a request at support@deel.com. 

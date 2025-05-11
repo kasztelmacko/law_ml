@@ -1,0 +1,100 @@
+1. Acceptance Of The Terms Of Service
+
+The following terms and conditions govern all use of CoSchedule.com and all subsidiary webpages (the “Site”), owned and operated by CoSchedule, LLC (“CoSchedule,” “Us,” “We,” or similar terms). By viewing or using the Site, you are agreeing to be bound by these web site Terms and Conditions of Use and other documents they expressly incorporate by reference (the “Agreement”), all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you (“User,” “You,” or similar terms) do not agree with any of the terms of the Agreement, you are prohibited from using or accessing this Site. The materials contained in the Site are protected by applicable laws including copyright and trademark law. This Agreement applies to You, any person or entity on whose behalf You are using the Site, as well as any person or entity who may obtain rights through You.
+2. Your CoSchedule Account Security
+
+To access the Site or some of the resources it offers, you may be asked to provide registration details. It is a condition of use of the Site that all the information you provide be correct, current and complete. If we believe the details are not correct, current, or complete, we have the right to refuse you access to the Site, or any of its resources, and to terminate or suspend your account. CoSchedule reserves the right to refuse registration of, or cancel a CoSchedule User in its discretion at any time, with or without notice.
+
+CoSchedule may change, suspend or discontinue the Site, in whole or in part, at any time, including the availability of any feature, database, or content. CoSchedule may also impose limits on certain features and services or restrict User's access to parts or all of the Site without notice or liability.
+
+User represents and warrants to CoSchedule that if User is an individual (i.e., not a corporation) User is at least 18 years of age. User also certifies that it is legally permitted to use the Site, and takes full responsibility for the selection and use of the Site. This Agreement is void where prohibited by law, and the right to access the Site is revoked in such jurisdictions.
+
+User shall be responsible for obtaining and maintaining any equipment or ancillary services needed to connect to, access the Site, including, without limitation, modems, hardware, software, and long distance or local telephone service. User shall be responsible for ensuring that such equipment or ancillary services are compatible with the Site.
+
+User shall be responsible for maintaining the confidentiality of User's CoSchedule password and other account information, and User agrees to accept responsibility for all activities that occur under your account or password. User may not assign or otherwise transfer your account to any other person or entity. You acknowledge that your account is personal to you and agree not to provide any other person with access to the Site using your information.
+3. Restriction
+
+User shall not, nor permit anyone else to, directly or indirectly: (i) reverse engineer, disassemble, decompile or otherwise attempt to discover the source code or underlying algorithms of all or any part of the Site (except that this restriction shall not apply to the limited extent restrictions on reverse engineering are prohibited by applicable local law); (ii) modify or create derivatives of any part of the Site; (iii) rent, lease, or use the Site for timesharing or service bureau purposes; or (iv) remove or obscure any proprietary notices on the Site. As between the parties, Company shall own all title, ownership rights, and intellectual property rights in and to the Site, and any copies or portions thereof.
+
+User shall not use any "deep-link", "page-scrape", "robot", "spider" or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Site or any Content, or in any way reproduce or circumvent the navigational structure or presentation of the Site or any Content, or to obtain or attempt to obtain any materials, documents or information through any means not purposely made available through the Site. CoSchedule reserves the right to bar any such activity.
+
+User shall not attempt to gain unauthorized access to any portion or feature of the Site, or any other systems or networks connected to the Site or to any CoSchedule server, or to any of the services offered on or through the Site, by hacking, password "mining", or any other illegitimate means.
+
+User shall not probe, scan or test the vulnerability of the Site or any network connected to the Site, nor breach the security or authentication measures on the Site or any network connected to the Site.
+
+User shall not take any action that imposes an unreasonable or disproportionately large load on the infrastructure of the Site or CoSchedule's systems or networks, or any systems or networks connected to the Site or to CoSchedule.
+
+User shall not use any device, software or routine to interfere or attempt to interfere with the proper working of the Site or any transaction being conducted on the Site, or with any other person's use of the Site.
+
+User shall not use the Site or any Content for any purpose that is unlawful or prohibited by this Agreement.
+4. Premium Services
+
+Optional premium paid services are available on the Site and governed by this Agreement and the End User License Agreement at
+
+By selecting a premium service you agree to pay CoSchedule the monthly or annual subscription fees indicated for that service. Payments will be charged on the day you sign up for a premium service and will cover the use of that service for a monthly or annual period as indicated. Premium service fees are not refundable.
+5. Termination
+
+CoSchedule may terminate your access to all or any part of the Site at any time, with or without cause, with or without notice, effective immediately. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+6. Links to Third-Party Websites
+
+The Site may contain links to other websites ("Linked Sites"). The Linked Sites are not under the control of us, and we are not responsible for the contents of any Linked Site, including without limitation any link contained in a Linked Site, or any changes or updates to a Linked Site. We provide these links to you only as a convenience only, and the inclusion of any link does not imply our endorsement of the site or any association with its operators.
+7. Intellectual Property Rights
+
+User agrees that the Site and all content and materials, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, made available by CoSchedule at the Site (collectively, "Content") are protected by copyrights, trademarks, service marks, patents, trade secrets or other intellectual property or proprietary rights and laws. The compilation of all Content on the Site is the exclusive property of CoSchedule and protected by U.S. and international copyright laws. All software used on (or provided through) the Site is the property of CoSchedule or its software suppliers and protected by United States and international copyright laws. CoSchedule’s names and logos, and all related product and service names, design marks and slogans are the trademarks or service marks of CoSchedule. You are not authorized to use any such trademark without our prior written consent. All other trademarks appearing on the Site are the property of their respective owners.
+
+We grant You a non-exclusive, non-transferable, limited license to access and use the information, documents, text, images, software, and other content and elements of the Site (collectively, the “Content”) solely in accordance with the Agreement. We may terminate the above license at any time for any reason. However, subject to these terms, User may view, print or download a reasonable number of copies of the materials or content at this Site for User's own informational purposes; provided, that User retain all copyright and other proprietary notices contained therein. Reproducing, copying or distributing any content, materials or design elements on the Site for any other purpose is strictly prohibited without the express prior written permission of CoSchedule.
+
+We also grant You a non-exclusive, non-transferable, limited license to access and use the information, documents, text, logos, and images of the Site (collectively, the “Review Content”) solely for the purpose of writing a review of the CoSchedule service of Site in accordance with the Agreement. We may terminate the above license at any time for any reason. Upon termination of the above license, User must immediately cease using, remove, and destroy all Review Content.
+
+Except as expressly authorized by CoSchedule in writing, if you sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from the Content, your license will terminate immediately, automatically, and without notice. Upon the termination of this license you must stop using the Site and Content, and return or destroy all copies, including electronic copies, of the Content in your possession or control. No right, title or interest in or to the Site or Content is transferred to you, and all rights not expressly granted are reserved by us.
+8. Changes
+
+CoSchedule reserves the right, at its sole discretion, to modify or replace any part of this Agreement, which changes will be posted on this page or a similar page of the Site. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Site following the posting of any changes to this Agreement constitutes acceptance of those changes. CoSchedule may also, in the future, offer new services and/or features through the Site (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.
+9.Passwords
+
+You are responsible for safeguarding the password that you use to access the Site and for any activities or actions under your password. We encourage you to use "strong" passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. CoSchedule cannot and will not be liable for any loss or damage arising from your failure to comply with the above.
+10. Warranties
+
+If User has a subscription with CoSchedule (a “Customer”), CoSchedule makes the following warranty to Customer: CoSchedule shall use commercially reasonable efforts consistent with prevailing industry standards to provide the services in a professional and workmanlike manner that is free of defects. Customer's sole remedy, and CoSchedule's exclusive liability, for defects in the service shall be for CoSchedule to use commercially reasonable efforts to promptly correct such defects.
+
+Customer represents and warrants that: (i) with respect to all information it provides to CoSchedule (such as, Recipient Information), Customer has the full right and authority to make such provision and to allow CoSchedule to use such information to provide the Service (including, without limitation, for CoSchedule to provide such information to its data providers), (ii) none of the content (e.g. emails) transmitted, uploaded or otherwise distributed by it (or its partners or any third party) through use of the Service will infringe or otherwise conflict with the rights of any third party.
+11. Warranty Disclaimer
+
+THE WEBSITE IS PROVIDED "AS IS". COSCHEDULE AND ITS SUPPLIERS AND LICENSORS HEREBY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. NEITHER COSCHEDULE NOR ITS SUPPLIERS AND LICENSORS, MAKES ANY WARRANTY THAT THE WEBSITE WILL BE ERROR FREE OR THAT ACCESS THERETO WILL BE CONTINUOUS OR UNINTERRUPTED. YOU UNDERSTAND THAT YOU DOWNLOAD FROM, OR OTHERWISE OBTAIN CONTENT OR SERVICES THROUGH, THE SITE AT YOUR OWN DISCRETION AND RISK.
+12. Limitation of Liability
+
+IN NO EVENT WILL COSCHEDULE, OR ITS SUPPLIERS OR LICENSORS, BE LIABLE WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR: (I) ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES; (II) THE COST OF PROCUREMENT OR SUBSTITUTE PRODUCTS OR SERVICES; (III) FOR INTERRUPTION OF USE OR LOSS OR CORRUPTION OF DATA. IN NO EVENT WILL COSCHEDULE, OR ITS SUPPLIERS OR LICENSORS, BE LIABLE FOR ANY AMOUNTS THAT EXCEED THE FEES PAID BY YOU TO COSCHEDULE UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTH PERIOD PRIOR TO THE CAUSE OF ACTION. COSCHEDULE SHALL HAVE NO LIABILITY FOR ANY FAILURE OR DELAY DUE TO MATTERS BEYOND THEIR REASONABLE CONTROL. THE FOREGOING SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+13. General Representation and Warranty
+
+You represent and warrant that (i) your use of the Site will be in strict accordance with the CoSchedule Privacy Policy at
+
+, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of the Site will not infringe or misappropriate the intellectual property rights of any third party.
+14. Privacy
+
+CoSchedule\'s current privacy policy is available at the Site (the "Privacy Policy"), which is incorporated by this reference. CoSchedule strongly recommends that you review the
+
+closely. You agree that we may use information and data as described in the Privacy Policy.
+15. Copyright
+
+All content included on the Site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of CoSchedule or its content suppliers and protected by United States and international copyright laws.
+16. Logo Permissions
+
+You grant CoSchedule the right to use your company name and logo in promotional material. If you need an exception to this, please send us an email before you sign up.
+17. Indemnification
+
+You agree to indemnify and hold harmless CoSchedule, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the Site, including but not limited to out of your violation this Agreement.
+18. Jurisdiction and Venue
+
+The Site is not targeted to users in any particular locality nor is it intended to constitute the doing of business in any jurisdiction. The Site does not constitute any contract with any jurisdiction outside the State of North Dakota. Use of the Site is prohibited in any jurisdiction having laws that would void the Agreement in whole or essential part or which makes accessing the Site illegal. The Agreement is entered into and performed in the State of North Dakota, United States of America and is governed by and shall be construed under the laws of North Dakota, exclusive of any choice of law or conflict of law provisions. In any claim or action directly or indirectly arising under the Agreement or related to the Site, each party irrevocably submits to the personal jurisdiction of the North Dakota State District Court sitting in Burleigh County, North Dakota or of the United States Court for the District of North Dakota. Each party waives any jurisdictional, venue or inconvenient forum objections to these courts. You agree that you shall pursue any claim against us in your individual capacity only, and you will not participate in any collective or so-called “class” action against CoSchedule.
+19. General Terms
+
+We may update the Site and Content from time to time, but the Content is not necessarily complete or up-to-date, and we are under no obligation to update such material. We also reserves the right at any time to modify or discontinue, temporarily or permanently, the Site (or any part thereof) with or without notice. You agree that we shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Site.
+
+You may not assign any rights or obligations under the Agreement without our prior written consent. We may assign all or part of the Agreement. If you violate any of the Agreement, your authorization to use our Site and all licenses granted herein terminate automatically.
+
+If any of the provisions of the Agreement are held unenforceable or overbroad by a court or other tribunal of competent jurisdiction, then those provisions shall be limited or eliminated to the minimum extent necessary to allow the remainder to retain its full force and effect. You agree to bring any and all claims within 12 months of the date on which such claim first arises; all claims not brought by you within such time period are waived. No waiver of any provision of this Agreement shall be deemed a further or continuing waiver of such term or condition or any other term or condition.
+
+The Agreement constitutes the sole and entire agreement between you and CoSchedule with respect to the Site and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Site.
+20. Contact Information
+
+You may contact us at the below contact information. You agree that we may provide any and all notices to you by e-mail, telephone, cell-phone, text message, as well as by any other method for which You have supplied contact information.

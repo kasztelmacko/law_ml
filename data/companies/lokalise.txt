@@ -1,0 +1,643 @@
+Welcome to Lokalise! We are glad that you are here, and we hope you enjoy everything we have to offer.  
+
+Please read these Terms carefully before accessing the Platform, because they contain important information about your rights and obligations while using Lokalise.  
+
+These Terms of Service (the “Terms”) govern access to, and use of, the Lokalise Platform and/or the Services by visitors to the Website, individuals or entities who create Accounts or purchase Subscriptions, and their Authorized Users. Hence, any persons being invited to a workspace set up by a Customer. Please see Section 1 “The Parties to these Terms” and Annex “Definitions” for details.  
+
+1. THE PARTIES TO THESE TERMS
+
+By using the Platform and/or Services, you as a Customer or Authorized User accept these Terms whether on behalf of yourself or a legal entity you represent. Customers and Authorized Users may be referred to in these Terms as “you” and “your” as applicable.
+
+When accepted by you (as defined below), these Terms form a legally binding contract between you and Lokalise.  
+
+By accepting these Terms, you are entering into a contract with Lokalise, Inc., a Delaware company with its registered address at: 3500 South DuPont Highway, Suite BZ-101, Dover, DE 19901, the USA (“Lokalise”, “we”, “us”).  
+
+Signing Up on behalf of a Legal Entity
+
+If you are entering into these Terms on behalf of an organization or entity (e.g., by using your corporate email domain), such as your employer or the company you work for, said organization or entity will be deemed to be the “Customer”. In this case, you agree that you have the legal authority to bind that entity and that the entity is duly incorporated and in good standing under any applicable law.  
+
+Signing Up in a Personal Capacity
+
+If your workspace is being set up by someone who is not formally affiliated with an organization, a Customer is an individual who paid for the Subscription. For example, if you signed up using a personal email address and invited a couple of friends to work on the localization of your startup materials, but haven't formed a company yet, you are the Customer.  
+
+In this case, you must be at least 18 years of age and have the full legal capacity to accept these Terms. Check out the limitations of minors accessing the Platform  here.  
+
+2. EXECUTION OF THESE TERMS
+
+By accessing the Platform and/or using the Services in any manner, you agree to the Terms and any other related Contracts. Once accepted, these Terms remain effective until terminated as provided for in Section 17 "Term and Termination".
+
+If you do not agree to the Terms or any other Contracts, you are not permitted to use our Services and you should not access the Platform.  
+
+If you do not understand these Terms, you are advised to seek independent legal advice or contact us with your questions at: hello@lokalise.com.   
+
+3. DEFINITIONS
+
+Any terms specified with a capital letter have a special meaning for the purposes of these Terms. If you see a word starting with a capital letter, please scroll to the Annex “Definitions” at the end of these Terms in order to clarify the meaning of a particular word and understand the entire context of any term and condition.  
+
+4. ACCESS TO THE PLATFORM
+
+Workspace Administration
+
+The Customer may exclusively provide us with instructions on the requested Services or assign and expressly authorize an Authorized User or Authorized Users as its agent to manage the Team’s Workspace (the “Team Owner”). The Team Owner may configure administration settings, assign access and use authorization, request different or additional Services, may provide access to a Team’s Workspace, enable or disable third party integrations, manage permissions, retention and export settings, transfer and re-assign roles on the Team’s Workspace and otherwise exercise its rights under these Terms.
+
+Team Owners
+
+The Customer may appoint an employee, agent or a third-party business partner, or contractor to act as its Team Owner or Team Owners, and may change their designation at any time through the Team Settings page.
+
+The Customer has ultimate authority to replace you as a Team Owner or remove you from the Team at its own discretion without any notice to you.  
+
+Access by Authorized Users
+
+During an active Subscription, adding more Authorized Users and assigning roles to them is fairly easy: an Authorized User who initially created the Team’s Workspace becomes an owner automatically, and invites all the other Authorized Users to the Team’s Workspace. All the other Authorized Users get an email invitation link from the ‘owner’ to join the Team’s Workspace.  
+
+Each Authorized User must agree to these Terms and all the other Contracts to activate their Accounts. Сheck out our Contracts for more information on setting up an Account and assigning roles on your Team’s Workspace.
+
+Since these choices and instructions may result in the access, use, disclosure, modification or deletion of certain or all Customer Data, we also ask you to carefully read our Privacy Policy.  
+
+5. PAYMENT TERMS  
+
+Ordering Subscriptions  
+
+A valid and activated Subscription allows the Customer’s Authorized Users to access the Platform and use the Services. The Subscription specifies the number of Authorized Users a Customer is allowed to connect to the Platform. A Subscription is generally purchased through the Website, unless we have agreed with you to execute an individual Order Form.
+
+The Subscription is automatically activated once we receive the Fees from the Customer. Your Subscription continues for the term specified in the “Billing”  page at your Team's Workspace or the term specified in the applicable Order Form.
+
+Fees  
+
+You are able to purchase a Plan, and you will be charged as described below. We offer a free Plan, and several Plans appealing to different types of Customers and their different requirements and wishes. Please visit our Pricing page for more details.
+
+The Fees for your Subscription depend on the selected Plan. Lokalise will not change the Fees for Customers during an existing Subscription term. However, Lokalise reserves the right to change the Fees for a particular Plan starting from a new billing cycle, provided Customers  have been given advance notice regarding the upcoming changes and right to terminate.
+
+All Fees, refunds and Taxes due hereunder will be paid in U.S. dollars. Payment obligations are non-cancelable and, except as expressly stated in these Terms, the Customer’s payments are non-refundable.
+
+Taxes
+
+The Fees stated are exclusive of any Taxes. The Customer will be responsible for paying all Taxes and charges made under a chosen Plan, except for those taxes based on our net income. Should any payment for the Services be subject to withholding tax by any government, the Customer will reimburse us for said withholding tax in full.
+
+Free Trial
+
+Lokalise offers a 14-day free trial. Once you sign up for a free trial, you get access to the Enterprise plan trial with the right to invite up to fifty (50) Authorized Users to join the Workspace(s) created. You can sign up and use Lokalise for a trial without entering your credit card details.
+
+At the end of a 14-day free trial, you will be able to continue using the Platform by switching to a paid Plan; otherwise, you will be downgraded to a Free Plan.  
+
+Your billing information will be required once you decide to upgrade to a paid Plan, unless we agree to invoicing of the Fees in a specific Order Form. Your first charge will occur on the date you accepted a paid Subscription by filling in billing information in your Account.  
+
+If we agree on invoicing of the Fees in the Order Form, you will pay the Fees by the date specified on the applicable invoice issued by Lokalise. Please note that execution of Order Forms is available only for Customers subscribing annually to either an Enterprise Plan, Essential Plan or a Pro Plan.
+
+Monthly Plan billing
+
+Lokalise’s monthly Plans provide month-to-month access, with monthly charges being paid on the same day of the month that you originally signed up for the Plan (“Renewal date”). Monthly Plans automatically renew every month, on the Renewal date, unless canceled 7 days before.If a Customer cancels the Subscription before the upcoming Renewal date, said Customer will have access to the Platform until the end of the paid Subscription.
+
+Please note that we do not provide Order Form or invoicing options to Customers using monthly Subscriptions.  
+
+Annual Plan billing
+
+Lokalise’s annual Plans provide year-to-year access and some savings compared to the month-to-month Plans. Annual Plans automatically renew every year on the Renewal day, unless canceled ninety (90) days before If a Customer cancels the Subscription before the upcoming Renewal date, said Customer will have access to the Platform until the end of the paid Subscription.
+
+Annual charges will be paid on each Renewal date, unless otherwise is agreed in your Order Form. In this case, fees will be charged on the dates specified in the Order Form.
+
+Customers that have executed Order Forms will be invoiced the Fees for each new billing cycle under the terms agreed in a specific Order Form.
+
+Failed charges. Suspension
+
+If the credit card you have on file is no longer valid or the billing information has changed, or if, for any reason, a charge is rejected, you will have to update your billing information on the Platform or provide us with details of a new payment account within a period of fourteen (14) calendar days after the initial charge has failed. Otherwise, we will suspend your access to the Platform
+
+If you are unable to update your Account with the appropriate billing information, you can request that Lokalise at support@lokalise.com send you an invoice detailing the outstanding Fees. If we agree to invoice a Customer by email, full payment must be received within ten (10) calendar days from the invoice date, unless otherwise agreed.  
+
+Please note that you will be automatically downgraded to a Free Plan after several failed attempts to charge your credit card, which might cause loss of some Customer Data.  
+
+We ask you to notify Lokalise in writing of any changes to your billing information or termination of any authorization at least five (5) calendar days prior to the immediately subsequent billing date.  
+
+Auto-Renewal. Cancellation policy. Refunds. Switching to another Plan 
+
+If You are a Customer with a credit card billing plan you have the right to cancel the Subscription before the Renewal date through the Team Settings page not later than either seven (7) days prior to monthly subscription or ninety (90) days prior to annual subscription unless null and void.
+
+If You are a Customer with invoicing billing plan you have the right to cancel Subscription before the Renewal date, the notification needs to be sent electronically to  support@lokalise.com not later than ninety (90) days prior unless null and void.
+
+Lokalise reserves a right to increase Fees upon Auto Renewal (both monthly and annually) and the Customer reserves a right to terminate a contract within 14 days upon receipt of the notification by sending a termination note to support@lokalise.com unless null and void.
+
+Once a Customer cancels the Subscription, no additional charges will be taken, and the Customer can use the Platform until the prepaid Subscription term expires. However, no refunds (prorated or otherwise) are provided upon cancellation. In the interest of fairness to all our customers, no exceptions will be made.
+
+If the Customer accidentally subscribed to an annual Plan instead of intention to subscribe for a monthly Plan, the Customer will have a right to claim request for a refund and change of a Plan to a monthly basis within 24 hours after the subscription was purchased.  
+
+If the Customer voluntarily downgrades or upgrades to another Plan, all the Fees prepaid but not used for the Services during the existing Subscription term will be offset against outstanding Fees of the newly elected Plan. Check out our Pricing  page for more information about payment options.
+
+If the Customer decides to increase the number of Authorised Users (seats) available per existing Subscription, he or she is charged (or invoiced) for the extra Fees as follows: extra Fees = the number of new seats * days left until the end of the billing cycle * seat price per day in that billing cycle.
+
+If the Customer decides to decrease the number of seats available per existing Subscription, he is not refunded or credited with any amounts, and the seat number stays the same as outlined in the active Subscription until the end of the billing cycle. Then, on the next billing date, the Customer will be charged (or invoiced) for the new seat count, and the Fees will be decreased per the Customer's request for a reduced number of seats.
+
+Customers that would like to switch Subscriptions from an annual to a monthly basis must contact us at: hello@lokalise.com, or via the in-app web support, for additional information. We will review each request on a case-by-case basis. Lokalise reserves the right to decline your application to change the annual billing cycle to a monthly one.
+
+The Customer acknowledges and agrees that a voluntary downgrade to another Plan will result in a decrease in certain features and functionality of the Platform, as illustrated by comparing the Plans in our Pricing page and potential loss of access to Customer Data.  
+
+Downgrade for Non-Payment
+
+If any Fees owed to us by the Customer (excluding amounts disputed reasonably and in good faith) are overdue by fourteen (14)  calendar days or more, we may, without limiting our other rights and remedies, at our sole discretion cancel the unpaid Subscription with immediate effect and downgrade said Customer to a Free Plan until those amounts are paid in full.  
+
+In the case of a downgrade to a Free Plan your Content will be available for editing by all Authorized Users in your Team. However, you will be restricted from Transferring your Content (i.e., the Export/API functionality won't be available) through the Platform until you pay the outstanding Fees and upgrade to a paid Plan.  
+
+In the event of the foregoing, Lokalise shall not be obligated to provide any and/or all of the Services until such Fees are paid in full. Your terminated Subscription may be reactivated if valid payment information is entered and the card can be successfully processed for all Fees accrued on said Subscription since the failed credit card charge.
+
+Payments for Translation Orders  
+
+Lokalise provides Customers with the opportunity to carry out translations of Customer Data by using translators available on the Platform. A Customer can define the scope of work and choose the languages that require a translation in order to receive an instant quote from the selected translation vendor.  
+
+Customers have the option to pay the quote immediately via the credit card linked to the Account. An alternative option is to top up the Account with Team credit and use this to pay for translation orders. In order to top up the Team credit, Customers can contact support@lokalise.com and specify the amount that needs to be topped up in their Account. Lokalise will issue an invoice for the specified amount and will top up the Customer's Team Credit once the invoice is paid or the proof of payment is provided to Lokalise.  
+
+Lokalise for Intercom  
+
+Lokalise provides a multilingual support live chat for Intercom users. You can use the Lokalise for Intercom app in the Intercom App Store to enable this Service. 
+
+Please note that use of the Lokalise for Intercom app is governed by these Terms. You will become bound by these Terms by accessing and using the Lokalise for Intercom app.  
+
+Lokalise for Intercom is free of charge for its users, except for the "Lokalise for Intercom Pro" plan. Please contact us at: support@lokalise.com or hello@lokalise.com if you would like to enable "Lokalise for Intercom Pro".  
+
+Lokalise Apps Available at Third-Parties’ Resources
+
+Please note that these Terms govern the use of Lokalise apps available at third-parties resources (e.g., online software stores, app stores, marketplaces). You will become bound by these Terms by accessing and using the Lokalise apps available at third-parties’ resources.
+
+6. OUR INTELLECTUAL PROPERTY
+
+Lokalise retains any and all intellectual property (IP) Rights, title and interest in and to the Platform and the Services, including all copies, modifications, extensions and derivative works thereof. Your right to use the Platform and/or the Services is limited to the rights expressly granted by the Our License set forth in these Terms. All rights not expressly granted to you are reserved and retained by Lokalise.
+
+Subject to your complete and ongoing compliance with all the Terms and conditions set forth in these Terms, we grant you the right (“Our License”) solely as necessary to access the Platform and use the Services pursuant to the following terms. Our License is:
+
+(a)  ‘Limited’ (meaning that you can only use the Platform and/or the Services for the purposes we have set out in these Terms as long as your Subscription is prepaid and in effect);  
+
+(b) ‘Non-exclusive’ (meaning that we can grant the same and similar licenses to other Customers as well);
+
+(c) ‘Non-transferable’ (meaning that the license is only for your benefit and you may not transfer any of the rights that we grant to you to any other person or entity);  
+
+(d) ‘Non-sublicensable’ (meaning that you also may not sublicense any of the rights that we grant to you to any other person, besides your Authorized Users);
+
+(e) ‘Revocable’ (meaning that we can terminate this License, for example if we downgrade you for non-payment);
+
+(f) ‘Worldwide’ (meaning the license is not limited by territory; the License applies worldwide unless the applicable law or the law of the country of your location forbids such licenses); and 
+
+(g) Conditional on your compliance with these Terms.
+
+Our License does not confer onto you any ownership interest and/or title in the Platform and/or the Services and/or any of Lokalise’s content, material and information.  
+
+If you are of the opinion that the Platform and/or the Services infringe upon your IP Rights or other rights, please contact Lokalise via hello@lokalise.com immediately.
+
+7. PROTECTION OF CUSTOMER DATA
+
+Lokalise respects your privacy and has established certain policies and procedures relating to the collection and processing of Customer Personal Data. Please, check our Privacy Policy to learn more about your rights, and our obligations and procedures applied to your Personal Data while you access the Platform and use the Services.
+
+We will ensure that all persons authorized to process Customer Personal Data on behalf of Lokalise have committed themselves to confidentiality, or are under an appropriate statutory obligation of confidentiality. We will maintain administrative, physical and technical safeguards for protection of the security, confidentiality and integrity of Customer Personal Data, as described in our Contracts.
+
+By Transferring Customer Personal Data to the Platform, you authorize us to process the Customer Personal Data for the purposes of providing the Services to you. Please see our Data Processing Addendum for details. 
+
+The Services may be performed using equipment or facilities located in the European Union and the United States. When processed outside the European Union, EU Personal Data will receive an adequate level of protection within the meaning of Article 46 of the EU Directive 95/46/EC (General Data Protection Regulation) from Lokalise and its service providers located outside the EU. Please see our Privacy Policy and our EU-U.S. and Swiss-U.S. Shield Policy for more details. 
+
+By agreeing to these Terms, you grant us a general authorization to engage sub-processors for the purposes of providing the Services. For more information about sub-processors, please see our List of Sub-processors and our Privacy Policy.
+
+Data Deletion
+
+Upon termination of these Terms or at any time upon written request of the Customer, Lokalise will erase the Customer Data upon the Customer’s request and according to its instructions. Lokalise may permanently erase Customer Data if the Customer’s account is: (1) a Free Plan and inactive for 60 calendar days or more; or (2) delinquent, suspended or terminated for 30 calendar days or more.
+
+No Guarantee of Accuracy
+
+You understand that all Customer Data Transferred through the Platform is the sole responsibility of the person from whom such Customer Data originated. You are solely responsible for determining the suitability of the Services for your business or organization and for complying with any Data Protection Laws applicable during the use of the Services.  
+
+Unless expressly stated herein or in the Contracts, Lokalise bears no responsibility for any Customer Data that is Transferred through the Platform, nor for any actions taken by the Customers or the Authorized Users as a result of said Customer Data.
+
+AI Functionality 
+
+You acknowledge that the Platform incorporates OpenAI technology and may incorporate other machine learning and artificial intelligence technology from time to time.  
+
+You acknowledge that due to the nature of the technology which powers the Platform which includes OpenAI tools and machine learning technology, Services delivered through the Platform may not be unique to the Customer.  If you and another third-party customer both provide the same language (such as a well-known quote, for example) for translation through our Platform, our Platform may generate the same or similar Content to you and to the other customer. 
+
+Cookies
+
+Cookies are files that web browsers place on a computer’s hard drive and they help us with things like understanding how users and visitors use a website, remembering a user’s login details, and storing website preferences. When you interact with the Platform, we strive to make that experience easy and meaningful. When you come to our Website, our web server sends a cookie or cookies to your computer; you are permitted to withdraw your consent and turn off cookies.  For more details, please see our Cookies Policy.
+
+Your Warranties related to the Customer Data
+
+We do not bear any liability or responsibility in relation to Customer Data, nor do we endorse any opinion contained in any of your Content.  
+
+You represent and warrant that you own, and/or have the necessary permissions to use and authorize use of the Customer Data as described in the Terms. Moreover, you represent and warrant that the Customer Data is legally unobjectionable and that it is virus-free.  
+
+You represent and warrant that you (and all the Authorized Users) will comply with any technical restrictions on the Platform that allow you to use the Services only in certain ways.  
+
+You further represent and warrant that you have all right, title and interest in the Content and the Content will not infringe upon any third party’s rights, including copyright.
+
+Your Permissions to Us
+
+We may need your permission to do the things you ask us to do with Customer Data, for example, hosting your uploaded files. This includes product features visible to you, for example, translations previews. It also includes design choices we make to technically administer our Services, for example, how we redundantly backup data to keep it safe.
+
+You give us the permissions we need to do those things solely to provide the Services. This permission also extends to trusted third parties with whom we work to provide the Services, for example Amazon S3, which provides our storage space.
+
+The Customer (for itself and all of its Authorized Users) grants Lokalise the right to use Customer Data solely as necessary (a) to provide, maintain, improve, promote, protect and update the Services and the Platform; (b) to prevent or address service, security, support or technical issues related to the Services and the Platform; (c) as required by law or as permitted by our Privacy Policy; or (d) as expressly permitted in writing by the Customer.  
+
+Your License to Us
+
+These Terms do not grant us any IP Rights to your Content. You own any Content Transferred through the Platform.  
+
+You (for yourself and all of your Authorized Users and/or its end-users), however, give us permission to use the Content in the ways necessary to provide, improve, promote and protect our Services and the Platform (“Your License”). Your License is:
+
+(a) ‘Limited’ (meaning that you can only use your Content for the purposes we set out in these Sections of the Terms as long as these Terms are in effect);  
+
+(b) ‘Non-exclusive’ (meaning that you can grant the same and similar licenses to other persons as well);
+
+(c) ‘Non-transferable’ (meaning that the license is only for our benefit and we may not transfer any of the rights that you grant to us to any other person or entity except as provided herein and in our Privacy Policy);  
+
+(d) ‘sublicensable’ (meaning that we may sublicense the rights that you grant to us, but only in order to perform our Services;
+
+(e) ‘Irrevocable’ (meaning that you cannot terminate this License as long as these Terms are in effect);
+
+(f) ‘Worldwide’ (meaning the license is not limited by territory); and  
+
+(g) Conditional on your compliance with these Terms;
+
+Your License gives Lokalise rights to access, use, process, host, store, reproduce, copy, modify, distribute, communicate, perform, export, display and create derivative works of your Content (such as those resulting from translations, adaptations or other changes we make so that your Content works better with the Services and/or the Platform).
+
+You grant Lokalise a consent to use your Content to improve or train our Platform,  elements of our Platform, or elements of new or existing Services, including any elements which incorporate or build upon artificial intelligence (“Consent”).  The Consent does not allow  third parties including OpenAI to use your Content to improve or train their AI models. You can withdraw a Consent by sending us an email to support@lokalise.com. Please be advised that withdrawing your consent will disable you to use AI powered features.
+
+This Section does not affect any rights the Customer and/or his Authorized Users and/or end-users may have under any applicable Data Protection Laws.
+
+Usage Data 
+
+We may generate and use technical logs, data, and learnings about your use of the Platform, Customer Data in aggregate, de-identified or anonymized form (the “Usage Data”) to operate, improve, analyze and support the Platform and/or the Services and for other lawful business purposes.  We might use Customer Data without de-identification, aggregation, and anonymization for troubleshooting purposes and analytical purposes to improve the Services and/or the Platform to the benefit of the Customer.
+
+Prohibited Content  
+
+You (and all of your Authorized Users) agree that you will not under any circumstances Transfer to the Platform any Customer Data (including software, text, images or other information) that:
+
+(a) Is unlawful and/or promotes unlawful activities;
+
+(b) Defames, harasses, abuses, threatens or incites violence towards any individual or group;
+
+(c) Is pornographic, discriminatory and/or otherwise victimizes and/or intimidates an individual and/or group on the basis of religion, gender, sexual orientation, race, ethnicity, age and/or disability;
+
+(d) Is spam, is machine- or randomly-generated, constitutes unauthorized or unsolicited advertising, chain letters, any other form of unauthorized solicitation and/or any form of lottery and/or gambling;
+
+(e) Contains any Sensitive Information;  
+
+(f) Contains and/or installs any viruses, worms, malware, Trojan horses and/or other content that is designed or intended to disrupt, damage and/or limit the functioning of any software, hardware, and/or telecommunications equipment and/or to damage and/or obtain unauthorized access to any data and/or other information of any third party;
+
+(g) Infringes upon any proprietary rights of any party, including patent, trademark, trade secret, copyright, right of publicity and/or other rights;
+
+(h) Impersonates any person or entity, including any of our employees or representatives; and/or
+
+(i) Violates the privacy of any third party (collectively the “Prohibited Content”).
+
+We are not obligated to pre-screen, monitor or filter any Customer Data in order to discover any unlawful nature therein. However, if such Customer Data or the action of its unlawful processing is discovered or brought to our attention or if there is reason to believe that certain Customer Data is deemed to be Prohibited Content, we have the right (but not the obligation) to:
+
+(a) Notify the Customer of such Prohibited Content;
+
+(b) Demand that the Customer bring the Prohibited Content into compliance with these Terms, the Contracts (as applicable) and any applicable law;
+
+(c) Temporarily or permanently remove the Prohibited Content from the Platform, restrict access to it or erase it with or without notice to the Customer;  
+
+(d) Terminate these Terms and other Contracts with immediate effect;
+
+(e) Suspend or stop providing our Services to you;
+
+(f) Block you from accessing the Platform.  
+
+Your End-User Personal Data and Content
+
+We do not knowingly process or collect any Sensitive Information. You shall be responsible for ensuring that any Personal Data relating to yourself or your end-users is Transferred to the Platform in compliance with any applicable Data Protection Laws. You shall be solely liable for any and all liabilities arising from or relating to end-user Personal Data and end-user generated Content.
+
+8. USER’S RESTRICTIONS  
+
+The Customer (and all its Authorized Users) shall use Lokalise in compliance with all applicable laws, these Terms and the Contracts (as applicable). The Customer (and all of its Authorized Users) is prohibited from:
+
+(a) Modifying and/or making derivative works of, disassembling, extracting, reverse compiling and/or reverse engineering the source code or any part of the Platform;  
+
+(b) Reselling, offering, selling, renting, leasing, distributing, assigning and/or otherwise commercially exploiting the Services and/or the Platform for any purposes, in whole or in part, except where specifically permitted by Lokalise;  
+
+(c) Using and/or accessing the Services and/or the Platform in order to (i) monitor the availability, performance or functionality of the Platform, (ii)  build a similar and/or competitive website, platform, product, large scale language model and/or service; or (iii) for other benchmarking or competitive purposes.
+
+(d) Framing or otherwise incorporating the Platform or the Services, or any part of Platform, as part of another website or service;
+
+(e) Removing and/or destroying any copyright notices and/or other proprietary markings contained in the Platform;
+
+(f) Taking any action that imposes or may impose (as determined by us in our sole and absolute discretion) an unreasonable and/or disproportionately large load on Lokalise’s and/or our third-party providers’ infrastructure;
+
+(g) Accessing the Platform by any other means than through Website provided by Lokalise;  
+
+(h) Providing Platform passwords or other login information to any third party other than Authorized Users;  
+
+(j) Making the functionality of the Platform available to multiple users, above the number of the Authorized Users and/or above the number of monthly active users under a software development kit (the "SDK GB") agreed in your Plan;
+
+(k) Exceeding any other allowances (e.g., hosted keys) above the number in the agreed Plan;  
+
+(l)  Promoting and/or providing information about illegal activities and/or physical harm and/or injury to any group, individual, institution and/or property or otherwise using the Platform in a way that infringes, misappropriates or violates any person’s rights; 
+
+
+ 
+
+(m) Save to the extent that you opt to have Lokalise Services solely performed by human linguists, misleading any person that Content from the Services was solely generated by human activity and effort; 
+
+
+ 
+
+(n) Using the Platform in a manner which violates the OpenAI Terms of Use including the Sharing & Publication Policy and Usage Policies all of which are available at the OpenAI.com website from time to time; and 
+
+(o) Transferring through the Platform any Prohibited Content described in section 7 above.  
+
+If we find or suspect that you have violated any user restrictions contained in this Section of the Terms, we have the sole discretion (the right but no obligation) to terminate these Terms and all the other applicable Services, and/or to suspend or stop providing the Services to you, and/or block you from accessing the Platform, without prejudice to any other remedies Lokalise will be entitled to under any applicable law. We also reserve the right to claim any damages or losses that we incur as a result of your violations of user restrictions. We also reserve the right to contact any law enforcement authorities in order to assess the liability of the persons involved.
+
+9. THIRD-PARTY SITES, PRODUCTS AND SERVICES
+
+Our Platform may include links to other third party applications, websites, products and services that could be integrated with our Services (the “Integrated Products”) solely as a convenience to our Customers. These Integrated Products may have their own terms and conditions of use and privacy policies and your use of these Integrated Products will be governed by and subject to their documentation.
+
+These are not our Services, so we do not endorse any Integrated Products, and, are not responsible or liable for the behavior, features or content of any Integrated Products, and ultimately the Customer (and not Lokalise) will decide whether or not to enable them.  
+
+Furthermore, Lokalise makes no express or implied warranties with regard to the information, material, products or services that are contained on or accessible through Integrated Products. Any access or use of an Integrated Product is solely at your own risk, directly governed between you and the applicable third-party provider.
+
+If an Integrated Product is enabled for a Team’s Workspace, please be mindful of any Customer Data that will be shared with the third-party provider and the purposes for which the provider requires access. We will not be held responsible for any use, disclosure, modification or deletion of Customer Data that is transmitted to, or accessed by, an Integrated Product. Check out our Privacy Policy for more information.
+
+10. CONFIDENTIALITY
+
+Confidential Information
+
+“Confidential Information” means (a) for Lokalise: the Lokalise Services; (b) for the Customer: Customer Data; (c) any other information relating a party that is disclosed in writing or orally and is designated as confidential or proprietary at the time of disclosure (and, in the case of oral disclosures, summarized in writing within ten (10) calendar days of the initial disclosure and delivered to the recipient), or that due to the nature of the information the recipient would clearly understand it to be confidential information of the disclosing party; and (d) the specific terms and conditions of these Terms, and any amendment and attachment thereof, agreed between Lokalise and a Customer in writing. 
+
+Confidential Information shall not include any information that: (a) was or becomes generally known to the public through no fault or breach of these Terms by the recipient; (b) was rightfully in the recipient’s possession at the time of disclosure without restriction on use or disclosure; (c) was independently developed by the recipient without use of the disclosing party’s Confidential Information; or (d) was rightfully obtained by the recipient from a third party not under a duty of confidentiality and without restriction of use or disclosure. All information provided to Lokalise that is not Confidential Information will be treated in accordance with our Privacy Policy.
+
+Restricted Use and Nondisclosure
+
+During and after the Subscription Term, the party receiving Confidential Information will: (a) use the Confidential Information of the other party solely for the purpose for which it is provided; (b) not disclose such Confidential Information to a third party, except on a need-to-know basis to its attorneys, auditors, consultants and service providers who are under confidentiality obligations at least as restrictive as those contained herein; and (c) protect such Confidential Information from unauthorized use and disclosure to the same extent (but using no less than a reasonable degree of care) that it protects its own Confidential Information of a similar nature. Notwithstanding the foregoing, the Customer expressly authorizes Lokalise to use and process the Customer Data as described in our Privacy Policy.  
+
+Required Disclosure
+
+If Lokalise is required by law to disclose Confidential Information, Lokalise will give prompt written notice to the Customer before making the disclosure, unless prohibited from doing so by the legal or administrative process, and assist the Customer to obtain, where reasonably available, an order protecting the Confidential Information from public disclosure.
+
+11. SERVICE LIMITATIONS AND MODIFICATIONS
+
+Lokalise will not modify the functionality (e.g., tools, functions and features) of the Platform agreed with Customers per existing Subscriptions. However, Lokalise reserves the right to change the functionality of the Platform available under a specific Plan.  
+
+Any of these changes will be made for the Customer starting from a new Subscription period after the expiration of the current billing cycle, provided prior notice of upcoming changes in the functionality of the Platform available under a specific Plan has been given.  
+
+Lokalise will make commercially reasonable efforts to keep the Platform and Services operational. However, certain technical difficulties or maintenance may, from time to time, result in temporary interruptions.
+
+To the extent permissible under any applicable law, Lokalise reserves the right at any time to modify or discontinue, temporarily or permanently, the functionality of the Platform and/or the Services for any technical or operational reasons that might adversely affect our Customers.  
+
+Such changes to the Platform and/or the Services might be made, depending on the circumstances, with or without notice and without liability to you for any interruption, modification, or discontinuation of the Platform and/or Services or any functionality thereof, except where prohibited by law.
+
+You understand, agree and accept that Lokalise has no obligation to maintain, support, upgrade, or update the Platform or Service, or to provide all or any specific content or information through the Platform. This section will be enforced to the extent permissible by any applicable law.
+
+Please note, that current status of Lokalise’s system metrics can be tracked by visiting our Status page.
+
+12. DISCLAIMERS
+
+EXCEPT AS EXPRESSLY PROVIDED FOR HEREIN, THE SERVICES AND ALL RELATED COMPONENTS AND INFORMATION ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT ANY WARRANTIES OF ANY KIND, AND WE EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU AGREE THAT USE OF THE SERVICES AND ALL RELATED COMPONENTS AND INFORMATION IS AT YOUR SOLE RISK.  YOU ACKNOWLEDGE THAT WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE.  TO THE EXTENT YOUR JURISDICTION IMPOSES MANDATORY LAW THAT DOES NOT ALLOW LIMITATIONS ON WARRANTIES, THIS LIMITATION MAY NOT APPLY TO YOU.
+
+13. INDEMNIFICATIONS  
+
+Your Indemnification of Lokalise
+
+The Customer (itself and on behalf of its Authorized Users) will indemnify, defend, and hold harmless Lokalise and its Affiliates, sub-contractors, agents, licensors, content providers and services providers and their current and past directors, officers and employees (the “Lokalise Indemnified Persons”) from and against any and all third party claims, actions, suits, proceedings, and demands arising from or related to Customer’s or any of its Authorized Users’ access of the Platform and/or use of the Services in violation of these Terms, including, but not limited to, any claims related to any infringement of (i) the third party IP rights; and/or (ii) breach (violation) of any applicable Data Protection Laws (each individually referred to as a “Claim Against Us”), and will indemnify the Lokalise Indemnified Persons for any and all resulting loss, damages, judgments, awards, costs and all reasonable attorney’s fees incurred or finally awarded against the Lokalise Indemnified Persons in connection with or as a result of, and for amounts paid by the Lokalise Indemnified Persons under a settlement the Customer approves of in connection with, a Claim Against Us.  
+
+Lokalise must provide the Customer with prompt written notice of any Claim Against Us and allow the Customer the right to assume the exclusive defense and control, and cooperate with any reasonable requests assisting the Customer’s defense and settlement of such a matter. This section states your sole liability with respect to, and the Lokalise Indemnified Parties’ exclusive remedy against the Customer for, any Claim Against Us.
+
+Our Indemnification of Customer
+
+Lokalise will indemnify, defend, and hold harmless the Customer and its Authorized Users, current and past directors, officers and employees from and against any and all third party claims, actions, suits, proceedings, and demands alleging that the use of the Platform and/or the Services as permitted under the Terms infringes upon or misappropriates a third party’s IP rights (an “IP Claim Against Customer”), and will indemnify the Customer for all reasonable attorney’s fees incurred and damages and other costs finally awarded against the Customer in connection with or as a result of, and for amounts paid by the Customer under a settlement Lokalise approves of in connection with, an IP Claim Against Customer; provided, however, that Lokalise will have no liability if a Claim Against Customer arises from (a) Customer Data or Integrated Products; and (b) any modification, combination or development of the Platform that is not performed by us, including in the use of any application programming interface (the "API").  
+
+The Customer must provide us with prompt written notice of any IP Claim Against Customer and allow us the right to assume the exclusive defense and control, and cooperate with any reasonable requests assisting our defense and settlement of such a matter. This section states our sole liability with respect to, and Customer’s exclusive remedy against us for, any IP Claim Against Customer.
+
+Limitations on Indemnifications
+
+The party seeking indemnification will promptly notify the other party of the claim and cooperate with the other party in defending the claim. The indemnifying party has full control and authority over the defense, except that: (a) any settlement requiring the party seeking indemnification to admit liability or to pay any money will require that party's prior written consent, such consent is not to be unreasonably withheld or delayed; and (b) the other party may join in the defense with its own counsel at its own expense.  
+
+14. LIMITATIONS OF LIABILITY  
+
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO RECOVER DAMAGES FROM US.
+
+Independent Allocations of Risk
+
+The limitations under this “Limitations of Liability” Section apply with respect to all legal theories, whether in contract, tort or otherwise, and to the extent permitted by any applicable law.  
+
+Each provision of these Terms that provides for a limitation of liability, disclaimer of warranties, or exclusion of damages represents an agreed allocation of the risks of these Terms between the parties. This allocation is an essential element of the basis of the bargain between the parties. Each of these provisions is severable and independent of all other provisions of these Terms, and each of these provisions will apply even if the warranties in these Terms have failed of their essential purpose.  
+
+Limitation on Indirect Liability
+
+Neither party will be liable under these Terms for diminution in value, lost profits or revenues or indirect, special, incidental, consequential, exemplary, or punitive damages, even if the party knew or should have known that such damages were possible and even if direct damages are not a satisfactory remedy.  
+
+Limitation on Amount of Liability
+
+Lokalise’s maximum aggregate liability to the Customer for damages of any kind that the Customer suffers in connection with access to the Platform and/or use of the Services is limited to the amount paid by the Customer to Lokalise in connection with the Services in the twelve (12) month period immediately preceding the date of the last event giving the rise to the liability. This limitation shall apply whether an action is in contract or tort and regardless of the theory of liability.
+
+Specific Exceptions from Liability
+
+Lokalise shall have no responsibility for the legitimacy and/or accuracy of your Content, IP rights claims related to, or arising from, your Content; or any Transfers of Sensitive Information. 
+
+Lokalise has no responsibility and/or liability for any scheduled or unscheduled downtime or unavailability of the Platform and/or the Services for any reason whatsoever.
+
+Lokalise shall have no responsibility for unauthorized access to your Lokalise account(s), and/or automatic forwarding of Customer Data and/or viruses of any kind.
+
+15. FEEDBACK
+
+The more suggestions our Customers make, the better Lokalise Services become. If a Customer sends us any Feedback regarding the Services, there is a chance we will use it, so the Customer grants us (for itself and all of its Authorized Users and other Customer personnel) an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to use any such feedback or suggestions for any purpose without any obligation or compensation to Customer, any Authorized User or other Customer personnel. In particular, we have rights to incorporate, publish, reproduce, distribute, modify, adapt, prepare derivative works of, publicly display, publicly perform, exploit and use your Feedback for any purpose.
+
+If we choose not to implement your Feedback, please don’t take it personally. We appreciate it nonetheless.
+
+We shall further have the right to modify or remove any Feedback provided in the public areas of the Platform if we deem it, at our discretion, to be harmful, offensive, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, invasive of another’s privacy, hateful or otherwise unlawful.
+
+16. DISPLAY OF LOGOS
+
+You grant Lokalise a limited non-transferable right, which is freely revocable at any time by giving written notice to: legal@lokalise.com to use your logo and other corporate identifiers on a royalty-free basis worldwide in any marketing, sales, public relations materials and other communications solely to identify you as our customer. Lokalise hereby grants to you a limited non-transferable right to use Lokalise's logo on a royalty-free basis worldwide solely to identify Lokalise as the Services provider to you. Any of us using the other’s logo shall include a trademark attribution notice giving notice of the other party’s ownership of its trademarks in the marketing materials in which the other party’s name and logo appeared.
+
+17. TERM AND TERMINATION
+
+Term
+
+These Terms will continue to apply to you until occurrence one of the following events: (a) the Terms have been terminated by Lokalise or the Customer; (b) the Subscription ordered under the Terms has expired or has been cancelled; (c) the Terms themselves expire.  
+
+Please check our Privacy Policy for details about Personal Data retention procedures at Lokalise.  
+
+Termination by Customer
+
+The Customer has the right to terminate these Terms and cancel the Subscription with or without cause; no further notice to us is required. Termination without cause shall be excluded in a multi-year fixed-term Subscription. 
+
+If the Terms are terminated by a Customer for a cause (i.e., in the case of our breach of the Terms), we will refund the Customer for any prepaid Fees covering the remainder of the term of the Subscription in effect.
+
+Termination by Lokalise  
+
+Lokalise may terminate the Terms, suspend Customer’s access to the Platform and Services and/or cancel the Subscription with immediate effect, if we reasonably believe that:
+
+(a) the Services and/or the Platform are being used by the Customer in violation of any applicable law;  
+
+(b) there is actual or suspected unauthorized use of the Platform and/or the Services from your side;  
+
+(c) there is a  material breach of these Terms or any other Contracts by the Customer;  
+
+(d) the Customer's access to the Platform and services is regarded by Lokalise as a risk to its commercial activities or reputation.
+
+The Customer is responsible for its Authorized Users being compliant with the Terms and any applicable law. Any breach of these Terms caused by an Authorized User when accessing the Platform and/or using the Services will be deemed as a breach by the Customer itself.  
+
+If Lokalise terminates the Terms or suspends your access to the Platform or the Services for any of the reasons set forth in this Subsection “Termination for Cause”, you agree that Lokalise shall have no liability or responsibility to you.  
+
+Lokalise will not refund any Fees that you have already paid, to the fullest extent permitted under applicable law. You will pay any unpaid Fees covering the remainder of the term of the Subscription in effect.
+
+If Lokalise decides to terminate these Terms without cause, a written notice will be served to an email address associated with the Customer at least three (3) calendar days before the termination date. The Customer whose Subscription has been terminated by us without cause will have the right to claim refunds for prepaid but unused Services in the Subsection "Auto-Renewal. Cancellation policy. Refunds. Switching to another Plan".  
+
+Effect of Termination
+
+Upon termination of these Terms Lokalise shall deactivate the Account within six (6) months of the effective date of termination of these Terms. If the Customer has specifically requested an earlier deactivation or deletion of the Account, Lokalise shall fulfill said request within one (1) month of its receipt of said request.
+
+Upon termination of these Terms the Customer shall: (a) stop using and prevent the further access to the Platform and/or usage of the Services; (b) pay any Fees owed to Lokalise under these Terms; and (c) discharge any liability incurred by the Customer under these Terms prior to their termination.
+
+18. CHANGES TO THESE TERMS
+
+We reserve the right to revise, add, delete, change, update or otherwise modify (the “Change”) all or any part of these Terms and other Contracts at our sole and absolute discretion.  
+
+The most up-to-date version will always be posted on our Website, so please check and review the Terms frequently to remain informed of any changes. We will also amend the “Last Updated” date at the beginning of the Terms once such Changes have been made.  
+
+We will notify all the Customers (via the email address associated with the Customer) on the upcoming material Changes to these Terms. This will exclude any non-material Changes (e.g., corrections to misprints, typos, clerical errors, clarifications, unimportant changes, etc.).  
+
+By continuing to access the Platform and/or use the Services after any Changes to the Terms become effective, you agree to be bound by the revised Terms. The then-current version of the Terms will supersede all earlier versions.  
+
+If you do not agree to the updated Terms, please stop accessing the Platform and/or using the Services after the effective date of the Changes (i.e., “Last Updated” date at the beginning of the Terms).  
+
+19. APPLICABLE LAW, MANDATORY ARBITRATION, WAIVER OF CLASS ACTIONS  
+
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION CLAUSE SET FORTH HEREIN, YOU AGREE THAT DISPUTES BETWEEN YOU AND LOKALISE WILL BE RESOLVED BY MANDATORY ARBITRATION AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT AND/OR CLASS-WIDE ARBITRATION.
+
+Initial Dispute Resolution
+
+Most disputes can be resolved without resorting to arbitration. If you have any dispute with us, you agree that before taking any formal action you will contact us at: hello@lokalise.com and provide a brief, written description of the dispute and your contact information. Except for claims related to or arising from the IP Rights or violation of any applicable Data Protection Laws, You and Lokalise agree to use reasonable efforts on both sides to settle any dispute, claim, question, or disagreement directly through consultation with Lokalise, and good faith negotiations shall be a condition to either party initiating a lawsuit or arbitration.
+
+Binding Arbitration
+
+If we do not reach an agreed-upon solution within a period of fifty (50) calendar days from the time informal dispute resolution is initiated under the Initial Dispute Resolution provision above, either of us may initiate binding arbitration as the sole means to resolve claims as set forth below.  
+
+Specifically, all claims arising out of or relating to these Terms, the parties' relationship with each other, and/or your use of the Platform and/or the Services shall be finally settled by binding arbitration administered by JAMS in accordance with the JAMS Streamlined Arbitration Procedure Rules for claims that do not exceed $250,000 and the JAMS Comprehensive Arbitration Rules and Procedures for claims exceeding $250,000 in effect at the time the arbitration is initiated, excluding any rules or procedures governing or permitting class actions.
+
+Arbitrator’s Powers
+
+The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of these Terms, including but not limited to any claim that all or any part of these Terms is void or voidable, whether a claim is subject to arbitration or the question of waiver by litigation conduct. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be written and shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
+
+Filing a Demand
+
+ To start an arbitration, you must do the following: (a) Write a Demand for Arbitration that includes a description of the claim and the amount of damages you seek to recover (you may find a copy of a Demand for Arbitration at www.jamsadr.com); (b) Send three copies of the Demand for Arbitration, plus the appropriate filing fee, to JAMS, Two Embarcadero Center, Suite 1500, San Francisco California 94111; and (c) Send one copy of the Demand for Arbitration to us at: hello@lokalise.com  
+
+Fees & Costs
+
+If your claim(s) total is less than US $5,000.00, then: (a) you may choose whether your participation in the arbitration will be conducted on the basis of documents provided to the arbitrator, through a telephonic hearing or by an in-person hearing; (b) you will cover yourself all filing fees, attorney’s fees and other costs. You are responsible for your own attorneys' fees unless the arbitration rules and/or applicable law provide otherwise.
+
+No Jury Trial
+
+The parties understand that, absent this mandatory arbitration section, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+Venue
+
+Arbitration shall be initiated and take place in San Francisco, California, the United States of America, and you and Lokalise agree to submit to the personal jurisdiction of any federal or state court in the State of Delaware, in order to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+
+Class Action Waiver
+
+The parties further agree that the arbitration shall be conducted in the party’s respective individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND LOKALISE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.  
+
+Exception: Litigation of Intellectual Property
+
+Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring enforcement actions, validity determinations, or claims arising from or relating to theft, piracy, or unauthorized use of intellectual property in any state or federal court with jurisdiction or in the U.S. Patent and Trademark Office to protect its IP rights.  
+
+Governing Law & Venue
+
+These Terms will be interpreted, construed, and enforced in all respects in accordance with the local laws of the State of Delaware, U.S.A., without reference to its choice of law rules to the contrary.  
+
+Notwithstanding our agreement to mandatory arbitration, either party may seek any interim or preliminary injunctive relief, restraining order from a court of competent jurisdiction in the State of Delaware, as necessary to protect the party's rights or property pending the completion of arbitration. The Customer and Lokalise submit to the exclusive jurisdiction of, and venue in, any federal or state court of competent jurisdiction located in the State of Delaware, U.S.A.
+
+20. MISCELLANEOUS  
+
+Sanctions and Export Policy
+
+You may not access the Platform and/or any Services if you are the subject of U.S. sanctions or of sanctions consistent with U.S. law imposed by the governments of the country where you are using the Platform or the  Services. You must comply with all U.S. or other export and re-export restrictions that may apply to the Platform and the Services.
+
+Entire Agreement. Conflict
+
+Unless otherwise agreed to by Lokalise and you in writing, the Terms and the applicable Contracts constitute the entire agreement between Lokalise and you concerning the subject matter hereof.
+
+Severability
+
+If any part of the Terms is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of the Terms and/or any breach thereof, in any one instance, will not waive such term and/or condition or any subsequent breach thereof.
+
+Assignment
+
+You may not assign your rights under the Terms to any other party without Lokalise’s express prior written consent; Lokalise may assign its rights under the Terms without any notice to any of its Affiliates. These Terms will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
+
+Force Majeure
+
+Except for payment obligations, neither Lokalise nor you will be liable by reason of any failure or delay in the performance of any obligations on account of events beyond the reasonable control of a party, which may include denial-of-service attacks, malware attacks, a failure by a third party hosting provider or utility provider, shortages, riots, fires, acts of God, war, strikes, terrorism, and governmental action.
+
+Survival
+
+All provisions of the Terms, which by their nature should survive termination of these Terms, shall survive such termination, including, without limitation, Sections 6, 7, 10, 12, 13, 14, 15, 17, 19 and 20.
+
+No Waiver
+
+No waiver by either you and/or Lokalise of any breach and/or default and/or failure to exercise any right allowed under the Terms is a waiver of any preceding and/or subsequent breach and/or default and/or a waiver and/or forfeiture of any similar and/or future rights under these Terms.
+
+Beta Trials
+
+If You are offered or receive access to a Service or features on a free or trial basis, or as an alpha, beta, experimental, pre-release or early access offering (collective, "Betas"), Your use is limited to internal evaluation only and restricted to the time period designated by Lokalise (or if not designated, no more than 30 days).  Your use of or access to Betas is purely optional. YOU HEREBY ACKNOWLEDGES THAT BETAS MAY BE INOPERABLE, INCOMPLETE, CONTAIN BUGS OR INCLUDE FEATURES THAT DON’T WORK AND ACCESS TO OR USE OF ANY BETA IS AT YOUR OWN RISK, WITHOUT ANY WARRANTY OR GUARANTEE, AND ARE PROVIDED “AS-IS” ONLY.  IF YOU ARE NOT COMFORTABLE WITH THESE TERMS, DO NOT USE OR ACCESS THE SERVICE OR FEATURE IN BETA. ALSO BE AWARE THAT LOKALISE MAY TERMINATE OR SUSPEND ACCESS TO OR USE OF ANY BETA SERVICE OR FEATURE AT ANY TIME WITHOUT NOTICE, AND LOKALISE MAY NEVER RELEASE A BETA SERVICE OR FEATURE, IN ITS SOLE DISCRETION. IN ALL CASES AND NOTWITHSTANDING ANYTHING ELSE TO THE CONTRARY, YOU HEREBY UNCONDITIONALLY UNDERSTANDS AND AGREES THAT LOKALISE’S AGGREGATE LIABILITY WITH REGARD TO ANY BETA SERVICE OR FEATURE WILL NOT EXCEED US$50.
+
+Contact
+
+If you would like to request additional information regarding the Terms, any Contracts or for any questions regarding a commercial relationship with Lokalise, please contact us at: hello@lokalise.com.  
+
+ANNEX “Definitions”  
+
+“Account” means the primary virtual part of the Platform designated for accessing the Platform for any Authorized User. 
+
+“Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. “Control,” for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+
+“Authorized User” means an individual natural person, whether an employee, business partner, contractor, or agent of a Customer who is registered or permitted by the Customer to access a Team’s Workspace and/or use the Services subject to these Terms and the applicable Plan.  
+
+"Change" and cognates means  revise, add, delete, change, update or otherwise modify.
+
+“Content” means information, including but not limited to, files, folders, strings of text, texts, design layouts, source code, pictures, video and other images, audio materials, graphics, document or data files, messages and other communications, personalization settings and other information and/or content, which is or may be provided, uploaded, created, generated, submitted, distributed, posted and/or otherwise transferred through the Platform by the Customer or the Authorized Users, including the Content generated by the Customer’s end-users.  
+
+“Contracts” means collectively (i) these Terms, (a) Lokalise Privacy Policy; (b) Lokalise Cookies Policy; and (c) any other operating rules, policies and documents that may be published from time to time by Lokalise on the Website which shall be incorporated herein by reference.
+
+“Customer” means a natural or legal person who has accepted these Terms with Lokalise.
+
+“Customer Data” means jointly the Content, the Customer Personal Data as well as any other  information that a Customer and/or its Authorized Users Transfers to Lokalise in connection with the use of the Services.
+
+“Customer Personal Data” means Personal Data that Lokalise Processes as a Data Processor for Customer for the purpose of providing the Services. Customer Personal Data includes Personal Data that the Customer Transfers in connection with its use of the Services and the Platform.
+
+“Data Protection Laws” means all laws and regulations, including laws and regulations of the United States of America, the European Union (the “EU”), the European Economic Area (the “EEA”) and their member states, Switzerland and the United Kingdom, applicable to the Processing of Customer Personal Data under these Terms.  
+
+“EU Personal Data” means Customer Personal Data that is (a) originating from or located in the EEA, or (b) is Personal Data of EEA data subjects, or any combination of the foregoing.  
+
+“Fees” means a payment for using the Platform under a specific a Plan and/or any other regular payments for using the Services.  
+
+“Feedback” means any suggestions, comments, bug reports, feedback, or suggested modifications for the Lokalise Platform and/or Services from our Customers and Authorized Users or any other person.  
+
+“Free Plan” is a limited access to the Platform without paying the Fees.  
+
+“Free Trial” means a 14 calendar day temporary access to the Platform and/or Services for the purpose of trying out the Platform and Services without paying the Fees.
+
+“IP Rights” means copyrights, patents, trademarks, and trade secrets and other legitimate rights, interests and title to the intellectual property.  
+
+“Order Form” means a document confirming specific terms and conditions of the Subscription that might be executed between Lokalise and a Customer.  
+
+“Personal Data” means information about an identified or identifiable natural person that (a) can be used to identify, contact or locate a specific individual; (b) can be combined with other information that can be used to identify, contact or locate a specific individual; or (c) is defined as “personal data” or “personal information” by applicable Data Protection Laws relating to the collection, use, storage or disclosure of information about an identifiable individual.
+
+“Plan” means a set of tools, features, criteria and functionality accessible on the Platform for a Customer that form a basis for the Fees.
+
+“Project” means the set of interrelated textual items (segments) to be translated by the Customer’s Authorized Users in the Team’s Workspace.  
+
+“Personal Data Breach” means any breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, any Protected Data.
+
+“Platform” means Lokalise’s proprietary online platform (including the Website and all the other technologies) designed for managing the localization and translations of mobile apps, web, games, IoT, SaaS, other software products, marketing and other digital content. For the avoidance of doubt, all references to the “Platform” in these Terms also include the Lokalise Services.  
+
+“Sensitive Information” means any personal data of a Customer’s end-users and/or any other Customer Data that is subject to heightened security requirements as a result of the Customer’s internal policies or practices or by any law or regulation applicable to the Customer (examples include but are not limited to the U.S. Health Insurance Portability and Accountability Act (HIPAA), the Gramm–Leach–Bliley Act (GLBA), Family Educational Rights and Privacy Act (FERPA).
+
+“Services” means the set of software and software-as-a-service (SaaS) translation and localization tools and services that Lokalise may provide from time to time via the Platform or third party resources, including elements of translation management system/software (TMS), computer-assisted translation (CAT), neural, machine and human translations or a combination thereof, other productivity, workflow, software development and other tools and services, on a subscription, pay-as-you-go, prepayment, and/or usage basis.  
+
+“Subscription” means confirmation of the Customer’s rights to access the Platform and/or use the Services as described in the elected Plan in exchange for payment of the applicable Fee during a specific period of time.  
+
+“Taxes” means any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, applicable in any jurisdiction.
+
+“Team's Workspace” means a designated virtual space where Authorized Users may create Projects and access the Services. 
+
+“Transferred” and cognates means provided, uploaded, downloaded, created, generated, submitted, distributed, imported, exported, posted and/or otherwise available through the Platform.  
+
+“Website” means an interface of the Platform compiled of all web documents (including images, CSS, and HTML files) made available via https://lokalise.com or its sub-domains or domains under other top domains and owned by Lokalise.

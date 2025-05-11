@@ -1,0 +1,357 @@
+
+
+Welcome to use our services!
+
+Please familiarize yourself with these Terms and Conditions, because they are the basis of the contractual relationship, which you are a part of. In other words, important stuff!
+
+These Terms and Conditions are applied to You (‘Customer’) when you create an Account for and/or use the Service and/or Consultancy Service provided by us, meaning AppFollow.fi Oy (business ID: 2728364-5), a limited liability company construed according to the laws of Finland, and AppFollow, Inc., a Delaware corporation. Both AppFollow entities will be referred to collectively as 'AppFollow'. When talking about AppFollow and you, the Customer, a reference ‘Party’ and collectively the ‘Parties’ will also be used.
+
+These Terms and Conditions apply to You, despite whether Your access to and use of the Service or the Consultancy Service is based on a non-paid or paid subscription model, and in case paid, despite whether the payment is a one-time payment or a recurring obligation. It also doesn’t matter whether You pay via credit or debit card, invoice, or if You’ve managed to negotiate a deal where you pay us with your old stamp collection - these Terms still apply.
+
+As is often the case with legal stuff, this is not all. In addition to these Terms and Conditions, the Customer’s access to and use of the Service and Consultancy Service is also subject to the chosen subscription plan, the Privacy Policy*, the data processing agreement, and the applicable selections made by the Customer in the Account and the User Portal, all of which are deemed to be incorporated by reference above, shall apply in conjunction and shall be collectively referred to as the ‘Agreement’.
+
+*As may be updated from time to time.
+
+Please stay sharp! You may only access and/or use the Services if You can legally form a binding Agreement with us, and only in compliance with the Agreement and applicable laws. In case You register to or use the Service and/or Consultancy Service as an individual, you certify that you are at least eighteen (18) years of age (if not, you’re more than welcome to come back after the celebration of that birthday). In case You register to or use the Service and/or Consultancy on behalf of a legal entity, it is mutually understood that the word ‘Customer’ shall refer to You and the said legal entity collectively, and You certify that you are duly authorized to represent and bind said legal entity with respect to this Agreement. So kindly have a word with your boss before registering, if needed.
+
+This Agreement between AppFollow and the Customer shall enter into force upon acceptance by the Customer of all terms of this Agreement. The acceptance is given by registering, meaning by creating an Account. Therefore, by creating an Account the Customer agrees and consents to be bound by this Agreement, including its annexures. If the Customer does not wish to accept this Agreement, including its annexures, the Customer may not create an Account nor use the Service or Consultancy Service of AppFollow. In this case, we bid you good day: you’re always welcome back later!
+
+1. Definitions
+
+1.1. 'Account' means the Customer’s online access point to the platform, connected to the User Portal and containing the Customer’s subscription details, including contact details and information of payments by the Customer. Each Account is connected to at least one (1) User Portal.
+
+1.2. 'Anonymized Data' shall have the meaning provided in Section 10.6.
+
+1.3. 'App’ means proprietary mobile software application or any similar software developed and/or owned by the Customer or a third party that is sold, streamed, transmitted, is available for download or otherwise made available to any consumer(s), customer(s), or other user(s) via Application Store(s) accessed through and used on customers’ electronic devices (incl. mobile phone).
+
+1.4. ‘Application Store’ means a mobile software distribution platform (such as, but not limited to, Apple App Store and Google Play Store) accessible via the Internet and used on Customers’ or Users’ electronic devices (incl. mobile phone).
+
+1.5. 'AppFollow Materials' means the Services, the Consultancy Services, Documentation, and AppFollow Systems and any and all other information, data, documents, materials, works, and other content, devices, methods, processes, hardware, software, and other technologies and inventions, including any deliverables, technical or functional descriptions, requirements, plans, or reports, that are provided or used by AppFollow in connection with the Services, the Consultancy Services, or otherwise comprise or relate to the Services, the Consultancy Services or AppFollow Systems.
+
+1.6. 'AppFollow Systems' means the information technology infrastructure used by or behalf of AppFollow in performing the Services, including all computers, software, hardware, databases, electronic systems (including database management systems), and networks, whether operated directly by AppFollow or through the use of third-party services.
+
+1.7. 'Customer Data' shall have the meaning provided in Section 10.5.
+
+1.8. 'Confidential Information' shall have the meaning provided in Section 11.1.
+
+1.9. ‘Consultancy Services’ means all services provided by the AppFollow consulting team and including manual expertise, as available from time to time. Examples of Consultancy Services are ASO audits, reviews audits, ASO outsourcing and reviews management.
+
+1.10. 'Documentation' means any manuals, instructions or other documents or materials that AppFollow provides or makes available to Customer in any form or medium and which describe the functionality, components, features, or requirements of the Services, Consultancy Services or AppFollow Materials, including any aspects of the installation, configuration, integration, operation, use, support or maintenance thereof.
+
+1.11. ‘Service Fee’ means the fee paid by the Customer to AppFollow for using the Services and/or Consultancy Services.
+
+1.12. ‘Service’ means AppFollow’s proprietary online software tool located at https://watch.appfollow.io and accessible as software as a service (SaaS) via the User Portal, which is designed to gather and provide the Customer processed and personalized information, based on data collected from open sources, about such Apps that are available for use and download in the Application Store(s) and chosen by the User, including competitive market analysis, regular feedback reports, regular release announcements, and other similar data relating to the Apps.
+
+1.13. ‘User’ means an individual person using the Services, which use takes place either on behalf of the same individual person, in which case the User and the Customer are the same or on behalf of a legal entity, in which case the legal entity is the Customer and the individual person, i.e. the User, is using the Services on behalf and of the Customer.
+
+1.14. ‘User Portal’ means an online point of interaction with AppFollow provided to the User through which the User may access the Service and set and preconfigure the Service to receive personalized information about chosen App(s). The User shall create their own logic credentials (unique ID and password) to the User Portal. The User Portal is connected to the Account, and in case of multiple Users on behalf of the same Customer, all User Portals are connected to the same Account, with either the same or different roles and preferences, depending on the Customer’s subscription plan and the number of designated Users for the Services on behalf of the Customer.
+
+1.15. ‘AI Features’ means the artificial intelligence-powered functionalities offered by AppFollow as part of the Services, which may include, without limitation, AI Replies, AI Summaries, semantic and sentiment tagging, and other features described in Section 18.3 of these Terms. 
+
+1.16. ‘Inputs’ means any Customer Data, including review content, tags, prompts, or other information submitted by the Customer or its Users to the AI Features. 
+
+1.17. ‘Outputs’ means any content generated by the AI Features in response to the Inputs, including but not limited to summaries, suggested replies, tags, or analytical content. Outputs do not include the underlying AI models or software used to generate them. 
+
+1.18. ‘Custom Semantic Tag’ means a proprietary tag generated by AppFollow’s internal models based on Customer-specific configuration and training data, which may include Customer-provided manual tags where expressly requested in writing by the Customer.
+
+2. Account and Users Portals
+
+2.1. The Agreement between AppFollow and the Customer enters into force when the Customer creates an Account on the AppFollow’s website (including selecting a subscription plan to the Service or Consultancy Service). AppFollow’s right to charge the Customer for the Service/Consultancy Service ordered by said Customer commences at the same time, excluding subscriptions to a Free Trial or a free Account, as provided by AppFollow.
+
+2.2. To be able to use AppFollow’s Service or Consultancy Service, the Customer is required to have an Account. For the avoidance of doubt, this applies to both the Service and the Consultancy Service. Regarding subscriptions to the Service, at least one (1) User Portal is also required, which AppFollow will create for the Customer upon registration at https://appfollow.io. For the avoidance of doubt, User Portal is not required and shall not be provided for Customers subscribed to the Consultancy Service only.
+
+2.3. The Account and the User Portal are personal and the Customer and the Users undertake to keep the login credentials connected to the User Portal(s) confidential. Please keep them safe! Access to the Service or Consultancy Service and the Account may not be shared or provided to third parties without the express, prior written consent of AppFollow.
+
+3. Permission to Use
+
+3.1. Subject to the terms and conditions of the Agreement, AppFollow grants the Customer a limited, revocable, non-exclusive, non-transferable, non-sublicensable worldwide permission to use and access to the Service (including providing the Customer with the Account and the User Portal(s)) during the term of the Agreement and subject to the specific limitations set forth in the Agreement (including its annexures).
+
+3.2. AppFollow grants the Customer, through the User Portal:
+
+(i) the ability to choose and set up the User’s personal workspaces containing of such App(s) that the Customer wishes to follow;
+
+(ii) the ability to monitor the chosen App(s);
+
+(iii) the ability to get processed and personalized information as provided by the Service about chosen App(s) (such as competitive market analysis, regular feedback reports, regular release announcements); and
+
+(iv) the ability to integrate the Service with the User’s favourite tools, such as Trello, Slack and the User’s email according to AppFollow’s instructions. A list of integrations supported by AppFollow from time to time is available on our Integrations page. (AppFollow reserves the right to make changes to the supported integrations).
+
+3.3. The subscription plan chosen by the Customer will define the scope of the Service, i.e. the number of Users who can use the Service, the number of Apps which can be added to the User’s personal workspace and other similar parameters. You have the wheel here.
+
+3.4. Subscription plans are available with the agreement in force until further notice, with an automatically renewing subscription of either one (1) month or twelve (12) months. Other subscription terms may be possible upon separate, written agreement.
+
+3.5. The Agreement does not, in any circumstances, convey title or ownership of the Service, AppFollow Systems or AppFollow Materials from AppFollow to the Customer or the User, or grant the Customer or the User any other rights to the Service than the rights defined in the Agreement. AppFollow reserves all rights not expressly granted by the Agreement. For the avoidance of doubt, no access to or rights entitling to the source code or any parts thereof of the Service are granted hereunder.
+
+4. Customer’s Use of the Service
+
+4.1. For the most part, You decide how you use the Service. This means that the Customer is solely responsible and liable for its use of the Service and undertakes to always use the Service subject to the Agreement, applicable laws and the Customer’s own internal policies.
+
+4.2. There are limits, however, the Customer shall not use the Service for purposes which are illegal; which breach the rights (including, but not limited to, personal data or intellectual property rights or proprietary rights) of third parties; or, which are contrary to or in violation of the terms of the Agreement, good business practices or public morality. The Customer is not authorized to use the Service for machine learning or similar activity including algorithms, except where explicitly allowed within the scope of the AI features provided by AppFollow as outlined in Section 4.9.
+
+4.3. You also decide who you trust and how you delegate: in case the Customer has multiple Users, the Customer is always liable for that the Users using the Service on behalf of the Customer do so according to the Agreement, despite the number of Users using the Service. In other words, the Customer is always liable for any and all activities happening in the Account(s) (to which multiple User Portals are connected to, as the case may be).
+
+4.4. Furthermore, the Customer shall not scrape or otherwise collect data or any contents from or through the Service for the purpose of any commercial use of such data or contents in the Customer’s own name, without the express, written consent of AppFollow. For the avoidance of doubt, this Section applies whether the scraping or collecting would be done manually or via technical assistance, such as a platform or tool made by the Customer. The Customer undertakes not to sell data or contents of the Service to any third parties. The Customer may not reverse engineer, decrypt, decompile, disassemble, try to gain unauthorized access to or otherwise translate the Service or any part of it into human-readable form or allow anyone else to do so. That’s not good business practice.
+
+4.5. Customer has and will retain sole responsibility for: (a) all  Customer Data, including its content and use; (b) all information, instructions, and materials provided by or on behalf of Customer or any User in connection with the Services and/or Consultancy Services; (c) Customer’s information technology infrastructure, including computers, software, databases, electronic systems (including database management systems), and network, whether operated directly by Customer or through the use of third-party services; (d) the security and use of Customer’s and its Users login credentials; and (e) all access to and use of the Services, the Consultancy Services and AppFollow Materials, directly or indirectly by or through the Customer’s systems or its Users’ login credentials (if applicable), with or without Customer’s knowledge or consent, including all results obtained from, and all conclusions, decisions and actions based on, such access or use.
+
+4.6. AppFollow reserves the right to audit the Customer’s use of the Service for purposes of ensuring that such use is in accordance with the Agreement and the Customer’s specific subscription plan. In such an event, the Customer agrees to render reasonable cooperation for the execution of such an audit.
+
+4.7. If AppFollow discovers unauthorized use of the Service (based on paid or non-paid subscription), AppFollow may by written notice (email included) direct the Customer to cease all unauthorized use and/or delete all unauthorized login credentials or add them to the Customer’s subscription, which may affect the Service Fee of the Customer. In either case, the Customer shall pay, upon AppFollow’s written request:
+
+(i) the Service Fee as according to the chosen subscription plan, for the period from the creation-date of unauthorized login credentials to the date of AppFollow’s notice; and
+
+(ii) interest at the rate of 4% per month or the maximum rate permitted by law, whichever is higher, compounded daily from the date any payment would have been due until the date paid.
+
+4.8. For continuation of any login credentials after the date of AppFollow’s notice, such login credentials will be subject to the fees applicable to the chosen subscription plan.
+
+4.9. The Service includes AI features such as AI Replies, AI Summary for reviews using OpenAI model GPT-4, and Reviews semantic and sentiment tagging using a customized XLMRoberta model. These AI features process publicly available data and manual tags provided by the Customer. The Customer consents to the use of these AI features under the following conditions:
+
+(i) AI models use solely the title and content of reviews.
+
+(ii) No personal data beyond publicly available reviews and manual tags is processed
+
+(iii) for AI training purposes.
+
+(iv) Customers can report incorrect tags to improve AI accuracy
+
+5. Changes to Subscriptions
+
+5.1. Sometimes situations change. Here’s what you can do during your ongoing subscription.
+
+5.2. The Customer is always free to make changes to the Customer’s subscription, as follows:
+
+(i) upgrades are possible any time with seven (7) days prior written request to AppFollow; and
+
+(ii) downgrades are possible by a written request to AppFollow as follows:
+
+a. in case the length of the renewing subscription period is one (1) month, the downgrade shall be requested at least thirty (30) days prior to the commencement of a new subscription period, in which case the downgrade will enter into force from the beginning of said new subscription period; and
+
+b. in case the length of the renewing subscription period is greater than one (1) month, the downgrade shall be requested at least sixty (60) days prior to the commencement of a new subscription period, in which case the downgrade will enter into force from the beginning of the new subscription period (unless otherwise agreed in writing, with AppFollow’s sole discretion).
+
+5.3. Downgrades for Consultancy Services are possible only by mutual agreement of the Parties.
+
+5.4. In case the Customer requests an Upgrade to their subscription in the middle of their then-current subscription plan, the price for the Upgrade will be calculated pro rata and added to the Service Fee until the end of the respective subscription period.
+
+5.5 If a Customer requests an Upgrade during the existing subscription period, the Upgrade shall apply for the remaining duration of the current subscription period and will automatically apply to the subsequent subscription period, unless otherwise agreed upon in writing.
+
+5.6. For the avoidance of doubt, the possibility of a temporary upgrade shall always be discussed with our Sales team - please contact them at hi@appfollow.io.
+
+6. Free Trial Period of the Service
+
+6.1. In case you need more information to make a decision, we’ve got Your back. AppFollow may grant the Customer a one-time free trial period of the Service. The duration of a Free Trial period is ten (10) days, which AppFollow is, at its sole discretion, entitled but not obliged to extend.
+
+6.2. The Customer’s subscription will, after the Free Trial period, continue automatically as a non-paid subscription. The Customer is free to subscribe to the paid Service at any time by following the instructions at https://appfollow.io or by contacting our Sales team at hi@appfollow.io.
+
+6.3. For the avoidance of doubt, each Customer is only entitled to one (1) Free Trial period. Misusing Free Trials by, for example, creating multiple email addresses for the sole purpose of acquiring more than one (1) Free Trial period, is strictly prohibited. In case AppFollow has reasonable doubt that some Accounts have been created or are being created for the sole purpose of acquiring more than one (1) Free Trial for the same Customer, AppFollow is entitled (but not obliged) to contact such Customer of such doubts to discuss the situation in more detail or to block such Accounts with immediate effect, at the sole discretion of AppFollow.
+
+6.4. The Agreement applies, to all extents applicable, during the Free Trial as it would to a paid subscription.
+
+7. Payment Terms
+
+7.1. Let us ignore the tabu and talk about money. The Customer shall pay the Service Fee according to the subscription plan selected by the Customer and as available on our website. The Customer shall pay the Service Fee one-time, monthly or annually in advance according to the selected subscription plan and using the payment method provided by AppFollow, unless otherwise agreed with the Customer in writing prior to the commencement of the Services.
+
+7.2. The Customer undertakes to keep its payment details up-to-date and valid.
+
+7.3. AppFollow reserves the right to update its payment terms as well as pricing details from time to time. We won’t do this for no reason, but sometimes things may change in which case we need to react.
+
+7.4. The Customer shall make all payments on or before the due date. Payment is considered to be made when it is received by AppFollow. If the Customer does not make the Service Fee payment in full and by the due date, AppFollow may, at its sole discretion, withhold from providing the Service or Consultancy Service, including suspending the Account and disabling the User Portal or downgrading the Account to a free plan. The Customer shall nonetheless be obliged to pay any undue payments, added with a delayed interest at the rate of 4% per month or the maximum rate permitted by law, whichever is higher, compounded daily from the date any payment would have been due until the date paid.
+
+7.5. The Customer’s Service Fee for the Service or Consultancy Service shall be paid in one lump-sum installment before or in connection to the beginning of said subscription, unless specifically agreed otherwise between the Parties in writing. The payment of the Service Fee is non-refundable.
+
+7.6. All Service Fees and other amounts payable (if any) to AppFollow are exclusive of taxes and similar assessments. Without limiting the foregoing, Customer is responsible for all sales, use, and excise taxes, VAT, withholding taxes, and any other similar taxes, duties, and charges of any kind imposed by any federal, state, or local governmental or regulatory authority on any amounts payable by Customer, other than taxes imposed on AppFollow’s income.
+
+8. Intellectual Property
+
+8.1. Let’s keep it simple: our Service, Consultancy Service and AppFollow Materials are our property. Using legal wording that means that the Customer acknowledges and agrees that the Service, the Consultancy Service, AppFollow Materials as well as any and all source code forms, enhancements, corrections and modifications to any of the aforementioned, all and any contents created by the Service and/or Consultancy Service (such as, but not limited to, estimates, analyses and reports), as well as any and all copyrights and related rights, patents, utility models, design rights, trade secrets, trademarks, trade names, know-how and/or other intellectual property rights protecting or pertaining to any aspect of the Service or Consultancy Service or contents created by the Service or Consultancy Service, whether registered or unregistered and whether capable of being registered or not, shall remain exclusively vested with and are the sole and exclusive property of AppFollow and, where applicable, AppFollow’s suppliers.
+
+8.2. We grant you the permission to use, but nothing else. In a bit more detail this means that nothing in this Agreement transfers any intellectual property from AppFollow to the Customer or the Users, nor grants the Customer or the Users any intellectual property rights in the Service or Consultancy Service. AppFollow and, where applicable, AppFollow’s suppliers, shall retain all rights, title, and interest in and to the Service and Consultancy Service or any parts thereof or material created thereby, including without limitation all software and components used to provide the Service or Consultancy Service.
+
+8.3. The one exception to all of the above is, of course, the results of the Service and/or Consultancy Service, which are produced for you specifically. This means metrics, reports, analyses, statistics produced by our Service (meaning the platform) or Consultancy Service (meaning the dedicated consulting team), which are tailored to you based on your choices, selections and instructions. For the avoidance of doubt, the exclusive rights for such results and any copy thereof shall automatically transfer from AppFollow to the Customer, subject to any applicable third-party license restrictions or intellectual property limitations under law to and in connection with the last payment installment due from the Customer to AppFollow being paid in full, including possible interest (if any).
+
+8.4. Also, while we want to keep our intellectual property, we want You to keep yours too. To the extent that AppFollow uses the Customer’s intellectual property to provide the Service and/or the Consultancy Service, AppFollow acknowledges and agrees that the Customer owns all right, title and interest to its intellectual property.
+
+9. Reference Use
+
+9.1. AppFollow may use the Customer free-of-charge as a public reference in marketing and selling the Service or Consultancy Service, including using the Customer’s trade name, trademark or logo on AppFollow’s Website and/or other material, such as marketing material.
+
+9.2. For the purpose mentioned above in Section 9.1., the Customer grants AppFollow a free-of-charge, limited, non-exclusive, non-transferable, non-sublicensable worldwide permission to use the Customer’s trade name, trademark and/or logo. The permission shall terminate when the Customer ceases using both the Service and Consultancy Service (including permanently closing the Account), unless separately agreed between the Parties in writing.
+
+10. Personal Data and Data Rights
+
+10.1. When getting up close and personal, AppFollow acts both as a controller and a processor of the personal data collected from and processed regarding the Customers and the Users, depending on the source of said information. AppFollow shall process any personal data in accordance with the Privacy Policy, which forms an integral part of this Agreement.
+
+10.2. Let’s have a short summary here, however. Our controlling and processing activities are in accordance with the General Data Protection Regulation (2016/679).
+
+10.3. 
+
+We only collect personal data of Customers and Users, if and to the extent it is required for the creation, content arrangement or modification of our contractual relationship. To some extent, the Customer can decide which information it wishes to give us, regarding its appointed Users, for example. We do not collect any sensitive personal data. In addition, publicly available data, such as reviews and manual tags provided by the Customer, are processed by our AI models to enhance service features. No personal data beyond these publicly available reviews and manual tags is used for AI training purposes.
+
+10.4. We do not give any personal information to third parties, except our subcontractors which help us to provide the Service and Consultancy Service. You can read more about these in our Privacy Policy. We never sell any personal information, nor do we subject it to automated decision-making or profiling.
+
+10.5. As between Customer and AppFollow, Customer owns all information, data, and other content, in any form or medium, that is collected, downloaded, or otherwise received, directly or indirectly, from Customer or a User by or through the Services (‘Customer Data’). The Customer will have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership of or right to use all Customer Data. During the term of the Agreement, Customer grants to AppFollow a non-exclusive, non-transferable, non-assignable (except to as defined in Section 17.7), royalty-free license to access and use Customer Data in order to provide the Services and/or Consultancy Services to Customer and as necessary to monitor and improve the Services and/or Consultancy Services provided to Customer.
+
+10.6. The Customer acknowledges and agrees that AppFollow may use, reproduce and disclose Customer Data that is anonymized, de-identified, or is otherwise not reasonably associated or linked to Customer or any other identifiable individual person or entity (‘Anonymized Data’) for evaluating platform-wide trends, for product development and marketing, for optimizing the performance or metrics of the Services, and for accounting or audit requirements, and other purposes permitted under applicable law; provided that such Anonymized Data does not contain the Customer’s Confidential Information or information that could be used to individually identify the Customer or its Users. For the avoidance of doubt, Anonymized Data shall belong to AppFollow and shall be considered AppFollow’s Confidential Information.
+
+11. Confidentiality
+
+11.1. Rest assured, your diary will stay as a secret - and we want ours to stay like that too, for that matter. For the purposes of this Agreement, ‘Confidential Information’ refers to the following items the disclosing Party discloses to the receiving Party:
+
+(i) any document the disclosing Party marks ‘Confidential’;
+
+(ii) any personal data (despite whether the disclosing party is the controller or the processor of such data);
+
+(iii) any source code or any other proprietary information disclosed by AppFollow;
+
+(iv) any business or customer information (unless otherwise expressly agreed in this Agreement);
+
+(v) any outcomes of the Services when in the possession of AppFollow (such as results of the Consultancy or information provided about the App by the Service); and
+
+(vi) any other nonpublic, sensitive information the receiving Party should reasonably consider a trade secret or otherwise confidential.
+
+11.2. Notwithstanding the foregoing, Confidential Information does not include information that:
+
+(i) is in the receiving Party’s possession at the time of disclosure;
+
+(ii) is independently developed by the receiving Party without use of or reference to Confidential Information;
+
+(iii) becomes known publicly, before or after disclosure, other than as a result of the receiving Party’s improper action or inaction; or
+
+(iv) is approved for release in writing by the disclosing Party.
+
+11.3. The Parties acknowledge that for the entry into and performance of this Agreement it may be required to disclose some Confidential Information to the receiving Party. Therefore, the Parties shall maintain strict confidence and undertake not to disclose the Confidential Information, or to use the Confidential Information for any other purposes than entry to, the performance of, exercising their rights under and/or fulfilling their obligations as according to this Agreement.
+
+11.4. Confidential Information is proprietary to the disclosing Party (or a disclosing third party, if applicable) and shall remain sole property of the disclosing Party (or a disclosing third party, if applicable).
+
+11.5. In addition to the aforementioned, the receiving Party is only allowed to disclose Confidential Information received from the disclosing Party if required to do so by law, decree or other similar action or order taken or given by a legally competent authority. If a receiving Party is required to disclose Confidential Information pursuant to an aforementioned requirement, said Party shall promptly notify the disclosing Party of such requirement in order to provide the disclosing Party with the opportunity to contest such disclosure or use or otherwise to agree to the timing and content of such disclosure or use.
+
+11.6. Notwithstanding the above, the receiving Party may disclose the Confidential Information of the disclosing Party to its relevant employees, agents or its professional advisors, provided that the receiving Party shall ensure that such persons shall comply with relevant Terms and Conditions and the Agreement and that the receiving Party shall assume any and all liability arising out of any breach by such person(s) of the relevant Terms and Conditions and the Agreement.
+
+11.7. Upon the request of the disclosing Party or upon the expiration or termination of the Agreement, the receiving Party shall promptly destroy its Confidential Information. Notwithstanding the foregoing, the receiving Party shall be permitted to retain such copies of Confidential Information as may be reasonably necessary for legal or recordkeeping purposes, including such copies as are embedded in the automated backup of electronic data processing systems.
+
+12. Availability and Support
+
+12.1. AppFollow will use its reasonable efforts to maintain the availability of the Service at a high level and to correct possible defects and interruptions of the Service in a timely manner. However, AppFollow does not commit to any specific level of availability or any specific service level or response or defect correction times and does not undertake any liability or grant service credits for interruptions in the Service.
+
+12.2. We’re constantly developing and improving things! Keeping this in mind, the Customer accepts that the Service or parts of it may from time to time require maintenance, updates or corrections of defects, which may cause unavailability to the Service or parts of it, or use of the same, for a period of time. AppFollow undertakes, whenever possible, to give advance notice of such periods to the User. Status updates regarding the Service are available online.
+
+12.3. The Customer acknowledges and agrees that Application Stores may not possess all the data needed by the Customer, in particular key words, screenshots, versions and similar and that the data available in any Application Store may change and be updated by Application Stores/users of Application Stores. The Customer further acknowledges and accepts that a reasonable amount of time may be required by the Service to collect such updates, incorporate changes in and update the data collected from the Application Stores in the Service.
+
+13. Disclaimers
+
+13.1. As the data collected, used and analyzed by the Service is collected from Application Stores, i.e. publicly available sources, as is, meaning without making any modifications or changes to said data, the Customer acknowledges and agrees that under no circumstances can or will AppFollow accept any responsibility for the quality, amount, accuracy, timeliness, reliability, appropriateness, contents or other similar characters of the data available in any Application Store. To put it shortly, we don’t own or control the Application Stores.
+
+13.2. The Service is provided «as is», and no implied or express warranties are given as to the Service being free from defects, non-infringing or fit for a particular purpose. Information processed by the Service may contain minor mistakes, which AppFollow undertakes to correct to the extent reasonable. AppFollow will use its reasonable efforts to collect and process as much data as possible and provide the User with personalized information processed by the Service in a convenient form.
+
+13.3. The Customer acknowledges and agrees that under no circumstances does AppFollow act as a professional consultant or advisor to the Customer or any of the Customer’s subsidiaries, affiliates or similar, and that information processed and personalized by the Service and provided to the Customer does not constitute professional advice (business, legal, financial or any other) and should not be treated as such. For these kinds of advice, please consult a qualified expert.
+
+13.4. AppFollow does not warrant to the Customer a possibility to obtain a financial or any other type of outcome as a result of use of the Service or Consultancy Service.
+
+14. Breach
+
+14.1. This is a binding Agreement and consequently, we expect You as the Customer to act accordingly.
+
+14.2. If You don’t, and if the Customer (and/or the User, who is using the Service or the Consultancy Service on behalf of the Customer) breaches the Agreement (by violating these Terms and Conditions, or otherwise), we shall hold the Customer liable to us for all the resulting damages, including property damage.
+
+14.3. We believe this is fair game. If You’re ever in doubt about how You can use our Service or Consultancy Service - please just ask us so we can clarify things out!
+
+15. Limitations of Liability
+
+15.1. In no event, to the maximum extent permitted by applicable law, shall AppFollow be liable to the Customer and/or any third party for any indirect, incidental or consequential damages of the Customer/third party arising under or in connection with this Agreement and/or the Service or Consultancy Service. Such indirect or consequential damages include, but are not limited to, lost profits.
+
+15.2. In any event, AppFollow’s overall liability for any damages or loss incurred by the Customer under this Agreement shall be limited to the pro rata amount of the Customer’s Service Fees paid to AppFollow and equivalent to three (3) months’ Service immediately preceding the damage or loss. In case of a free subscription, AppFollow’s overall liability shall be limited to € two hundred (€200).
+
+15.3. Notwithstanding the above, the said monetary limitations of liability shall not apply to breaches of Section 8 (Intellectual Property) or Section 11 (Confidentiality) of this Agreement and/or intentional misconduct or gross negligence by AppFollow.
+
+16. Term and Termination
+
+16.1. As defined in Section 3.4, AppFollow offers two (2) default types of subscriptions for the Service: until further notice consisting of automatically recurring subscription periods of either one (1) month or twelve (12) months.
+
+16.2. The subscription for the Service is in force until further notice and shall renew automatically after the end of the current subscription period, unless terminated by the Customer in writing (email sufficient) as follows:
+
+(i) in case the length of the subscription period is one (1) month, the termination shall be done at least thirty (30) days prior to the commencement of a new subscription period. If done less than thirty (30) days prior, we will charge you one more monthly subscription period, after which your paid subscription will terminate; and
+
+(ii) in case the length of the subscription period is greater than one (1) month, the termination shall be done at least sixty (60) days prior to the commencement of a new subscription period.
+
+16.3. Agreements for the Consultancy Service are in force for a fixed term, which term is defined with the Customer separately in writing.
+
+16.4. AppFollow is entitled to terminate the subscription with thirty (30) day’s prior written notice to the Customer despite the type and length of the Customer’s subscription. In the event, the termination is carried out by AppFollow and none of the special grounds for termination listed below in Section 16.5. applies, the Customer’s access to the Service shall be maintained until the end of the Customer’s fully paid subscription period.
+
+16.5. AppFollow shall have the right at its sole discretion and without any prior written notice terminate this Agreement with immediate effect (including removing the Customer’s access to the Service), if:
+
+(i) the Customer provided invalid data to complete the registration process for the Service and/or the Customer has failed to pay, or the Customer's payment details do not allow the Service Fee to be charged and the error is not corrected within fourteen (14) calendar days of receiving a written notice (email included) to do so from AppFollow; or
+
+(ii) the Customer is in breach of the Agreement and does not rectify the breach within thirty (30) days of receiving a notice to do so (where rectification is possible).
+
+16.6. Upon termination of this Agreement, for whatever reason, the Service provided by AppFollow to the Customer under this Agreement, as well as the Account and the connected User Portal(s), shall immediately terminate without any data restoration.
+
+16.7. Upon termination of this Agreement, the Customer and AppFollow shall remain liable to the other Party for any amounts due to the other Party as of the date of termination, and such payment obligation shall survive the termination of this Agreement.
+
+16.8. In the event of termination or expiry of the Agreement for any reason, no Service Fees paid by the Customer to AppFollow shall be returned, unless otherwise expressly stated in this Agreement.
+
+16.9. It is expressly agreed that Section 8 (Intellectual Property) and Section 11 (Confidentiality), and the obligations contained therein, shall survive despite of and after the termination of this Agreement.
+
+17. Miscellaneous
+
+17.1. Technical Changes: AppFollow can from time to time unilaterally make amendments to the Service or parts of the same for technical or usability reasons.
+
+17.2. Amendments: AppFollow can unilaterally make changes to the Agreement, including annexures if it’s necessary:
+
+(i) according to applicable law (for example, if there are changes to the said law);
+
+(ii) due to advice and/or order based on applicable law;
+
+(iii) due to development of the Service or Consultancy Service;
+
+(iv) for technical reasons;
+
+(v) due to operational requirements; or
+
+(vi) due to changes or updates which are beneficial for the Customers.
+
+Up-to-date versions of the Agreement and its annexures, such as Payment Terms, will always be available on AppFollow’s website.
+
+In case of a material change, AppFollow will provide the Customer with a written notice of changes (email included). Continued use of AppFollow’s Service or Consultancy Service after thirty (30) days will indicate the Customer’s acceptance of the changed terms.
+
+17.3. Notices: Any notice or other communication under this Agreement shall be in writing and shall be considered given when sent by email.
+
+17.4. Governing Law and Dispute Resolution: In case the contracting party is AppFollow.fi Oy, this Agreement and the relationship between the Parties are governed by the laws of Finland, without regard to its principles and rules on conflict of laws. Any dispute, controversy or claim arising out of or relating to this Agreement, or the breach, termination or validity thereof shall be settled by negotiations between the Parties. If the Parties fail to settle the dispute through negotiations within thirty (30) days of the commencement of the said negotiations, the dispute shall be finally settled by arbitration in accordance with the Arbitration Rules of the Finland Chamber of Commerce, which rules are deemed to be incorporated by reference in this clause. The number of arbitrators shall be one (1), the seat of arbitration shall be Helsinki, Finland, and the language of the arbitration shall be English.
+
+In case the contracting party is AppFollow, Inc., this Agreement and the relationship between the Parties are governed by the laws of the State of Delaware, without regard to its principles and rules on conflict of laws. Any dispute, controversy or claim arising out of or relating to this Agreement, or the breach, termination or validity thereof shall be settled by negotiations between the Parties. If the Parties fail to settle the dispute through negotiations within thirty (30) days of the commencement of the said negotiations, the dispute shall be finally settled by arbitration in accordance with JAMS, which rules are deemed to be incorporated by reference in this clause. The number of arbitrators shall be one (1), the seat of arbitration shall be Palo Alto, California, and the language of the arbitration shall be English.
+
+However and notwithstanding the aforementioned, in the event the Customer is a private individual rather than a representative of a company or legal entity, any dispute not resolved through negotiations shall be resolved by the competent courts of the country where the Customer is located.
+
+17.5. Force Majeure: We don’t control the world and neither do You. No delay, failure, or default, other than a failure to pay Service Fees when due, will constitute a breach of this Agreement to the extent caused by hurricanes, earthquakes, epidemics, other acts of nature, strikes or other labour disputes, riots or other acts of civil disorder, a diminishment or failure of data networks or services or power or telecommunications, acts of war, terrorism, acts of governments such as expropriation, condemnation, embargo, changes in laws, or other causes beyond the performing Party’s reasonable control.
+
+17.6. Severability: If any provision of this Agreement is held by any court of competent jurisdiction to be illegal, null or void, all the remaining provisions of this Agreement shall remain in full force and effect.
+
+17.7. Transfer / Assignment: The Customer is not authorized to assign this Agreement (including sending or transmitting login credentials to a third party) without the prior written permission of AppFollow. AppFollow may assign this Agreement without prior written consent to: (i) a parent or subsidiary, (ii) an acquirer of substantially all of the stock or assets of AppFollow, or (iii) a successor by merger. Any attempted assignment in violation of this Section will be void.
+
+18. AI Usage
+
+18.1. AppFollow incorporates AI features to enhance the Service. These features include:
+
+    AI Replies and AI Summary for reviews using OpenAI model GPT-4.
+    Reviews semantic and sentiment tagging using a customized XLMRoberta model.
+
+18.2. The AI features process publicly available data and manual tags provided by the Customer. The data processed includes:
+
+    Titles and contents of reviews for AI training and service enhancement.
+    AppFollow does not use customer data for training its AI models.
+
+18.3. AI Use and Outputs
+
+18.3.1. AI Features and Customer Data Use
+AppFollow may offer features that incorporate artificial intelligence (“AI Features”), including but not limited to AI-generated replies, review summaries, semantic analysis, and sentiment tagging. These AI Features may use third-party large language models (e.g., OpenAI) or AppFollow’s proprietary models. The AI Features process publicly available data, such as review content, and may use Customer-provided manual tags only upon explicit written request by the Customer and solely to train a Custom Semantic Tag for that Customer. AppFollow does not use personal data or any Customer Data for training third-party models.
+
+18.3.2. Customer Inputs and Outputs
+The Customer retains ownership of all content it submits to the AI Features (“Inputs”). AppFollow grants the Customer a perpetual, worldwide, royalty-free license to use, reproduce, modify, and distribute the outputs generated by the AI Features (“Outputs”) for its internal business purposes. AppFollow retains all rights in its models and systems, and nothing in this Agreement transfers ownership of AppFollow’s underlying models or software.
+
+18.3.3. Use of Customer Data for Model Improvement
+Except as stated in Section 18.3.1, AppFollow does not use Customer-provided content, whether anonymized or otherwise, to train or improve its models. AppFollow does not use any Customer Data — including review summaries, prompts, queries, or Outputs — for model tuning, training, or development without the Customer’s express prior consent.
+
+18.3.4. AI Feature Limitations and Disclaimers
+Customer acknowledges that Outputs generated by AI Features may not be accurate or complete and should not be relied upon as professional advice. AppFollow makes no warranty regarding the fitness, legality, or accuracy of any AI-generated content and disclaims all liability for actions taken based on such content, except as otherwise provided in this Agreement.
+
+19. Information Security Standards
+
+19.1 AppFollow maintains administrative, physical, and technical safeguards consistent with industry best practices to protect Customer Data. These include ISO 27001 certification, ISO 27001-certified security procedures for infrastructure, access controls, and regular internal audits.

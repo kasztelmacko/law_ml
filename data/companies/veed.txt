@@ -1,0 +1,287 @@
+Terms of Use
+
+TERMS LAST UPDATED ON: 22nd APRIL, 2024
+
+PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING OUR APPLICATIONS (INCLUDING OUR WEBSITE).
+
+BRIEF SUMMARY OF THESE TERMS
+
+This quick summary is supplied for your convenience. It is not intended to replace the main terms below. So please refer to the main terms for full details. 
+
+You should ensure that you comply with the Terms of Use when you use and upload content to our Applications. 
+
+You retain any ownership rights that you may have in the content you upload to our Applications. We own or have license to use all intellectual property rights in all original work relating to our Applications. You therefore must not use any content on our Applications (other than any content that you have uploaded, created or edited on our Applications) for commercial purposes without obtaining a licence to do so from us or our licensors. 
+
+Where you use our Applications under a ‘Free’ subscription, you grant us a right to use any content you upload our Applications to improve those Applications and any of our related products and services (including to train and develop any AI models that power our Applications). This does not apply if you have a paid-for subscription (e.g., ‘Basic’, ‘Pro’ or ‘Business’); nor does it apply to our enterprise customers nor any of the content they provide us.
+
+We have the right to disclose your identity to any third party who is claiming that any content posted/uploaded by you to our Applications constitutes a violation of their intellectual property rights or right to privacy.
+
+We have the right to remove any posting, content or upload you make on our Applications for any reason.
+
+We are not liable for any loss or damage that you may suffer (save for any liability that we may not exclude or limit under the laws of England and Wales). 
+
+Finally, you may contact us at hello@veed.io if needed. 
+‍
+
+CONTENTS
+
+1. TERMS OF USE
+
+2. OTHER APPLICABLE TERMS
+
+3. WHO WE ARE & HOW TO CONTACT US
+
+4. CHANGES TO THESE TERMS
+
+5. CHANGES TO OUR APPLICATIONS
+
+6. ACCESSING OUR APPLICATIONS
+
+7. YOUR ACCOUNT
+
+8. INTELLECTUAL PROPERTY RIGHTS
+
+9. NO RELIANCE ON INFORMATION
+
+10. LIMITATION OF LIABILITY
+
+11. UPLOADING CONTENT TO OUR APPLICATIONS 
+
+12. USER-GENERATED CONTENT ON OUR APPLICATIONS
+
+13. MALICIOUS USE OR DIGITAL ATTACKS
+
+14. LINKING TO OUR APPLICATIONS
+
+15. OUR RIGHTS & OBLIGATIONS
+
+16. APPLICABLE LAW
+‍
+
+    TERMS OF USE
+
+These terms of use (together with the documents referred to in it) tell you the rules for using our websites (including subdomains eg: https://veed.io and https://veed.com), applications for mobile, tablet, desktop, browsers and other smart device systems through which we make our video tools and services available (“our Applications”), whether as a guest or a registered user. Use of our Applications includes (but is not limited to) accessing, browsing, or registering to use our Applications.
+
+Please read these terms carefully before you start using our Applications. By using our Applications, you confirm that you accept these terms and that you agree to comply with them. If you do not agree to these terms, you must not use our Applications.
+
+    OTHER APPLICABLE TERMS
+
+These terms refer to the following additional terms, which also apply to your use of our Applications:
+
+    Our Privacy Policy, which sets out the terms on which we process any personal data collected from you, or that you provide to us. By using our Applications, you consent to such processing and you warrant that all data provided by you is accurate.
+    Our Cookie Policy, which sets out information about the cookies on our Applications.
+    Our Terms of Sale shall apply to you if you create a free account, paid account, or purchase any goods or services from our Applications.  
+    Our Code of Conduct which details prohibited activities while using our Applications
+
+    WHO WE ARE & HOW TO CONTACT US
+
+Veed Limited ("we", "us" or "our" in these terms) is a limited company registered in England and Wales under company number 11264311 and have a registered office at Unit 12, 2-20 Scrutton Street, London, EC2A 4QE. Our VAT number is GB354412222. 
+
+We are the registered owner of the Veed.io domain and several other software applications related to the production, editing and distribution of video.
+
+If you have questions for us, you may be able to find an answer on our website (Veed.io), via our chat features in our Applications, or via one of our many how-to videos. We can also be contacted at hello@veed.io. When sending us an email, we would appreciate your providing us with: 
+
+    a brief description of the reason of your contacting us
+    details of your account and/or purchase. 
+
+We aim to respond to you within 28 days of receiving your email. 
+
+    CHANGES TO THESE TERMS
+
+We may amend these terms from time to time by amending this page. We will endeavour to notify you or any changes in advance via email (assuming you have provided us with your email address).
+
+Every time you wish to use our Applications, please check these terms to ensure you understand the terms that apply at that time. 
+
+The date on which these terms were most recently updated is stated at the beginning of this document.
+
+    CHANGES TO OUR APPLICATIONS
+
+We may update our Applications from time to time, and may change their content at any time, including (but not limited) to reflect changes to our products/services, our users’ needs and our business priorities. 
+
+However, please note that we are under no obligation to update any content on our Applications which may be out of date at any given time.
+
+    ACCESSING OUR APPLICATIONS
+
+We do not guarantee that our Applications, or any content on them, will always be available or be uninterrupted. We may suspend, withdraw, discontinue, or restrict the availability of all or any part of our Applications without notice but we will try to give you reasonable notice of any suspension or withdrawal. 
+
+You are responsible for making all arrangements necessary for you to have access to our Applications and to backup any content that you have uploaded onto our Applications.
+
+You are also responsible for ensuring that all persons who access our Applications through your internet connection are aware of these terms and other applicable terms and conditions, and that they comply with them.
+
+    YOUR ACCOUNT
+
+To use our services, we may require you to create a user account. You shall provide us with the information we require in a complete and truthful manner. 
+
+If you choose, or you are provided with, a user identification code or similar as part of our registration and security procedures, you must treat such information as confidential. You are responsible for keeping your log-in details (including any log in and security tokens, URLs, password reset URLs, or any other piece of information) confidential and safe. You must not disclose this information to any third party.
+
+By registering an account, you acknowledge and accept that an account registered by a bot or any other automated method is not permitted, that you are only allowed to register one account and that your account cannot be shared with any other person.
+
+We have the right to suspend and/or terminate your access to your account and/or disable any user identification code, whether chosen by you or allocated by us, at any time, if: 
+
+    in our opinion you have failed to comply with any of the provisions of these terms or any additional terms which apply to you (including those referred to at paragraph 2 above); or 
+    your use of our Applications may be in contravention of or cause a contravention of applicable laws; or 
+    your use of our Applications is, in our opinion, inappropriate, offensive or in breach of any code of conduct or community guidelines we may have; or 
+    the content of the video(s) you create, edit or share via our Applications is, in our opinion, inappropriate, offensive or in breach of any code of conduct we may have; or
+    in our opinion there is or may be a need to do so as a result of a legal action taken by the government or relevant authorities or otherwise.
+
+You shall not be entitled to claim damages, reimbursement or similar for our suspension or termination of your account. 
+
+If you know, or suspect that anyone other than you knows, your user identification code, you must promptly change your login credentials and notify us at hello@veed.io.
+
+You can delete your account or stop using the services at any time. You can do this by contacting us directly. If the services you are using have been paid for where you are using our services as an individual consumer, you may also want to cancel your subscription with us. Any cancellation is governed by the terms and conditions you agreed to when you purchased your subscription from us or as amended from time to time.
+
+‍
+If you connect VEED account to your YouTube account you are bound by YouTube Terms of Service. For more information about the terms of service of YouTube please visit YouTube Terms of Service page.
+
+    INTELLECTUAL PROPERTY RIGHTS
+
+We are the owner or the licensee of all intellectual property rights in original work on our Applications, and in the material published on it.  These works are protected by copyright laws and treaties around the world. All such rights are reserved. 
+
+You shall not access, use or disclose our original source code, technique, algorithms and procedures of or contained in or relating to our Applications.
+
+You may download extracts from our Applications for your personal use and you may draw the attention of others to content posted on our Applications. However, you must not modify the copies of any materials you have in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text. 
+
+Our status (and that of any identified contributors) as the authors of content on our Applications must always be acknowledged.
+
+You must not use any part of the content on our Applications (other than any content that you have uploaded, created or edited on our Applications) for commercial purposes without obtaining a licence to do so from us or our licensors. 
+
+Subject to your compliance with these terms, we grant you a revocable, non-exclusive, non-sublicensable and non-transferable license to use our Applications within the scope and purposes of our Applications.  
+
+If you breach these terms, your right to use our Applications will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. 
+
+    NO RELIANCE ON INFORMATION
+
+The content which we own on our Applications (our “Content”) is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of our Content.
+
+Although we make reasonable efforts to update our Content, we make no representations, warranties or guarantees, whether express or implied, that our Content is accurate, complete or up-to-date.
+
+Where our Applications contain links to other sites and resources provided by third parties, these links are provided for your information only. Such links should not be interpreted as approval by us of those linked websites or information you may obtain from them. We have no control over the contents of those sites or resources.
+
+Similarly, where our Applications contain content uploaded by our users, such content is provided for your information only. Such content should not be interpreted as approval by us of any information you may obtain from them. We assume no liability over the content uploaded by our users.
+
+    LIMITATION OF LIABILITY
+
+Nothing in these terms excludes or limits our liability for death or personal injury arising from our negligence, or our fraud or fraudulent misrepresentation, or any other liability that cannot be excluded or limited by the laws of England and Wales.
+
+To the extent permitted by law, we exclude all conditions, warranties, representations, or other terms which may apply to our Applications or any content on it, whether express or implied.
+
+We shall not be liable to any user for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
+
+    use of, or inability to use, our Applications; or
+    use of or reliance on any content displayed on our Applications.
+
+Please note that we shall not be liable for indirect loss or damage including:
+
+    loss of profits, sales, business, or revenue;
+    business interruption;
+    loss of anticipated savings;
+    loss of business opportunity, goodwill, or reputation; or
+    any indirect or consequential loss or damage.
+
+We shall not be liable for any loss or damage caused by a virus, distributed denial-of-service attack, or other technologically harmful material that may infect your computer equipment, computer programs, data, or other proprietary material due to your use of our Applications or to your downloading of any content on them, or on any website linked to them.
+
+We assume no responsibility for the content of websites linked on our Applications. Such links should not be interpreted as endorsement by us of those linked websites. We shall not be liable for any loss or damage that may arise from your use of them.
+
+    UPLOADING CONTENT TO OUR APPLICATIONS 
+
+Compliance and ownership
+
+Whenever you make use of a feature that allows you to upload content to our Applications, or to make contact with other users of our Applications, you must comply with these terms.
+
+Any content you upload to our Applications and make publicly available shall be considered non-confidential. 
+
+You retain any ownership rights that you may have in the content you upload to our Applications and in any content that you generate as a result of using our tools.
+
+Using your content to provide the Services
+
+When you upload or post content to our Applications we need to be able to use and share that content to enable certain features in the application. As such, you grant us the following rights to use that content: 
+
+    a worldwide, revocable, non-exclusive, royalty-free, transferable licence to use, reproduce and display that user-generated content in connection with the services provided by our Applications; and 
+    a worldwide, revocable, non-exclusive, royalty-free, transferable licence for other users or partners to use the content in accordance with the functionality of our Applications.
+
+'Free' tier users only - using your content to improve our Applications  
+
+If you use our Applications under a ‘Free’ subscription, you grant us the following additional right to use content you upload or post to our Applications under that ‘Free’ subscription: a worldwide, nonexclusive, royaltyfree, transferable right and licence to use that content to develop or improve our Applications and any of our related products and services (including to train, test and develop any relevant artificial intelligence models and/or to create, train, test and develop new, improved or augmented algorithms, models, model weights etc.). For so long as you maintain a ‘Free’ subscription to use our Applications this right and licence is irrevocable. If you wish to object to our use of your content in this way and to revoke this right and licence, you may do so: 
+
+    after you have deleted your account or upgraded to a paid-for subscription (e.g., ‘Basic’, ‘Pro’ or ‘Business’); or
+    at any time during the term of your ‘Free’ subscription, provided however, that in such cases you will no longer be permitted to use our Applications under our ‘Free’ subscription tier, and must either delete your account or upgrade to a paid-for subscription.
+
+Following any objection and revocation of this licence, you acknowledge that we may retain and continue to freely use any information derived from use of your content for these development and improvement purposes, which has been deidentified, anonymised, and/or aggregated in such a manner that the resultant information no longer identifies you, your content or any other person(s)).
+
+For more information on our use of your personal data in this context, your associated rights and how to exercise them, please see our Privacy Policy (in particular, you can refer to ‘4. How we use your personal data’, and  ‘9. Your legal rights’).
+
+‍
+
+Your promises and commitments about your content
+
+When you upload or post content to our Applications, you confirm that you: 
+
+    have the legal right to do so, including the right and ability to use grant the rights and licences set out above (as and where applicable); 
+    are not prevented to do so (for example, by any applicable law or confidentiality obligations); 
+    are not acting in violation of the intellectual property rights (including moral rights) of any person (which includes natural persons and body of persons corporate or unincorporate), or their right to privacy, when doing so; 
+    have the explicit consent to do so from the people featured in your videos (or similar) and agree to supply their explicit written consent which you obtained on our request; and
+    have the explicit consent to do so when your video (or similar) features places that require permission to be sought in order to be featured.   
+
+You warrant that any such contribution by you (by uploading your content to our Applications) complies with these terms, and you will be liable to us and indemnify us for any breach of this warranty. This means you will be responsible for any loss or damage we suffer as a result of your breach of warranty. 
+
+While we intend to prevent the loss of any content you upload to or create with our apps, ultimately you are solely responsible for securing and backing up your content.
+
+Disclosing and removing your content
+
+We also have the right to disclose your identity to any third party who is claiming that any content posted or uploaded by you to our Applications constitutes a violation of their intellectual property rights, or of their right to privacy.
+
+We have the right to remove any posting you make on our Applications for any reason, including if your post does not comply with these terms.
+
+When you upload or post content to our Applications, you have the options to make your content either publicly available or private and you agree that we shall have access to your content whichever option you take. Our access and use of your content (along with that of any sub-processors) is subject to our Privacy Policy.
+
+If you choose to make your content publicly available within our Applications, your personal data and identifier (including user ID, uploaded content, profile image, avatar or nickname) may be made available to the general public.
+
+    USER-GENERATED CONTENT ON OUR APPLICATIONS
+
+Our Applications may include information and materials uploaded by other users of our Applications. These information and materials (if any) have not been verified or approved by us. The views expressed by users on our Applications do not represent our views or values.
+
+If you wish to complain about content uploaded by any user, please contact us at hello@veed.io with the following information: 
+
+    your full name, email address, postal address and telephone number; 
+    who you are complaining on behalf of;
+    link or location of the content that you are complaining about; 
+    details of your complaint; and 
+    your request.
+    ‍
+
+How to file a takedown notice (called a “DMCA notice”)
+
+If copyright holders or their agents believe that any content on this Application infringes upon their copyrights, they may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing the Owner’s Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):
+
+    A physical or electronic signature of a person authorized to act on behalf of the holder of an exclusive right that is allegedly infringed;
+    Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+    Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the Owner to locate the material;
+    Information reasonably sufficient to permit the Owner to contact the notifying party, such as an address, telephone number, and, if available, an electronic mail;
+    A statement that the notifying party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+    A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Failure to comply with all of the requirements outlined above may result in invalidity of the DMCA notice.
+
+Copyright infringement notifications may be submitted to the Owner’s Copyright Agent at the following address: hello@veed.io.
+
+    MALICIOUS USE OR DIGITAL ATTACKS
+
+You must not misuse our Applications by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Applications, the server on which our Applications is stored or any server, computer or database connected to our Applications. You must not attack our Applications via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will cooperate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our Applications will cease immediately.
+
+We do not guarantee that our Applications will be secure or free from bugs or viruses. You are responsible for configuring your information technology, computer programmes and platform to access our Applications. You should use your own virus protection software and take security precautions where possible.
+
+    LINKING TO OUR APPLICATIONS
+
+You may link to our website home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it.
+
+You must not establish a link in such a way as to suggest any form of association, approval, or endorsement on our part where none exists.
+
+We reserve the right to withdraw linking permission without notice.
+
+     OUR RIGHTS & OBLIGATIONS
+
+We may transfer our rights and obligations under these terms to another organisation. We aim to inform you in writing if this happens.
+
+    APPLICABLE LAW
+
+These terms, its subject matter, and its formation, are governed by the laws of England and Wales and the Courts of England and Wales shall have exclusive jurisdiction.

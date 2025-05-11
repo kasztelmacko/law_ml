@@ -1,0 +1,667 @@
+hese Terms of Service, together with any and all other documents referred to herein, set out the terms under which you may use Our Platform to create, edit, and host Online Schools (defined below) and form a binding agreement between you and LearnWorlds (CY) Ltd. and its affiliates (“LearnWorlds”, “Us”, “We” or “Our”). By signing up for or using the Platform offered by LearnWorlds or by using the LearnWorlds website, you are agreeing to be bound by these Terms of Service, together with LearnWorlds Privacy Policy, Cookies Policy and when applicable the Data Processing Agreement (“DPA”) , incorporated herein by reference (collectively, the “Terms of Service”). If you do not agree to comply with and be bound by these Terms of Service, you should not and will not be able to use Our Platform. These Terms of Service, as well as any and all agreements are in the English language only.
+
+ 
+
+ 
+1. Definitions and Interpretation
+
+1.1In these Terms of Service, unless the context otherwise requires, the following expressions have the following meanings:
+
+ 
+
+ 
+“Account”
+	means an account required to access and/or use certain areas of Our Platform including our Site;
+“Content”
+	means any and all text, images, audio, video, scripts, code, software, databases, and any other form of information capable of being stored on a computer that appears on, or forms part of Our Site (including, but not limited to, Our Platform);
+“Contract”
+	means a contract for the purchase of a Subscription to use Our Platform, as explained in Clause 7;
+“Data Protection Legislation”
+	means 1) the EU Regulation 2016/679 General Data Protection Regulation (“GDPR”), 2) the e-privacy directive and any national
+implementing laws, regulations, and secondary legislation (as amended from time to time), 3) the UK GDPR;
+“End-User Content”
+	means any content submitted by an End-User (defined below);
+“Platform”
+	means collectively the online facilities, code, tools, services, additional services and information that We provide through Our Site for the creation, editing, and hosting of Online Schools;
+“Subscription”
+	means a subscription to Our Site providing access to Our Platform;
+“Subscription Confirmation”
+	means our acceptance and confirmation of your purchase of a Subscription;
+“Subscription ID”
+	means the reference number for your Subscription;
+“Third Party Service Provider”
+	means a third party providing a service that is offered to End-users and Online School Administrators (defined below) through Our Platform;
+“User”
+	means a user of Our Site;
+“Online School”
+	means a specialized website created by a User using Our Platform, which shall contain End-users Content (Free and/or Paid Online Courses) and be hosted by Us; and
+“We/Us/Our”
+	means “LearnWorlds”, the brand owned and operated by LearnWorlds (CY) Ltd, a limited company registered in Cyprus under company number HE380294.
+
+ 
+
+ 
+2. Information About Us
+
+Our website (https://www.learnworlds.com) (the “Site”) and Our Platform are owned and operated by LearnWorlds (CY) Ltd., a limited company registered in Cyprus under company number HE380294.
+
+ 
+
+Registered address: Gladstonos 120, Foloune Building, 2nd Floor, B1, Limassol, 3032, Cyprus.
+
+VAT number: CY10380294R.
+
+Email address: support@learnworlds.com.
+Telephone number: +357 22000504.
+
+ 
+
+ 
+3. Age Restrictions
+
+Consumers may only use Our Platform and create Online Schools if they are at least 18 years of age. By using the Platform, you represent and warrant that you are not under the age of 18 years old. Furthermore, the Platform is not offered nor directed at children under the age of 18 and We do not knowingly collect personally identifiable information of children as School Owners.
+
+ 
+
+ 
+4. Description of the LearnWorlds Platform
+
+4.1 LearnWorlds provides a subscription online content-creation Platform designed to allow content creators and/or trainers (“School Owner”) to build, design, publish, share and/or sell courses, coaching offerings and other services to their end-users (“End-Users”). LearnWorlds provides each creator with a dedicated LearnWorlds environment (“Online School”) to host and offer their services.
+
+ 
+
+4.2 End-users Account To access or use any Online School you may be required to register for an Account. For example, to enroll in a School Owner’s course, you may be required, by the School Owner, to create an End-user’s Account associated with the chosen Online School. When you register for an Account, you agree to provide true, accurate, current and complete information and to keep your Account up to date, where applicable.
+
+ 
+
+4.3 Online School Administrator Account To sign up to the Platform as a School Owner, you will need to open an Account. If you are signing up on behalf of your employer, your employer shall be the Online School Administrator of the account and any associated school(s). If you are signing up on behalf of your employer, then you must use your employer-issued email address and you represent and warrant that you have the authority to bind your employer to our Terms of Service.
+
+ 
+
+4.4 Relationship between LearnWorlds and End-users LearnWorlds is neither a content provider nor an educational institution. School Owners and End-users are not employees of LearnWorlds.
+LearnWorlds does not bear any responsibility for interactions between School Owners and End-users, with the exception of providing the technological means through which School Owners may make their courses and relevant content (collectively, “School Owner Content”) available. Upon the purchase or enrollment of a User in an Online School, LearnWorlds processes data only to provide the agreed services to its School Owner according to the use of the Online School. LearnWorlds does not provide, sell, rent, release, disclose, or otherwise transfer End-users data to School Owners for monetary or other valuable consideration. End-users assume full responsibility for the disclosure and use of any personal information they choose to disclose to any School Owner on the Platform.
+
+ 
+
+4.5 The LearnWorlds Academy Platform The LearnWorlds Academy Platform offers a website that allows Users and School Owners to search, find, discover and understand how to create courses and relevant material. LearnWorlds Academy is an overall part of the LearnWorlds Platform, and these Terms apply in full force to the use of the LearnWorlds Academy Platform.
+
+ 
+
+ 
+5. Access and changes to Our Platform
+
+5.1 Access to Our Platform and the creation, editing, and hosting of Online Schools requires a paid Subscription. Upon purchasing a Subscription, Our Platform will be available to you, and your Online School(s) available, for the duration of that Subscription and any and all subsequent renewals.
+
+ 
+
+5.2 We also offer a free trial period (the “Trial Period”) that you can enable prior to activation of a Subscription in any plan of thirty (30) days. Once you activate a Subscription the Trial Period expires and you start with the selected Subscription. Activation of the trial period requires you to create an Account by providing your email and creating your Online School’s name and by accepting our Terms of Service.
+
+ 
+
+5.3 We may from time to time make changes in Our Platform:
+
+    Minor changes may be required to make underlying technical alterations, for example, to fix an error or to address a security issue. We will inform you either by email, an in-app announcement and/or a blogpost here: https://whatsnew.learnworlds.com/en of any such changes (including, if applicable, anything that you need to do), however they will be unlikely to materially adverse affect your use of Our Platform or the availability of your Online School (s);
+    Minor changes may be made to reflect changes in the law or other regulatory requirements. We will inform you by email and/or an in-app announcement of any such changes (including, if applicable, anything that you need to do), however they will be unlikely to materially affect your use of Our Platform or the availability of your Online School(s); and
+    As detailed in https://www.learnworlds.com/plans/, We will continue to develop and improve Our Platform over time, in some cases making significant changes to it. You will be kept fully informed of any and all such changes.
+
+ 
+
+5.4 We will always aim to ensure that Our Platform and your Online School(s) are available at all times. In certain limited cases, however, We may need to temporarily suspend availability to make certain changes outlined under sub-Clause 5.2. Unless We are responding to an emergency or an urgent issue, We will inform you in advance of any interruptions to availability.
+
+ 
+ 
+6. Pricing and Availability
+
+6.1 We make all reasonable efforts to ensure that all descriptions of the services and products available from Us as stated on Our Website (specifically, Our Platform, providing creation and editing tools, and hosting for Online Schools) correspond to the actual services that will be provided and/or made available to you. There may, however, be minor variations in the descriptions, from time to time, due to active Platform development, bug fixes and constant addition of new features.
+
+ 
+
+6.2 Please note that sub-Clause 6.1 does not exclude Our responsibility for mistakes due to wilful misconduct or gross negligence on Our part and refers only to minor variations in Our services, not to different services altogether.
+
+ 
+
+6.3 Where appropriate, you may be required to select your required Subscription. Different types of Subscription provide access to different features on Our Platform. Please ensure that you select the appropriate Subscription when prompted.
+
+ 
+
+6.4 We may from time to time change Our prices. Changes in price will not affect any current Subscription that you have already purchased but may apply to any subsequent renewal or new Subscription. We will inform you of any change in price at least 30 days before the change is due to take effect. If you do not agree to such a change, you may cancel the renewal of your Subscription.
+
+ 
+
+6.5 We make all reasonable efforts to ensure that all prices shown on Our Site are correct at the time of going online. Changes in price will not affect any Subscriptions that have already been purchased but may affect renewals of Subscriptions.
+
+ 
+
+6.6 All Subscription prices are automatically checked by Us when your purchase is processed. In the unlikely event that We have shown incorrect pricing information, We will contact you in writing to ask you how you wish to proceed. If We do not receive a response from you within five (5) business days, We will treat your purchase as cancelled and we will refund and notify you accordingly in writing.
+
+ 
+
+6.7 If We discover an error in the price or description of your Subscription after your order is processed, We will inform you immediately and make all reasonable efforts to correct the error. You may, however, have the right to cancel the Contract if this happens. If We inform you of such an error and you do wish to cancel the Contract, please refer to sub-Clause 17.3.3.
+
+ 
+
+6.8 If the price of a Subscription that you have ordered changes between your order being placed and Us processing that order and taking payment, you will be charged the price shown on Our Site at the time of placing your order.
+
+ 
+
+6.9 All our prices do not include VAT. If you are a Business based in the EU with a valid EU VAT number then you will not be charged VAT. If you are a consumer or non-EU VAT registered business based in the EU then the respective VAT rate will apply. If you are a Business based in the UK with a valid UK VAT number then you will not be charged VAT. If you are a consumer or non-UK VAT registered business based in the UK then the respective VAT rate will apply. If the VAT rate changes between your order being placed and Us taking payment, the amount of VAT payable will be automatically adjusted when taking payment.
+
+ 
+
+ 
+7. Subscriptions
+
+7.1 You will be guided through the Subscription process when you make an initial purchase, an upgrade or downgrade of a currently existing subscription plan. Before confirming a purchase, you will be given the opportunity to review your chosen Subscription that will include all relevant information and amend any errors in your order. Please ensure that you check carefully all details and these Terms of Service before confirming your purchase. In case of an upgrade or downgrade you will receive prior to completing any action all information regarding your decision including the fees that will be credited or charged respectively. In case of a downgrade from your current Subscription plan, you will lose access to certain features tailored to specific Subscription plans. All downgrades shall be scheduled to take effect at the end of the current Subscription term.
+
+ 
+
+7.2 No part of Our Site, Our Platform, or any other material constitutes a contractual offer capable of acceptance. By purchasing a Subscription, a plan upgrade or downgrade, you are making Us a contractual offer that We may, at Our sole discretion, accept. Our acceptance is indicated by Us sending you a Subscription Confirmation by email or confirmation regarding the upgrade or downgrade. Only once We have sent you the relevant confirmation will there be a legally binding contract between Us and you.
+
+ 
+
+7.3 Subscription Confirmations contain the following information:
+
+    Your Subscription ID;
+    Confirmation of your chosen Subscription including full details of the main characteristics and main features of Our Platform available as part of that Subscription;
+    Fully itemised pricing, including, where appropriate, taxes and other additional charges and payment method;
+    The duration of your Subscription (including the start date, and the renewal date);
+    Confirmation of your acknowledgement that Our Platform will be made available to you immediately.
+
+ 
+
+7.4 In the unlikely event that We do not accept or cannot fulfil your order for any reason, We will explain why in writing. No payment will be taken under normal circumstances. If We have taken payment any such sums will be refunded to you as soon as possible and in any event within 14 calendar days.
+
+ 
+
+7.5 Any refunds under this sub-clause 7.4 will be issued to you as soon as possible, and in any event within 14 calendar days of the day on which the event triggering the refund occurs.
+
+ 
+
+7.6 Refunds under this sub-clause 7.4 will be made using the same payment method that you used when purchasing your Subscription.
+
+ 
+
+7.7 By purchasing a Subscription, you are expressly requesting that you wish access to Our Platform to be granted to you immediately. Please be aware that We do not offer any Subscriptions that do not begin immediately. For more details of cancellation, please refer to clause 17.
+
+ 
+
+ 
+8. Payment
+
+8.1 Payment for Subscriptions must always be made in advance. Your chosen payment method from the available options provided on the Site will be charged when we process your order and send you a Subscription Confirmation (this usually occurs immediately and you will be shown a message confirming your payment).
+
+ 
+
+8.2 We accept the following methods of payment:
+
+    MasterCard;
+    Visa;
+    Paypal
+    For payments in Euro currency we accept SEPA payments.
+    For Yearly (prepaid) subscriptions of Pro Trainer, Learning Center, High Volume and custom/Corporate plans we can also accept payments via Bank Transfer.
+
+ 
+
+8.3 If you do not make any payment due to Us on time, We may suspend your access to Our Platform and the availability of your Online School(s). If you do not make a payment within 21 calendar days of the invoice’s issuance or thirty (30) days in case of a bank transfer then your Account and Online School will become inoperable and your school will be scheduled for deletion one week after. Any outstanding sums due to Us will remain due and payable.
+
+ 
+
+8.4 If you believe that We have charged you an incorrect amount, please contact Us at support@learnworlds.com as soon as reasonably possible to let us know. You will not be charged while availability is suspended.
+
+ 
+
+ 
+9. Intellectual Property Rights and Licences
+
+9.1 We grant you a limited, non-exclusive, revocable, worldwide, non-transferable licence to use Our Platform to create, edit, manage and operate Online Schools for personal (including research and private study) and business purposes, subject to these Terms of Service.
+
+ 
+
+9.2 Subject to the licence granted to Us herein, you have and retain the ownership of copyright and other intellectual property rights in your content, (subject to any third-party rights in that content and the terms of any licence under which you use such content) meaning software (including machine images), data, text, audio, video or images, offerings, and personal data uploaded, collected, posted, stored, displayed, distributed, or transmitted on or in connection with your Account or your Online School. We do not claim ownership over any of your content as described in this clause 9.2. These Terms of Service do not grant Us any rights to your content except for the limited rights needed for us and described below to provide the Platform to you. By creating and uploading your content or uploading End-users content on the Platform: (a) You grant Us an unconditional, non-exclusive, transferable, royalty-free, perpetual subject to the duration of your Subscription and provisions of these Terms of Service and privacy policy, worldwide licence to access, use, store, archive, publish, transmit, adapt, edit if You place such a request, distribute, prepare derivative works from, display the same, sublicense solely for the purposes of operating Our Site and Platform and providing the requested services to you (b) You allow other users to view your content and Online School, (c) You allow Us to use in an aggregated, anonymized and de-identified form your Content and data to improve and enhance our Platform including development, diagnostic and corrective measures and actions in connection with the provision of Services and (d) You grant Us a non-exclusive right to use your trade-names, trademarks, service marks, trade dress and logos to promote your Online School and our Platform and to perform all applicable obligations to provide the agreed Services herein.
+To avoid any confusion as stated in this clause 9.2, any content You create and upload on your School is and shall remain your property and you have all rights associated with it.
+Should any of your Content involve third party content, You agree that We are not responsible in any way for nor representations or warranties in relation to any third party content you use or any third party intellectual property rights.
+
+ 
+
+9.3 All other Content included in Our Platform (including all user-facing material, and all underlying material such as code, software, and databases) and the copyright and other intellectual property rights in that Content, unless specifically labelled otherwise, belongs to or has been licensed by Us. All Content is protected by applicable European and international intellectual property laws and treaties.
+
+ 
+
+9.4 By accepting these Terms of Service, you hereby undertake:
+
+    Not to copy, download or otherwise attempt to acquire any part of Our Platform;
+    Not to modify, create derivative works, disassemble, decompile or otherwise reverse engineer Our Platform or attempt to discover any part or the entire source code or any elements of the Platform;
+    Not to allow or facilitate any use of Our Platform that would constitute a breach of these Terms of Service; and
+    Not to embed or otherwise distribute Our Platform on any website, ftp server or similar.
+    Not to license, sublicense, sell, rent, lease, or otherwise permit third parties to use the Platform (the license provided with a Subscription is only for Your use and you may not assign it to anyone else without Our permission).
+    Not to circumvent or disable any security or other technological features or measures of the Platform.
+    Not to engage in any activity that would interfere with or damage the Platform.
+
+ 
+
+ 
+10. Online Schools and End-users Content
+
+10.1 You agree that you will be solely responsible for any and all content that you upload to Our Platform and for any and all Online Schools that you create using Our Platform. Specifically, you agree, represent and warrant that you have the right to create or upload the End-users Content and/or Online School Administrator Content and the right to use all materials of which it is comprised and that it will not contravene any aspect of Our Acceptable Usage Policy, detailed in clause 11.
+
+ 
+
+10.2 You agree that you will be liable to Us and will, to the fullest extent permissible by law, indemnify Us for any breach of the warranties given by you under sub-clause 10.1. You will be responsible for any loss or damage suffered by Us as a result of such breach.
+
+ 
+
+10.3 You (or your licensors, as appropriate) warrant and guarantee that you retain ownership of your Online School(s) Owner content and all intellectual property rights subsisting therein, except to the extent that an Online School incorporates Content belonging to Us (including, but not limited to, that forming part of Our Platform).
+
+ 
+
+10.4 If you wish to remove Online School Administrator or End-users Content, you may do so by deleting it through your Online School’s authoring environment or by contacting our Customer Support (https://support.learnworlds.com). Removing End-users Content also revokes the licence granted to Us to process the same. You acknowledge, however, that caching or references to your End-users Content and/or Online School(s) Owner may not be made immediately unavailable (or may not be made unavailable at all where they are outside of Our reasonable control).
+
+ 
+
+10.5 We may reject, reclassify, or remove any End-users and/or Online School Content created or uploaded using Our Platform where, in Our sole opinion, such End-users Content or Online School violate Our Acceptable Usage Policy, or if We receive a complaint from a third party and determine that the End-users or Online School(s) Content in question should be removed as a result.
+
+ 
+ 
+11. Acceptable Usage Policy
+
+11.1 You may only use Our Platform in a manner that is lawful and that complies with the provisions of this clause 11. Specifically:
+
+    You must ensure that you comply fully with any and all applicable local, national and international laws and/or regulations;
+    You must not use Our Platform in any way, or for any purpose, that is unlawful or fraudulent (including but not limited to phishing or any other type of scamming practices);
+    You must not use Our Platform or your Online School(s) for unauthorised mass-communications, commonly referred to as “spam” or “junk mail”;
+    You must not use Our Platform to knowingly send, upload, or in any other way transmit data that contains any form of virus or other malware, or any other code designed to adversely affect computer hardware, software or any data of any kind; and
+    You must not use Our Platform in any way, or for any purpose, that is intended to harm any person or persons in any way.
+    You must not use abusive, hostile or offensive language in any communication of any kind and/or Online Content via our Platform, your Online School or Account in light of contacting our Customer Support service and respective portal.
+    You may not probe, scan or test the vulnerability or security of the Platform or any of LearnWorlds system or network and you may not access the Platform or its source for any such reason.
+    You may not use any manual or automated system or software to extract or scrape data from websites or other interfaces through which we make our Platform available.You may not deny others access to, or reverse engineer, the Platform, or assist anyone else to do so, to the extent such restriction is permitted by law.
+    You must not use any web crawlers or spiders, data monitoring tools or any data copying and replication technologies within the Website, the Platform and the Services without Our prior written consent.
+
+ 
+
+11.2 The following types of End-users and/or Online Schools Content and/or communication of any kind to any recipient including LearnWorlds personnel are not permitted on Our Platform and you must not create, submit, communicate, link to, or otherwise do anything that:
+
+    is sexually explicit or pornographic;
+    is obscene, offensive, abusive, hateful, or otherwise inflammatory;
+    promotes violence;
+    promotes or assists in any form of unlawful activity;
+    discriminates against, or is in any way defamatory of, any person, group or class of persons, race, sex, religion, nationality, disability, sexual orientation, or age;
+    is intended or otherwise likely to threaten, harass, annoy, alarm, inconvenience, upset, or embarrass another person;
+    is calculated or otherwise likely to deceive;
+    is intended or otherwise likely to infringe (or threaten to infringe) another person’s right to privacy or otherwise uses their personal data in a way that you do not have a right to;
+    misleadingly impersonates any person or otherwise misrepresents your identity or affiliation in a way that is calculated to deceive (obvious parodies are not included within this definition provided that they do not fall within any of the other provisions of this sub-clause 11.2);
+    implies any form of affiliation with Us where none exists;
+    infringes, or assists in the infringement of, the intellectual property rights (including, but not limited to, copyright, patents, trade marks and database rights) of any other party; or
+    is in breach of any legal duty owed to a third party including, but not limited to, contractual duties and duties of confidence.
+
+ 
+
+11.3 We reserve the right to suspend or terminate your Account, the availability of your Online School(s), and/or your access to Our Platform, and block access to the Platform from a particular IP address or other user identifier or report you to the competent authorities if you materially breach the provisions of this Clause 11 or any of the other provisions of these Terms of Service. Specifically, We may take one or more of the following actions at any order We find fit:
+
+    Suspend, whether temporarily or permanently, your Account and/or your right to access Our Platform (for more details regarding such cancellation, please refer to sub-Clause 16.9);
+    Remove any of your End-users and/or Online School(s) Content (or any part thereof) which violates this Acceptable Usage Policy;
+    Issue you with a written warning;
+    Take legal proceedings against you for reimbursement of any and all relevant costs on an indemnity basis resulting from your breach;
+    Take further legal action against you as appropriate;
+    Disclose such information to law enforcement authorities as required or as we deem reasonably necessary; and/or
+    Any other actions which We deem reasonably appropriate (and lawful).
+
+ 
+
+11.4 We hereby exclude any and all liability arising out of any actions (including, but not limited to, those set out above) that We may take in response to breaches of these Terms of Service.
+
+ 
+
+11.5 We may terminate your Account, Online School and delete any content contained in it if there is no account activity for over 12 months. However, we might try to communicate with you and attempt to warn you by email before terminating your Account and Online School to provide you with an opportunity to maintain it.
+
+ 
+
+11.6 LearnWorlds is allowed by you and you explicitly grant to LearnWorlds the right to employ certain controls to perform email address validation and scan the content of emails you deliver using the email services prior to delivery. The aforementioned activity is intended to limit spam, phishing, or other malicious content (including but not limited to misinformation, disinformation, and other harmful content) (“Harmful Content”) that contravenes these Terms of Service. In any case, We do not warrant that the emails will be free of the abovementioned Harmful Content, and each Online School Owner is responsible for all content generated by their Online Schools.
+
+ 
+
+ 
+12.Problems with Our Platform and consumers’ legal rights
+
+12.1 If you have any questions or complaints regarding Our Platform or any other aspect of Our service, please email Us at support@learnworlds.com or by using any of the methods provided on Our contact page at https://www.learnworlds.com/contact/.
+
+ 
+
+12.2 If you are a consumer, you have certain legal rights under the European Union consumer rules that may apply to Our Platform:
+
+    Any digital content provided by Us must be as described in our website, fit for purpose, and of satisfactory quality. If digital content is faulty, you may be entitled to a repair or replacement. If a fault cannot be remedied, or has not been remedied within a reasonable time and without significant inconvenience to you, you may be entitled to a full or partial refund. If, as a result of Our failure to exercise reasonable care and skill, any digital content of which Our Platform is comprised (that is not End-users Content or any part of an Online School that is not Our Content) damages your device or other digital content belonging to you, you may be entitled to a repair or compensation.
+    Any services provided by Us must be provided with reasonable care and skill and in compliance with information provided by Us. If We fail to do so, you may be entitled to require Us to repeat or otherwise fix the problem or, if We cannot provide such a remedy, a full or partial refund.
+    For more details concerning your rights and remedies as a consumer, please contact your local consumer Ombudsman.
+
+ 
+
+12.3 Please note that We will not be liable under this clause 12 if We informed you of the fault(s) or other problems with a particular part of Our Platform or service before you used it and it is that same issue that has now caused the problem (for example, if you are testing a pre-release alpha or beta version of a feature and We have warned you that it may contain faults that could harm your device or other digital content); if you are using Our Platform for an unsuitable purpose that is neither obvious nor made known to Us and the problem has resulted from your use of the Platform for that purpose; or if the problem is the result of misuse or intentional or careless damage.
+
+ 
+
+12.4 If there is a problem with Our Platform, please contact Us at support@learnworlds.com or visit the Help Center page on Our Site https://support.learnworlds.com to inform our Customer Support team of the problem.
+
+ 
+
+12.5 Refunds (whether full or partial) under this clause 12 shall be issued within 14 calendar days of the day on which We agree that you are entitled to the refund.
+
+ 
+
+12.6 Refunds under this clause 12 will be made using the same payment method that you used when purchasing your Subscription.
+
+ 
+
+ 
+13. Disclaimers
+
+13.1 You expressly acknowledge and agree that use of the Services is at your sole risk. The Services, the Platform and any relevant information is provided on an ”as is“ and ”as available“ basis without any warranty either express, implied or statutory. We do not warrant that the Services will be uninterrupted, timely, secure, or error-free. We do not warrant that the results that may be obtained from the use of the Services will be accurate or reliable.
+
+ 
+
+13.2 No part of Our Platform or any accompanying documentation (whether provided in electronic form or otherwise) constitutes advice on which you should rely and is provided for general information purposes only. Professional or specialist advice should always be sought before taking any action relating to any aspect of our services.
+
+ 
+
+13.3 Subject to your legal rights if you are a consumer (as summarised above in clause 12), insofar as is permitted by law, We make no representation, warranty, or guarantee that Our Platform will meet your requirements, that it will be fit for a particular purpose, that it will not infringe the rights of third parties, that it will be compatible with all software and hardware, or that it will be secure or that it will deliver specific results.
+
+ 
+
+13.4 We make reasonable efforts to ensure that the content contained within Our Platform and is part of Our Platform is complete, accurate and up-to-date. We do not, however, make representations, warranties or guarantees (whether express or implied) that Our Platform (and the content therein) is complete, accurate or up-to-date.
+
+ 
+
+13.5 We are not responsible for the content or accuracy, or for any opinions, views, or values expressed in any End-users Content, your content and Online Schools created, uploaded, or hosted using Our Platform. Any such opinions, views, or values are those of the relevant User, End-users or School Owner, and do not reflect Our opinions, views, or values in any way.
+
+ 
+
+13.6We are not responsible for the function or outcome of any artificial intelligence system. Artificial intelligence systems could infringe or misappropriate intellectual property rights of third parties, disclose without authorization confidential information, commit plagiarism, or generate inaccurate results. Should you choose to use artificial intelligence systems you understand and acknowledge that your input could be used to train the artificial intelligence system and could be used to produce any outcome that you have not authorized or provided license to. You accept and acknowledge that you should not disclose any confidential information to the artificial intelligence system, as there is no agreement in place to protect such information. Notwithstanding anything to the contrary in these Terms of Service, LearnWorlds cannot and shall not be held liable to you or any third party for any form of damages arising out of Your use of any provided artificial intelligence systems in the Platform including but not limited to inaccurate results, intellectual property rights infringement of a third party, decisions or actions taken by You in reliance upon such results out of the use of the artificial intelligence system or any published outcome by You that could create any kind of liability.
+
+ 
+
+ 
+14. Third Party Service Providers
+
+14.1 LearnWorlds may recommend or provide you via the Site and/or the Platform with tools, products and services of a third-party in relation to software, applications, services, or websites for your consideration to use or not (“Third Party Services”), including the Hire a LearnWorlds Expert webpage. These optional Third Party Services are made available to you to enrich your user experience and be able to have and offer more capabilities to your End-Users via your Online School. Please be very careful and acknowledge that your choice to use these Third-PartyServices is solely between you and the respective third-party service provider (“Third Party Service Provider”). Following the above if and once you decide to use, on your own volition and after careful consideration, any of the Third Party Services apart from these Terms of Service, you agree to enter into respective agreements and abide by their policies (including but not limited to processing of data) of the chosen by you Third Party Service Providers.
+
+ 
+
+14.2 Hire a LearnWorlds Expert webpage is a directory of Third-Party Service Providers, called experts on the relevant webpage, from the fields of course building, API integrations, content creation, custom development, Online School management, marketing, design and strategy and consulting that can help you with specific service capabilities to build and operate your Online School. Via Hire a LearnWorlds Expert webpage you can search, discover, hire, and communicate with Third Party Service Providers from the above fields directly from your Online School Account. You acknowledge and agree that by submitting a project brief where you will provide information about your requirements regarding your project for assistance or other information through Hire a LearnWorlds Expert webpage along with your relevant contact information, you consent to be contacted by your chosen Third Party Service Provider.
+
+ 
+
+14.3 Should you choose to use with any Third Party Service Provider as described above, please note that this will happen entirely at your own volition and risk and it is your responsibility to review their terms of service, privacy policy, data security policy and any other applicable policy, and obtain legal and any other specialist’s advice before proceeding into any use of the offered services and products. LearnWorlds has no control over any Third Party Service Provider or Service. We are not responsible for any aspect of any services provided by Third Party Service Providers, nor do we endorse those services and products or we provide any kind of warranty or representation in relation to them in any way. You expressly release LearnWorlds from any liability rising on any matter out of the use of any Third Party Service. We are not responsible or liable towards you if at any point any Third Party Service Provider ceases to offer its services and products.
+
+ 
+
+14.4 Once you choose to use a Third Party Service in conjunction with the Platform, you represent that you have entered into an agreement with this Third-Party Service Provider and you grant us a license to allow this Third Party Service Provider to access your content or perform any actions according to your agreement in light of this party offering you the agreed services and products. Any data exchange of any kind and any interaction will occur only between you and the Third Party Service Provider. We are not and we will not be held responsible for any disclosure, modification, or deletion of your data or for any corresponding losses or damages you may suffer due to access by a Third Party Service or Third Party Provider to your data. Any processing of your data by a Third Party Service Provider is solely between you and this Third Party Service Provider and respective data processing agreements should be in place. We are not obligated to handle, intervene or participate in any dispute between you and a Third Party Service Provider.
+
+ 
+
+14.5 You may choose to use an Artificial Intelligence system as a Third Party Service Provider offered via the Platform and you acknowledge that you use it at your own risk and that it may, among others, produce inaccurate results, provide insufficient or wrong information, infringe third-party intellectual property rights, create a work product that may not belong to you. LearnWorlds cannot and shall not be held liable by you for any damage arising from your use of any Artificial Intelligence system on the Platform. Furthermore, you are responsible for any kind of content you provide to an Artificial Intelligence system as well as the resulting material that is subsequently generated. You acknowledge and accept that the outcome received from any Artificial Intelligence system that you may use on the Platform could produce results that are not accurate and that the respective technology could pose limits and risks including but not limited to intellectual property infringements.
+
+ 
+
+14.6 You agree that under no circumstances LearnWorlds will be held liable for any direct, indirect, incidental, special, consequential, punitive, extraordinary, exemplary, or other damages resulting from any Third Party Services or your agreement with any Third Party Service Provider of any kind as described above.
+
+ 
+
+ 
+15. Our Liability
+
+15.1 If you are a consumer, We will be liable to you, within the timeframe of the legal guarantee and according to the provisions of European Union law.
+
+ 
+
+15.2 If you are a business, to the fullest extent permissible by law, We accept no liability for any loss in contract, tort (including negligence), for breach of statutory duty, or otherwise arising out of or in connection with the use of (or inability to use) Our Platform or the use of or reliance upon any Content (whether that Content is provided by Us or whether it is End-users Content) included in Our Platform.
+
+ 
+
+15.3 To the fullest extent permissible by law, We accept no liability to consumers or businesses for loss or damage that is not foreseeable.
+
+ 
+
+15.4 To the fullest extent permissible by law, We exclude all representations, warranties, and guarantees (whether express or implied) that may apply to Our Platform or any Content (including End-users Content) included in Our Platform.
+
+ 
+
+15.5 If you are a business, We accept no liability for loss of profits, sales, business or revenue; loss of business opportunity, goodwill or reputation; loss of anticipated savings; business interruption; or for any indirect or consequential loss or damage.
+
+ 
+
+15.6 We exercise all reasonable skill and care to ensure that Our Platform is free from viruses and other malware. Subject to sub-Clause 15.1, We accept no liability for any loss or damage resulting from a virus or other malware, a distributed denial of service attack, or other harmful material that may adversely affect your hardware, software, data or other material that occurs as a result of your use of Our Platform (including the downloading of any Content (including End-users Content) from it) or any other website or service that We may provide a link to.
+
+ 
+
+15.7 We neither assume nor accept responsibility or liability arising out of any disruption or non-availability of Our Platform or any End-users Content or Online School resulting from external causes including, but not limited to, ISP equipment failure, host equipment failure, communications network failure, natural events, acts of war, or legal restrictions and censorship.
+
+ 
+
+15.8 LearnWorlds is not liable for any disputes, claims, losses, injuries, or damage of any kind that may arise out of the Online School Administrator/End-users relationship, including but not limited to, any End-user’s reliance upon any information provided by an Online School Administrator regarding its Online School Administrator Content at any time.
+
+ 
+
+15.9 Nothing in these Terms of Service excludes or restricts Our liability in any situation where it would be unlawful for us to do so including fraud or fraudulent misrepresentation, for death or personal injury resulting from wilful misconduct or gross negligence, or for any other forms of liability which cannot be excluded or restricted by law. For full details of applicable consumers’ legal rights, including those relating to digital content, please contact your local European Ombudsman’s office.
+
+ 
+
+15.10 We reserve the right at any time to modify or discontinue the Services (or any part thereof) or offering of the Platform with or without notice. We shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Services.
+
+ 
+
+15.11 TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE AGGREGATE LIABILITY OF EACH OF LEARNWORLDS, ITS AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, SUPPLIERS, AND LICENSORS ARISING OUT OF OR IN CONNECTION WITH THE PLATFORM, SERVICES AND THESE TERMS OF SERVICE WILL NOT EXCEED THE AMOUNT YOU PAID TO US FOR USE OF THE PLATFORM AND RELEVANT SERVICES AT ISSUE DURING THE 12 MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY.
+
+ 
+
+ 
+16. Viruses, Malware and Security
+
+16.1 We exercise all reasonable skill and care to ensure that Our Platform is secure and free from viruses and other malware. We do not, however, guarantee that Our Platform or any End-users Content or Online Schools Content or Online School are secure or free from viruses or other malware and accept no liability in respect of the same, as detailed in sub-clause 14.6.
+
+ 
+
+16.2 You are responsible for protecting your hardware, software, data and any other relevant material from viruses, malware and other internet security risks.
+
+ 
+
+16.3 You must not deliberately introduce viruses or other malware, or any other material which is malicious or technologically harmful either to or via Our Platform.
+
+ 
+
+16.4 You must not attempt to gain unauthorised access to any part of Our Platform, the server on which Our Platform is stored, or any other server, computer, or database connected to Our Platform.
+
+ 
+
+16.5 You must not attack Our Platform by means of a denial of service attack, a distributed denial of service attack, or by any other means.
+
+ 
+
+16.6 Any and all such breaches will be reported to the relevant law enforcement authorities and We will cooperate fully with those authorities by disclosing your identity to them. Your right to use Our Platform will cease immediately in the event of such breach and, where applicable, your Account, End-users Content, and Online School(s) will be suspended and/or deleted.
+
+ 
+
+ 
+17. Cancellation and refund
+
+17.1 Consumers (but not business customers) in the European Union have a legal right to a “cooling-off” period within which distance sales contracts (including those formed online) can be cancelled for any reason. This period, if applicable, begins once a contract is formed and ends at the end of 14 calendar days after that date.However, We are very confident about the quality of Our Platform and the value of Our Services and therefore, in lieu of the 14-day cooling-off period, We offer an extended short-term cancellation right to both consumers and business customers if you have purchased a Subscription by mistake or have allowed an annual Subscription to auto-renew when you did not want it to be renewed. Please contact Us within 30 days of the start date of any Subscription or 15 days of the start date of the auto-renewal at support@learnworlds.com.
+
+ 
+
+17.2 You may cancel at any time in the following limited circumstances and you may be entitled to a full or partial refund for services or digital content not provided:
+
+    We have incorrectly described Our Platform or it is significantly faulty (please refer to Clause 12 for more details); or
+    We have informed you of a material upcoming change to the function of Our Platform or to these Terms of Service that significantly deteriorates the functionalities of the Platform as agreed herein; or
+    We have informed you of a material error in the description of your Subscription or Our Platform and you do not wish to continue; or
+    We have materially breached these Terms of Service or have in any way failed to comply with Our legal obligations to you.
+
+ 
+
+17.3 Subject to the provision of clause 17.2, once you have confirmed and completed your Subscription purchase, your Subscription cannot be cancelled until the end or renewal date of that Subscription.
+
+    Non-renewing Subscriptions will be cancelled at the end of their term.
+    Auto-renewing Subscriptions can be cancelled at any time, however , no refunds can be provided and you will continue to have access to Our Platform, and your Online School(s) will remain available, for the duration of the remaining term of the Subscription period you are currently in. Cancelling an auto-renewing Subscription only prevents it from being auto-renewed.
+
+ 
+
+17.4 To cancel a Subscription for any of the above reasons, please inform us using one of the following methods:
+Online using the cancellation option in the Account settings’ and in specific via “My Account” section of your Online School.
+By raising a relevant support ticket via the Platform and making a cancellation request or by email at support@learnworlds.com.
+
+ 
+
+17.5 Any and all refunds due to you will be made no later than 14 calendar days after the date on which We acknowledge your cancellation. Refunds will be made to your original payment method.
+
+ 
+
+17.6 In certain circumstances (such as violation of these Terms of Service) We may cancel your Subscription and/or close your Account. In this case you have 30 days to download any Data and End-users Content from your Online School. Following this period your Online School and any End-users Content or Data in it shall be deleted. If We take such action, you will be notified by email and We will provide an explanation for the cancellation and/or closure.
+
+    If your Account is closed and your Subscription cancelled because you have breached these Terms of Service, you will not be entitled to a refund. If you believe We have closed your Account and cancelled your Subscription in error, please contact Us at support@learnworlds.com.
+    If your Account is closed and/or your Subscription is cancelled for any other reason, you will be refunded the remaining balance of your Subscription. The refund will be calculated based upon the price of your Subscription being divided by the total number of days in the Subscription and multiplied by the number of whole days remaining until the end of the Subscription (or, in the case of auto-renewing Subscriptions, until the renewal date). Any and all refunds due to you will be made no later than 14 calendar days after the date on which the closure and/or cancellation becomes effective. Refunds will be made to your original payment method.
+    We reserve the right to refuse refunds to anyone who abuses this clause 17.
+
+ 
+
+17.7 We may cancel your Subscription for any reason at the end of the term by providing to You with at least 30 days’ prior written notice and You will not be charged for the next billing cycle. We may also cancel your Subscription for any reason by providing at least 90 days’ written notice to you and will provide a pro rata refund for any period of time you did not use in that billing cycle.
+We may immediately suspend performance or terminate your Subscription for any of the following reasons: (a) you have materially breached these Terms of Service, in our sole discretion, and failed to cure that breach within 30 days after we have notified you in writing of such breach; or (b) you cease your business operations or become subject to insolvency proceedings and the proceedings are not dismissed within 90 days. Additionally, We, may immediately limit, suspend, or terminate access to the Platform to you: (i) if, in our sole discretion, you fail to comply with these Terms of Service; (ii) if, in our sole discretion, you use the Platform in a way that causes legal liability to us or disrupts any other’s use of the Platform. If We suspend, or cancel your Account, depending upon the reason, we will endeavor to give you advance notice and an opportunity to obtain a copy of your content. We have no obligation to retain your Content upon termination of the applicable Subscription.
+
+ 
+
+ 
+18. LearnWorlds’s General Rights In Operating Its Platform
+
+18.1 LearnWorlds may modify, terminate, or refuse to provide its Platform and respective services at any time for any reason, without notice.
+
+ 
+
+18.2 LearnWorlds may remove anyone from the Platform at any time for any reason, solely in LearnWorlds’s discretion. This right is not modified by any other section of these Terms of Service.
+
+ 
+
+18.3 LearnWorlds reserves the right to access your Account, Online School, and End-users Content at any time in order to respond to Your requests for technical support, to maintain the safety and security of the Platform, and only for other legitimate business purposes, necessary for the Platform to operate and for LearnWorlds to be able to offer the requested Services by You.
+
+ 
+
+18.4 LearnWorlds may, but has no obligation to monitor any End-users Content that appears on the Platform or review any conduct occurring through the Platform, including any interactions between School Owners and End-userss and LearnWorlds employees.
+
+ 
+
+18.5 LearnWorlds reserves the right to modify, suspend, or alter its refund policy, at its sole discretion.
+
+ 
+
+18.6 If You close Your Account or terminate Your Online School, LearnWorlds may keep a copy of Your Online School and End-users Content nine (9) months after termination. You grant us a non-exclusive, perpetual, irrevocable license to maintain such archival copy in case you wish to revive your Online school and for compliance with any relevant laws and regulations and for our internal business purposes, subject to applicable law for appropriately shorter periods.
+
+ 
+
+18.7 LearnWorlds reserves the right to remove You and Your End-users Content without warning if You violate any of the provisions of these Terms of Service.
+
+ 
+
+18.8 LearnWorlds has, in its sole discretion, an absolute right to modify, change, alter, suspend, or terminate any provision of these Terms of Service without warning at any time. However, the most current version will always be posted on our website in our Terms of Service web-page. Changes will be effective no sooner than the day they are publicly posted, and apply to all access to and use of the Platform thereafter. However, any changes to the dispute resolution provisions will not apply to any disputes for which the parties have actual notice before the date the change is posted. If you do not want to agree to any changes made to the Terms, you should stop using the Platform, because by continuing to use the Platform you indicate your agreement to be bound by the updated terms.
+
+ 
+
+18.9 We are continually changing and improving our Platform. You acknowledge and understand that we have the right to add, alter, or remove functionality from the Platform of any feature. We provide to you at any time without prior notice. We may also limit, suspend, or discontinue any feature and/or Service of the Platform provided to you at our discretion, however we will endeavor to notify you before we do that if it materially impacts you and if practicable under the circumstances.
+
+ 
+
+ 
+19. Contact Us
+
+19.1 If you wish to contact Us i) with general questions or complaints, ii) for matters relating to Our Platform, your Subscription, or cancellation of your Account, you may contact Us by telephone at +1(855)8999555 (US, toll free), +44(11) 64649900 (UK), +35722000504 (Cyprus), by email at support@learnworlds.com, or by post at Gladstonos 120, Foloune Building, 2nd Floor, B1, 3032, Limassol, Cyprus.
+
+ 
+
+ 
+20. Complaints and Feedback
+
+20.1 We always welcome feedback from Our customers and, whilst We always use all reasonable endeavours to ensure that your experience as a customer of Ours is a positive one, We nevertheless want to hear from you if you have any cause for complaint.
+
+ 
+
+20.2 If you wish to complain about any aspect of your dealings with Us, please contact Us in one of the following ways:
+
+    By email, addressed to Dr. Panagiotis Siozos, Company Director at support@learnworlds.com;
+    By contacting Us by telephone at +1(855)8999555 (US, toll free), +44(11) 64649900 (UK), +35722000504 (Cyprus).
+
+ 
+ 
+21. Privacy and Cookies
+
+The Use of Our Platform is also governed by Our Privacy Policy and Cookie Policy, available at: https://www.learnworlds.com/privacy-policy/ and https://www.learnworlds.com/cookie-policy/.
+
+ 
+
+ 
+22. How We Use Your Personal Information (Data Protection)
+
+22.1 All personal information that We may use will be collected, processed, and held in accordance with the provisions of EU Regulation 2016/679 General Data Protection Regulation (“GDPR”) and your rights under the GDPR.
+
+ 
+
+22.2 For complete details of Our collection, processing, security, storage, and retention of personal data including, but not limited to, the purpose(s) for which personal data is used, the legal basis or bases for using it, details of your rights and how to exercise them, and personal data sharing (where applicable), please refer to Our Privacy Policy https://www.learnworlds.com/privacy-policy/, Cookie Policy https://www.learnworlds.com/cookie-policy/ and our data security policy:https://www.learnworlds.com/data-security/.
+
+ 
+ 
+23. Data Protection and Online Schools
+
+23.1 Both Online School Administrators and We shall comply with all requirements of the Data Protection Legislation. With respect to personal data hosted by Us on behalf of an Online School Administrator, for the purposes of the Data Protection Legislation, the Online School Administrator is the data controller and We are the data processor (as defined in the Data Protection Legislation).
+
+ 
+
+23.2 You must ensure that, with respect to your Online School(s) and any and all End-users Content, you have all necessary and appropriate consents and notices in place in order to enable the lawful transfer of personal data to Us for hosting.
+
+ 
+
+23.3 Any and all personal data processed by Us (as a data processor) on your behalf (as a data controller) in the course of providing our Platform and hosting your Online School(s) shall be processed in accordance with the terms of a separate Data Processing Agreement between Us and you, as per the requirements of the Data Protection Legislation.
+
+ 
+ 
+24. Other Important Terms
+
+24.1 We may transfer (assign) Our obligations and rights under these Terms of Service (and under the Contract, as applicable) to a third party (this may happen, for example, if We sell Our business). If this occurs, you will be informed by Us in writing. Your rights under these Terms of Service (and the Contract) will not be affected and Our obligations under these Terms of Service (and the Contract) will be transferred to the third party who will remain bound by them.
+
+ 
+
+24.2 You may not transfer (assign) your obligations and rights under these Terms of Service (and under the Contract) without Our express written permission.
+
+ 
+
+24.3 The Contract is between you and Us. It is not intended to benefit any other person or third party in any way and no such person or party will be entitled to enforce any provision of these Terms of Service.
+
+ 
+
+24.4 If any of the provisions of these Terms of Service are found to be unlawful, invalid or otherwise unenforceable by any court or other authority, that/those provision(s) shall be deemed severed from the remainder of these Terms of Service. The remainder of these Terms of Service shall be valid and enforceable.
+
+ 
+
+24.5 No failure or delay by Us in exercising any of Our rights under these Terms of Service means that We have waived that right, and no waiver by Us of a breach of any provision of these Terms of Service means that We will waive any subsequent breach of the same or any other provision.
+
+ 
+
+24.6 We may revise these Terms of Service from time to time in response to changes in relevant laws and other regulatory requirements. If We change these Terms of Service as they relate to your Subscription, We will give you reasonable advance notice of the changes and provide details of how to cancel if you are not happy with them (also see sub-Clause 16.5 above).
+
+ 
+
+24.7 Any change that we make in these Terms of Service is effective immediately when posted on our Site and applies to all uses of the Platform thereafter. Your continued use of the Platform following the posting of revised Terms of Service means that you accept and agree to be bound by the changes. Please check this webpage periodically for updates.
+
+ 
+ 
+25. Law and Jurisdiction
+
+25.1 These Terms and Conditions, and the relationship between you and Us (whether contractual or otherwise) shall be governed by, and construed in accordance with the law of Cyprus.
+
+ 
+
+25.2 If you are a consumer, you will benefit from any mandatory provisions of the law in your country of residence.
+
+ 
+
+25.3 If you are a consumer, any dispute, controversy, proceedings or claim between you and Us relating to these Terms and Conditions, or the relationship between you and Us (whether contractual or otherwise) shall be subject to the jurisdiction of the courts of Cyprus.
+
+ 
+
+25.4 If you are a business, any disputes concerning these Terms and Conditions, the relationship between you and Us, or any matters arising therefrom or associated therewith (whether contractual or otherwise) shall be subject to the exclusive jurisdiction of the courts of Cyprus.
+
+ 
+
+25.5 You must always use the Platform, desktop or mobile version in compliance with, and only as permitted by these Terms of Service and applicable laws for this Agreement and in relation to the offered services and content by you. There are various national and international specific laws, requirements, directives and regulations that apply or may potentially apply to your Content and Online School in desktop and/or mobile application, according to the content you populate it with, the audience you target, including but not limited to those related to privacy and data security, accessibility parameters and/or mobile applications, taxes, and subscriptions and auto-renewals applicable solely to your Online School.
+Any information We provide as supporting material is provided for informational purposes only and is provided without any warranty, express or implied, and does not constitute legal advice. Please ensure that you obtain your own legal advice. You agree that you are solely and exclusively responsible for your Online School/s and mobile applications and the entirety of your Content, including compliance with all applicable laws for your specific case.

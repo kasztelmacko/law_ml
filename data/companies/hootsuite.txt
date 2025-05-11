@@ -1,0 +1,185 @@
+Please review these terms (the “Agreement”) carefully. By accessing or using the Self-Serve Services offered by Hootsuite Inc. (“Hootsuite”, “we”, “us” or “our”), you are confirming that you have read, understand and accept this Agreement. This Agreement can be updated from time to time as set out in Section 40 below. You are responsible for regularly reviewing the most current version of this Agreement, which is published at:
+
+, though we will notify you of any changes that, in our sole discretion, materially impact this Agreement. Continued use of the Self-Serve Services after any such changes have been made will constitute your consent to such changes. When we change this Agreement, we will update the “Last Modified” date above.
+
+This Agreement applies to the “Self-Serve Services”, which are services that you access or purchase through our website or mobile applications (this does not include Hootsuite’s Enterprise and Business plans), as further defined below. The terms that apply to Hootsuite’s Enterprise and Business plans are available at
+. Other terms may also apply to your use of the Self-Serve Services, such as the and the
+
+.
+
+By using the Self-Serve Services, you confirm that:
+
+    A. You will only use the Self-Serve Services for business and professional reasons;
+
+    B. You are at least 18 years old or otherwise able to enter into a legally binding agreement;
+
+    C. You accept and will comply with this Agreement;
+
+    D. If you are using the Self-Serve Services as a representative of an organization, you have the power to enter into legally binding agreements for the organization; and
+
+    E. You are responsible for anyone that uses the Self-Serve Services through your account, such as your employees, consultants or contractors (“Authorized Users”).
+
+Hootsuite Terminology
+
+    1. We use capitalization for terms that have a special meaning in this Agreement. While some terms are defined elsewhere, this section sets out the definitions of some key terms.
+
+“AI Powered Services” are product features accessible in the Self-Serve Services offering artificial intelligence capabilities as further described in the Hootsuite AI Terms (published at
+
+).
+
+Ads Content” is Customer Content that you or your Authorized Users provide in connection with your creation, posting, or management of paid advertisements on a Social Network.
+
+“Content” is a generic term that means all information and data (such as text, images, photos, videos, audio and documents) in any format that is uploaded to, downloaded from or appears on the Self-Serve Services.
+
+“Customer Content” is Content that you or your Authorized Users provide to us, or upload to the Self-Serve Services.
+
+“Mentions” are the Content that a third party (in other words, someone other than you, your Authorized Users or Hootsuite) creates and that we obtain on your behalf and at your instruction from Social Networks or other Third-Party Services that you connect to or are displayed on the Self-Serve Services. For example, without limitation, Mentions includes (a) posts created by your followers that appear on your Facebook page; and (b) Content originating from Third-Party Services as part of an analysis or query conducted by you via a social listening feature of the Self-Serve Services.
+
+“Self-Serve Services” means our websites, such as hootsuite.com (and all its current and future subdomains), and mobile applications, and any services that you access or purchase through our websites or mobile applications, but do not include (a) Hootsuite’s Enterprise and Business plans, which are governed by different terms; or (b) Third-Party Services (see below for how we define those) that you access or use in connection with our services.
+
+“Third-Party Services” are services that are not provided by Hootsuite but that you may access or use in connection with the Self-Serve Services. They include, without limitation, the “Social Networks”, which are the social networking sites supported by the Self-Serve Services (such as X (formerly Twitter), Facebook, LinkedIn and Instagram), any extensions and applications available in the Hootsuite App Directory (
+
+); and services provided by any other third parties from which we obtain Mentions.
+
+“you”, “your”, “Customer”, and similar terms mean the person or legal entity accessing or using the Self-Serve Services. For the avoidance of doubt, if you are accessing and using the Self-Serve Services on behalf of a company (such as your employer) or other legal entity, “you”, “your” or “Customer” means the company or other legal entity that you are using the Self-Serve Services on behalf of.
+
+Hootsuite’s Self-Serve Services
+
+    2. Subject to the rest of this Agreement, we will allow you and your Authorized Users to access and use our Self-Serve Services in the way set out in the plan you subscribed to. You may not use or access the Self-Serve Services in any other way, such as using robots, spiders, crawlers and scraping technologies.
+
+    3. The Self-Serve Services evolve constantly. We may change the Self-Serve Services, such as by changing, adding or removing features at any time, for any reason. We may or may not provide notice of those changes to you. We will not be liable to you or any third party for the modification, price change, suspension or discontinuance of any of the Self-Serve Services.
+
+    4. The Self-Serve Services interact with Social Networks and depend on the availability of those Social Networks and the features and functionality they make available to us, which we do not control and may change without notice. If at any time a Social Network stops making some or all of its features or functionality available to us, or available to us on reasonable terms as determined at any time by Hootsuite in its sole discretion (each an “API Change”), we may at any time at our sole discretion stop providing access to those features or functionality and we will not be liable to you or any third party for any such change.
+
+Acceptable Use Rules
+
+    5. You and any Authorized Users using your account must comply with the
+
+and all laws. If we reasonably believe that you have breached the Acceptable Use Rules or any applicable law, we may, at any time and without notice, remove any of your Content and suspend, restrict or terminate your account or your access to the Self-Serve Services.
+
+Customer Content
+
+    6. You are solely responsible for Customer Content. We may, but do not have to, review, filter, block or remove Content, including Customer Content.
+
+Submitted Content
+
+    7. If you use the Self-Serve Services for contests or otherwise ask people to submit Content through the Self-Serve Services (“Submitted Content”), you acknowledge and agree that:
+
+        (A) the Self-Serve Services do not help you comply with any laws, rules, or regulations that may apply to your collection or use of Submitted Content, which is solely your responsibility; and
+
+        (B) we will not be liable to you or any third party for the Submitted Content, and we make no warranty that any Submitted Content obtained or displayed through the Self-Serve Services is accurate or complete.
+
+Account Information
+
+    8. You are responsible for the completeness, security, confidentiality and accuracy of the account information you provide to us. You will promptly notify us of any unauthorized access to or use of your log-in credentials or account.
+
+Content and Third-Party Services
+
+    9. We are not responsible for Content provided by others, including Mentions and Content from Third-Party Services (such as Content from Social Networks and Content in apps from the App Directory). You and anyone else who accesses the Self-Serve Services may access Content that might be unlawful, offensive, harmful, inaccurate or otherwise inappropriate. We will not be liable to you or any third party for Content provided by others.
+
+    10. If you access or purchase a Third-Party Service through the Self-Serve Services, you do so at your own risk. Your relationship with the Third-Party Service provider is an agreement between you and them. You specifically understand that we are not responsible for Third-Party Services and will not be liable to you or any third party for any losses or damages resulting from your use of Third-Party Services.
+
+    11. If you access or enable a Third-Party Service, you grant them permission to access or otherwise process your data as required for the operation of the Third-Party Service. We are not responsible for disclosure, use, change to or deletion of your data and will not be liable to you or any third party for access to your data by a Third-Party Service.
+
+    12. When you access the App Directory and install or use one or more apps available there, you also agree to the
+
+.
+
+    13. We may, but do not have to, preview, verify, flag, modify, filter, block or remove Third-Party Services. You must comply with all agreements and other legal requirements that apply to Third-Party Services.
+
+14. If you use the Self-Serve Services to create and manage Ads Content on any Social Network, the Hootsuite Ads Terms published at
+
+also apply to and govern that use.
+
+Privacy & Data Protection.  
+
+15. We may process certain information about you and individuals associated with you, such as your employees, in connection with your use of the Self-Serve Services. This includes account information, usage data, and customer support questions as further described in our privacy policy (
+). If your use of the Self-Serve Services requires a Data Processing Addendum (“DPA”) with Hootsuite, you may enter into a DPA by visiting
+
+to access a pre-signed DPA. Once we receive your signed DPA, this becomes legally binding and forms a part of this Agreement.
+
+Confidentiality
+
+    16. If we share non-public information about Hootsuite or the Self-Serve Services with you, you must keep it confidential and use reasonable security measures to prevent unauthorized disclosure of or access to that information.
+
+Intellectual Property
+
+    17. Customer Content. You retain your rights to any Customer Content you submit, post or display on or through the Self-Serve Services. You grant us a non-exclusive, worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free license to use, host, run, copy, reproduce, process, adapt, translate, modify, publish, transmit, display and distribute Customer Content for the purposes of providing, supporting, enhancing, and developing our products and services.
+
+    18. Feedback. We welcome your suggestions, comments, bug reports, feature requests or other feedback (“Feedback”). We do not have to keep Feedback confidential, even if you tell us it is confidential. If you provide Feedback, you grant Hootsuite a non-exclusive, worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free, fully paid-up license to use the Feedback for any purpose.
+
+    19. Self-Serve Services. We keep all rights and interests in the Self-Serve Services. The Self-Serve Services contain Content owned or licensed by Hootsuite (“Hootsuite Content”). Hootsuite Content is protected by copyright, trademark, patent, trade secret and other laws, and, as between you and Hootsuite, we own and retain all rights in the Self-Serve Services and in any Hootsuite Content.
+
+Payment Terms, Trials and Renewal
+
+    20. Fees and Trials. You must pay all fees for the Self-Serve Services you purchase, except for Self-Serve Services that we expressly offer free of charge. If you sign up for a free trial of a paid Self-Serve Service, we may require you to provide a valid credit card or other payment method. We will charge you automatically on the first day after the free trial is over, unless you cancel or downgrade to a charge-free service and uninstall any paid apps before the end of the free-trial period.
+
+    21. Paid Services. The
+
+apply to your purchase of any paid Self-Serve Services.
+
+    22. Auto-Renewal of Self-Serve Services. Self-Serve Services plans will renew automatically at the end of the term (which may be monthly or annually, depending on the plan you chose when you purchased the Self-Serve Services), and we will automatically bill you on renewal unless you cancel or downgrade the Self-Serve Services under Section 24 below.
+
+    23. Taxes. You are responsible for paying all taxes on all fees that you pay to us. Local taxes may differ based on your payment method.
+
+Cancellation and Termination of Self-Serve Services
+
+    24. You may cancel or downgrade your Self-Serve Services plan at any time by following the steps outlined here:
+
+. If you cancel (or downgrade) paid Self-Serve Services, you must continue to pay for the rest of your plan term and you are not entitled to a refund.
+
+    25. We may refuse to provide service (including the Self-Serve Services) to anyone for any reason at any time. We may also immediately suspend or terminate your access to the Self-Serve Services for any reason, at any time, without notifying you in advance. If we terminate this Agreement because you violated the Acceptable Use Rules or any other part of this Agreement, you will not receive a refund. If we terminate your access to the Self-Serve Services under this section for no reason, we will refund you for the Self-Serve Services you have not yet received.
+
+Disclaimer of Warranties and Limitation of Liability
+
+    26. We offer the Self-Serve Services “as is” and are not making any warranties, conditions, representations or guarantees of any kind, whether express, implied, statutory or otherwise, including all express or implied warranties of design, merchantability, fitness for a particular purpose, title, quality and non-infringement, that otheur Self-Serve Services will meet your requirements or that the Self-Serve Services will always be available, accessible, uninterrupted, timely, secure, accurate, complete or error-free. Use the Self-Serve Services at your own risk. You hereby release us and our affiliates and the directors, officers, employees, agents, licensors and service providers of Hootsuite and our affiliates (the “Hootsuite Parties”) from any claims, known or unknown, you have against them.
+
+    27. We will not be liable for indirect, punitive, incidental, special, consequential or exemplary damages, or for loss of profits, goodwill or data or other intangible losses, that result from the use of, or inability to use, the Self-Serve Services or any other aspect of this Agreement. Under no circumstances will we be liable for any Third-Party Services, Social Networks or activities of third parties, any connection to or transmission from the Internet, or for any damage, loss or injury resulting from hacking, tampering, theft or other unauthorized access to or use of the Self-Serve Services or your account or the information contained in your account, including Customer Content.
+
+    28. Our aggregate liability to you for all losses or damages arising out of this Agreement or your use of the Self-Serve Services, even if we have been advised of the possibility of such losses, will not exceed the greater of (a) the fees we received from you for the Self-Serve Services that are subject to the claim during the three-month period immediately preceding the date on which the damages arose; or (b)USD$100. The limitations of liability in this section also apply to the Hootsuite Parties and to claims brought based on any cause of action, including breach of contract, tort (including negligence), statute or other legal or equitable theory. If there is a law that limits how the limitation of liability in this section applies to you, our liability will be limited to the fullest extent permitted by law.
+
+    29. No advice or information, whether oral or written, obtained from us or elsewhere will create any warranty or condition not expressly stated in this Agreement.
+
+    30. Our prices are set based on limitations of liability and the disclaimers of warranties in this section. You acknowledge that they will survive and apply even if found to have failed their essential purpose.
+
+    31. If you are dissatisfied with the Self-Serve Services or believe that you’ve been harmed by your use of the Self-Serve Services or this Agreement, you may terminate your use of the Self-Serve Services (as set out above). That termination is your sole and exclusive remedy (and our sole and exclusive liability) under this Agreement.
+
+Claims and Disputes
+
+    32. The laws of the Province of British Columbia and Canadian law applicable in British Columbia will govern any dispute, cause of action or claim arising out of this Agreement or your use of the Self-Serve Services, including against any Hootsuite Party (“Dispute”), without giving effect to conflict-of-law principles.
+
+    33. You will indemnify and hold harmless the Hootsuite Parties from and against all losses, damages, penalties, liability and costs, including reasonable legal fees, of any kind or nature related to any claim against a Hootsuite Party related to: (a) Customer Content, Ads Content or Submitted Content; (b) your breach of this Agreement or any laws; or (c) your use of the Self-Serve Services or any Third-Party Services (including your breach of terms for any Third-Party Services).
+
+    34. If you breach this Agreement or violate our rights or another person’s rights, we may ask a court to stop you; if we bring a claim against you, you will reimburse us for our reasonable legal fees for that claim.
+
+    35. If you have any kind of Dispute with us, the exclusive means of resolving it will be by confidential, binding arbitration before a single arbitrator chosen by you and Hootsuite. You will give notice of your Dispute to us in writing. If we do not decide together on an arbitrator within 15 days after we receive that notice, we both agree to ask the British Columbia International Commercial Arbitration Centre (BCICAC) to appoint one for us. The arbitration will take place in Vancouver, British Columbia, under the Arbitration Act (British Columbia), and will follow the Domestic Commercial Arbitration Rules of the BCICAC. The arbitrator will have the right to decide how the costs should be divided between us. The arbitrator will have the right to accept whatever kind of evidence they think is appropriate and will have the right to make whatever award they consider fair and equitable, based on legal and equitable principles, including giving an order such as an injunction (to stop one of us from doing something) or an order that you or we pay damages to the other. The arbitrator’s award can be entered into the registry of the British Columbia Supreme Court in Vancouver, British Columbia, and enforced in the same way as a court order if the court in the enforcing jurisdiction allows.
+
+    36. Any Dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. Hootsuite and you each waive any right to a trial by jury.
+
+Miscellaneous
+
+    37. Export Compliance. You will not use or access the Self-Serve Services if you are located in any jurisdiction in which the provision of our Self-Serve Services is prohibited under Canadian, U.S. or other laws (a “Prohibited Jurisdiction”) and you will not provide access to the Self-Serve Services to any government, entity or individual located in any Prohibited Jurisdiction. You confirm that you are not named on any Canadian or U.S. government list of persons or entities prohibited from transaction with any Canadian or U.S. person; (b) you are not a national of, or a company registered in, any Prohibited Jurisdiction; (c) you will not allow Authorized Users to access or use the Self-Serve Services in violation of any Canadian, U.S. or other export embargoes, prohibitions or restrictions; and (d) you will comply with all laws regarding the transmission of data exported from the country in which you (or your Authorized Users) are located to Canada and the United States.
+
+    38. Beta Testing. From time to time, we may offer you the opportunity to install, use and test certain Hootsuite services prior to their commercial release (“Beta Services”). Use of the Beta Services is optional. If you use any Beta Services, the Hootsuite Beta Terms published at
+
+apply to and govern those Beta Services.
+
+    39. AI Powered Services. If you use any AI Powered Services, the Hootsuite AI Terms published at
+
+also apply to and govern that use.    
+
+    40. Amendment. We may change any part of this Agreement (including any terms or documents incorporated by reference in this Agreement) at any time by posting the revised terms on the Hootsuite website, and your use of the Self-Serve Services after the effective date of the updated Agreement or other terms constitutes your agreement to the updated Agreement or other terms, as applicable. It is important for you to review this Agreement before using the Self-Serve Services and from time to time. The updated Agreement will be effective as of the time of posting, or on such later date as may be specified in the updated Agreement, and will apply to your use of the Self-Serve Services from that point forward.
+
+    41. Assignment. You may not assign your rights under this Agreement to anyone else. We may assign our rights to any other individual or entity.
+
+    42. Severability. If a court finds part of this Agreement to be invalid, the rest will continue to apply with the minimum changes required to remove the invalid part.
+
+    43. Force Majeure. We will not be liable to you or any third party for any failure to perform our obligations under this Agreement if that failure results from any cause beyond our control, such as the elements; fire; flood; severe weather; earthquake; vandalism; accidents; sabotage; power failure; denial of service attacks or similar attacks or other acts of hackers; Internet or network failures or interruptions; acts of God and the public enemy; acts of war; acts of terrorism; riots; civil or public disturbances; strikes, lockouts or labor disruptions; any laws, orders, rules, regulations, acts or restraints of any government or governmental body or authority, civil or military, including the orders and judgments of courts; or if another person (including a Social Network) changes their services or terms or no longer offers their services to you or Hootsuite on terms we believe are reasonable.
+
+    44. Remedies. If we fail to enforce this Agreement, we are not waiving our right to do so. Any remedies we have under this Agreement are not exclusive of any other remedies we may have under this Agreement, at law or otherwise.
+
+    45. Notices to You. Hootsuite may give notice to you by placing a banner notice on the Hootsuite platform or Hootsuite’s website. We may also contact you or your Authorized Users through your Hootsuite account or contact information you provide, such as email or telephone or through your account on one or more Social Networks. If you fail to maintain accurate account information, such as contact information, you may not receive critical information about the Self-Serve Services or this Agreement.
+
+    46. Notices to Hootsuite. For any notice to Hootsuite that you give under or regarding this Agreement, you must notify Hootsuite by email to legal@hootsuite.com with a duplicate copy sent via registered mail to the following address: Hootsuite Inc., 111 East 5th Ave, Vancouver, BC, V5T 4L1; Attention: Legal Department.
+
+    47. Entire Agreement. This Agreement, including the other documents referred to as applicable to the Self-Serve Services in this Agreement, is the entire agreement between you and Hootsuite for your use of the Self-Serve Services. Any prior understandings, statements or and agreements (oral or written) (including any prior non-disclosure or confidentiality agreements or similar) do not apply, including additional terms that you may present (such as terms in a unilateral notice from you to us or printed on a purchase order or any other document generated by you). This Agreement is binding on the parties and their permitted successors and assigns.

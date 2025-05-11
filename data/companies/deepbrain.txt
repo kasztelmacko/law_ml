@@ -1,0 +1,144 @@
+These Terms of Use Agreement (the “Agreement”), along with our Privacy Policy https://www.deepbrainai.io/privacy-policy, constitutes legally binding terms and conditions between you, whether personally or on behalf of an entity (“user” or “you”), and DeepBrain AI Inc.(the “Company”), in connection with your access to and use of the Company’s AI Studios Platform, the website located at https://www.deepbrainai.io/aistudios and other websites, media form, media channel, mobile website or mobile application related or connected to said website (collectively, the “Sites”) and the Company’s AI Studios service that generating realistic AI videos with your script and  the Company’s text-to-speech solution(collectively, the “Services”). By accessing and/or using the Sites or Services, you accept and agree to all terms and conditions of this Agreement. The Company reserves the right to update or change the terms of this Agreement at any time with or without notice to you. If you do not accept the terms of this Agreement at any time, you should not access and/or use the Sites or Services. Your continued use of the Sites or Services following any change to the terms indicates your acknowledgment of such changes and agreement to be bound by modified terms of the Agreement. 
+1. REGISTRATION; USER REPRESENTATIONS.
+
+To access or use the Sites and/or Services, you must register for an account and provide the information as prompted by the account registration form. You represent and warrant that (a) you are at least 18 years old, have the right and authority to enter into this Agreement, and are fully able and competent to satisfy the terms and conditions of this Agreement; (b) all required registration information you submit is current, complete, truthful, and accurate, and you will maintain and promptly update such information to keep it current, complete, truthful, and accurate; and(c) your use of the Sites and/or Services will comply with all terms of this Agreement and all applicable laws.
+2. SCOPE OF LICENSE; UPDATE.
+
+Subject to the Agreement, the Company grants you a non-transferable, non-exclusive, revocable, limited license to access and use the Sites and Services solely for your own personal or business use. The Company reserves the right, but not the obligation, to update, modify, suspend, support, maintain, or discontinue the Sites or Services, in whole or in part, at any time, with or without notice to you.
+3. PAYMENT AND REFUNDS.
+
+We value your satisfaction and strive to provide high-quality products/services. If forany reason you are not fully satisfied with your purchase, you may request a refundwithin the first 14 days of use only. Please note, we reserve the right to prorate therefund amount based on usage of our service.
+
+Eligibility for Refund:
+
+    Refund requests must be submitted within 14 days from the date of your initialpurchase, there is a strict no refund policy past the 14 day period.
+    To be eligible for a refund, you must provide proof of purchase, such as a validorder number or transaction ID.
+    The product/service must have been actively used for a reasonable periodduring the 14-day period. Excessive usage beyond what is deemed reasonablemay affect eligibility for a refund.
+
+Exclusions:
+
+    Products or services that are marked as non-refundable at the time ofpurchase are exempt from this policy.
+    Refunds will not be granted for issues resulting from violations of our terms ofuse or misuse of the product/service.
+    Bypass any measures the Company may use to prevent or restrict access to the Sites or Services.
+
+How to Request a Refund:
+To request a refund, please follow these steps:
+
+    Contact our customer support team at support@aistudios.com
+    Provide your email ID linked to your account - If product has been used, pleaseprovide a brief explanation of the reason for the refund request.
+    Our team will review your request promptly and issue the refund.
+    Please allow 5-10 business days for the refund to reflect in your originalpayment method.
+
+Refund Process:
+
+    Approved refunds will be processed using the same payment method used forthe original purchase.
+    Depending on your payment provider's policies, it may take some time for therefund to be reflected in your account.
+
+Contact Information:
+
+Our customer support team is available to assist you during our regular businesshours.
+
+Please note that this refund policy is subject to change without prior notice. It isrecommended to review this policy periodically to stay updated on any modifications.
+
+In addition, since we use Stripe for payment processing, our refund policy may besubject to Stripe’s payment policy which can be found here.
+5. PROHIBITED ACTIVITIES.
+
+You will not, directly or indirectly engage in the following activities (collectively, the “Prohibited Activities”):
+
+    Reproduce, sell, resell, lease, rent, transfer, distribute, host, or otherwise commercially exploit the Sites or Services or any software, technologies, components, and contents related thereto (collectively, the “Licensed Software”) or otherwise use them for any purpose other than those which are permitted by the Company;
+    Modify, make derivative works of, disassemble, decompile, reverse compile, or reverse engineer Licensed Software;
+    Download, copy, or collect information that could be used to copy all or any part of the Licensed Software or allow access to or use of the Licensed Software by any  unauthorized person or entity;
+    Use the Licensed Software to create, collect, upload, transmit, display, or distribute any content that (i) violates the rights of any third party, (ii) is unlawful, harassing, abusive, tortious, threatening, invasive of another’s privacy, defamatory, false, misleading, pornographic, obscene, offensive, racist, harmful or is otherwise objectionable to any group or individuals, or (iii) is in violation of any law, regulation, or obligations or restrictions imposed by any third party;
+    Upload, transmit, or distribute any computer viruses, worms, Trojan horses, time bombs, logic bombs, cancelbots, corrupted files or any other software intended to damage or alter the Sites, Services, or any computer system or data related thereto;
+    Send through the Sites or Services unsolicited or unauthorized advertising, promotional materials, junk mail, spam, political campaign material, chain letters, multi-level marketing offer, or any other form of duplicative or unsolicited messages, whether commercial or otherwise;
+    Interfere or attempt to interfere with the proper working of the Sites or Services or other users’ use and enjoyment of the Sites or Services; and
+    Bypass any measures the Company may use to prevent or restrict access to the Sites or Services.
+
+The Company may take any action it deems necessary to prevent users from engaging in Prohibited Activities or cure the effects thereof, including, without limitation, removing any material, content, or information in violation of this Agreement, suspending, limiting, or terminating a user’s access to or use of the Licensed Software, or refusing any and all current or future use of the Sites or Services.
+6. PROPRIETARY AND INTELLECTUAL PROPERTY RIGHTS.
+
+The contents, documents, information, materials, organization, graphics, design, compilation, digital conversion, and the ideas, procedures, processes, systems, methods, and concepts embodied within the Sites, the Services, or other third-party services related in any way to the Sites or Services shall be the copyrights, trademarks, trade secrets, and/or other proprietary or intellectual property of the Company. Your license to access or use the Sites or Services is not a sale of a copy, redistribution, use, or publication of such Licensed Software (except for the sole purpose of Permitted Use as defined above) and does not render you the owner of such copy, restriction, use, or publication thereof. Ownership of the Licensed Software and all related components and technologies shall at all times remain with the Company, regardless of who may be deemed the owner of the tangible media in or on which the Licensed Software may be copied, encoded, or otherwise fixed.
+7. THIRD-PARTY CONTENT AND SERVICES.
+
+In connection with your access to or use of the Sites or Services, you may use, acquire, or obtain access to third-party content and services, including, but not limited to, internet connectivity services, mobile and cellular services, computer systems, and websites that are not operated by the Company (collectively, the “Third-Party Services”). You shall be responsible for ensuring that the Third-Party Services with which you choose to operate the Sites or Services meet the Company’s minimum requirements, including, without limitation, the processing speed, memory, and the availability of dedicated internet access required for the Sites or Services, and that your use of such Third-Party Services in connection with the Sites or Services is not in violation of any licenses, terms, conditions, laws, rules, and/or regulations respecting the use of such Third-Party Services. The Company does not assume any responsibility or liability for the actions, products, services, or content of any Third-Party Services. You should carefully review the legal statements and other conditions of use of any website which you access through a link from this Site. Your linking to any other off-site websites is at your own risk.
+
+Furthermore, the Sites or the Services may include Third-Party Components (as defined below), and Third-Party Software (as defined below) may be provided from time to time in conjunction with the Licensed Software. Your use of the Third-Party Software and Third-Party Components (including any updates or upgrades thereto) may be subject to separate or additional terms and conditions. These separate or additional terms and conditions, if any, will be made available in a text file accompanying the Licensed Software and/or, in the case of Third-Party Software, may be made available when you use or install the Third-Party Software for the first time. With respect to Third-Party Software provided to you by the Company, the Company is only able to provide such software with your understanding, acknowledgment, and agreement that such software is (a) provided as a convenience to you only; and (b) if it is not accompanied by a separate software license, it is subject to the terms and conditions of this Agreement as though it were Licensed Software, except that in all cases it is provided by the Company on an "AS IS" and "AS AVAILABLE" basis with no express or implied conditions, endorsements, guarantees, representations or warranties. If you wish to obtain Third-Party Software on other terms, you should acquire this Third-Party Software directly from its suppliers. In no event shall such separate license agreements or additional terms and conditions between you and the supplier be binding on the Company or impose any additional obligations, or obligations inconsistent with the terms of this Agreement, upon the Company whatsoever. To the extent that any particular Third-Party Component is covered by additional terms and conditions that provide you with rights to use, copy, distribute, or modify all or part of such Third-Party Component broader than the rights afforded you under this Agreement for the Software then, solely to that extent, you can exercise such broader rights without breaching the terms of this Agreement for the remainder of the Licensed Software. "Third-Party Components" means software and interfaces licensed by the Company from a third party for incorporation into a Company software product, and distributed as an integral part of the Company product under a Company brand but does not include Third-Party Software. "Third-Party Software" means standalone software applications proprietary to a third party that are provided by the Company or its authorized distributors bundled with, or separately for use with, the Licensed Software.
+
+Shutterstock Content
+
+Users are subject to the following restrictions when using Shutterstock content, in substantially the following form.
+
+Users shall not use any Content:
+
+    Except solely as incorporated into the products created and distributed using the Platform or otherwise download any Content in its original, unaltered form outside the Platform.
+    together with pornographic, defamatory, or unlawful content or in such a manner that it infringes upon any third party’s trademark or intellectual property rights.
+    For any content associated with a Shutterstock model release, portraying any person depicted therein (a "Model") in a way that a reasonable person would find offensive, including but not limited to depicting a Model:
+    a) in connection with pornography, "adult videos", adult entertainment venues, escort services, dating services, or the like;
+    b) in connection with the advertisement or promotion of tobacco products;
+    c) as endorsing a political party, candidate, elected official, or opinion;
+    d) as suffering from, or medicating for, a physical or mental ailment; or
+    e) engaging in immoral or criminal activities.
+    As a trademark, service mark, or logo.
+
+Music Specific Restrictions
+
+    in an audio-only capacity in which Music is the primary content with any products created and distributed using the Platform.
+    remixed or otherwise altered, except that End Users may engage in basic editing (e.g., setting start/stop points, determining fade-in/fade-out points, etc.).
+
+Nothing created using Shutterstock content shall be deemed to transfer the copyright to any Content to the Company or Users. Shutterstock and/or the various artists who provide Content to Shutterstock own all rights, including the copyrights in and to the Content, and reserve all rights in and to the Content not expressly granted.
+
+Youtube API
+
+    Our services may use YouTube's Application Interface Program (API)
+    By using our Services, you are agreeing to be bound by the YouTube Terms of Service
+
+8. USER CONTENT.
+
+Each user of the Sites or Services is solely responsible for any information, data, and content that such user uploads, posts, inputs, submits, or uses with the Sites or Services provided by such user (collectively, the “User Content”).  You acknowledge and agree that (a) the Company does not control such User Content and it is not responsible for any such User Content, whether provided by you or any other users; (b) the Company does not endorse any user content or guarantee the accuracy, currency, suitability, or quality of any user content; (c) your interaction with other users are solely between you and such users and the Company will not be obligated to involve itself in any dispute between you and other users; (d) your User Content is not confidential information and will not be treated as such; € your User Content will not violate any third-party right or laws; and (f) your User Content contains any information that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of another’s privacy, defamatory, false, misleading, pornographic, obscene, offensive, racist, harmful, or otherwise objectionable to any group or individuals.
+
+Dream Avatar, Custom Instant Avatar Content
+
+By using the Dream Avatar and Instant Avatar features in AI Studios, you acknowledge and agree to the following terms and conditions:
+
+    User Responsibility: You are solely responsible for the content (photos or videos) you upload to create your avatar. You must ensure that you have the necessary rights and permissions to use the content you upload.
+    Copyright and Sensitive Issues: DeepBrain AI does not take any responsibility for any copyright infringements or other sensitive issues that may arise from the use of your uploaded content. You understand that unauthorized use of copyrighted material, or the creation of avatars using content without proper permissions, may result in legal consequences.
+    Legal Implications: You acknowledge that misuse of the Dream Avatar and Instant Avatar features, including but not limited to uploading unauthorized or inappropriate content, can lead to civil or criminal penalties. It is your responsibility to use these features in compliance with applicable laws and regulations.
+    Indemnification: You agree to indemnify and hold harmless DeepBrain AI, its affiliates, and partners from any claims, damages, or liabilities arising from your use of the Dream Avatar and Instant Avatar features.
+
+By proceeding with the use of Dream Avatar and Instant Avatar, you agree to these terms and confirm your understanding of the responsibilities and potential legal implications involved.
+9. WARRANTY DISCLAIMER.
+
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT THE USE OF THE LICENSED SOFTWARE AND ANY THIRD-PARTY SOFTWARE YOU DOWNLOADED AND INSTALLED BY YOU IS AT YOUR SOLE RISK. THE SOFTWARE PROVIDED HEREUNDER IS PROVIDED “AS IS,” WITHOUT WARRANTIES OR PROMISES, WHETHER EXPRESS OR IMPLIED, OR BY STATUTE, COMMON LAW, CUSTOM, USAGE, OR OTHERWISE. THE ENTIRE RISK AS TO THE SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND EFFORT OF SUCH SOFTWARE (IF ANY) SHALL BE WITH YOU. THERE IS NO REPRESENTATION OR WARRANTY HEREIN AGAINST INTERFERENCE WITH YOUR ENJOYMENT OR AGAINST INFRINGEMENT. THE COMPANY AND ITS PROVIDERS OF THIRD-PARTY SERVICES DISCLAIM ANY AND ALL OTHER EXPRESS OR IMPLIED REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE SOFTWARE AND THIRD-PARTY SOFTWARE, INCLUDING ANY EXPRESS OR IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, OR THAT YOUR USE OF THE SOFTWARE WILL BE UNINTERRUPTED, VIRUS-FREE, OR ERROR-FREE. YOU ACKNOWLEDGE THAT NO EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES ARE MADE BY ANY PROVIDERS OF THIRD-PARTY SERVICES HEREIN.
+10. LIMITATION OF LIABILITY.
+
+IN NO EVENT WILL THE COMPANY BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY LOST PROFITS, LOST SAVINGS, LOST DATA, OR OTHER SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY PRODUCT OR SERVICE FURNISHED OR TO BE FURNISHED BY THE COMPANY, WHETHER THE LICENSED SOFTWARE OR ANY THIRD-PARTY SOFTWARE, UNDER THIS AGREEMENT OR THE USE THEREOF, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. NOTWITHSTANDING ANYTHING CONTRARY HERETO, THE AGGREGATE LIABILITY OF THE COMPANY UPON ANY CLAIMS HOWSOEVER ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY PRODUCTS OR SERVICES FURNISHED OR TO BE FURNISHED BY THE COMPANY UNDER THIS AGREEMENT SHALL IN ANY EVENT BE ABSOLUTELY LIMITED TO THE AMOUNT PAID BY YOU TO THE COMPANY UNDER THIS AGREEMENT.
+11. INDEMNITY.
+
+You agree to defend, indemnify, and hold the Company and its officers, directors, agents, subsidiaries, joint ventures, and employees harmless from any claims, liabilities, costs and expenses, demands, and damages, including reasonable attorney’s fees, related to or in connection with (a) you or your affiliate’s use of the Site or the Service, or your placement of any material, content, or information; (b) your violation of any laws; (c) your violation of this Agreement; or (d) your negligence or willful misconduct.
+12. RELEASE.
+
+In the event that you have a dispute with any other user(s) of the Sites or the Services, you release the Company and its officers, directors, agents, subsidiaries, joint ventures, and employees, from any claims, liabilities, costs, and expenses, demand and damages, both actual or consequential, every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in connection with such dispute.
+13. PRIVACY.
+
+The Company’s data collection and use practices, including data collection and use of personally identifiable information can be found in the Privacy Policy located at https://www.deepbrainai.io/privacy-policy.
+14. ADVERTISING RIGHTS.
+
+The Company reserves the right, directly or in partnership with a third-party person or entities, to sell, license, and/or display any advertising, attribution, links, promotional and/or distribution rights in connection with your use of the Sites or Services, and it will be titled to retain any revenue generated from any sales or licenses of such advertising, attribution, links, or promotion or distribution rights.
+15. TERMINATION.
+
+You may suspend or terminate your account or your access to or use of the Sites or Services, at any time, for any reason, or for no reason. The Company may also suspend or terminate your access to or use of the Sites or Services temporarily or eternally in the event that (a) you engage in the Prohibited Activities or otherwise breach the Agreement; (b) the Company is unable to verify or authenticate any information you provide to us; or (c) you violate any applicable laws.  The provisions of this Agreement in Sections 8 through 13 shall survive any termination of this Agreement.
+16. GENERAL PROVISIONS.
+
+    Entire Agreement; Amendment. This Agreement, together with the Terms of Use and Privacy Policy and other terms or agreements agreed to in writing by the Parties prior to or contemporaneously with the execution of this Agreement, contains all of the terms and conditions of your access to or use of the Sites and Services and supersedes any prior understandings or agreements, whether oral or written, between the Parties.
+    Amendment / Modification. The Company reserves a right to update, amend, or modify this Agreement by giving a notice of such amendment or modification to you.
+    Severability.  If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall nevertheless remain in full force and effect. If any provision is held invalid or unenforceable with respect to particular circumstances, it shall nevertheless remain in full force and effect in all other circumstances.
+    Governing Law. This Agreement is governed by and construed in accordance with the laws of the State of California, USA.
+    Export. The Licensed Software may be subject to US export control law, including the US Export Administration Act of 1979 and its associated regulations. You shall not, directly or indirectly, export, re-export, or release the Licensed Software to or make the Licensed Software accessible from, any jurisdiction or country to which export, re-export, or release is prohibited by law, rule, or regulation. You shall comply with all applicable federal laws, regulations, and rules, and complete all required undertakings (including obtaining any necessary export license or other governmental approval), prior to exporting, re-exporting, releasing, or otherwise making the Software available outside the US.
+    Force Majeure. In no event shall either Party be liable to the other Party, or be deemed to have breached this Agreement, for any failure or delay in performing its obligations under this Agreement, if and to the extent such failure or delay is caused by any circumstances beyond such Party's reasonable control, including but not limited to acts of God, flood, fire, earthquake, explosion, war, terrorism, invasion, riot or other civil unrest, strikes, labor stoppages or slowdowns or other industrial disturbances, or passage of law or any action taken by a governmental or public authority, including imposing an embargo.
+    Interpretation and Understanding. This Agreement shall be interpreted in accordance with the plain meaning of its terms and no part of this Agreement shall be construed strictly for or against either of the Parties for any vagueness or ambiguity. The Parties represent and warrant that (i) each of them has carefully and completely read, and fully understands all the provisions of this Agreement, has had an opportunity to consult with a legal counsel or actually consulted with a legal counsel, and voluntarily, knowingly, and willingly intends to be legally bound by the same; (ii) the terms of this Agreement were determined through negotiation between the Parties themselves and this Agreement is mutually drafted by the Parties; and (iii) in executing this Agreement, each of the Parties does not rely and has not relied upon any representation or statement made by the other Party, or by the other Party’s agents, attorneys, or representatives with regard to the subject matter, basis, or effect of this Agreement or otherwise, other than those specifically stated in this Agreement.
+    Arbitration. All claims, disputes, controversies, or disagreements of any kind whatsoever arising out of or relating to this Agreement or the Company’s Sites or Services, excluding legal action taken by the Company to collect or recover damages for, or obtain any injunction under this Agreement, shall be settled solely by confidential binding arbitration located in the county in California, USA where the Company is located, in accordance with the commercial arbitration rules of JAMS then existing. The arbitration shall be conducted in California and to the extent permitted by law, each party shall bear one-half of the arbitration fees and costs incurred through JAMS, subject to reimbursement by the losing party to the prevailing party.
+
+    WITH RESPECT TO ALL PERSONS AND ENTITIES, REGARDLESS OF WHETHER THEY HAVE OBTAINED OR USED THE LICENSED SOFTWARE FOR PERSONAL, COMMERCIAL, OR OTHER PURPOSES, ALL CLAIMS MUST BE BROUGHT IN THE PARTIES’ INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR OTHER REPRESENTATIVE PROCEEDING.  THIS WAIVER APPLIES TO CLASS ARBITRATION, AND, UNLESS THE PARTIES AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS.  YOU AGREE THAT, BY ENTERING INTO THIS AGREEMENT, THE PARTIES TO THIS AGREEMENT ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND.
+    Non-Waiver. The failure by the Company at any time to enforce any of the provisions of this Agreement or any right or remedy available hereunder or at law or in equity, or to exercise any option herein provided, shall not constitute a waiver of such provision, right, remedy or option or in any way affect the validity of this Agreement.  The Company’s waiver of your default shall not be deemed a continuing waiver, but it shall apply solely to the instance to which such waiver is directed.
+    Assignment; Successors and Assigns. The Company may assign, delegate and/or otherwise transfer this Agreement or its rights and obligations hereunder to any person or entity, which purchases or otherwise succeeds to the business of the Company to which this Agreement pertains.  You may not assign, delegate, or otherwise transfer this Agreement or any of its rights or obligations hereunder without the prior written consent of the Company.  This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns.
+    Copyright Notice. All Site's design, graphics, text selections, arrangements, and all software are Copyright © 2023, DeepBrain AI Inc. ALL RIGHTS RESERVED.

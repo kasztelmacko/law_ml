@@ -1,0 +1,51 @@
+
+Terms and Conditions of Use of The Caspio Website
+
+Caspio Inc. (“Caspio”) makes information available on this website (“Site”) subject to the following terms and conditions. By accessing this Site, you agree to these terms and conditions. Caspio reserves the right to change these terms and conditions at any time without notice. The most current version of these terms and conditions can be reviewed by clicking on the “Terms of Use” hypertext link located at the bottom of our Web pages.
+Notice Specific to Software on This Website
+
+Any software and/or service that is made available to download from this Site (“Software”) is the copyrighted work of Caspio and/or its suppliers. Use of the Software is governed by the terms of the end user license or terms of service agreement, if any, which accompanies or is included with the Software (“License Agreement”). An end user will be unable to install any Software that is accompanied by or includes a License Agreement, unless he or she first agrees to the License Agreement terms.
+
+The Software is made available for downloading solely for use by end users according to the License Agreement. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
+
+WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCING THE SOFTWARE TO ANY OTHER SITE OR LOCATION FOR FURTHER REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PROHIBITED.
+
+THE SOFTWARE IS WARRANTED, IF AT ALL, ONLY ACCORDING TO THE TERMS OF THE LICENSE AGREEMENT. EXCEPT AS WARRANTED IN THE LICENSE AGREEMENT, CASPIO HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+Restricted Rights Legend
+
+Any Software downloaded from this Site for or on behalf of the United States of America, its agencies and/or instrumentalities (“U.S. Government”), is provided with Restricted Rights. Use, duplication, or disclosure of the Software and Documents by the U.S. Government is subject to restrictions as set forth in 48 C.F.R. 227.7202-4 (for Department of Defense (DOD) acquisitions) and 48 C.F.R. 2.101 and 12.212 (for non-DOD acquisitions). The U.S. Government’s rights in Software and Documents, including its rights to use, modify, reproduce, release, perform, display or disclose the Software, will be subject in all respects to the commercial license rights and restrictions provided herein.
+Notice Specific to Documents on This Website
+
+Permission to use Documents (such as white papers, press releases, datasheets and FAQs) from this Site is granted, provided that (1) the below copyright notice appears in all copies and that both the copyright notice and this permission notice appear, (2) use of such Documents from this Site is for informational and non-commercial or personal use only and will not be copied or posted on any network computer or broadcast in any media, and (3) no modifications of any Documents are made. Use for any other purpose is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
+
+Documents specified above do not include the design or layout of the www.caspio.com website or any other Caspio owned, operated, licensed or controlled site. Elements of the Site are protected by trade dress and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound or image from the Site may be copied or retransmitted unless expressly permitted by Caspio.
+
+CASPIO AND/OR ITS RESPECTIVE SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION CONTAINED IN THE DOCUMENTS AND RELATED GRAPHICS PUBLISHED ON THIS SITE FOR ANY PURPOSE. ALL SUCH DOCUMENTS AND RELATED GRAPHICS ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. CASPIO AND/OR ITS RESPECTIVE SUPPLIERS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, INCLUDING ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL CASPIO AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF INFORMATION AVAILABLE FROM THIS SITE.
+
+THE DOCUMENTS AND RELATED GRAPHICS PUBLISHED ON THIS SITE COULD INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. CASPIO AND/OR ITS RESPECTIVE SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE SOFTWARE AND/OR THE PROGRAM(S) DESCRIBED HEREIN AT ANY TIME.
+Notices Regarding Software, Documents and Services on This Website
+
+IN NO EVENT SHALL CASPIO AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF SOFTWARE, DOCUMENTS, PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR INFORMATION AVAILABLE FROM THIS SITE.
+Links to Third Party Sites
+
+THE LINKS TO THIRD PARTY WEBSITES WILL LET YOU LEAVE THE CASPIO SITE. THE LINKED SITES ARE NOT UNDER THE CONTROL OF CASPIO AND CASPIO IS NOT RESPONSIBLE FOR THE CONTENTS OF ANY LINKED SITE OR ANY LINK CONTAINED IN A LINKED SITE, OR ANY CHANGES OR UPDATES TO SUCH SITES. CASPIO IS PROVIDING THESE LINKS TO YOU ONLY AS A CONVENIENCE, AND THE INCLUSION OF ANY LINK DOES NOT IMPLY ENDORSEMENT BY CASPIO OF THE SITE.
+Copyright Notice
+
+Copyright © Caspio Inc.,  1286 Kifer Road, Suite 107 Sunnyvale, CA 94086 United States. All rights reserved.
+Trademarks
+
+The following are trademarks or registered trademarks of Caspio in the United States and other jurisdictions:
+
+Caspio Bridge, Caspio Bridge Enterprise, Caspio ExpressDB, Caspio DataPages, Caspio DataPage Wizards, Form Activation Key, Caspio AppKey, XIP Engine, XIP DataPages.
+
+All other Caspio products referenced on this Site are either trademarks or registered trademarks of Caspio. Other product and company names appearing on this Site may be trademarks of their respective owners.
+Applicable Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the state of California without regard to its conflicts of laws or its principles. Unless waived by Caspio at its sole discretion, the venue and jurisdiction for actions related to the subject matter hereof shall be the state of California, and a state or federal court of competent jurisdiction located in Sunnyvale, California.
+Export Control Laws
+
+Software available on this Site is subject to United States export controls. No Software from this Site may be downloaded or otherwise exported or re-exported: (1) into (or to a national or resident of) any country to which the United States has embargoed goods; or (2) to anyone on the United States Treasury Department’s list of Specially Designated Nationals or the United States Commerce Department’s Table of Denial and Prohibition Orders. This list is subject to change and you must comply with the list as it exists in fact.
+
+By downloading or using software from this Site, you are agreeing to the foregoing and all applicable export control laws. You are also warranting that you are not under the control of, located in, or a resident or national of any such country or on any such list. You agree to comply strictly with all United States export control laws and assume sole responsibility for obtaining licenses to export or re-export as may be required.
+
+Contact Caspio with questions or problems, as appropriate.

@@ -1,0 +1,435 @@
+The Pipedrive Services are offered to Client subject to its acceptance of these Pipedrive Terms of Service (the “Terms”). When the Pipedrive Services are accessed or used by a Client or when Client otherwise indicates assent to these Terms, these Terms form a legally binding contract between Client and Pipedrive. IF YOU ARE ENTERING INTO THESE TERMS ON BEHALF OF AN ENTITY, SUCH AS YOUR EMPLOYER, OR THE COMPANY YOU WORK FOR, YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND SUCH ENTITY, IN WHICH CASE THE TERMS “YOU,” “YOUR”, “CUSTOMER” OR A RELATED CAPITALIZED TERM HEREIN WILL REFER TO SUCH ENTITY.
+
+The Terms is a contract that governs Clients’ use of the Pipedrive Services and includes all additional terms and documents incorporated herein by reference including the following:
+
+    Acceptable Use Policy
+
+    Supplemental Terms
+
+    Data Processing Addendum
+
+    Privacy Notice
+
+BY REGISTERING FOR, PURCHASING ACCESS TO, ACCESSING, AND/OR USING THE PIPEDRIVE SERVICES OR OTHERWISE INDICATING ASSENT, YOU REPRESENT AND WARRANT THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT ACCESS OR USE THE PIPEDRIVE SERVICES.
+
+THESE TERMS ARE SUBJECT TO AN ARBITRATION PROVISION THAT APPLIES TO THE SUBSCRIPTION TO OR USE OF PIPEDRIVE’S SERVICES. THAT ARBITRATION PROVISION CAN BE FOUND AT SECTION 14.2 BELOW. THE ARBITRATION PROVISION APPLIES TO PIPEDRIVE CLIENTS OR SUBSCRIBERS AND DOES NOT ENCOMPASS DISPUTES BETWEEN PIPEDRIVE AND PERSONS MERELY BROWSING PIPEDRIVE’S WEBSITE. If you do not agree to arbitrate disputes with Pipedrive, then do not subscribe to, or purchase Pipedrive’s products.
+
+1. DEFINITIONS
+
+“Account” means the primary means for accessing and using the Pipedrive Services.
+
+“Add-On Feature” means a feature or set of features within the Pipedrive Services that are subject to additional charges (as set forth on www.pipedrive.com and during the purchase process and/or subject to additional terms as set forth in the Supplemental Terms.
+
+“Administrator” means a User(s) of an Account which the Client has granted a special authorization to manage the Client's Account.
+
+“Affiliates” means any legal entity that controls or owns more than 50% of such entity’s outstanding shares or securities, is controlled by, or under common control with a party.
+
+“AI Functionality” means any aspects of the Pipedrive Services that are powered by artificial intelligence, machine learning or similar technologies.
+
+“Beta Service” means any functionality that is in development or has not been commercially released as a final product.
+
+“Client” means the legal person or entity establishing an Account to receive access to the Pipedrive Services as identified in the sign-up process.
+
+“Client Data” any information processed by Client through the Pipedrive Services. Client Data excludes the Pipedrive Materials.
+
+“Credentials” means all usernames, passwords, and other access credentials created by or assigned to Client and each of its Users for use of the Pipedrive Services.
+
+“Data Processing Addendum” or “DPA” means the agreement, as set forth at
+https://www.pipedrive.com/en/privacy/dpa. The DPA reflects the parties’ agreement regarding the processing of Personal Data (as defined in the DPA) by Pipedrive as a Data Processor (as defined in the DPA).
+
+“Fee” means the subscription fees and any additional fees owed for using the Pipedrive Services.
+
+“Feedback” means any comment, bug report, feedback, suggestion or modification for the Pipedrive Services that a Client or a User provides to Pipedrive.
+
+“Free Trial” means temporary access for the purposes of trying out any part of the Pipedrive Services.
+
+“Intellectual Property Rights” means the worldwide legal rights or interests in any ideas, designs, architectures, concepts, methods, processes, techniques, apparatus, inventions, discoveries, improvements, technology, know-how, computer programs, databases, and works of authorship, including the following and all rights arising out of or associated therewith: (i) all United States and foreign patents and utility models and applications therefor; (ii) all trade secrets, know-how and confidential or proprietary information; (iii) all copyrights, whether registered or unregistered, and applications therefor, all common-law rights, moral rights; (iv) trademarks, service marks, and trade dress; (v) mask work rights; and (vi) any similar, corresponding, or equivalent rights to any of the foregoing anywhere in the world.
+
+“Marketplace” means an online directory, catalog or marketplace of applications and integrations that interoperate with the Pipedrive Services and expert partners found at https://www.pipedrive.com/en/marketplace.
+
+“Non-Pipedrive Application” means any software application or functionality that interoperates with the Pipedrive Services that is not created by Pipedrive.
+
+“Pipedrive” means, as set forth in Section 14.1, Pipedrive Inc., Pipedrive UK or Pipedrive OÜ or any other of its Affiliates.
+
+“Pipedrive Data” means the following: (i) data that Pipedrive provides to you in or through the Pipedrive Services, (ii) non-personally identifiable data that results from Client’s use of the Pipedrive Services and (iii) aggregated or anonymized data created by Pipedrive as authorized by these Terms.
+
+“Pipedrive Materials” means the visual interfaces, graphics, design, systems, methods, information, computer code, software, services, “look and feel”, organization, compilation of the content, code, data, algorithms, models and all other elements of the Pipedrive Services, including Pipedrive Data.
+
+“Pipedrive Services” means the access that Pipedrive provides to Client to the Platform and the content, services and/or products, and functionality, including any Add-On Features, available on or through the Platform.
+
+“Subscription Term” means the period Client is permitted to use the Pipedrive Services or applicable Add-On Feature commencing on the date of purchase of the Subscription and concluding on the date of expiration of the Subscription. “Subscription Term” includes the initial Subscription Term and all successive renewals.
+
+“Third-Party Providers” means any third parties that provide Non-Pipedrive Applications and any third parties that Client engages to provide integration services, software development services, or other services in relation to Client’s use of Pipedrive.
+
+“Platform” means the Pipedrive customer relationship management application.
+
+“Privacy Notice” means the notice, as set forth at https://www.pipedrive.com/en/privacy, which describes how Pipedrive collects, receives, uses, stores, shares, transfers, and otherwise processes Personal Data (as defined in the Privacy Notice) in connection with Client’s use of the Pipedrive Services. It also describes Client’s choices regarding use, as well as Client’s rights regarding its Personal Data.
+
+“Renewal Date” means the date the Client’s Subscription will automatically renew (annually or monthly depending on the Subscription selected) subject to earlier termination or cancellation as expressly permitted in these Terms.
+
+“Reseller” means a third-party entity that is authorized by Pipedrive to resell Pipedrive Services to Clients.
+
+“Sensitive Information” means information requiring special protection under applicable laws. This includes identifiers (e.g., Social Security numbers, passports, driver’s licenses) or any portion thereof, financial data (e.g., credit card numbers, bank account details), information about children, health and genetic data, any data revealing racial or ethnic origin, political opinions, religious beliefs, trade union membership, biometric data, sexual orientation, or criminal history. It also covers unhashed passwords and other data classified as “sensitive” or “special” under GDPR or any other applicable law relating to privacy and data protection.
+
+“Scope of Use” means Client’s entitlements to the Platform specified in the Subscriptions and any purchased Use Packs, which may include: (i) number and type of Users, (ii) purchased functionality.
+
+“Subscription” means usage rights and functionality and associated fees, selected by Client for any Pipedrive Services all of which as set forth at https://www.pipedrive.com/en/pricing.
+
+“Supplemental Terms” means the additional terms, as set forth at https://www.pipedrive.com/en/terms-of-service-supplemental-terms, applicable to Client’s use of an Add-On Feature or any third party services.
+
+“Terms” means these Pipedrive Terms of Service including all terms incorporated herein by reference, including any applicable Supplemental Terms, the Acceptable Use Policy, the DPA, and the Privacy Notice.
+
+“Use Pack” means a one-time purchase of increase in the Scope of Use.
+
+“User” means an individual to whom Client grants rights and privileges to use the Account on behalf of a Client.
+
+“User Management” means a group of settings that controls User access to different features and permissions within an Add-On Feature.
+2. SUBSCRIPTIONS
+
+To use the Pipedrive Services, Client must first select and pay for a Subscription that includes access to the Platform. Client may also purchase Subscriptions for Add-On Features. The Subscription Term for any Add-On Features will run concurrently with the Subscription Term for the Platform Subscription. Client may be given the opportunity to increase Client’s Scope of Use by purchasing an additional Subscription for additional entitlements (such as use by more Users) or by purchasing a Use Pack (such as the right to temporarily increase usage of an Add-On Feature).
+
+
+3. PIPEDRIVE SERVICES
+3.1 Use of the Pipedrive Services
+
+Subject to these Terms, and the payment of the applicable Fee, Pipedrive grants Client and its Users the right to access and use the Pipedrive Services in accordance with Client’s Scope of Use and only during the Subscription Term. The Services may not be used for the benefit of anyone other than the Client.
+
+3.2 Modifications to Pipedrive Services
+
+Pipedrive reserves the right to modify the Pipedrive Services or any part or element thereof from time to time without prior notice. Pipedrive shall not be liable to the Client or to any third person for any modification, suspension or discontinuance of any element of the Pipedrive Services.
+3.3 Users; Credentials
+
+Client may authorize Users to access and use the Platform solely: (i) in accordance with the Client’s Scope of Use; and (ii) for the benefit of Client. Client shall ensure its Users comply with these Terms and Client is responsible for all activities of its Users, including any purchases, use of Non-Pipedrive Applications, and how Users access and use Client Data. Each User must have their own Credentials. Credentials and Credentials may not be shared or used by multiple persons. Credentials may be reassigned to a new User replacing a former User who no longer uses Pipedrive Services. Pipedrive reserves the right to terminate or suspend any User’s Credentials that Pipedrive reasonably determines may have been used by an unauthorized third party or in an unauthorized manner. Pipedrive will provide prompt notice of any such termination, or suspension to Client. Client is responsible for maintaining the confidentiality of all Credentials and is solely responsible for all activities that occur with such Credentials. Client must promptly notify Pipedrive of any actual or suspected, disclosure, loss or unauthorized use of any Credentials.
+3.4 Selecting and Changing Subscriptions; Subscription Terms
+
+The initial Subscription Term for each Subscription is either monthly or annual and, unless the Subscription Term is terminated in accordance with Section 13, each Subscription will automatically renew for successive renewal Subscription Terms. Annual Subscriptions will automatically renew for successive years and monthly Subscriptions will automatically renew for successive months.
+
+Client may upgrade or downgrade a Subscription at any time by selecting a new Subscription. Subscription upgrades will be effective immediately and Client’s payment method on file will be charged for the difference in price between the existing Subscription and the new Subscription for the remainder of the then-current Subscription Term. Subscription downgrades will be effective on the next Renewal Date. The Client’s payment method on file will automatically be charged the Fee for the new Subscription. If, after the commencement of a Subscription Term, Client elects to downgrade a Subscription, this may cause the loss of features, functionality, capacity of the Account, as well as the loss of Client Data. For the avoidance of doubt, no refund of any prepaid or outstanding Fees will be provided to the Client for the price difference between Subscriptions if the Client downgrades a Subscription during a Subscription Term. If the Subscription was purchased through a Reseller then Fee owed for upgrades will be addressed directly with the Reseller.
+3.5 Administration of Client’s Account
+
+Client acknowledges that it has administrative control over, and is responsible for, who it grants access to Client Data hosted in the Pipedrive Services. Client may specify a User to be the billing owner and, depending on the Subscription, one or more Users to be an Administrator to manage its Account. Pipedrive is entitled to rely on communications from an Administrator when servicing Client’s Account. Client’s Administrator(s) may have the ability to access, monitor, use, and/or export Client Data as well as change User rights. Client will provide any information requested to confirm User identity. In the event that the Client loses access to an Account or otherwise requests information about an Account, Pipedrive is under no obligation to provide access or information until: (i) Pipedrive has been provided all requested information regarding User identity and (ii) the Client and requesting User have signed an indemnity regarding the access or information provided. For Add-On Features, if a User has authorization to access User Management then he/she can control other User’s access to the Add-On Feature and Client Data access. Add-On Features have different defaults in terms of which Users have access to the Add-On Feature. Generally that access can be managed through the User Management functionality.
+3.6 Technical Support
+
+Pipedrive shall provide the technical support to Client and its Users set forth in the Client’s Subscription.
+
+3.7 Add-On Features
+
+Pipedrive may, from time to time, make Subscriptions for Add-On Features available through the Pipedrive Services. The Client's use of Add-On Features is subject to any applicable Supplemental Terms and the payment of applicable Fees.
+3.8 Free Trial
+
+Upon expiration of a Free Trial of the Platform, the Account will be deactivated. In order to prevent deactivation, or to reactivate the Account, Client must select a Subscription and pay the Subscription’s Fee. If a Subscription is not selected and paid for within 2 weeks of the expiration of the Free Trial, otherwise Pipedrive may permanently delete the Account, including all Client Data as specified in the Privacy Notice.
+3.9 Beta Services
+
+Clients may access and use Beta Services for testing and evaluation purposes. Pipedrive reserves the right to fully or partially discontinue, at any time and from time to time, temporarily or permanently, any Beta Services, with or without notice to Client. By using the Beta Services, you agree that Pipedrive may collect, store, and analyze your Input and usage to improve and develop the Pipedrive Services and you agree to provide to Pipedrive an irrevocable, perpetual license to your Input solely for these purposes. If the Beta Services involve AI or machine learning capabilities, you acknowledge and agree that Pipedrive may use your Client Data, including your Input, to train or refine such capabilities solely for the purpose of providing the Beta Services to you. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THESE TERMS, PIPEDRIVE WILL NOT BE LIABLE TO CLIENT OR TO ANY THIRD PARTY FOR ANY CLAIMS WHATSOEVER RELATED TO OR ARISING OUT OF BETA SERVICES, OR CAUSED BY THE MODIFICATION, SUSPENSION OR DISCONTINUANCE OF BETA SERVICES, FOR ANY REASON.
+3.10 Non-Pipedrive Applications; Third-Party Providers
+
+Pipedrive or third parties may make available Non-Pipedrive Applications and provide a directory of certain Third-Party Providers, via the Marketplace, or their own websites. The terms and conditions regarding the use or receipt of Non-Pipedrive Applications and relationships with Third-Party Providers are between Client and the Third-Party Provider and any exchange of data between Client and such Third-Party Provider is solely between Client and the applicable Third-Party Provider. Any questions, concerns or disputes that arise based on Client’s use of Non-Pipedrive Applications or services or materials of Third-Party Providers should be addressed directly with such Third-Party Provider.
+
+Pipedrive does not warrant, or support Non-Pipedrive Applications or any services or materials provided by Third-Party Providers. Pipedrive does not recommend any particular Third-Party Provider and the existence of a directory and search functionality (such as a recommendation engine) should not be interpreted as Pipedrive recommending a Non-Pipedrive Application or Third-Party Provider.
+
+Pipedrive is not responsible for any disclosure, modification or deletion of Client Data resulting from access to a Non-Pipedrive Application or its provider. Clients should be aware that Non-Pipedrive Applications may enable users of the Non-Pipedrive Applications to have access rights to Client Data that are typically reserved to Administrators. Pipedrive Services may contain features and functionality designed to interoperate with Non-Pipedrive Applications, but Pipedrive cannot guarantee the continued availability of such features, functionality or interoperability and may cease providing them without notice and without entitling Client to any compensation. PIPEDRIVE SHALL HAVE NO LIABILITY WHATSOEVER FOR ANY CLAIMS ARISING FROM OR RELATING TO NON-PIPEDRIVE APPLICATIONS OR THIRD-PARTY PROVIDERS.
+3.11 AI Functionality
+
+Users may provide input to be processed by AI Functionality (“Input”), and receive output generated and returned by the AI Functionality based on the Input (“Output”). Inputs may include Client Data. Client must ensure that Inputs and use of the AI Functionality or any Output does not violate any laws or agreements applicable to Client. You are solely responsible for the development, content, operation, maintenance and use of any Input or Output. Due to the nature of artificial intelligence and machine learning, an Output may not be accurate or reliable and Client should independently review all Output prior to using or sharing the Output. Pipedrive does not provide any guarantee of accuracy.
+
+Artificial intelligence and machine learning models can improve over time to better address specific use cases. We do not permit third parties to use Client Data to improve or train their AI models.
+
+Client may not use AI Functionality to mislead any person that Output from the AI Functionality was solely human generated. Due to the nature of machine learning and the technology powering the AI Functionality, Output may not be unique and AI Functionality may generate the same or similar output to other services. Client acknowledges that certain elements of the AI Functionality are powered by third-party AI service providers (“AI Service Providers”) and agrees that Pipedrive may share Inputs and Outputs (including Client Data) with AI Service Providers, such as OpenAI, LLC (“OpenAI”), to facilitate the provision of AI Functionality.
+
+Client may not use AI Functionality in a manner that violates any terms, applicable laws or any policy of any AI Service Provider. OpenAI Enterprise's policies can be accessed on the OpenAI Enterprise website. Client agrees that Pipedrive shall not be liable for any acts, errors, omissions or breaches committed by AI Service Providers in connection with the provision of AI Functionality or Pipedrive Services.
+
+4. RESTRICTIONS
+4.1 Prohibited Activities
+
+Client and its Users may only use the Pipedrive Services within the Scope of Use and in accordance with these Terms and applicable law. Client and any Users may not (and must not permit anyone else to): (i) copy, modify, or create derivative works of the Pipedrive Materials or Pipedrive Services, in whole or in part; (ii) decrypt, circumvent, bypass, breach, or disable any security or other technological features or measures of the Pipedrive Services or Pipedrive Materials; (iii) access or attempt to access or use the Pipedrive Services for purposes of competitive analysis or the development, provision, or use of a competing software service or product; (iv) rent, lease, lend, sell, license, sublicense, assign, distribute, publish, transfer, or otherwise make available the Pipedrive Services to a third party including on or in connection with the internet or any time-sharing, service bureau, software as a service, cloud, or other technology or service (other than a User as expressly permitted by these Terms); (v) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any software component of the Pipedrive Materials, in whole or in part; (vi) remove any proprietary notices from the Pipedrive Services; (vii) perform any security or penetration testing of the Pipedrive Services or Pipedrive Materials; or (viii) use the Pipedrive Services in any manner that is in violation of applicable law. However, where Client has other rights under statute that make any portion of the foregoing contractual prohibition void, Client agrees to provide Pipedrive with reasonably detailed information regarding any intended disassembly or de-compilation. Client may not access the Pipedrive Services if Client is or becomes a direct competitor of Pipedrive.
+4.2 Trade Control Compliance
+
+The Client, any User, or agent (“Third Party”) hereby represents, warrants, covenants, and agrees that, with respect to the Pipedrive Services:
+
+    Third Party has complied and shall comply with, and shall cause its directors, officers, employees, and agents to comply with the United States, European Union, and any other applicable foreign economic, trade, and financial sanctions laws and regulations, including economic and trade sanctions administered by the US Department of the Treasury’s Office of Foreign Assets Control (“OFAC”) and the US Department of State (collectively, “Sanctions”), and US, EU and applicable foreign laws and regulations pertaining to export controls, including those administered by the US Departments of Commerce and State (collectively, “Trade Controls”).
+
+    Third Party shall take no action, directly or indirectly, that would cause Pipedrive or any of its Affiliates, or any of their respective officers, directors, employees, or representatives, to violate any Sanctions or Trade Controls.
+
+    Neither the Third Party nor any of its officers or directors, employees, and any agents or other representatives acting on their behalf (i) has been or is designated on any Sanctions- or export-related list of restricted or blocked persons, including designation on OFAC’s List of Specially Designated Nationals and Blocked Persons or OFAC’s Sectoral Sanctions Identifications List, (ii) is located in, organized under the laws of, or resident in any country or territory that is itself the subject of any sanctions or embargoes by any governmental authority, (iii) is or has been greater than 50% owned or controlled by any person or persons described in clause (i) or (ii) (collectively with (i) and (ii), a “Restricted Person”), or (iv) has or will provide the Pipedrive Services to any persons described in clauses (i)-(iii).
+
+    Third Party will promptly notify Pipedrive if Third Party or any personnel employed by or affiliated with Third Party: (i) commits any actual or potential breach of Sanctions or Trade Controls in relation to the Pipedrive Services, or (ii) becomes a Restricted Person.
+
+    Pipedrive, in its sole discretion, shall have the right to immediately terminate the access to, or use of the Pipedrive Services without notice or liability to Third Party, if Third Party, or any person employed by or affiliated with Third Party, takes any action in violation of the provisions described in this Section 4 or if Pipedrive determines, in its sole discretion, that the Third Party’s continued use of the Pipedrive Services could violate Sanctions or Trade Controls.
+
+4.3 Terms of Use; Take Down
+
+Pipedrive endeavors to comply with all laws, including the US Digital Millennium Copyright Act, and reserves the right to remove any Client Data from the Platform upon receipt of a compliant takedown notice, including any judicial orders or notices.
+
+
+5. PIPEDRIVE’S RESPONSIBILITIES
+5.1. Provision of Pipedrive Services
+
+Pipedrive will (i) make the Pipedrive Services available to Client pursuant to these Terms, (ii) provide support as outlined in Section 3.6 for the Pipedrive Services to Client, and (iii) use commercially reasonable efforts to make the Pipedrive Services available 24 hours a day, 7 days a week, except for: (a) planned downtime (of which Pipedrive will use reasonable efforts to give advance electronic notice such as via an in-application banner), and (b) any unavailability arising from circumstances beyond Pipedrive’s reasonable control, including, an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, pandemic, war, strike or other labor problem, Internet service provider failure or delay or denial of service attack, passage of law or any action taken by a governmental or public authority, including imposing an embargo.
+5.2. Protection of Client Data
+
+Pipedrive will maintain reasonable administrative, physical, and technical safeguards designed to maintain the security, confidentiality and integrity of Client Data. Those safeguards will include measures designed to prevent unauthorized access, use, modification or disclosure of Client Data. Additionally, Pipedrive shall only access, use, or modify Client Data: (i) to provide the Pipedrive Services and prevent or address service or technical problems, (ii) as compelled by law in accordance with Section 7.4 (Compelled Disclosure) below, (iii) as permitted by these Terms, or (iv) as Client or User otherwise expressly permits in writing.
+
+
+6. FEES/PAYMENT
+
+If Client purchases access to the Pipedrive Services through a Reseller, this Section 6 shall not apply and any payment terms shall be set forth in Client’s agreement with such Reseller.
+6.1 Fees
+
+Client will pay all Fees specified for the selected Subscription and any Add On Features. Fees may be specified on Pipedrive.com, during the sign-up process, or in other notices from Pipedrive. Fees are due in advance upon the start of a Subscription Term and each Renewal Date. All Fees are non-refundable. For purposes of clarity, there are no refunds or credits for periods where the Client did not use an activated Account, used it only partially, deactivated the Account or terminated these Terms during a Subscription Term, or where an Account is terminated or suspended by Pipedrive in accordance with these Terms. All Fees are exclusive of all taxes, levies or duties applicable under any applicable law, unless stated otherwise stated herein. Client is solely responsible for the payment of such taxes, levies or duties. Pipedrive reserves the right to modify the Fees for any Subscription or Add On Feature upon at least one month’s prior notice to Client, provided that any such modification will not take effect until the next Renewal Date for existing Subscription Terms.
+6.2 Payment
+
+Client authorizes Pipedrive to automatically charge Client the applicable Fees on or after the start of the Subscription Term and each Renewal Date. If a Client wishes to reduce the number of Users, change Subscriptions, or cancel a Subscription, it must do so prior to the Renewal Date. Clients may cancel their Subscription anytime as outlined below, which cancellation will be effective as of the end of the then-current Subscription Term. For the avoidance of doubt, under no circumstances will a cancellation result in a refund of Fees paid.
+
+6.3 Payment Card Authorization
+
+Pipedrive and its Affiliates may seek pre-authorization of Client’s payment card account prior to its purchase of Pipedrive Services in order to verify that the payment card is valid and has the necessary funds or credit available to cover any purchase. Client agrees to approve such card pre-authorization and authorizes Pipedrive to charge all Fees to such card account. Client agrees to provide Pipedrive updated information regarding its payment card account upon Pipedrive’s request and any time the information earlier provided is no longer valid.
+6.4 Direct Debit Payments
+
+If Client agrees, Pipedrive may elect that Client complete a bank debit mandate to enable bank debit payments. In such cases, Pipedrive shall comply with all applicable national rules and regulations related to direct debit payments.
+6.5 Payment Service Providers
+
+Pipedrive uses GoCardless to process Client’s bank debit payments. More information on how GoCardless processes Client’s personal data and Client’s data protection rights, including Client’s right to object, is available at https://gocardless.com/privacy/.
+6.6 Electronic Invoice
+
+If Pipedrive has not sought pre-authorization of Client’s payment card, then before each Renewal Date, Client will be issued an electronic invoice for the Fee due. Client must pay the invoice by the due date indicated on the invoice.
+6.7 Late Payment Charges; Suspension
+
+If Client does not pay all amounts when due: (i) those amounts may accrue late interest at the rate of 1% of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower; (ii) Client will reimburse Pipedrive for all costs reasonably incurred by Pipedrive in collecting any late payments or interest, including attorneys' fees, court costs, and collection agency fees; and (iii) Pipedrive may immediately suspend all access to the Client’s Account. Client will have 180 days to provide an authorized payment method to reactivate their Account, otherwise Pipedrive may permanently delete the Account, including all Client Data.
+
+
+7. CLIENT DATA/SENSITIVE INFORMATION/PRIVACY
+7.1 Rights to Client Data
+
+Client retains all of Client’s rights, title and interest in and to the Client Data.
+
+Client represents, warrants and covenants that: (i) Client either owns its Client Data or has the necessary licenses, rights consents, and permissions to grant the rights and license set forth in these Terms, and (ii) the use of Client Data as part of the Pipedrive Services, or Pipedrive’s or any Pipedrive’s licensee’s use of such Client Data pursuant to these Terms, does not and will not: (a) infringe, violate, or misappropriate any third-party right, including any Intellectual Property Right, privacy right, publicity right, or other rights of any person or entity; (b) violate any applicable law or regulation anywhere in the world; or (c) require Pipedrive to obtain a license from or pay any fees and/or royalties to any third party for the exercise of any rights granted in these Terms.
+
+Client hereby grants to Pipedrive a non-exclusive, term-limited, sublicensable (through multiple tiers), worldwide, royalty-free and fully paid license to reproduce, distribute and otherwise use and display the Client Data to provide the Pipedrive Services. For clarification, to the extent permitted by applicable law, Pipedrive may use Client Data to support and develop features and functionality within the Pipedrive Services and similar products and services.
+
+Pipedrive may also analyze system activity data associated with use of the Pipedrive Services by Client and its Users for the purposes of optimizing, improving or enhancing the way the Pipedrive Services operate, and to create new Features and functionality in connection with the Pipedrive Services in the sole discretion of Pipedrive. During or after the use of the Pipedrive Services by Client, Pipedrive may, and Client hereby instructs Pipedrive to, anonymize or aggregate Client Data and use such anonymized or aggregated data for any purpose.
+7.2 Responsibility for Client Data
+
+Client is solely responsible for Client Data, including the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of all Client Data as well as the consequences of posting or publishing Client Data on or through the Pipedrive Service. Client shall ensure that Client Data complies with these Terms.
+
+7.3 Sensitive Information and Unlawful Client Data
+
+CLIENT ACKNOWLEDGES THAT THE PIPEDRIVE SERVICES HAVE NOT BEEN DESIGNED TO PROCESS OR MANAGE SENSITIVE INFORMATION AND ACCORDINGLY CLIENT AGREES NOT TO USE THE PIPEDRIVE SERVICES TO COLLECT, STORE, MANAGE OR PROCESS SENSITIVE INFORMATION. PIPEDRIVE WILL NOT HAVE, AND PIPEDRIVE SPECIFICALLY DISCLAIMS, ANY LIABILITY THAT MAY RESULT FROM CLIENT’S BREACH OF THIS SECTION.
+
+Pipedrive has no obligation to screen or monitor Client Data, or its use by Client. Nonetheless, if Pipedrive has reason to believe that Client Data may not conform to the requirements of these Terms, or violate the rights of others (including relating to a takedown request), then Pipedrive may: (i) limit access to, or remove or delete, the relevant Client Data, or (ii) suspend Client’s or any User’s Account.
+
+Pipedrive Services are not designed to comply with industry-specific regulations such as the Health Insurance Portability and Accountability Act (HIPAA) or the Federal Information Security Management Act (FISMA). It is Client’s sole responsibility to ensure that Client’s use of the Pipedrive Services is in compliance with all applicable laws including industry-specific regulation.
+7.4 Compelled Disclosures
+
+Pipedrive may disclose a Client's confidential information (including Client Data) to the extent compelled by law to do so. Pipedrive will use commercially reasonable efforts to provide Client with prior notice of the compelled disclosure (to the extent legally permitted) and Client shall provide reasonable assistance, at its cost, if Client wishes to contest the disclosure. If Pipedrive is compelled by law to disclose Client's confidential information as part of a civil proceeding to which Pipedrive is a party, and Client is not contesting the disclosure, Client will reimburse Pipedrive for its reasonable cost of compiling and providing access to that confidential information.
+7.5 Privacy
+
+Pipedrive’s Privacy Notice is available at www.pipedrive.com/privacy. To the extent Pipedrive processes Personal Data (as defined in the DPA) in relation to the Pipedrive Services as a Data Processor (as defined in the DPA), the terms of the DPA apply. The DPA is available at https://www.pipedrive.com/en/privacy/dpa.
+
+8. CONFIDENTIALITY
+8.1 Definition of Confidential Information
+
+“Confidential Information” means all information disclosed by a party (“Disclosing Party”) to the other party (“Receiving Party”), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and/or the circumstances of disclosure. Confidential Information of Client includes Client Data; Confidential Information of Pipedrive includes the Pipedrive Services and the Pipedrive Materials. Confidential Information of each party includes business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party. However, Confidential Information does not include any information that (i) is or becomes generally available to the public without breach of any obligation owed to the Disclosing Party, (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party, (iii) is received from a third party without knowledge of any breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party.
+8.2 Protection of Confidential Information
+
+The Receiving Party will use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but not less than reasonable care) to (i) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of these Terms and (ii) except as otherwise authorized by the Disclosing Party in writing, limit access to Confidential Information of the Disclosing Party to those of its and its Affiliates’ employees and contractors who need that access for purposes consistent with these Terms and who have signed confidentiality agreements with the Receiving Party containing protections not materially less protective of the Confidential Information than those herein.
+8.3 Compelled Disclosure
+
+The Receiving Party may disclose Confidential Information of the Disclosing Party to the extent compelled by law to do so, provided the Receiving Party gives the Disclosing Party prior notice of the compelled disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party's cost, if the Disclosing Party wishes to contest the disclosure. If the Receiving Party is compelled by law to disclose the Disclosing Party’s Confidential Information as part of a civil proceeding to which the Disclosing Party is a party, and the Disclosing Party is not contesting the disclosure, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing secure access to that Confidential Information.
+
+9. INTELLECTUAL PROPERTY RIGHTS
+9.1 Pipedrive’s Intellectual Property Rights
+
+Client acknowledges that, as between Pipedrive and Client, Pipedrive and its Affiliates own all Intellectual Property Rights associated with the Pipedrive Materials and Pipedrive trade names and trademarks. Pipedrive Materials are protected by copyright, trade dress, patent, trade secrets, and trademark laws, international conventions and treaties, and all other relevant intellectual property and proprietary rights laws. Except as set forth in these Terms, Client’s use of the Pipedrive Services and Pipedrive Materials, and any parts or elements, does not grant to Client any ownership right or intellectual property rights therein. Pipedrive reserves all rights not expressly granted to Client in these Terms. Except for the limited rights and licenses expressly granted under these Terms, nothing in these Terms grants, by implication, waiver, estoppel, or otherwise, to Client or any third party any Intellectual Property Rights or other right, title, or interest in or to the Pipedrive Services, Platform, Pipedrive Materials and Pipedrive trade names and trademarks.
+
+9.2 Feedback
+
+If a Client or a User provides Pipedrive with any Feedback, Pipedrive shall have the right to use such Feedback at its discretion, including the incorporation of such suggested changes into the Pipedrive Services.
+
+Client or User hereby grants Pipedrive a perpetual, irrevocable, nonexclusive, assignable, sub-licensable (through multiple tiers), royalty free license under all rights necessary to incorporate, publish, reproduce, distribute, modify, adapt, prepare derivative works of, publicly display, publicly perform, exploit and use Feedback for any purpose.
+
+
+10. DISCLAIMERS; NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE PIPEDRIVE SERVICES, PIPEDRIVE MATERIAL, PLATFORM AND ANY CONTENT AND FEATURES MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE PIPEDRIVE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED AND PIPEDRIVE AND ITS AFFILIATES DISCLAIM ALL WARRANTIES, CONDITIONS, REPRESENTATIONS, AND GUARANTEES WHETHER EXPRESS, IMPLIED, ARISING BY LAW, USAGE OF TRADE, COURSE OF DEALING, COURSE OF PERFORMANCE, PRIOR ORAL OR WRITTEN STATEMENTS, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, CORRECTNESS, ACCURACY, AND RELIABILITY.
+
+NO REPRESENTATION OR OTHER AFFIRMATION OF FACT, INCLUDING STATEMENTS REGARDING CAPACITY, SUITABILITY FOR USE, OR PERFORMANCE THAT ARE NOT CONTAINED IN THESE TERMS SHALL BE DEEMED TO BE A WARRANTY, CONDITION, REPRESENTATION, OR GUARANTY BY PIPEDRIVE. WITHOUT LIMITING THE FOREGOING, PIPEDRIVE AND ITS AFFILIATES DO NOT WARRANT (I) THAT THE PIPEDRIVE SERVICES AND ANY CONTENT OR FEATURES MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE PIPEDRIVE SERVICES WILL BE FREE FROM ANY INTERRUPTIONS, DELAYS, INACCURACIES, SERVER DOWN-TIME, ERRORS, OR OMISSIONS, (II) THAT DEFECTS WILL BE CORRECTED, (III) THE PERFORMANCE OR RESULTS CLIENT MAY OBTAIN BY RECEIVING OR USING THE PIPEDRIVE SERVICES, OR (IV) THAT THE PIPEDRIVE SERVICES WILL MEET CUSTOMER’S OR ANY OTHER PARTY’S REQUIREMENTS.
+
+ALL PROFESSIONAL SERVICES, INCLUDING BUT NOT LIMITED TO IMPLEMENTATION, DATA IMPORT, TRAINING, CONSULTING, AND SUPPORT SERVICES, ARE PROVIDED ON AN "AS-IS" BASIS WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE CUSTOMER ACKNOWLEDGES THAT RESULTS FROM PROFESSIONAL SERVICES MAY VARY AND THAT PIPEDRIVE DOES NOT GUARANTEE ANY SPECIFIC OUTCOMES OR RESULTS FROM SUCH SERVICES. BY PROVIDING PIPEDRIVE OR ITS REPRESENTATIVES WITH ACCESS TO THE CUSTOMER'S ACCOUNTS, WHETHER DIRECTLY OR VIA A THIRD-PARTY APPLICATION, THE CUSTOMER CONSENTS TO SUCH ACCESS AND AGREES THAT PIPEDRIVE SHALL NOT BE LIABLE FOR ANY ISSUES, ERRORS, OR DAMAGES ARISING FROM SUCH ACCESS OR RELATED ACTIONS.
+
+
+11. INDEMNIFICATION
+11.1 Pipedrive Indemnification
+
+    Subject to the exclusions below, Pipedrive will, at Pipedrive’s expense, defend and/or settle any claim, suit or proceeding brought by a third party against Client or Client’s officers, directors, employees, agents and affiliates (collectively, “Client Parties”) alleging that the Platform, as provided by Pipedrive, infringes any copyright, trademark, trade secret or patent protectable under U.S. law. In addition, Pipedrive will pay any judgment awarded against the Client Parties or any settlement amount agreed to by Pipedrive for the indemnified claim. Notwithstanding the foregoing, Pipedrive shall have no indemnity or other defense obligations in relation to any functionality or services that are being used or are identified as trial use, evaluation use, or beta. THIS INDEMNITY IS THE CLIENT PARTIES’ EXCLUSIVE REMEDY AND PIPEDRIVE’S SOLE OBLIGATION AND LIABILITY WITH RESPECT TO ANY CLAIM OF INFRINGEMENT.
+
+    Pipedrive will have no obligation under Section 11.1(1) with respect to any claim of infringement arising out of or based upon: (i) Client Data; (ii) use of the Pipedrive Services in any manner other than as expressly authorized and contemplated in these Terms; (iii) the combination of the Pipedrive Services with any other software, hardware, material, or processes; or (iv) Client otherwise causing the Pipedrive Services to become infringing (collectively, the “Indemnity Exclusions”).
+
+    If Pipedrive reasonably believes that a claim of infringement relating to the Pipedrive Services may arise, Pipedrive may, without limiting Pipedrive’s indemnity obligations hereunder, procure the right for Client to continue to use the Pipedrive Services or modify the Pipedrive Services in a functionally equivalent manner so as to avoid such claim of infringement. If the foregoing options are not available on commercially reasonable terms and conditions (in Pipedrive’s determination), Pipedrive may immediately terminate these Terms and refund to Client a prorated amount of prepaid Fees for access to the Services actually paid by Client for the remainder of the Subscription Term.
+
+    Client Parties that receive notice, or become aware, of a claim that Pipedrive has agreed to defend under this Section must give Pipedrive prompt written notice of such claim or allegation setting forth in reasonable detail the facts and circumstances surrounding the claim. The Client Parties will not make any payment or incur any costs or expenses with respect to such claim, except as requested by Pipedrive or as necessary to comply with this procedure. The Client Parties will not make any admission of liability or take any other action that limits the ability of Pipedrive to defend the claim. Pipedrive shall have the right to assume full and complete control of the defense or settlement of such claim or allegation. The Client Parties will fully cooperate in the defense or settlement of the claim as reasonably requested by Pipedrive.
+
+11.2 Client Indemnification
+
+Client will, at Client’s expense, defend and/or settle any claim, suit or proceeding brought by a third party against Pipedrive and its Affiliates, and their respective directors, officers, employees and agents (collectively, “Pipedrive Parties”), arising out of Client’s (or any Client User’s) use or misuse of the Pipedrive Services, Pipedrive Materials, representations made to Pipedrive, its Affiliates and/or third parties, violation or breach of these Terms, violation of the rights of any other person or entity, or any Indemnity Exclusions. Pipedrive reserves the right, at its own expense, to assume the exclusive defense and control of any matter for which Client is required to indemnify Pipedrive, and Client agrees to cooperate with such defense of these claims.
+
+12. LIMITATION OF LIABILITY
+12.1 No Liability
+
+Pipedrive shall not be liable to the Client or User for any consequences resulting from:
+
+    any modifications in these Terms, modification of the Pipedrive Services, Pipedrive Material, Account usage by Client or any part or element thereof, including, but not limited to, any error, permanent or temporary interruption, discontinuance, suspension or other type of unavailability of the Pipedrive Services or Pipedrive Materials;
+
+    deletion of, corruption of, or failure to store any Client Data;
+
+    use of Client Data by the Client or any of the Users associated with the Account;
+
+    upgrading or downgrading of a current Subscription by Client;
+
+    any disclosure, loss or unauthorized use of the login credentials of Client or any User due to Client’s failure to keep them confidential;
+
+    Client’s use of the Account or the Pipedrive Services by means of web browsers other than those accepted or supported by the Pipedrive;
+
+    the application of any remedies against the Client or Users by Pipedrive; for example, if the Client or User has committed a crime or conducted a breach of applicable law by using the Pipedrive Services or any part or element thereof;
+
+    the differences between technologies and platforms used for access; for example, if certain Features, functions, parts or elements of the Pipedrive Services are designed for use on a personal computer or laptop and do not function on a mobile platform or a tablet;
+
+    Pipedrive’s application of the remedies described in these Terms, even if the reasonable grounds or legal basis for the application of these remedies turned out to be unfounded or invalid afterwards.
+
+In addition, Pipedrive and its Affiliates shall not be liable to the Client for any claim by any User, person, organization, or third persons against the Client arising out of the Client’s failure to:
+
+    provide Pipedrive with accurate information about the Client, Users or Account;
+
+    notify Pipedrive of any reasons due to which a User does not have the right to use the Account on behalf of the Client;
+
+    provide any Pipedrive Services or Features which it has agreed to provide to any person or organization (whether such failure arises as a result of Pipedrive’s negligence, breach of these Terms or otherwise);
+
+    ensure the lawfulness of the Client Data;
+
+    obtain the necessary rights to use the Client Data; or
+
+    abide by any of the restrictions described in these Terms.
+
+12.2 Limitation of Liability
+
+IN NO EVENT SHALL THE AGGREGATE LIABILITY OF THE PIPEDRIVE PARTIES ARISING OUT OF OR RELATED TO THESE TERMS OR ITS SUBJECT MATTER, WHETHER IN RESPECT OF A SINGLE OCCURRENCE OR A SERIES OF OCCURRENCES, EXCEED THE TOTAL AMOUNT PAID BY CLIENT UNDER THESE TERMS TO PIPEDRIVE FOR THE SPECIFIC PIPEDRIVE SERVICES GIVING RISE TO THE LIABILITY IN THE SIX MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH LIABILITY AROSE UNDER THESE TERMS. THIS LIMITATION OF LIABILITY IS AN AGGREGATE LIMIT AND WILL NOT BE INCREASED BY THE EXISTENCE OF MORE THAN ONE CLAIM OR INCIDENT GIVING RISE TO LIABILITY.
+12.3 Exclusion of Consequential and Related Damages
+
+IN NO EVENT WILL THE PIPEDRIVE PARTIES HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS OR ITS SUBJECT MATTER FOR ANY LOST PROFITS, REVENUES, GOODWILL, OR DATA, OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR PUNITIVE DAMAGES HOWEVER ARISING.
+
+12.4 THE LIMITATIONS OF LIABILITY AND EXCLUSIONS OF DAMAGES IN SECTIONS 12.2 and 12.3 SHALL APPLY: (i) TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW AND NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THESE TERMS OR ELSEWHERE; (ii) TO ALL CLAIMS IN THE AGGREGATE ARISING UNDER OR RELATING TO THESE TERMS OR THE SUBJECT MATTER OF THESE TERMS; (iii) REGARDLESS OF THE LEGAL OR EQUITABLE THEORY UNDER WHICH THE CLAIM ARISES, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), INDEMNITY, STRICT LIABILITY, OR OTHERWISE; (iv) REGARDLESS OF WHETHER PIPEDRIVE HAS BEEN ADVISED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES; AND (v) REGARDLESS OF IF THE REMEDIES AVAILABLE UNDER THESE TERMS FAIL OF THEIR ESSENTIAL PURPOSE.
+
+12.5 THE DISCLAIMER OF WARRANTIES AND LIMITATIONS OF LIABILITY CONTAINED IN THESE TERMS ARE FUNDAMENTAL PARTS OF THE BASIS OF PIPEDRIVE’S BARGAIN HEREUNDER, AND CLIENT ACKNOWLEDGES THAT SUCH PROVISIONS REPRESENT A REASONABLE ALLOCATION OF RISK.
+
+Since some jurisdictions do not allow certain limitations or exclusions of warranties or liability, some or all of the limitations and exclusions set forth in this Section 12 may be held unenforceable as applied to Client Parties. In such cases, Pipedrive’s liability shall be limited to the greatest extent permitted under applicable law.
+
+
+13. TERMINATION/SUSPENSION
+13.1 For Convenience
+
+These Terms and Client’s access to the Pipedrive Services may be terminated for convenience in the following situations:
+
+    by the Client at any time by: (i) clicking the cancellation link in the Pipedrive Services, (ii) by revoking the billing agreement on its PayPal profile, if Client is paying for the Pipedrive Service with a PayPal account; or (iii) by means agreed upon between the Client and the Reseller, if Client is paying for the Pipedrive Service via a Reseller; provided, however, that any such termination shall not be effective until the next Renewal Date;
+
+    by Pipedrive effective upon the next Renewal Date;
+
+    by Pipedrive at any stage and for any reason, provided that the Pipedrive will provide a pro rata refund of any prepaid, unused Fees for the remainder of the Subscription Term; or
+
+    immediately by either party, if proceedings are initiated for the other party’s liquidation or insolvency or a negotiated settlement with the other party’s creditors is concluded or an assignment is made on behalf of the other party for the benefit of creditors.
+
+13.2 For Default
+
+These Terms and Client’s access to the Pipedrive Services may be terminated for default upon written notice to the other party in accordance with Section 15.7 “Notice”:
+
+    by either party if the other party breaches these Terms and does not cure the breach within 30 days of receipt of a notice specifying the breach in reasonable detail;
+
+    immediately by Pipedrive if Client breaches its obligations under Section 4 “Restrictions”, 7 “Client Data/Sensitive Information”, 9 “Intellectual Property Rights” or 11 “Indemnification”; or
+
+    by Pipedrive with immediate effect if: (i) Client’s use of the Pipedrive Services is suspected, in Pipedrive’s sole discretion, of illegal activity, (ii) requests made by law enforcement, judicial order or other government agencies for such termination, or (iii) if Client’s use of the Pipedrive Services endangers the property of others, the website or the Platform.
+
+13.3 Effect of Termination
+
+Upon termination of these Terms any reason whatsoever:
+
+    Pipedrive shall deactivate and permanently delete the Account and all Client Data in the Pipedrive Services within 180 days of the effective date of termination of these Terms and/or Client’s access to the Pipedrive Services. If the Client specifically requests an earlier deletion of the Account and all Client Data, Pipedrive shall fulfill the request within 1 month of its receipt.
+    Client must:
+
+        stop using and prevent the further usage of the Pipedrive Services;
+
+        pay any amounts owed to Pipedrive under these Terms; and
+
+        discharge any liability incurred by the Client under these Terms prior to the termination.
+
+    Except as otherwise set forth herein, in no event shall Client receive a refund of any Fees prepaid hereunder.
+
+    The following provisions shall survive the termination of these Terms: Sections 1, 4, 6, 7- 12, 14 and 15.
+
+13.4 Suspension
+
+Pipedrive has the right to suspend access to all or any part of the Pipedrive Service or an Account, including removing content, at any time, with or without notice, and for any period of time, if: Pipedrive determines that (i) there is a threat or attack on any of the Pipedrive Services; (ii) Client’s or any User's use of the Pipedrive Services disrupts or poses a security risk to the Pipedrive Services or to any other customer or vendor of Pipedrive; (iii) Client or any User, is using the Pipedrive Services for fraudulent or illegal activities; (iv) subject to applicable law, Client has ceased to continue its business in the ordinary course, made an assignment for the benefit of creditors or similar disposition of its assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution, or similar proceeding; (v) Pipedrive's provision of the Pipedrive Services to Client or any User is prohibited by applicable law; (vi) Client is, or reasonably suspected by Pipedrive to be, in breach of these Terms; or (vii) usage by Client or its Users of the Pipedrive Service to be excessive in relation to other Pipedrive Service users, (vii) to protect the integrity, operability, and security of the Pipedrive Service, or (viii) in accordance with Section 6.7 (collectively, a “Service Suspension”). Unless prohibited by law or legal process or to prevent imminent harm to the Pipedrive Service or any third party, Pipedrive typically provides notice of a Service Suspension in the form of a banner or email on or before such suspension. Pipedrive will, in its discretion and using good faith, tailor any suspension as needed to preserve the integrity, operability, and security of the Pipedrive Services. Pipedrive shall have no obligation to provide Client with any credit or refund of prepaid Fees due to suspension in accordance with these Terms. Pipedrive will have no liability for any damage, liabilities, losses (including any loss of data or profits), or any other consequences that Client or any User may incur as a result of a Service Suspension and shall have no obligation to refund any Fees in connection with a Service Suspension.
+
+14. PIPEDRIVE CONTRACTING ENTITY/ARBITRATION/GOVERNING LAW & JURISDICTION
+14.1 Pipedrive Contracting Entity
+
+The Pipedrive entity with whom Client is contracting under these Terms depends on the domicile of the Client. Pipedrive determines the domicile of the Client based on the country indicated in the billing address of the Client. For Free Trials, Pipedrive determines the domicile of the Client based on the location indicated in the IP-address of the Client. By accepting these Terms or using the Pipedrive Services, the Client is contracting with the Pipedrive entity listed opposite such Client’s domicile in the following table:
+
+
+Client’s domicile:
+
+Supplier:
+
+USA, Canada, and the Territories listed in this link as of applicable dates
+
+Pipedrive Inc.
+
+The European Union and associated territories, the European Economic Area and any other jurisdiction in this link as of applicable dates
+
+Pipedrive OÜ
+
+United Kingdom, Gibraltar
+
+Pipedrive UK
+14.2 Arbitration/Governing Law and Jurisdiction
+
+THIS ARBITRATION PROVISION APPLIES TO THE SUBSCRIPTION TO OR USE OF PIPEDRIVE’S SERVICES. THE ARBITRATION PROVISION APPLIES TO PIPEDRIVE CLIENTS OR SUBSCRIBERS AND DOES NOT ENCOMPASS DISPUTES BETWEEN PIPEDRIVE AND PERSONS MERELY BROWSING PIPEDRIVE’S WEBSITE.
+
+If you do not agree to arbitrate disputes with Pipedrive, then do not subscribe to, or purchase Pipedrive’s products.
+
+In the event of a dispute, controversy or claim arising out of or in relation to these Terms of Service and the Subscription to or Use of Pipedrive’s Services, including but not limited to the formation, validity, breach or termination of these Terms, the parties shall attempt to solve the matter amicably in mutual negotiations. In the event a mutually acceptable resolution cannot be reached within a reasonable time, either party will be entitled to seek all available remedies, including legal remedies subject to the terms and conditions set forth below. Notwithstanding the foregoing and subject to the terms and conditions set forth below, either party may seek injunctive relief with respect to any disputed matter to the extent possible under applicable law. Should an amicable settlement between parties not be possible, the dispute shall be finally solved by arbitration as designated herein subject to the terms and conditions set forth below. The United Nations Convention on Contracts for the International Sale of Goods (Vienna Convention of 1980) shall not be applied to these Terms. Any questions relating to these Terms which are not expressly or implicitly settled by the provisions contained in these Terms shall be governed by and construed in accordance with the following:
+
+USA/Canada: For Clients domiciled in the United States or Canada, any dispute arising from or relating to the subject matter of these Terms shall be finally settled by arbitration in New York, NY, using the English language in accordance with the Commercial Arbitration Rules and Procedures of JAMS then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Arbitration Rules and Procedures of JAMS. The Streamlined Rules shall apply to any dispute putting less than $250,000 at issue (not including attorneys’ fees) and the parties agree that Rule 28 (baseball option) can be employed. The prevailing party in the arbitration shall be entitled to receive reimbursement of its reasonable expenses (including reasonable attorneys’ fees, expert witness fees and all other expenses) incurred in connection therewith. Judgment upon the award so rendered may be entered in a court having jurisdiction or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, each party shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of these Terms, the parties consent to (i) exclusive jurisdiction and venue in the United States Federal Courts located in New York, NY and (iii) the laws of the State of Delaware as the governing law, without giving effect to any principles of conflicts of law. Use of the Pipedrive Services is not authorized in any jurisdiction that does not give effect to all provisions of these Terms, including without limitation, this Section. The parties each agree that it shall bring any dispute against the other in its respective individual capacities and not as a plaintiff or class member in any purported class, representative proceeding or as an association. In addition, the parties each agree that disputes shall be arbitrated only on an individual basis and not in a class, consolidated or representative action. The arbitrator does not have the power to vary these provisions. The arbitrator does not have the power to make errors of law.
+
+UK/Gibraltar: For Clients domiciled in the United Kingdom and Gibraltar, all disputes arising out of or in connection with the Terms, including any question regarding its existence, validity or termination, shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce (the “Arbitration Rules”) by one arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, appointed in accordance with the Arbitration Rules. The place of the arbitration shall be London, England. The language of the arbitration shall be English. The arbitration shall be commenced by a request for arbitration by either party, delivered to the other party. The request for arbitration shall set out the nature of the claim(s) and the relief requested. Except as otherwise specifically limited in these Terms, the arbitral tribunal shall have the power to grant any remedy or relief that it deems appropriate, whether provisional or final, including but not limited to conservatory relief and injunctive relief, and any such measures ordered by the arbitral tribunal shall, to the extent permitted by applicable law, be deemed to be a final award on the subject matter of the measures and shall be enforceable as such. Each party retains the right to apply to any court of competent jurisdiction for interim and/or conservatory measures, including pre-arbitral attachments or injunctions, and any such request shall not be deemed incompatible with the agreement to arbitrate or a waiver of the right to arbitrate. The existence and content of the arbitral proceedings and any rulings or awards shall be kept confidential by the parties and members of the arbitral tribunal except (i) to the extent that disclosure may be required of a party to fulfill a legal duty, protect or pursue a legal right, or enforce or challenge an award in bona fide legal proceedings before a state court or other judicial authority, (ii) with the consent of all parties, (iii) where needed for the preparation or presentation of a claim or defense in this arbitration, (iv) where such information is already in the public domain other than as a result of a breach of this clause, or (v) by order of the arbitral tribunal upon application of a party. The arbitral tribunal may include in its award an allocation to any party of such costs and expenses, including lawyers’ fees, as the arbitral tribunal shall deem reasonable. Any award of the arbitral tribunal shall be final and binding on the parties. Enforcement of any award may be sought in any court of competent jurisdiction. For all purposes of these Terms, the parties consent to (a) exclusive jurisdiction and venue in England and (b) the laws of England as the governing law, without giving effect to any principles of conflicts of law.
+
+EU/Rest of World: For Clients domiciled in the European Union, the European Economic Area or all other countries not specifically referenced in these Terms, all disputes arising out of or in connection with the Terms, including any question regarding its existence, validity or termination, shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce (the “Arbitration Rules”) by one arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, appointed in accordance with the Arbitration Rules. The place of the arbitration shall be Harju County, Tallinn, Estonia. The language of the arbitration shall be English. The arbitration shall be commenced by a request for arbitration by either party, delivered to the other party. The request for arbitration shall set out the nature of the claim(s) and the relief requested. Except as otherwise specifically limited in these Terms, the arbitral tribunal shall have the power to grant any remedy or relief that it deems appropriate, whether provisional or final, including but not limited to conservatory relief and injunctive relief, and any such measures ordered by the arbitral tribunal shall, to the extent permitted by applicable law, be deemed to be a final award on the subject matter of the measures and shall be enforceable as such. Each party retains the right to apply to any court of competent jurisdiction for interim and/or conservatory measures, including pre-arbitral attachments or injunctions, and any such request shall not be deemed incompatible with the agreement to arbitrate or a waiver of the right to arbitrate. The existence and content of the arbitral proceedings and any rulings or awards shall be kept confidential by the parties and members of the arbitral tribunal except (i) to the extent that disclosure may be required of a party to fulfill a legal duty, protect or pursue a legal right, or enforce or challenge an award in bona fide legal proceedings before a state court or other judicial authority, (ii) with the consent of all parties, (iii) where needed for the preparation or presentation of a claim or defense in this arbitration, (iv) where such information is already in the public domain other than as a result of a breach of this clause, or (v) by order of the arbitral tribunal upon application of a party. The arbitral tribunal may include in its award an allocation to any party of such costs and expenses, including lawyers’ fees, as the arbitral tribunal shall deem reasonable. Any award of the arbitral tribunal shall be final and binding on the parties. Enforcement of any award may be sought in any court of competent jurisdiction. For all purposes of these Terms, the parties consent to (a) exclusive jurisdiction and venue in Harju County, Tallinn, Estonia and (b) the laws of Estonia as the governing law, without giving effect to any principles of conflicts of law.
+
+Use of the Pipedrive Services is not authorized in any jurisdiction that does not give effect to all provisions of these Terms, including without limitation, this Section. Notwithstanding the foregoing, Client and Pipedrive agree that nothing herein shall be deemed to waive, preclude, or otherwise limit either party’s right to (i) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available, (ii) seek injunctive relief in a court of law, or (iii) to file suit in a court of law to address intellectual property infringement claims.
+
+
+15. GENERAL
+15.1 Relationship of the Parties
+
+The parties will act solely as independent contractors. These Terms shall not be construed as creating an agency, partnership, joint venture, fiduciary duty, or any other form of legal association between Client and Pipedrive, and Client shall not represent to the contrary, whether expressly, by implication, appearance or otherwise. These Terms are not for the benefit of any third parties.
+15.2 Severability
+
+If any term, condition or provision of these Terms is held to be invalid, unenforceable or illegal in whole or in part for any reason, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties. The validity and enforceability of the remaining terms, conditions or provisions, or portions of them, shall not be affected.
+15.3 Entire Agreement
+
+These Terms, including the additional terms incorporated herein by reference, are the entire agreement between Client and Pipedrive regarding Client’s use of the Pipedrive Services, Pipedrive Materials and the Platform and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. Except as otherwise provided herein, no modification, amendment, or waiver of any provision of these Terms will be effective unless in writing and signed by the party against whom the modification, amendment or waiver is to be asserted. As used in this Agreement, the terms “including,” “include,” and “includes” are not limiting and shall be deemed to be followed by the phrase “without limitation.” Pipedrive’s remedies specified in these Terms are cumulative and are in addition to and not in substitution for any other rights and remedies available to Pipedrive at law, in equity, or otherwise.
+15.4 Modification
+
+Pipedrive reserves the right, in its sole discretion, to modify the Terms from time to time. Notification of such modifications may be posted on or through the Platform or the Pipedrive Services through, for example, an in-app notification) or by posting at https://www.pipedrive.com/en/legal. Modifications to these Terms will take effect at the earlier of (i) the first Renewal Date following posting, or (ii) thirty (30) days after posting (the “Amended Date”). If Client does not wish to be bound by the modifications, then Client must cancel prior to the Amended Date in accordance with Section 13 above. Client’s continued use of the Pipedrive Services constitutes its acceptance of these Terms and any modifications.
+15.5 Assignment
+
+Client may not, directly or indirectly, in whole or in part, by operation of law or otherwise, assign or transfer these Terms or delegate any of its rights and/or obligations under these Terms without Pipedrive’s prior written consent. Any attempted assignment, transfer or delegation without such prior written consent will be void and unenforceable. Notwithstanding the foregoing, the Client may assign this Agreement without consent upon written notice to Pipedrive: (1) to any credit-worthy entity controlled by, or under common control with the Client that assumes all of Client’s obligations under this Agreement; or (2) in connection with a merger, reorganization, transfer, sale of assets or product lines, or change of control or ownership of the Client provided the surviving entity is credit worthy and assumes all of Client’s obligations under this Agreement. The notice of assignment must include the name and billing information of the assignee. Pipedrive may freely assign or transfer these Terms or delegate any of its rights and/or obligations under these Terms without restriction.
+15.6 No Waiver
+
+No waiver by any party of any of the provisions hereof will be effective unless explicitly set forth in writing and signed by the party so waiving. Except as otherwise expressly set forth in this Agreement, (i) no failure to exercise, or delay in exercising, any rights, remedy, power, or privilege arising from this Agreement will operate or be construed as a waiver thereof, and (ii) no single or partial exercise of any right, remedy, power, or privilege hereunder will preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+15.7 Notices
+
+Except as otherwise specified in the Terms, all notices related to the Terms from Client to Pipedrive will be in writing and will be effective upon (i) personal delivery, (ii) the second business day after mailing, or (iii), except for notices of termination or an indemnifiable claim, which shall clearly be identifiable as “Legal Notices”, the day of sending by email. Billing-related notices to Client will be addressed to the relevant billing contact designated by Client. All other notices to Client will be addressed to the Client system administrator designated by Client in the Platform or will be provided using banners or pop-ups within the Platform.
+15.8 Force Majeure
+
+In no event shall Pipedrive be liable, or be deemed to have breached this Agreement, for any failure or delay in performing its obligations under this Agreement, if and to the extent such failure or delay is caused by any circumstances beyond Pipedrive’s reasonable control, including but not limited to acts of God, flood, fire, earthquake, explosion, war, terrorism, invasion, cyber attacks, riot or other civil unrest, strikes, labor stoppages or slowdowns or other industrial disturbances, or passage of law or any action taken by a governmental or public authority, including imposing an embargo.
+15.9 DORA Addendum
+
+For Clients who qualify as a Financial Entity within the meaning of article 2(2) of the Digital Operational Resilience Act (DORA), the terms outlined in the DORA Addendum shall be automatically applicable, as from 17th January 2025 (DORA application date) in addition to these Terms.

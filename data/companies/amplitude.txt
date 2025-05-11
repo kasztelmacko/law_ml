@@ -1,0 +1,208 @@
+Terms of Service
+
+IMPORTANT NOTICE: THESE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION PROVISION AND WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN THE SECTION 10 ARBITRATION AND WAIVER OF CLASS ACTION SECTION BELOW. PLEASE READ CAREFULLY.
+
+Thank you for using the Amplitude Services (defined below) provided by Amplitude, Inc. with its offices at 201 3rd Street, Suite 200, San Francisco, CA 94103 ("Amplitude"). Please review these Terms of Service carefully. These Terms of Service incorporate the Data Processing Addendum for Terms of Service (located at https://www.amplitude.com/terms/dpa, “TOS DPA”) and the Acceptable Use Policy (located at https://www.amplitude.com/aup, “AUP”); collectively, the Terms of Service, TOS DPA and AUP make up the “Terms”.
+
+YOU INDICATE YOUR ASSENT TO THESE TERMS BY ANY OF THE FOLLOWING: CLICKING "I AGREE" (OR SIMILAR BUTTON OR CHECKBOX) AT THE TIME YOU REGISTER FOR THE AMPLITUDE SERVICES, BY CREATING AN AMPLITUDE ACCOUNT, OR BY ACCESSING OR USING THE AMPLITUDE SERVICES IN ONE OF THE FREE PROGRAMS (SET OUT BELOW) OFFERED BY AMPLITUDE. THESE TERMS ARE EFFECTIVE AS OF THE DATE YOU FIRST CLICK "I AGREE" (OR SIMILAR BUTTON OR CHECKBOX), CREATE AN AMPLITUDE ACCOUNT, OR USE OR ACCESS THE AMPLITUDE SERVICES, WHICHEVER IS EARLIEST.
+
+Amplitude encourages you to make full use of the Amplitude programs described in Section 1 below (the “Free Programs") in order to understand how Amplitude can benefit your business. However, Amplitude reserves the right to terminate or suspend your use of the Amplitude Services if Amplitude determines that you are misusing a Free Program. For example, a Customer should not open multiple accounts under a Free Program or otherwise take any actions which would allow a Customer to circumvent the volume limits which apply to the Free Programs.
+
+If you have a paid subscription to use the Amplitude Services pursuant to a separate written agreement with Amplitude, these Terms will not apply to your use of the Amplitude Services for which you have paid; provided however, that these Terms will continue to apply to any use of the Amplitude Services under a Free Program or the Plus plan (as described in the Plus plan terms). If you purchase the Amplitude Services through a reseller, these Terms will apply as between you and Amplitude.
+
+In these Terms, “you”, “your”, and “Customer” refers to you and/or the organization using the Amplitude Services or on whose behalf the Amplitude account has been registered. If you register for an Amplitude account or use the Amplitude Services on behalf of an organization, you agree to these Terms for that organization and represent to Amplitude that you have the authority to bind that organization to these Terms.
+
+If you become aware of any violation of these Terms in connection with use of the Amplitude Services by any person, please contact Amplitude at privacy@amplitude.com. Amplitude may investigate and take any (or no) action that it believes is appropriate in response to a violation of these Terms, including but not limited to terminating your or your Users’ access.
+
+EXCEPT FOR SECTION 10, PROVIDING FOR BINDING ARBITRATION AND WAIVER OF CLASS ACTION RIGHTS, AMPLITUDE RESERVES THE RIGHT TO MODIFY THESE TERMS FROM TIME TO TIME. THE MOST CURRENT VERSION OF THESE TERMS WILL BE POSTED TO OUR WEBSITE AND ANY UPDATED VERSION OF THESE TERMS WILL SUPERSEDE ALL PREVIOUS VERSIONS. THE UPDATED TERMS WILL BECOME EFFECTIVE AS OF THE POSTING DATE. NO SEPARATE NOTICE WILL BE REQUIRED, AND YOUR CONTINUED USE OF THE AMPLITUDE SERVICES AFTER THE UPDATED VERSION OF THE TERMS IS POSTED WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH UPDATED TERMS.
+
+DEFINITIONS
+
+“Affiliate” means, with respect to a party, any entity controlling, controlled by or under common control with such party, where control (including “controlled by” and “under common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such entity, whether through the ownership of more than 50% of voting securities or other ownership interests, by contract or otherwise.
+
+“Amplitude Content” means the Documentation and any other information provided to Customer via the Amplitude Services for purposes of helping Customer navigate, explore, optimize and otherwise use the Amplitude Services.
+
+“Amplitude Services” means generally available software-as-a-service products provided by Amplitude.
+
+“Beta Services” means products, services, integrations, functionality or features that are generally available, but that Amplitude may make available to Customer to try at Customer’s discretion, which may be described as “alpha,” “beta,” “pilot,” “limited release,” “developer preview,” “non-production,” “early-stage”, or other similar description.
+
+“Customer Data” means data and other content submitted by or for Customer to the Amplitude Services, including data related to or submitted by Customer’s end users , and session replays, content or other outputs made as a result of using the Amplitude Services (if applicable). For the avoidance of doubt, Customer Data does not include System Data (defined below) or any dashboards, templates, Amplitude Content or any other technology or components of the Amplitude Services created, developed, used or provided by Amplitude.
+
+“Documentation” means any online documentation, operating manuals and usage guides for the Amplitude Services, accessible via help.amplitude.com/hc/en-us, or otherwise provided by Amplitude, which may be updated from time to time.
+
+“Feedback” means suggestions, comments, feedback, improvements requests or other assessments which Customer or its Users may provide to Amplitude relating to features, functionality or the operation of the Amplitude Services and/or Beta Services.
+
+“System Data” means data and information collected, derived, or otherwise generated by the Amplitude Services that has been anonymized, de-identified, and/or aggregated so as not to identify or permit identification of an individual. For the avoidance of doubt, Amplitude may use, modify, and display System Data, provided, however, that Amplitude will not publicly disclose or distribute System Data unless it is aggregated in a manner that does not permit the identification of Customer.
+
+“Third-Party Products” mean a non-Amplitude product or web-based, mobile, offline or other software application or service that Customer chooses to integrate with or use in connection with the Amplitude Services.
+
+“User” means an individual Customer invites, authorizes or otherwise uses or accesses the Amplitude Services under Customer’s account, including employees of Customer and its Affiliates, contractors, agents and consultants of Customer.
+1. AMPLITUDE PROGRAMS
+
+(i) Free Trials/Beta Services
+
+If Customer registers for or is provided access to the Amplitude Services as part of: (a) a free trial, or (b) Beta Services, then such Amplitude Services will be available to Customer on a no-cost basis for the period of time set forth in the documentation associated with the free trial or Beta Services (if applicable), unless terminated sooner as set out in these Terms. Beta Services may be subject to additional terms which may supplement or supersede these Terms.
+
+(ii) Starter Program
+
+If Customer registers for Amplitude’s Starter Program, Amplitude will make the Amplitude Services available to Customer on a no-cost basis from Customer’s date of registration until the earlier of: (a) the end of the free period for which Customer has registered to use the Amplitude Services, or (b) the start date of any purchased subscription for the Amplitude Services. Additional terms and conditions may appear on the Starter Program webpage, the Frequently Asked Questions section of the Amplitude Pricing Page, or in Help articles or other documentation regarding the Starter Program (including those available at https://help.amplitude.com), and any such additional terms and conditions are hereby incorporated into these Terms. Amplitude may change the features and benefits associated with the Starter Program, or suspend or terminate Customer’s access to or use of the Starter Program, at any time in its sole discretion.
+
+(iii) Amplitude Scholarship Programs
+
+Amplitude may offer certain Customers access to a limited feature set in connection with Amplitude’s Startup Scholarship Plan or Tech for Black Founders Plan (together, the “Scholarship Programs") for the period of time set forth in the documentation associated with the relevant Scholarship Program. The terms related to the Scholarship Programs are available on the following program pages and are hereby incorporated into these Terms: (i) Startup Scholarship Plan, and (ii) Black Founders Plan. Amplitude may change the features and benefits associated with the Scholarship Programs, or suspend or terminate Customer’s access to or use of the Scholarship Programs, at any time in its sole discretion.
+2. CUSTOMER RESTRICTIONS AND RESPONSIBILITIES
+
+2.1 – Administration of Customer’s Account
+
+When creating an account to access and use the Amplitude Services, Customer will identify a User that will act as an administrator and Customer’s administrator may grant access to additional Users (each with their own separate usernames and passwords) in accordance with these Terms. Customer is responsible for maintaining the security of user IDs, passwords and other access credentials of Customer’s Users, and shall ensure such access credentials are kept strictly confidential and not shared with any unauthorized person or entity. Customer shall be responsible for all acts or omissions taken under Customer’s or its Users’ access credentials. Amplitude assumes no responsibility or liability for violations by Users.
+
+2.2 – License Restrictions
+
+Customer and its Users will not (and will not allow any third party to) directly or indirectly: (a) use the Amplitude Services to submit, process, store or transmit Customer Data in violation of any applicable laws, regulations, privacy policies, or agreements Customer may maintain or enter with its end users; (b) transmit or provide to the Amplitude Services any Customer Data that includes the following Personal Data (as defined in the DPA): health information, biometric or genetic data; social security numbers (or other local equivalent); driver’s license numbers; birth dates; financial account information, including debit or credit card information, personal bank account numbers, and card verification values; passport, government-issued ID or visa numbers; passwords or other authentication credentials; or any other sensitive Personal Data; (c) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object code or underlying structure, ideas or algorithms of the Amplitude Services (or any underlying software, documentation or data related to the Amplitude Services); (d) modify, translate, or create derivative works from Amplitude Services or any underlying software; (e) copy, rent, lease, distribute, pledge, assign, or otherwise transfer or encumber rights to the Amplitude Services or any underlying software; (f) use the Amplitude Services or any underlying software for the benefit of a third party or on a third-party website, in violation of any applicable laws or regulations or outside the scope expressly permitted in these Terms; (g) attempt to probe, scan or test the vulnerability of the Amplitude Services, breach the security or authentication measures of the Amplitude Services without proper authorization or willfully render any part of the Amplitude Services unusable; (h) use or access the Amplitude Services to either develop or commercialize a product or service that is competitive with or a substitute for the Amplitude Services or to engage in competitive analysis or benchmarking; or (i) store or transmit malicious code through the Amplitude Services (all of the foregoing, collectively, the “License Restrictions”).
+
+2.3 – Customer Responsibilities
+
+Customer shall be responsible for: (a) Customer and its Users’ compliance with these Terms, Documentation, and the AUP; (b) the legality, accuracy and quality of Customer Data, including ensuring that Customer’s collection and submission of data to, and use of the Amplitude Services to process, store and transmit Customer Data, is compliant with all applicable laws and regulations as well as any privacy policies, agreements or other obligations Customer may maintain or enter into with its end users, including to obtain all legally required consents and permissions; and (c) using commercially reasonable efforts to prevent the unauthorized access to or use of the Amplitude Services. In addition, in the event Amplitude is legally or contractually required to change or modify the Amplitude Services, then Customer shall be responsible for making all necessary changes to Customer’s applications and websites in order to continue using the Amplitude Services. Customer also maintains all responsibility for determining whether the Amplitude Services or the information generated thereby is accurate or sufficient for Customer’s purposes.
+
+2.4 – Third-Party Products
+
+Customer may, in its sole discretion, procure and use Third-Party Products in connection with the Amplitude Services. Any acquisition and use by Customer of such Third-Party Products is solely the responsibility of Customer and the applicable Third-Party Product provider. Customer is responsible for complying with all terms, conditions and policies imposed by a provider of a Third-Party Product. If Customer chooses to use Third-Party Products, Customer acknowledges that the interoperation of the Third-Party Products and the Amplitude Services may require the exchange of Customer Data, and Customer hereby grants Amplitude permission to allow the Third-Party Product and its provider to access, transmit, modify, or delete any such Customer Data as required for such interoperation. Amplitude shall not be responsible for any use, disclosure, modification, or deletion of such Customer Data or for any act or omission on the part of the Third-Party Products or its provider. Amplitude cannot guarantee the continued availability of integrations of Third-Party Products with the Amplitude Services and may cease providing interoperation with a Third-Party Product at any time and for any reason. Providers of Third-Party Products shall not be considered subcontractors or Sub-processors of Amplitude as defined in the DPA.
+3. PROPRIETARY RIGHTS
+
+3.1 – Reservation of Rights
+
+As between Customer and Amplitude, Amplitude owns and retains all right, title and interest in and to the Amplitude Services, Beta Services, Documentation, and all improvements, enhancements or modifications to the foregoing, and anything developed and delivered under these Terms, including System Data.
+
+3.2 – Access to Amplitude Services
+
+Amplitude hereby grants to Customer a non-exclusive, non-sublicensable, non-transferable, non-assignable right to access and use the Amplitude Services in accordance with these Terms. No rights are granted to Customer under these Terms except as expressly set forth herein.
+
+3.3 – Customer Data License
+
+As between Amplitude and Customer, Customer owns all right, title and interest in and to the Customer Data. Customer hereby grants Amplitude a non-exclusive, non-transferable, non-sublicensable, worldwide, royalty-free license to host, copy, use, transfer and process the Customer Data as necessary for Amplitude to provide the Amplitude Services and to support Customer under these Terms. Amplitude may use techniques such as machine learning in order to improve the Services, and Customer instructs Amplitude to process its Customer Data for such purpose; provided that no Customer Data will ever be shared with any other customer and any such use by Amplitude shall comply with applicable law. For the avoidance of doubt, Customer retains all ownership of its Customer Data submitted to the Services and Amplitude retains all ownership in and to all System Data and machine learning algorithms.
+
+3.4 – Feedback
+
+Customer may provide Feedback to Amplitude and Amplitude will have full discretion to determine whether or not to use the Feedback. Customer hereby grants Amplitude an irrevocable, perpetual, sublicensable, royalty-free license to use, incorporate and otherwise fully exercise and exploit any such Feedback without any obligation to compensate or reimburse Customer for the use of the Feedback.
+4. DATA PRIVACY AND PROTECTION OF PERSONAL DATA
+
+The parties agree that the provisions contained in the TOS DPA govern the processing of Personal Data in connection with these Terms. As set forth in the TOS DPA, Amplitude will maintain appropriate administrative, physical, and technical safeguards for protection of the security, confidentiality, and integrity of Personal Data submitted to the Amplitude Services as Customer Data, including measures designed to prevent unauthorized access to or use or disclosure of such Personal Data.
+5. CONFIDENTIALITY
+
+5.1 – Definition of Confidential Information
+
+“Confidential Information” means any information or data in any form or medium (whether oral, written, electronic, or otherwise) disclosed by either party that is marked or otherwise designated as confidential or proprietary at the time of disclosure or that should otherwise be reasonably understood to be confidential in light of the nature of the information and the circumstances surrounding its disclosure. Confidential Information of Amplitude includes, without limitation, pricing, the Amplitude Services and the Beta Services, including any Feedback. However, Confidential Information will not include any information which: (a) is in the public domain through no fault of the receiving party; (b) was properly known to the receiving party, without restriction, prior to disclosure by the disclosing party; (c) was properly disclosed to the receiving party, without restriction, by another person with the legal authority to do so; or (d) is independently developed by the receiving party without use of or reference to the disclosing party’s Confidential Information.
+
+5.2 – Protection of Confidential Information
+
+Each party agrees that it will use the Confidential Information of the other party solely in accordance with these Terms and it will not disclose, or permit to be disclosed, the same, directly or indirectly, to any third party without the other party’s prior written consent, except as otherwise permitted hereunder. However, either party may disclose Confidential Information: (a) to its employees, officers, directors, attorneys, auditors, financial advisors and other representatives who have a need to know and are legally bound to keep the Confidential Information confidential by obligations consistent with these Terms; and (b) as required by law (in which case the receiving party will, to the extent legally permitted, notify the disclosing party within a reasonable time prior to such access or disclosure so as to provide the disclosing party with the opportunity to contest such disclosure or otherwise seek appropriate protective measures, and will use reasonable efforts to minimize such disclosure to the extent permitted by applicable law). Each party agrees to safeguard the Confidential Information from unauthorized use, access, or disclosure using at least the degree of care it uses to protect its similarly sensitive information, and in no event less than a reasonable degree of care. In the event of actual or threatened breach of the provisions of this Section, the non-breaching party will be entitled to seek immediate injunctive and other equitable relief, without waiving any other rights or remedies available to it. Each party will promptly notify the other in writing if it becomes aware of any violations of the confidentiality obligations set forth in these Terms.
+6. TERMINATION
+
+6.1 – Termination
+
+Amplitude may terminate or suspend Customer’s access to the Amplitude Services, without prior notice or liability, at any time and for any reason. If Customer wishes to terminate its use of the Amplitude Services or its account, Customer may do so as follows: (a) for free trials or Starter Plans, contacting Amplitude via support.amplitude.com; (b) for Scholarship Programs, emailing scholarship@amplitude.com; and (c) for Plus plan subscriptions, in Customer's Stripe portal under the Plans and Billing page, by clicking Manage Billing and then Cancel. Additionally, and for the avoidance of doubt, if Amplitude detects any fraudulent, abusive, or irregular use of the Amplitude Services by Customer that materially impacts the volume of events submitted by Customer to the Amplitude Services, Amplitude may take reasonable and necessary action, including immediately suspending or terminating Customer’s access to the Amplitude Services.
+
+6.2 – Survival
+
+Upon expiration or termination of these Terms, all rights and obligations will immediately terminate except any sections of these Terms that by their nature should survive such termination will survive, including, but not limited to, the sections on License Restrictions, Confidentiality, Disclaimers, Indemnification, Limitations of Liability, Termination and the General Provisions below.
+
+6.3 – Destruction of Customer Data Upon Termination
+
+Subject to the TOS DPA, following termination Amplitude shall have no obligation to Customer with respect to the storage of Customer Data and may, in its sole discretion, permanently delete Customer Data.
+7. INDEMNIFICATION
+
+Customer will release, indemnify, defend and hold harmless Amplitude and its subsidiaries, Affiliates, agents, officers, directors, employees, shareholders and representatives of any of the foregoing entities, from and against any and all losses, liabilities, expenses, damages, costs (including attorneys’ fees and court costs), claims, demands, suits, proceedings, or other action of any kind whatsoever (“Claim”) arising or resulting from Customer’s use of the Amplitude Services or violation of these Terms. Amplitude shall have the right to participate in or assume the exclusive defense and control of any Claim with counsel selected by Amplitude at Amplitude’s own expense; in such case, Customer agrees to cooperate in the defense of the Claim. Notwithstanding any other provision of these Terms, Customer shall not enter into settlement of any Claim without the prior written consent of Amplitude.
+8. WARRANTY AND DISCLAIMER
+
+8.1 – Customer Representations and Warranties
+
+Customer represents, warrants and covenants to Amplitude that: (a) Customer will comply with all applicable laws in its use of the Amplitude Services; (b) Customer has validly agreed to these Terms and has no outstanding obligations to a third party that conflict with these Terms; (c) these Terms constitute a valid and legally binding obligation on Customer that is enforceable in accordance with these Terms; (d) Customer will comply with all anti-corruption legislation that applies to these Terms, including the US Foreign Corrupt Practices Act 1977 and the U.K. Bribery Act 2010, and has implemented rules and procedures that enable it to comply with applicable anti-corruption legislation and adapt to any future amendments thereto; and (e) Customer has obtained all legally required consents and permissions from its end users, and/or made all legally required disclosures to its end users, for the submission and/or processing of Customer Data.
+
+8.2 – Disclaimers
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AMPLITUDE PROVIDES THE AMPLITUDE SERVICES, THE AMPLITUDE SDKs AND APIs, AND BETA SERVICES ‘AS IS’ AND DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE OR MEET CUSTOMER’S REQUIREMENTS, NOR DOES IT MAKE ANY WARRANTY AS TO ANY THIRD-PARTY PRODUCTS OR THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE AMPLITUDE SERVICES. AMPLITUDE EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUALITY AND ACCURACY, DELAYS, DELIVERY FAILURES AND OTHER PROBLEMS INHERENT IN THE USE OF COMMUNICATIONS FACILITIES AND THE INTERNET, NON-INTERFERENCE WITH THE ENJOYMENT OF THE AMPLITUDE SERVICES OR THAT ANY INFORMATION PROVIDED THROUGH THE AMPLITUDE SERVICES IS ACCURATE OR COMPLETE OR THAT THE AMPLITUDE SERVICES WILL ALWAYS BE AVAILABLE. AMPLITUDE IS NOT RESPONSIBLE OR LIABLE FOR ANY LOST OR INACCURATE DATA. THE AMPLITUDE SERVICES OR BETA SERVICES MAY CONTAIN BUGS, ERRORS, DEFECTS, OR HARMFUL COMPONENTS.
+9. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL AMPLITUDE OR ITS AFFILIATES BE RESPONSIBLE OR LIABLE TO CUSTOMER FOR ANY LOSS OF PROFITS OR REVENUE, LOSS OF GOODWILL OR REPUTATIONAL HARM, LOSS OR INACCURACY OR CORRUPTION OF DATA, INTERRUPTION OF BUSINESS, THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR ANY INDIRECT, EXEMPLARY, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES OF ANY KIND,REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF INFORMED OF SUCH DAMAGES IN ADVANCE.
+
+AMPLITUDE’S MAXIMUM AGGREGATE LIABILITY FOR ANY AND ALL CLAIMS AND DAMAGES ARISING OUT OF OR RELATED TO THESE TERMS, WHETHER ARISING IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, STATUTE OR OTHERWISE, SHALL NOT EXCEED $1,000. THIS LIMITATION OF LIABILITY IS EXCLUSIVE AS TO ALL REMEDIES AND THE LIABILITY CAP SHALL NOT BE COMBINED WITH ANY OTHER LIMITS OF LIABILITY SO AS TO INCREASE THE CAP VALUE IN ANY INSTANCE OR SERIES OF INSTANCES. IF APPLICABLE LAW LIMITS THE APPLICATION OF THE PROVISIONS OF THIS SECTION, AMPLITUDE’S LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMISSIBLE.
+10. GOVERNING LAW; BINDING ARBITRATION AND CLASS ACTION WAIVER
+
+PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+10.1 – Governing Law
+
+These Terms shall be governed by the laws of the State of California without regard to its conflict of laws provisions.
+
+10.2 – Initial Dispute Resolution
+
+Customer agrees that before taking any formal legal action under these Terms, Customer shall provide written notice to Amplitude of the specific issue(s) in dispute, including reference to the relevant provision(s) of the Terms which are allegedly being breached. Within thirty (30) days after such notice, representatives of each of the parties shall hold at least one meeting (in person or by video- or tele-conference) for the purpose of attempting, in good faith, to resolve the dispute.
+
+10.3 – Binding Arbitration
+
+If the parties do not reach an agreed-upon solution within a period of 30 days from the time informal dispute resolution begins under the Initial Dispute Resolution provision set forth in Section 10.2, then either party may initiate binding arbitration as the sole means to resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to these Terms (including their formation, performance, and breach), the parties’ relationship with each other and/or Customer’s use of the Amplitude Services shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Streamlined Arbitration and Procedures, excluding any rules or procedures governing or permitting class or representative actions.
+
+Except as set forth in Section 10.6, the arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of these Terms, including, but not limited to any claim that all or any part of these Terms are void or voidable, whether a claim is subject to arbitration, and any dispute regarding the payment of JAMS administrative or arbitrator fees (including the timing of such payments and remedies for nonpayment). The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The parties agree that the arbitrator may allow the filing of dispositive motions if they are likely to efficiently resolve or narrow issues in dispute. The arbitrator’s award shall be in writing and binding on the parties and may be entered as a judgment in any court of competent jurisdiction. No arbitration award or decision will have any preclusive effect as to issues or claims in any dispute with anyone who is not a named party to the arbitration.
+
+The Streamlined Arbitration Rules governing the arbitration may be accessed at www.jamsadr.com or by calling JAMS at (800) 352-5267. The party initiating arbitration is responsible for paying the costs of filing, and the arbitrator’s fees will be shared equally between the parties. Customer is responsible for its own attorneys’ fees unless the arbitration rules and/or applicable law provide otherwise.
+
+Any arbitration demand or counterclaim asserted by either party must contain sufficient information to provide fair notice to the other party of the asserting party’s identity, the claims being asserted, and the factual allegations on which they are based, and the arbitrator and/or JAMS may require amendment of any demand or counterclaim that does not satisfy these requirements. The arbitrator has the right to impose sanctions in accordance with JAMS Rule 24 for any claims the arbitrator determines to be frivolous or improper (under the standard set forth in Federal Rule of Civil Procedure 11).
+
+The parties agree that JAMS has discretion to modify the amount or timing of any administrative or arbitration fees due under JAMS’s Rules where it deems appropriate, provided that such modification does not increase the costs to Customer, and Customer waives any objection to such fee modification. The parties also agree that a good-faith challenge by either party to the fees imposed by JAMS does not constitute a default, waiver, or breach of this Section 10 while such challenge remains pending before JAMS, the arbitrator, and/or a court of competent jurisdiction.
+
+The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+10.4 – Location
+
+Arbitration shall take place in San Francisco, California, or another location mutually agreed to by the parties.
+
+10.5 – Class Action Waiver
+
+The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. CUSTOMER AND AMPLITUDE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If there is a final judicial determination that applicable law precludes enforcement of this Section’s limitations as to a particular remedy, then that remedy (and only that remedy) must be severed from the arbitration and may be sought in court. The parties agree, however, that any adjudication of remedies not subject to arbitration shall be stayed pending the outcome of any arbitrable claims and remedies.
+
+10.6 – Exception: Litigation of Intellectual Property and Small Claims Court Claims
+
+Notwithstanding the parties’ decision to resolve all disputes through arbitration, either party may bring an action in state or federal court to protect its intellectual property rights (where "intellectual property rights" means patents, copyrights, moral rights, trademarks, and trade secrets, but not privacy or publicity rights). Either party may also elect to have disputes or claims resolved in a small claims court for claims within the scope of that court’s jurisdiction. Either party may also seek a declaratory judgment or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court in Customer’s state and county of residence. Seeking such relief shall not waive a party’s right to arbitration under these Terms.
+
+10.7 – 30 Day Right to Opt-Out
+
+Customer has the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of its decision to opt-out to the following address: Amplitude, Inc., 201 Third Street, Suite 200, San Francisco, CA 94103, Attn: Legal or legalnotices@amplitude.com. The notice must be sent within 30 days of Customer’s assent to these Terms; otherwise, Customer shall be bound to arbitrate disputes in accordance with the terms of this Section. If Customer opts-out of these arbitration provisions, Amplitude also will not be bound by them.
+
+10.8 – Changes to this Section
+
+Amplitude will provide 30 days’ notice of any changes to this Section 10; changes will become effective on the 30th day. If Customer continues to use the Amplitude Services after the 30th day, it agrees that any unfiled claims of which Amplitude does not have actual notice are subject to the revised clause.
+
+For any dispute not subject to arbitration, Customer and Amplitude agree to submit to the personal and exclusive jurisdiction of and venue in the federal and state courts located in San Francisco, California. Customer further agrees to accept service of process by mail, and hereby waives any and all jurisdictional and venue defenses otherwise available.
+11. GENERAL PROVISIONS
+
+11.1 – Waiver; Entire Agreement; Conflicts
+
+No failure or delay by Amplitude in exercising any right under these Terms will constitute a waiver of that right. Both parties agree that these Terms, along with any terms that apply to the Beta Services, Starter Program, Scholarship Programs, the Plus plan, and/or a free trial (as applicable) through which Customer is using the Amplitude Services, are the complete and exclusive statement of the mutual understanding of the parties and supersede and cancel all previous written and oral agreements, communications and other understandings relating to the subject matter of these Terms.
+
+11.2 – Severability
+
+In the event that any part or provision of these Terms is declared fully or partially invalid, unlawful or unenforceable by a court of competent jurisdiction, the remainder of the part or provision and the Terms will remain in full force and effect, if the essential terms and conditions of these Terms for each party remain valid, binding and enforceable.
+
+11.3 – Assignment
+
+Customer may not assign these Terms without Amplitude’s prior written consent. These Terms are binding upon, and inure to the benefit of the parties and their respective successors and assigns.
+
+11.4 – Independent Contractors
+
+The parties to these Terms are independent contractors and these Terms do not create an agency, partnership, joint venture, employment, franchise, or agency relationship. Neither party has the power to bind the other or incur obligations on the other party’s behalf without the other party’s prior written consent.
+
+11.5 – Notices
+
+Any notice under these Terms must be given in writing. Amplitude may provide notice to Customer through the Customer’s account or in-product notifications (as applicable). Customer agrees that any electronic communication will satisfy any applicable legal communication requirements, including that such communications be in writing. Notices to Amplitude must be sent to the following address: Amplitude, Inc., 201 Third Street, Suite 200, San Francisco, CA 94103, Attn: Legal and legalnotices@amplitude.com.
+
+11.6 – Marketing Rights
+
+By using the Amplitude Services, Customer gives Amplitude the right to use Customer’s company name and logo in any Amplitude marketing materials, and agrees to participate in a case study that may be published on Amplitude’s website and/or in any marketing materials.
+
+11.7 – Export Restrictions
+
+Customer must not access or use the Amplitude Services: (i) in or relating to any country or territory that is the subject or target of comprehensive trade or economic sanctions imposed by the U.S. government (“Sanctions”) (currently, Cuba, Iran, North Korea, Syria, the Crimea region of Ukraine, the so-called Donetsk People’s Republic, and the so-called Luhansk People’s Republic); (ii) for the benefit or on behalf of any person listed in any Sanctions-related list of designated persons maintained by the Office of Foreign Assets Control of the U.S. Department of the Treasury (“OFAC”) or the U.S. Department of State (including OFAC’ s List of Specially Designated Nationals and Blocked Persons), or any person owned 50 percent or more by such person; or (iii) otherwise in violation of any U.S. Sanction, embargo, prohibition or restriction. In addition, Customer must comply with all applicable laws and regulations governing the export, re-export and transfer of the Amplitude Services and Customer is responsible for obtaining any required export or import authorizations.
+
+11.8 – Force Majeure
+
+Neither party will be liable to the other for any delay or failure to perform any obligation under these Terms (except for a failure to pay fees, if applicable) if the delay or failure is due to events which are beyond the reasonable control of such party, such as a strike, blockade, war, act of terrorism, pandemic, riot, natural disaster, failure or diminishment of power or telecommunications or data networks or services, or refusal of a license by a government agency.
