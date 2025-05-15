@@ -1,14 +1,33 @@
 import pickle
+import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 with open('data/company_embeddings/embeddings.pkl', 'rb') as f:
     embeddings = pickle.load(f)
 
-activtrak_embedding = embeddings["activtrak.txt"]
+df = pd.read_csv('data/terms_of_service.csv')
+companies = df['Company'].tolist()
 
-similarity = cosine_similarity(
-    embeddings["activtrak.txt"].reshape(1, -1),
-    embeddings["openai.txt"].reshape(1, -1)
-)[0][0]
+valid_companies = []
+embedding_matrix = []
 
-print(f"Similarity between ActivTrak and Aircall: {similarity:.4f}")
+for company in companies:
+    filename = f"{company.lower().replace(' ', '')}.txt"
+    if filename in embeddings:
+        valid_companies.append(company)
+        embedding_matrix.append(embeddings[filename])
+
+embedding_matrix = np.array(embedding_matrix)
+
+similarity_matrix = cosine_similarity(embedding_matrix)
+
+similarity_df = pd.DataFrame(
+    similarity_matrix,
+    index=valid_companies,
+    columns=valid_companies
+)
+
+print(similarity_df)
+
+similarity_df.to_csv('data/company_similarity_matrix.csv')
