@@ -6,10 +6,27 @@ from tqdm import tqdm
 import re
 import pickle
 
-def preprocess_text(text):
+def preprocess_text(text, company_name=None):
     """Basic text cleaning"""
     text = re.sub(r'[^\w\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
+    text = re.sub(r'\b[\w\.-]+@[\w\.-]+\.\w+\b', ' ', text)     # Remove emails
+    text = re.sub(r'http[s]?://\S+|www\.\S+', ' ', text)        # Remove URLs
+    text = re.sub(r'\b(?:p\.?\s?o\.?\s?box|suite|floor|building|road|avenue|st\.?|street|zip|zipcode|city|state|country)\b[\w\s,.]*', ' ', text)     # Remove physical addresses and PO boxes (very roughly)
+    text = re.sub(r'\+?\d[\d\s\-\(\)]{7,}\d', ' ', text)        # Remove phone numbers
+    text = re.sub(r'\b\d+(\.\d+)*[.)]?', ' ', text)             # handles "13.", "13.1", "1.1.1", etc.
+    text = re.sub(r'\b[a-z]\)|[a-z][.)]', ' ', text)            # handles "a)", "b.", etc.
+
+    if company_name:
+        base = re.escape(company_name.lower())
+        variants = [
+            base,
+            base.replace('-', ' '),
+            base.replace(' ', ''),
+            base.replace('.', ' ')
+        ]
+        for variant in variants:
+            text = re.sub(r'\b' + variant + r'\b', ' ', text)
     return text
 
 def generate_embeddings(data_dir, output_dir):
@@ -45,7 +62,8 @@ def generate_embeddings(data_dir, output_dir):
     
     for filename in tqdm(file_list, desc="Generating embeddings"):
         with open(os.path.join(data_dir, filename), 'r', encoding='utf-8') as f:
-            text = preprocess_text(f.read())
+            company_name = filename.replace('.txt', '').lower()
+            text = preprocess_text(f.read(), company_name=company_name)
             if text:
                 batch_texts.append(text)
                 batch_names.append(filename)
@@ -62,7 +80,7 @@ def generate_embeddings(data_dir, output_dir):
         for emb, name in zip(batch_embeddings, batch_names):
             embeddings[name] = emb.numpy()
 
-    with open(os.path.join(output_dir, 'embeddings.pkl'), 'wb') as f:
+    with open(os.path.join(output_dir, 'embeddings_cleaned.pkl'), 'wb') as f:
         pickle.dump(embeddings, f)
     
     return embeddings
@@ -73,7 +91,7 @@ def save_similarity_matrix(filenames, matrix, output_path):
 
 def main():
     data_dir = "data/companies/"
-    output_dir = "company_embeddings/"
+    output_dir = "data/company_embeddings/"
     
     generate_embeddings(data_dir, output_dir)
 
