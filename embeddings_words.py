@@ -5,29 +5,7 @@ import numpy as np
 from tqdm import tqdm
 import re
 import pickle
-
-def preprocess_text(text, company_name=None):
-    """Basic text cleaning"""
-    text = re.sub(r'[^\w\s]', ' ', text)
-    text = re.sub(r'\s+', ' ', text).strip()
-    text = re.sub(r'\b[\w\.-]+@[\w\.-]+\.\w+\b', ' ', text)     # Remove emails
-    text = re.sub(r'http[s]?://\S+|www\.\S+', ' ', text)        # Remove URLs
-    text = re.sub(r'\b(?:p\.?\s?o\.?\s?box|suite|floor|building|road|avenue|st\.?|street|zip|zipcode|city|state|country)\b[\w\s,.]*', ' ', text)     # Remove physical addresses and PO boxes (very roughly)
-    text = re.sub(r'\+?\d[\d\s\-\(\)]{7,}\d', ' ', text)        # Remove phone numbers
-    text = re.sub(r'\b\d+(\.\d+)*[.)]?', ' ', text)             # handles "13.", "13.1", "1.1.1", etc.
-    text = re.sub(r'\b[a-z]\)|[a-z][.)]', ' ', text)            # handles "a)", "b.", etc.
-
-    if company_name:
-        base = re.escape(company_name.lower())
-        variants = [
-            base,
-            base.replace('-', ' '),
-            base.replace(' ', ''),
-            base.replace('.', ' ')
-        ]
-        for variant in variants:
-            text = re.sub(r'\b' + variant + r'\b', ' ', text)
-    return text
+from clean_text import preprocess_text
 
 def generate_embeddings(data_dir, output_dir):
     """Generate and save BERT embeddings for all documents"""
