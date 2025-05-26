@@ -1,0 +1,18 @@
+[project]
+name = "law-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gensim>=4.3.3",
+    "ipykernel>=6.29.5",
+    "ipython>=9.2.0",
+    "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
+    "numpy>=1.26.4",
+    "pandas>=2.2.3",
+    "pyldavis>=3.4.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
